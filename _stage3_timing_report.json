@@ -1,0 +1,4107 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 680.8158,
+  "average_page_seconds": 3.2266,
+  "phase_totals_seconds": {
+    "internal_links": 344.0437,
+    "media_svg": 161.1672,
+    "content_assembly": 105.9915,
+    "monetization": 41.2967,
+    "youtube": 10.9194,
+    "quality_write": 10.007,
+    "content_cleanup_final": 6.1433,
+    "preparation": 1.1119,
+    "content_cleanup_initial": 0.1354
+  },
+  "slowest_pages": [
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5254,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.953,
+        "content_cleanup_final": 0.0458,
+        "media_svg": 0.2652,
+        "youtube": 2.4543,
+        "content_assembly": 0.6973,
+        "monetization": 1.0414,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2586,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6022,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.2879,
+        "youtube": 2.9809,
+        "content_assembly": 0.9921,
+        "monetization": 1.2821,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6927,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.2881,
+        "content_cleanup_final": 0.0565,
+        "media_svg": 0.4649,
+        "youtube": 2.2682,
+        "content_assembly": 0.6041,
+        "monetization": 0.9432,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_witness_dummy_matche_9b78b5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4844,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6676,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 1.1146,
+        "youtube": 0.0168,
+        "content_assembly": 0.4381,
+        "monetization": 3.1725,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2199,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4875,
+        "content_cleanup_final": 0.0263,
+        "media_svg": 3.1068,
+        "youtube": 0.0209,
+        "content_assembly": 0.4667,
+        "monetization": 0.0683,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0482,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5923,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.0855,
+        "youtube": 0.0154,
+        "content_assembly": 0.5338,
+        "monetization": 2.6967,
+        "quality_write": 0.0701
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9796,
+      "phases": {
+        "preparation": 0.0012,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.5716,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.1696,
+        "youtube": 0.0224,
+        "content_assembly": 0.6811,
+        "monetization": 2.3748,
+        "quality_write": 0.1198
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_project_mogul_record_348d24",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8588,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4218,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.9192,
+        "youtube": 0.0159,
+        "content_assembly": 0.4974,
+        "monetization": 1.9303,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_air_force_recordkeep_d82858",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7424,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5465,
+        "content_cleanup_final": 0.0418,
+        "media_svg": 0.9497,
+        "youtube": 0.0122,
+        "content_assembly": 0.5188,
+        "monetization": 1.6372,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_johnson_magdalena_re_a23474",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7313,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5952,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.9824,
+        "youtube": 0.0267,
+        "content_assembly": 0.5539,
+        "monetization": 1.501,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_provenanc_6a4837",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7105,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7583,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.9533,
+        "youtube": 0.0105,
+        "content_assembly": 0.6005,
+        "monetization": 1.279,
+        "quality_write": 0.0742
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_estes_9000dpi_scan_4d2c94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4856,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4913,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.88,
+        "youtube": 0.0157,
+        "content_assembly": 0.4502,
+        "monetization": 1.5695,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2379,
+      "phases": {
+        "preparation": 0.0468,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8334,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.1421,
+        "youtube": 0.0121,
+        "content_assembly": 0.5474,
+        "monetization": 1.52,
+        "quality_write": 0.0975
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1646,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6213,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.3678,
+        "youtube": 0.019,
+        "content_assembly": 0.5428,
+        "monetization": 1.5211,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0745,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.769,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.1407,
+        "youtube": 0.0179,
+        "content_assembly": 0.5558,
+        "monetization": 1.4908,
+        "quality_write": 0.0671
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_ela_meaningless_mark_c9e0a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9719,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.0702,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 1.0808,
+        "youtube": 0.018,
+        "content_assembly": 0.6512,
+        "monetization": 0.0825,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.97,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6685,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.9266,
+        "youtube": 0.0134,
+        "content_assembly": 0.427,
+        "monetization": 0.8647,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_dummy_drops_body_cla_b604c6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9081,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5277,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.9462,
+        "youtube": 0.0175,
+        "content_assembly": 0.4893,
+        "monetization": 0.8578,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8455,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.9924,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 1.0262,
+        "youtube": 0.0154,
+        "content_assembly": 0.6715,
+        "monetization": 0.0761,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_air_force_photo_comp_6c5e73",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7855,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5875,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.8816,
+        "youtube": 0.0207,
+        "content_assembly": 0.4439,
+        "monetization": 0.7873,
+        "quality_write": 0.041
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2586,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6022,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.2879,
+        "youtube": 2.9809,
+        "content_assembly": 0.9921,
+        "monetization": 1.2821,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4001,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.3029,
+        "content_cleanup_final": 0.0302,
+        "media_svg": 0.2025,
+        "youtube": 0.0152,
+        "content_assembly": 0.6861,
+        "monetization": 0.0927,
+        "quality_write": 0.0694
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5254,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.953,
+        "content_cleanup_final": 0.0458,
+        "media_svg": 0.2652,
+        "youtube": 2.4543,
+        "content_assembly": 0.6973,
+        "monetization": 1.0414,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0242,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.08,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 0.1685,
+        "youtube": 0.0134,
+        "content_assembly": 0.5752,
+        "monetization": 0.0815,
+        "quality_write": 0.0637
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1348,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.0276,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.3634,
+        "youtube": 0.0124,
+        "content_assembly": 0.559,
+        "monetization": 0.0837,
+        "quality_write": 0.0589
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6927,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.2881,
+        "content_cleanup_final": 0.0565,
+        "media_svg": 0.4649,
+        "youtube": 2.2682,
+        "content_assembly": 0.6041,
+        "monetization": 0.9432,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9902,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8889,
+        "content_cleanup_final": 0.0449,
+        "media_svg": 0.1992,
+        "youtube": 0.0232,
+        "content_assembly": 0.6657,
+        "monetization": 0.1097,
+        "quality_write": 0.0575
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9224,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.9066,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.2058,
+        "youtube": 0.0104,
+        "content_assembly": 0.6259,
+        "monetization": 0.0885,
+        "quality_write": 0.0604
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1107,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.908,
+        "content_cleanup_final": 0.0467,
+        "media_svg": 0.3605,
+        "youtube": 0.0101,
+        "content_assembly": 0.6601,
+        "monetization": 0.0589,
+        "quality_write": 0.0656
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4455,
+      "phases": {
+        "preparation": 0.0331,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5126,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.0866,
+        "youtube": 0.0151,
+        "content_assembly": 0.6586,
+        "monetization": 0.0533,
+        "quality_write": 0.0627
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5332,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5201,
+        "content_cleanup_final": 0.0334,
+        "media_svg": 0.2345,
+        "youtube": 0.018,
+        "content_assembly": 0.5642,
+        "monetization": 0.0881,
+        "quality_write": 0.074
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7204,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5665,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.4173,
+        "youtube": 0.0115,
+        "content_assembly": 0.5345,
+        "monetization": 0.1042,
+        "quality_write": 0.0591
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8713,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7818,
+        "content_cleanup_final": 0.0463,
+        "media_svg": 0.3287,
+        "youtube": 0.0148,
+        "content_assembly": 0.5604,
+        "monetization": 0.0767,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6653,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7168,
+        "content_cleanup_final": 0.0319,
+        "media_svg": 0.1538,
+        "youtube": 0.0155,
+        "content_assembly": 0.58,
+        "monetization": 0.1086,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8867,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7489,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 0.3328,
+        "youtube": 0.0143,
+        "content_assembly": 0.6026,
+        "monetization": 0.0826,
+        "quality_write": 0.0678
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7608,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.6367,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.3279,
+        "youtube": 0.0121,
+        "content_assembly": 0.615,
+        "monetization": 0.0761,
+        "quality_write": 0.063
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6534,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6184,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.1588,
+        "youtube": 0.024,
+        "content_assembly": 0.6681,
+        "monetization": 0.0856,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.641,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6609,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.096,
+        "youtube": 0.0113,
+        "content_assembly": 0.6579,
+        "monetization": 0.0747,
+        "quality_write": 0.0872
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9065,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7626,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.385,
+        "youtube": 0.0145,
+        "content_assembly": 0.5728,
+        "monetization": 0.0891,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9721,
+      "phases": {
+        "preparation": 0.0433,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.8166,
+        "content_cleanup_final": 0.0465,
+        "media_svg": 0.2012,
+        "youtube": 0.0229,
+        "content_assembly": 0.6596,
+        "monetization": 0.0758,
+        "quality_write": 0.1051
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9569,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.8516,
+        "content_cleanup_final": 0.0442,
+        "media_svg": 0.1644,
+        "youtube": 0.015,
+        "content_assembly": 0.6442,
+        "monetization": 0.1713,
+        "quality_write": 0.0649
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7699,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.8463,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.149,
+        "youtube": 0.0138,
+        "content_assembly": 0.5919,
+        "monetization": 0.0863,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7123,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.818,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.1614,
+        "youtube": 0.0136,
+        "content_assembly": 0.5578,
+        "monetization": 0.0727,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2379,
+      "phases": {
+        "preparation": 0.0468,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8334,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.1421,
+        "youtube": 0.0121,
+        "content_assembly": 0.5474,
+        "monetization": 1.52,
+        "quality_write": 0.0975
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3981,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5668,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.1012,
+        "youtube": 0.0212,
+        "content_assembly": 0.5581,
+        "monetization": 0.0492,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7675,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6691,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 0.2827,
+        "youtube": 0.0122,
+        "content_assembly": 0.6007,
+        "monetization": 0.0967,
+        "quality_write": 0.0667
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7411,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6285,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.1371,
+        "youtube": 0.017,
+        "content_assembly": 0.5178,
+        "monetization": 0.3687,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9796,
+      "phases": {
+        "preparation": 0.0012,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.5716,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.1696,
+        "youtube": 0.0224,
+        "content_assembly": 0.6811,
+        "monetization": 2.3748,
+        "quality_write": 0.1198
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1646,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6213,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.3678,
+        "youtube": 0.019,
+        "content_assembly": 0.5428,
+        "monetization": 1.5211,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0745,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.769,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.1407,
+        "youtube": 0.0179,
+        "content_assembly": 0.5558,
+        "monetization": 1.4908,
+        "quality_write": 0.0671
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0979,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6235,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.8873,
+        "youtube": 0.0162,
+        "content_assembly": 0.3984,
+        "monetization": 0.0947,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0482,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5923,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.0855,
+        "youtube": 0.0154,
+        "content_assembly": 0.5338,
+        "monetization": 2.6967,
+        "quality_write": 0.0701
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_dummy_date_gap_14a900",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0641,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4671,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.8905,
+        "youtube": 0.0215,
+        "content_assembly": 0.5656,
+        "monetization": 0.0544,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_nyu_flight_4_66699f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0375,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.4115,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.8607,
+        "youtube": 0.0149,
+        "content_assembly": 0.5325,
+        "monetization": 0.1487,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_no_fbi_followup_3f02eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.226,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.6289,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.9248,
+        "youtube": 0.013,
+        "content_assembly": 0.4847,
+        "monetization": 0.1036,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_marks_vs_words_eab99f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1703,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5603,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.9609,
+        "youtube": 0.0157,
+        "content_assembly": 0.5017,
+        "monetization": 0.0644,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_air_force_recordkeep_d82858",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7424,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5465,
+        "content_cleanup_final": 0.0418,
+        "media_svg": 0.9497,
+        "youtube": 0.0122,
+        "content_assembly": 0.5188,
+        "monetization": 1.6372,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_two_1947_records_aac38e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9992,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5232,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.8627,
+        "youtube": 0.0119,
+        "content_assembly": 0.4378,
+        "monetization": 0.0789,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_raaf_missing_message_6d2790",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9827,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.494,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.9021,
+        "youtube": 0.0115,
+        "content_assembly": 0.4101,
+        "monetization": 0.0812,
+        "quality_write": 0.0551
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_schiff_roswell_audit_738960",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9457,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4832,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.872,
+        "youtube": 0.012,
+        "content_assembly": 0.4258,
+        "monetization": 0.0791,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_project_mogul_record_348d24",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8588,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4218,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.9192,
+        "youtube": 0.0159,
+        "content_assembly": 0.4974,
+        "monetization": 1.9303,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2214,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5208,
+        "content_cleanup_final": 0.0371,
+        "media_svg": 1.0008,
+        "youtube": 0.0151,
+        "content_assembly": 0.5304,
+        "monetization": 0.0784,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_debris_frame_1b3856",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2481,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5687,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.9707,
+        "youtube": 0.0147,
+        "content_assembly": 0.5328,
+        "monetization": 0.0766,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_remains_not_bodies_4566e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.184,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5976,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.9298,
+        "youtube": 0.0142,
+        "content_assembly": 0.4889,
+        "monetization": 0.0875,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_post_1978_testimony_2be425",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9926,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4271,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.8703,
+        "youtube": 0.0173,
+        "content_assembly": 0.5291,
+        "monetization": 0.0724,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0065,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4181,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.8897,
+        "youtube": 0.0186,
+        "content_assembly": 0.5251,
+        "monetization": 0.0783,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0504,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4919,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.9322,
+        "youtube": 0.0194,
+        "content_assembly": 0.4749,
+        "monetization": 0.0722,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_substitut_9e6e75",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1051,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4819,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.9214,
+        "youtube": 0.0195,
+        "content_assembly": 0.5498,
+        "monetization": 0.0733,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_irving_newton_balloo_5e9c8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1711,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5397,
+        "content_cleanup_final": 0.04,
+        "media_svg": 0.9152,
+        "youtube": 0.0119,
+        "content_assembly": 0.5464,
+        "monetization": 0.0762,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_nbc_normal_gad_430901",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1749,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5485,
+        "content_cleanup_final": 0.034,
+        "media_svg": 1.0162,
+        "youtube": 0.0259,
+        "content_assembly": 0.4362,
+        "monetization": 0.0787,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_disk_word_8c1b06",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0439,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5099,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.8718,
+        "youtube": 0.016,
+        "content_assembly": 0.5083,
+        "monetization": 0.0618,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_missing_1947_files_9f2d4a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1587,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5819,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.9634,
+        "youtube": 0.0122,
+        "content_assembly": 0.4502,
+        "monetization": 0.063,
+        "quality_write": 0.0533
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_estes_9000dpi_scan_4d2c94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4856,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4913,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.88,
+        "youtube": 0.0157,
+        "content_assembly": 0.4502,
+        "monetization": 1.5695,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_ramey_word_scoring_18dc5e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8932,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4341,
+        "content_cleanup_final": 0.0331,
+        "media_svg": 0.8599,
+        "youtube": 0.0119,
+        "content_assembly": 0.4424,
+        "monetization": 0.0765,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_case_closed_counter_b57ef0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2716,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6316,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 0.9143,
+        "youtube": 0.0112,
+        "content_assembly": 0.5496,
+        "monetization": 0.0795,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_story_stronger_than_87d7bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2172,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.495,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.9998,
+        "youtube": 0.0107,
+        "content_assembly": 0.53,
+        "monetization": 0.0887,
+        "quality_write": 0.0735
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_jesse_marcel_role_af3c3f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9808,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6704,
+        "content_cleanup_final": 0.0396,
+        "media_svg": 0.5795,
+        "youtube": 0.022,
+        "content_assembly": 0.5229,
+        "monetization": 0.0836,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_johnson_negatives_e426bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.933,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.9189,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 0.4008,
+        "youtube": 0.0154,
+        "content_assembly": 0.4389,
+        "monetization": 0.0568,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_official_95188b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2011,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6677,
+        "content_cleanup_final": 0.0272,
+        "media_svg": 0.9377,
+        "youtube": 0.0151,
+        "content_assembly": 0.4552,
+        "monetization": 0.0592,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_expectation_magdalen_2c0edb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9759,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4743,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.8959,
+        "youtube": 0.0137,
+        "content_assembly": 0.4558,
+        "monetization": 0.0703,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_magdalena_letter_fit_8baf94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0093,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6218,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.8222,
+        "youtube": 0.0122,
+        "content_assembly": 0.4013,
+        "monetization": 0.0833,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_johnson_magdalena_re_a23474",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7313,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5952,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.9824,
+        "youtube": 0.0267,
+        "content_assembly": 0.5539,
+        "monetization": 1.501,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_magdalena_second_sit_fbeaca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9957,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5205,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.8733,
+        "youtube": 0.0143,
+        "content_assembly": 0.4583,
+        "monetization": 0.072,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_official_records_mag_0c4000",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.14,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5445,
+        "content_cleanup_final": 0.0417,
+        "media_svg": 0.9022,
+        "youtube": 0.0125,
+        "content_assembly": 0.5296,
+        "monetization": 0.0695,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_ramey_claim_check_b0661d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5486,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.497,
+        "content_cleanup_final": 0.0523,
+        "media_svg": 0.4601,
+        "youtube": 0.016,
+        "content_assembly": 0.4244,
+        "monetization": 0.042,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_western_nm_magdalena_e57604",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3427,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6293,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 1.1003,
+        "youtube": 0.0135,
+        "content_assembly": 0.4498,
+        "monetization": 0.0741,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_body_stories_memo_re_c6c6eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0514,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4534,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.9407,
+        "youtube": 0.0113,
+        "content_assembly": 0.492,
+        "monetization": 0.0784,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9523,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4185,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.8922,
+        "youtube": 0.0151,
+        "content_assembly": 0.4962,
+        "monetization": 0.0679,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_gao_gaps_witness_rel_0dd4f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0525,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5131,
+        "content_cleanup_final": 0.032,
+        "media_svg": 0.9363,
+        "youtube": 0.0214,
+        "content_assembly": 0.4394,
+        "monetization": 0.0738,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_haut_changing_memory_34f3cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0935,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5081,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.9375,
+        "youtube": 0.0185,
+        "content_assembly": 0.4957,
+        "monetization": 0.0704,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_photos_vs_witness_me_8299e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2238,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.5486,
+        "content_cleanup_final": 0.0458,
+        "media_svg": 0.937,
+        "youtube": 0.0294,
+        "content_assembly": 0.5248,
+        "monetization": 0.0828,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0252,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.558,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.8711,
+        "youtube": 0.016,
+        "content_assembly": 0.4417,
+        "monetization": 0.0819,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_newswire_genre_uncer_a29cb9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2024,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.584,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.9927,
+        "youtube": 0.0113,
+        "content_assembly": 0.4811,
+        "monetization": 0.0698,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ordinary_words_no_bo_d34e54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1901,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6334,
+        "content_cleanup_final": 0.04,
+        "media_svg": 0.9489,
+        "youtube": 0.0172,
+        "content_assembly": 0.4354,
+        "monetization": 0.0748,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_proven_photo_unprove_3dca19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1484,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6352,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 0.9229,
+        "youtube": 0.0134,
+        "content_assembly": 0.4341,
+        "monetization": 0.0737,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ramey_memo_proof_bur_12f8ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0988,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4916,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.9002,
+        "youtube": 0.036,
+        "content_assembly": 0.5304,
+        "monetization": 0.0727,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_reader_convergence_t_7ff145",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1782,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.5943,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.9577,
+        "youtube": 0.0129,
+        "content_assembly": 0.4609,
+        "monetization": 0.0795,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_empirical_memo_test_8d8c3c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2123,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5856,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 1.0031,
+        "youtube": 0.0158,
+        "content_assembly": 0.4563,
+        "monetization": 0.0769,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_houran_randle_blind_fa7b2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0243,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5304,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.8487,
+        "youtube": 0.0174,
+        "content_assembly": 0.4802,
+        "monetization": 0.0816,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_hospital_body_accide_bcfdcc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1845,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5731,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 0.9729,
+        "youtube": 0.0162,
+        "content_assembly": 0.4735,
+        "monetization": 0.0788,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_dummy_drops_body_cla_b604c6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9081,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5277,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.9462,
+        "youtube": 0.0175,
+        "content_assembly": 0.4893,
+        "monetization": 0.8578,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_crash_story_proof_li_17abd0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3677,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7489,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 1.0051,
+        "youtube": 0.0117,
+        "content_assembly": 0.4811,
+        "monetization": 0.0603,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2199,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4875,
+        "content_cleanup_final": 0.0263,
+        "media_svg": 3.1068,
+        "youtube": 0.0209,
+        "content_assembly": 0.4667,
+        "monetization": 0.0683,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_witness_dummy_matche_9b78b5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4844,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6676,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 1.1146,
+        "youtube": 0.0168,
+        "content_assembly": 0.4381,
+        "monetization": 3.1725,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_johnson_1998_reconst_c248e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0556,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.371,
+        "content_cleanup_final": 0.0313,
+        "media_svg": 1.0412,
+        "youtube": 0.0144,
+        "content_assembly": 0.4955,
+        "monetization": 0.0642,
+        "quality_write": 0.0375
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_press_language_in_me_6f737a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3569,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4847,
+        "content_cleanup_final": 0.0365,
+        "media_svg": 1.1309,
+        "youtube": 0.013,
+        "content_assembly": 0.5592,
+        "monetization": 0.0916,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3496,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7141,
+        "content_cleanup_final": 0.0402,
+        "media_svg": 0.9768,
+        "youtube": 0.0091,
+        "content_assembly": 0.4888,
+        "monetization": 0.0767,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5679,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.7329,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 1.0275,
+        "youtube": 0.0124,
+        "content_assembly": 0.5666,
+        "monetization": 0.1435,
+        "quality_write": 0.0588
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_competing_fort_worth_75bae9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4733,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.652,
+        "content_cleanup_final": 0.021,
+        "media_svg": 1.0589,
+        "youtube": 0.0234,
+        "content_assembly": 0.5705,
+        "monetization": 0.0955,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_expectation_fort_wor_0e3925",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6559,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.9599,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 1.0286,
+        "youtube": 0.0112,
+        "content_assembly": 0.5174,
+        "monetization": 0.0687,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_calibrati_8c3769",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7267,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8662,
+        "content_cleanup_final": 0.0476,
+        "media_svg": 1.136,
+        "youtube": 0.0244,
+        "content_assembly": 0.5491,
+        "monetization": 0.056,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_claim_lim_e2daa0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5311,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8033,
+        "content_cleanup_final": 0.0396,
+        "media_svg": 1.0857,
+        "youtube": 0.0154,
+        "content_assembly": 0.495,
+        "monetization": 0.0536,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3384,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6389,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 1.1039,
+        "youtube": 0.0191,
+        "content_assembly": 0.4271,
+        "monetization": 0.0782,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_provenanc_6a4837",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7105,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7583,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.9533,
+        "youtube": 0.0105,
+        "content_assembly": 0.6005,
+        "monetization": 1.279,
+        "quality_write": 0.0742
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_using_houran_randle_8fef45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3607,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.693,
+        "content_cleanup_final": 0.0505,
+        "media_svg": 0.8842,
+        "youtube": 0.0207,
+        "content_assembly": 0.5071,
+        "monetization": 0.1402,
+        "quality_write": 0.0643
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_accidental_memo_fram_e6f38f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8613,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8517,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.4024,
+        "youtube": 0.0156,
+        "content_assembly": 0.4456,
+        "monetization": 0.0473,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_johnson_shifting_rec_e71436",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7794,
+      "phases": {
+        "preparation": 0.0354,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7021,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.3893,
+        "youtube": 0.0142,
+        "content_assembly": 0.5247,
+        "monetization": 0.0525,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_johnson_photo_sequen_c78a4b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8811,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7771,
+        "content_cleanup_final": 0.0411,
+        "media_svg": 0.4155,
+        "youtube": 0.0127,
+        "content_assembly": 0.4927,
+        "monetization": 0.0687,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_johnson_victims_read_cc2278",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5638,
+      "phases": {
+        "preparation": 0.0205,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5404,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.4089,
+        "youtube": 0.0143,
+        "content_assembly": 0.4396,
+        "monetization": 0.0539,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_news_wire_flash_clai_6989b5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5364,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4857,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.398,
+        "youtube": 0.0156,
+        "content_assembly": 0.4917,
+        "monetization": 0.0582,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_ramey_desk_prop_stor_282433",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.511,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4869,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.3802,
+        "youtube": 0.0222,
+        "content_assembly": 0.4718,
+        "monetization": 0.0645,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_debris_context_memo_ffcd7c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2746,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5915,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 1.0229,
+        "youtube": 0.0165,
+        "content_assembly": 0.4962,
+        "monetization": 0.0761,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_comparison_table_kir_82a7c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1495,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5935,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.9378,
+        "youtube": 0.014,
+        "content_assembly": 0.4612,
+        "monetization": 0.0791,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_fort_worth_stable_wo_87cac3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0986,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5505,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.9472,
+        "youtube": 0.011,
+        "content_assembly": 0.4332,
+        "monetization": 0.0872,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_blurry_marks_words_baff6d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7182,
+      "phases": {
+        "preparation": 0.0321,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.622,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.414,
+        "youtube": 0.0136,
+        "content_assembly": 0.5159,
+        "monetization": 0.0602,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_equipment_limi_2e19b1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1216,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4981,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.9493,
+        "youtube": 0.0125,
+        "content_assembly": 0.5056,
+        "monetization": 0.0964,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_suggestion_effects_k_70ff6d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.197,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.608,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.9454,
+        "youtube": 0.0105,
+        "content_assembly": 0.4662,
+        "monetization": 0.0904,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_july_8_press_event_fffa48",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0065,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.886,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.4298,
+        "youtube": 0.0145,
+        "content_assembly": 0.4704,
+        "monetization": 0.0847,
+        "quality_write": 0.0689
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_hi_res_scan_limits_1dbeb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1577,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.9728,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.407,
+        "youtube": 0.0161,
+        "content_assembly": 0.5464,
+        "monetization": 0.0915,
+        "quality_write": 0.0803
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_debris_match_69c834",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7278,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.9035,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 1.08,
+        "youtube": 0.0168,
+        "content_assembly": 0.5703,
+        "monetization": 0.0864,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_ela_meaningless_mark_c9e0a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9719,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.0702,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 1.0808,
+        "youtube": 0.018,
+        "content_assembly": 0.6512,
+        "monetization": 0.0825,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8455,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.9924,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 1.0262,
+        "youtube": 0.0154,
+        "content_assembly": 0.6715,
+        "monetization": 0.0761,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_fort_work_tex_readin_62f3ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6813,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.9103,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 1.086,
+        "youtube": 0.0116,
+        "content_assembly": 0.492,
+        "monetization": 0.1153,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_macro_camera_bottlen_7c25c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.34,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7978,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.8697,
+        "youtube": 0.0121,
+        "content_assembly": 0.506,
+        "monetization": 0.0855,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_transcriber_split_es_a52497",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4406,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8574,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.8643,
+        "youtube": 0.0167,
+        "content_assembly": 0.5437,
+        "monetization": 0.0748,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7778,
+      "phases": {
+        "preparation": 0.0313,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6773,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.4451,
+        "youtube": 0.0179,
+        "content_assembly": 0.4849,
+        "monetization": 0.0522,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_victims_word_stakes_534c06",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7137,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6679,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.4215,
+        "youtube": 0.0124,
+        "content_assembly": 0.4513,
+        "monetization": 0.0583,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_folded_memo_problem_bd0ce9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1332,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5959,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.9686,
+        "youtube": 0.0153,
+        "content_assembly": 0.4522,
+        "monetization": 0.0403,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_balloon_wording_stak_9f52eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1441,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6191,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.8742,
+        "youtube": 0.0179,
+        "content_assembly": 0.4711,
+        "monetization": 0.0811,
+        "quality_write": 0.0481
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_contemporary_records_ad48ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0157,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5308,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.8696,
+        "youtube": 0.0092,
+        "content_assembly": 0.4701,
+        "monetization": 0.0768,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_fort_worth_private_m_be6acb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0887,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5052,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.9347,
+        "youtube": 0.0205,
+        "content_assembly": 0.4531,
+        "monetization": 0.0844,
+        "quality_write": 0.0575
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_unresolved_memo_deba_510077",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0957,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4846,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.9799,
+        "youtube": 0.0104,
+        "content_assembly": 0.4727,
+        "monetization": 0.0843,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_confidence_blurred_p_0ca9a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1809,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5233,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.9958,
+        "youtube": 0.0176,
+        "content_assembly": 0.4964,
+        "monetization": 0.0719,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_known_text_photo_tes_9bdcc8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.074,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5171,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.9588,
+        "youtube": 0.0215,
+        "content_assembly": 0.4398,
+        "monetization": 0.0676,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_neutral_prompts_rame_b31565",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1339,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5065,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 1.0103,
+        "youtube": 0.0163,
+        "content_assembly": 0.444,
+        "monetization": 0.0743,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_stable_memo_fragment_4f7c95",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1672,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.544,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 1.0114,
+        "youtube": 0.0097,
+        "content_assembly": 0.4445,
+        "monetization": 0.0876,
+        "quality_write": 0.0533
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_expectation_effects_0f8df1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1524,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.551,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.957,
+        "youtube": 0.0143,
+        "content_assembly": 0.4923,
+        "monetization": 0.0765,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_gao_two_1947_records_aac38e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2008,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6291,
+        "content_cleanup_final": 0.0357,
+        "media_svg": 0.9626,
+        "youtube": 0.0156,
+        "content_assembly": 0.4521,
+        "monetization": 0.0705,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_hexagonal_disc_radar_2b1a17",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0973,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.5607,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.8547,
+        "youtube": 0.0133,
+        "content_assembly": 0.5055,
+        "monetization": 0.0858,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_readable_teletype_vs_49be86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1078,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5442,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.8695,
+        "youtube": 0.0186,
+        "content_assembly": 0.5246,
+        "monetization": 0.083,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_teletype_victims_cla_ee7ab9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0566,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5144,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.8893,
+        "youtube": 0.0128,
+        "content_assembly": 0.4821,
+        "monetization": 0.0833,
+        "quality_write": 0.0489
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_same_day_news_pivot_dcbafe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.645,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6098,
+        "content_cleanup_final": 0.0367,
+        "media_svg": 0.4159,
+        "youtube": 0.0144,
+        "content_assembly": 0.4255,
+        "monetization": 0.0605,
+        "quality_write": 0.0634
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_wright_field_provisi_eaf501",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1726,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6198,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.931,
+        "youtube": 0.0178,
+        "content_assembly": 0.4732,
+        "monetization": 0.0715,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_agreed_words_memo_bl_92b559",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1878,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6045,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 0.9557,
+        "youtube": 0.0198,
+        "content_assembly": 0.4603,
+        "monetization": 0.0749,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_suggested_stories_mo_ab9621",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0817,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4828,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.9664,
+        "youtube": 0.0134,
+        "content_assembly": 0.4806,
+        "monetization": 0.0716,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_test_materials_image_761924",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1113,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5044,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 1.0207,
+        "youtube": 0.0132,
+        "content_assembly": 0.4298,
+        "monetization": 0.0837,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1743,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5151,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.96,
+        "youtube": 0.0127,
+        "content_assembly": 0.5292,
+        "monetization": 0.0808,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_air_force_photo_comp_6c5e73",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7855,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5875,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.8816,
+        "youtube": 0.0207,
+        "content_assembly": 0.4439,
+        "monetization": 0.7873,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_fort_worth_ranch_deb_c99392",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9421,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5093,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.8464,
+        "youtube": 0.0148,
+        "content_assembly": 0.4089,
+        "monetization": 0.0916,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.97,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6685,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.9266,
+        "youtube": 0.0134,
+        "content_assembly": 0.427,
+        "monetization": 0.8647,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_marcel_memory_1947_r_4ad8f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4612,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7539,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.9911,
+        "youtube": 0.0235,
+        "content_assembly": 0.5369,
+        "monetization": 0.0718,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_fort_worth_fragment_46f118",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9831,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7948,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.4742,
+        "youtube": 0.023,
+        "content_assembly": 0.5264,
+        "monetization": 0.0772,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_marcel_real_or_stage_f50721",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.481,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6816,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 1.0984,
+        "youtube": 0.0275,
+        "content_assembly": 0.5064,
+        "monetization": 0.082,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_negative_legibility_a052e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7085,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7627,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.382,
+        "youtube": 0.0118,
+        "content_assembly": 0.4123,
+        "monetization": 0.0518,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_digital_enhancement_194d8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.319,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7415,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.9284,
+        "youtube": 0.0119,
+        "content_assembly": 0.5193,
+        "monetization": 0.0522,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_blind_reading_tests_eb0061",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.265,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7456,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.9033,
+        "youtube": 0.0103,
+        "content_assembly": 0.4518,
+        "monetization": 0.0787,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_partial_letters_ufo_b2280a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1531,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5887,
+        "content_cleanup_final": 0.0368,
+        "media_svg": 0.9099,
+        "youtube": 0.0176,
+        "content_assembly": 0.5063,
+        "monetization": 0.0531,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_roswell_prompt_bias_ef823a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0132,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.474,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.9869,
+        "youtube": 0.0135,
+        "content_assembly": 0.4262,
+        "monetization": 0.0504,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fbi_teletype_debris_3578c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1187,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5003,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.9811,
+        "youtube": 0.0112,
+        "content_assembly": 0.481,
+        "monetization": 0.0753,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_official_records_fra_6c6232",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5552,
+      "phases": {
+        "preparation": 0.0304,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5173,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 0.3817,
+        "youtube": 0.0185,
+        "content_assembly": 0.4881,
+        "monetization": 0.0442,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_line_by_line_52a921",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0983,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5506,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.9172,
+        "youtube": 0.0173,
+        "content_assembly": 0.4493,
+        "monetization": 0.0839,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_victims_proof_standa_584c01",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.503,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.5122,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.3792,
+        "youtube": 0.0122,
+        "content_assembly": 0.4607,
+        "monetization": 0.0524,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_victims_remains_disp_cfb76b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.677,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6557,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.395,
+        "youtube": 0.0114,
+        "content_assembly": 0.4739,
+        "monetization": 0.0574,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_of_weather_balloons_123540",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7088,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6384,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.4186,
+        "youtube": 0.0134,
+        "content_assembly": 0.5031,
+        "monetization": 0.0576,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.241,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6507,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.9472,
+        "youtube": 0.0107,
+        "content_assembly": 0.4683,
+        "monetization": 0.0847,
+        "quality_write": 0.0523
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.042,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4883,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.9045,
+        "youtube": 0.0137,
+        "content_assembly": 0.4854,
+        "monetization": 0.0869,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1455,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6107,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.9191,
+        "youtube": 0.019,
+        "content_assembly": 0.466,
+        "monetization": 0.0736,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_official_records_eme_863799",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1658,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5137,
+        "content_cleanup_final": 0.0418,
+        "media_svg": 0.9074,
+        "youtube": 0.0156,
+        "content_assembly": 0.541,
+        "monetization": 0.0927,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_fbi_teletype_balloon_6f0923",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6047,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5874,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.4295,
+        "youtube": 0.0169,
+        "content_assembly": 0.4478,
+        "monetization": 0.0473,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_powers_are_needed_re_1d3fcb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1349,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5763,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.973,
+        "youtube": 0.009,
+        "content_assembly": 0.4282,
+        "monetization": 0.0772,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_memo_photo_dis_33b8c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5661,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5278,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.4029,
+        "youtube": 0.0175,
+        "content_assembly": 0.4639,
+        "monetization": 0.0695,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_office_display_06852a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5619,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5689,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.3896,
+        "youtube": 0.0191,
+        "content_assembly": 0.4487,
+        "monetization": 0.049,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_expert_transcription_4438b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1221,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6052,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 0.8675,
+        "youtube": 0.0195,
+        "content_assembly": 0.4778,
+        "monetization": 0.075,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_houran_randle_reader_862555",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0544,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5569,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.8956,
+        "youtube": 0.0141,
+        "content_assembly": 0.4364,
+        "monetization": 0.0852,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_memo_claim_threshold_d2afa9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.186,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5968,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.981,
+        "youtube": 0.0107,
+        "content_assembly": 0.4487,
+        "monetization": 0.0815,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_russ_estes_imaging_l_bed7a5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1282,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5563,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.9007,
+        "youtube": 0.0186,
+        "content_assembly": 0.4968,
+        "monetization": 0.0868,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_shared_word_clusters_ed69a6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1686,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5694,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.9672,
+        "youtube": 0.0137,
+        "content_assembly": 0.5004,
+        "monetization": 0.0514,
+        "quality_write": 0.0493
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_suggestion_effects_m_1f39c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.23,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.688,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.9627,
+        "youtube": 0.0124,
+        "content_assembly": 0.4425,
+        "monetization": 0.0481,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_air_force_photo_test_b88d69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5166,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.5571,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.3811,
+        "youtube": 0.0124,
+        "content_assembly": 0.4285,
+        "monetization": 0.0517,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_competing_transcript_aeab95",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5168,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5144,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.4028,
+        "youtube": 0.0096,
+        "content_assembly": 0.4615,
+        "monetization": 0.0564,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_victims_wreck_phrase_4ffde9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5344,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6107,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.3779,
+        "youtube": 0.0128,
+        "content_assembly": 0.3981,
+        "monetization": 0.0534,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_fort_worth_photo_pow_04f34f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0659,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5419,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.8728,
+        "youtube": 0.0104,
+        "content_assembly": 0.5075,
+        "monetization": 0.0548,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_memo_ambiguity_myste_2bdf80",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0811,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5085,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.9144,
+        "youtube": 0.0162,
+        "content_assembly": 0.5186,
+        "monetization": 0.0619,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_mogul_explanation_te_3dc4ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3758,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6887,
+        "content_cleanup_final": 0.0489,
+        "media_svg": 0.8823,
+        "youtube": 0.0115,
+        "content_assembly": 0.6108,
+        "monetization": 0.0661,
+        "quality_write": 0.0668
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_phrase_readings_disp_140152",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5074,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5566,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 1.0846,
+        "youtube": 0.0246,
+        "content_assembly": 0.6662,
+        "monetization": 0.0944,
+        "quality_write": 0.053
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_suggestion_experimen_9cbcbd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5438,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5655,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 1.2021,
+        "youtube": 0.0161,
+        "content_assembly": 0.6075,
+        "monetization": 0.0876,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_april_2000_compariso_358691",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3425,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.7739,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.9155,
+        "youtube": 0.0152,
+        "content_assembly": 0.4777,
+        "monetization": 0.0886,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_fort_worth_morris_li_1e9306",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9904,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4569,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.9241,
+        "youtube": 0.016,
+        "content_assembly": 0.4597,
+        "monetization": 0.0761,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_advisory_narr_34a467",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0099,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4555,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.964,
+        "youtube": 0.0124,
+        "content_assembly": 0.4368,
+        "monetization": 0.0704,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0653,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5553,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.9032,
+        "youtube": 0.0129,
+        "content_assembly": 0.4552,
+        "monetization": 0.0788,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_notation_unce_63ced0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0463,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4852,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.9449,
+        "youtube": 0.0188,
+        "content_assembly": 0.4706,
+        "monetization": 0.0736,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_victims_shift_bcfba4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1414,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5589,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.9996,
+        "youtube": 0.0185,
+        "content_assembly": 0.4268,
+        "monetization": 0.0735,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6738,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6069,
+        "content_cleanup_final": 0.0404,
+        "media_svg": 0.4377,
+        "youtube": 0.0206,
+        "content_assembly": 0.449,
+        "monetization": 0.0491,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6009,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6198,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.3926,
+        "youtube": 0.0153,
+        "content_assembly": 0.4357,
+        "monetization": 0.0564,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_wire_catalog_authent_410adc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7043,
+      "phases": {
+        "preparation": 0.0349,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6493,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.3927,
+        "youtube": 0.0127,
+        "content_assembly": 0.5044,
+        "monetization": 0.048,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_atomic_prompt_experi_26d5ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0078,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5413,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.9117,
+        "youtube": 0.0112,
+        "content_assembly": 0.4093,
+        "monetization": 0.0656,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2681,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6258,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 0.9001,
+        "youtube": 0.0116,
+        "content_assembly": 0.5722,
+        "monetization": 0.0766,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_reader_convergence_t_7ff145",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0631,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5341,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.9142,
+        "youtube": 0.023,
+        "content_assembly": 0.4711,
+        "monetization": 0.0547,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_fbi_teletype_balloon_1dc33a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2584,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6846,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.9262,
+        "youtube": 0.0116,
+        "content_assembly": 0.4792,
+        "monetization": 0.0812,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0428,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5291,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.8826,
+        "youtube": 0.0221,
+        "content_assembly": 0.4677,
+        "monetization": 0.0678,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_new_mexico_mogul_set_b877b3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2426,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6427,
+        "content_cleanup_final": 0.0469,
+        "media_svg": 0.9149,
+        "youtube": 0.0156,
+        "content_assembly": 0.4614,
+        "monetization": 0.0911,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2218,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6107,
+        "content_cleanup_final": 0.0302,
+        "media_svg": 0.9304,
+        "youtube": 0.0125,
+        "content_assembly": 0.491,
+        "monetization": 0.0998,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fort_worth_floor_deb_a8ffe7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0871,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.5325,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.9219,
+        "youtube": 0.0175,
+        "content_assembly": 0.4789,
+        "monetization": 0.0673,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fort_worth_substitut_87ce62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1432,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5558,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.9576,
+        "youtube": 0.0137,
+        "content_assembly": 0.4673,
+        "monetization": 0.0764,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_mogul_reflectors_wea_905cf3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0904,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5951,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.8359,
+        "youtube": 0.0099,
+        "content_assembly": 0.4891,
+        "monetization": 0.0845,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_reflector_disc_shape_71ad7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0356,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5084,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.8708,
+        "youtube": 0.0126,
+        "content_assembly": 0.4865,
+        "monetization": 0.0716,
+        "quality_write": 0.053
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_roswell_material_clu_059786",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1603,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5632,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.9767,
+        "youtube": 0.0175,
+        "content_assembly": 0.462,
+        "monetization": 0.0747,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_balloon_cover_a64394",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0778,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5437,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.9706,
+        "youtube": 0.013,
+        "content_assembly": 0.4303,
+        "monetization": 0.0539,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_fort_worth_fo_2d83e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9834,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4905,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.9192,
+        "youtube": 0.0166,
+        "content_assembly": 0.4442,
+        "monetization": 0.051,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_smoking_gun_c_364fe6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2401,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5882,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.9444,
+        "youtube": 0.0129,
+        "content_assembly": 0.5127,
+        "monetization": 0.1011,
+        "quality_write": 0.0561
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_telegram_assu_ce4f78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2237,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6671,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.9496,
+        "youtube": 0.0117,
+        "content_assembly": 0.4567,
+        "monetization": 0.0761,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_actual_memo_discover_ebe7c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2277,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6767,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.9454,
+        "youtube": 0.0141,
+        "content_assembly": 0.4496,
+        "monetization": 0.0795,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_blind_reader_agreeme_adc999",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1125,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5378,
+        "content_cleanup_final": 0.0361,
+        "media_svg": 0.9362,
+        "youtube": 0.0123,
+        "content_assembly": 0.4457,
+        "monetization": 0.0978,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_competing_transcript_aeab95",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1251,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6277,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.889,
+        "youtube": 0.0203,
+        "content_assembly": 0.4616,
+        "monetization": 0.0491,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_official_records_con_ef5a85",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1086,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5497,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.9834,
+        "youtube": 0.0126,
+        "content_assembly": 0.4433,
+        "monetization": 0.0518,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2107,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.601,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.9405,
+        "youtube": 0.013,
+        "content_assembly": 0.4877,
+        "monetization": 0.0601,
+        "quality_write": 0.0799
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_ramey_2002_perceptio_92e9bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9558,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8478,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.4421,
+        "youtube": 0.0139,
+        "content_assembly": 0.4931,
+        "monetization": 0.0702,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_balloon_wording_pres_b62260",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1256,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.9517,
+        "content_cleanup_final": 0.045,
+        "media_svg": 0.4273,
+        "youtube": 0.0197,
+        "content_assembly": 0.5381,
+        "monetization": 0.0655,
+        "quality_write": 0.0592
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_skeptics_weather_bal_080f4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8568,
+      "phases": {
+        "preparation": 0.0406,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.777,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.4522,
+        "youtube": 0.0168,
+        "content_assembly": 0.4534,
+        "monetization": 0.0568,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_weather_balloons_sha_fec79d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4344,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4685,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.3699,
+        "youtube": 0.0089,
+        "content_assembly": 0.4388,
+        "monetization": 0.0508,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_weather_balloons_wou_a0a9c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.408,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4654,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3818,
+        "youtube": 0.0132,
+        "content_assembly": 0.4099,
+        "monetization": 0.0574,
+        "quality_write": 0.0342
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 237.8727,
+    "rebuilt_pages_per_minute": 53.2217,
+    "queued_rebuild_pages_per_minute": 53.2217,
+    "apparent_page_work_speedup": 2.8621,
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "27920": {
+          "pages": 70,
+          "successes": 70,
+          "failures": 0,
+          "total_worker_seconds": 232.749,
+          "max_worker_seconds": 7.3194,
+          "last_base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_skeptics_weather_bal_080f4c"
+        },
+        "12260": {
+          "pages": 70,
+          "successes": 70,
+          "failures": 0,
+          "total_worker_seconds": 231.1915,
+          "max_worker_seconds": 7.589,
+          "last_base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_weather_balloons_wou_a0a9c0"
+        },
+        "25792": {
+          "pages": 71,
+          "successes": 71,
+          "failures": 0,
+          "total_worker_seconds": 227.0174,
+          "max_worker_seconds": 6.7521,
+          "last_base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_weather_balloons_sha_fec79d"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1",
+          "level": 2,
+          "success": true,
+          "worker_pid": 12260,
+          "worker_duration_seconds": 7.589,
+          "total_seconds": 7.5254,
+          "worker_started_at_utc": "2026-06-28T09:55:03.518864Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:11.044348Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5",
+          "level": 1,
+          "success": true,
+          "worker_pid": 27920,
+          "worker_duration_seconds": 7.3194,
+          "total_seconds": 7.2586,
+          "worker_started_at_utc": "2026-06-28T09:55:00.311742Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:07.570449Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25792,
+          "worker_duration_seconds": 6.7521,
+          "total_seconds": 6.6927,
+          "worker_started_at_utc": "2026-06-28T09:55:07.609761Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:14.302600Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_witness_dummy_matche_9b78b5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12260,
+          "worker_duration_seconds": 6.5346,
+          "total_seconds": 6.4844,
+          "worker_started_at_utc": "2026-06-28T09:56:35.494568Z",
+          "worker_finished_at_utc": "2026-06-28T09:56:41.979010Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27920,
+          "worker_duration_seconds": 5.2601,
+          "total_seconds": 5.2199,
+          "worker_started_at_utc": "2026-06-28T09:56:34.731952Z",
+          "worker_finished_at_utc": "2026-06-28T09:56:39.951889Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27920,
+          "worker_duration_seconds": 5.0954,
+          "total_seconds": 5.0482,
+          "worker_started_at_utc": "2026-06-28T09:55:37.760797Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:42.809075Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27920,
+          "worker_duration_seconds": 5.0311,
+          "total_seconds": 4.9796,
+          "worker_started_at_utc": "2026-06-28T09:55:32.728314Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:37.707925Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_project_mogul_record_348d24",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12260,
+          "worker_duration_seconds": 4.9077,
+          "total_seconds": 4.8588,
+          "worker_started_at_utc": "2026-06-28T09:55:47.513925Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:52.372778Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_air_force_recordkeep_d82858",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25792,
+          "worker_duration_seconds": 4.7925,
+          "total_seconds": 4.7424,
+          "worker_started_at_utc": "2026-06-28T09:55:44.309562Z",
+          "worker_finished_at_utc": "2026-06-28T09:55:49.051987Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_johnson_magdalena_re_a23474",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12260,
+          "worker_duration_seconds": 4.7756,
+          "total_seconds": 4.7313,
+          "worker_started_at_utc": "2026-06-28T09:56:11.477844Z",
+          "worker_finished_at_utc": "2026-06-28T09:56:16.209155Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
