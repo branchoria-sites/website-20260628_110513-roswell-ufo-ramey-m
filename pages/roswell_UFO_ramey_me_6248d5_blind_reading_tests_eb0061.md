@@ -448,15 +448,15 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-ove
 
 ## Introduction
 
-[Blind reading]({{ 'blind-reading/' | relative_url }}) tests matter in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate because the disputed evidence is not a readable document in ordinary conditions; it is a tiny, degraded paper visible inside a 1947 press photograph. Once a reader knows that the Roswell story involves claims about a crashed craft, bodies, cover-ups, balloons and military secrecy, those expectations can shape what they think they see. The best-known blind-style study of the memo found exactly that risk: participants given different story prompts produced readings that tended to follow the prompt, although a few word-like fragments appeared in similar places across groups. That does not prove the memo is meaningless. It means the fairest test is not “can someone see a dramatic phrase?”, but “do independent readers, shielded from the desired answer, converge on the same words for the same reasons?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+[Blind reading]({{ 'blind-reading/' | relative_url }}) tests matter in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate because the disputed evidence is not a readable document in ordinary conditions; it is a tiny, degraded paper visible inside a 1947 press photograph. Once a reader knows that the Roswell story involves claims about a crashed craft, bodies, cover-ups, balloons and military secrecy, those expectations can shape what they think they see. The best-known blind-style study of the memo found exactly that risk: participants given different story prompts produced readings that tended to follow the prompt, although a few word-like fragments appeared in similar places across groups. That does not prove the memo is meaningless. It means the fairest test is not “can someone see a dramatic phrase?”, but “do independent readers, shielded from the desired answer, converge on the same words for the same reasons?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-overview.webp" | relative_url }}" alt="Overview image for Blind Tests" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Ramey Memo Needs Blind Testing
 
-The Ramey memo is unusually tempting evidence because it has real [provenance]({{ 'provenance/' | relative_url }}). The [original negatives]({{ 'negatives/' | relative_url }}) from J. Bond Johnson’s 8 July 1947 Fort Worth photographs are held by the University of Texas at Arlington Special Collections as part of the Fort Worth Star-Telegram Collection, and UTA notes that the memo remains a special point of interest for Roswell researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Bond Johnson are held by UTA Libraries Special Collections as part of its extensive Fort...</span></span></span>
+The Ramey memo is unusually tempting evidence because it has real [provenance]({{ 'provenance/' | relative_url }}). The [original negatives]({{ 'negatives/' | relative_url }}) from J. Bond Johnson’s 8 July 1947 Fort Worth photographs are held by the University of Texas at Arlington Special Collections as part of the Fort Worth Star-Telegram Collection, and UTA notes that the memo remains a special point of interest for Roswell researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Bond Johnson are held by UTA Libraries Special Collections as part of its extensive Fort...</span></span></span>
 
-That strong provenance, however, solves only one problem. It shows that [Ramey]({{ 'ramey/' | relative_url }}) really was photographed holding a paper during the original Roswell news cycle. It does not show that the visible marks on the paper are clear enough to reconstruct a message. UTA Magazine’s 2017 note that Kevin Randle was offering $10,000 to anyone who could “definitively decipher” the obscured words is a useful snapshot of the problem: decades after the photograph entered Roswell research, the central issue was still not access to the image, but reliable reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-title">The Ramey Memo &#124; UTA Magazine</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA Magazine</span></span></span>
+That strong provenance, however, solves only one problem. It shows that [Ramey]({{ 'ramey/' | relative_url }}) really was photographed holding a paper during the original Roswell news cycle. It does not show that the visible marks on the paper are clear enough to reconstruct a message. UTA Magazine’s 2017 note that Kevin Randle was offering $10,000 to anyone who could “definitively decipher” the obscured words is a useful snapshot of the problem: decades after the photograph entered Roswell research, the central issue was still not access to the image, but reliable reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-title">The Ramey Memo &#124; UTA Magazine</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA Magazine</span></span></span>
 
 This is where blind testing becomes essential. A reader who already expects “victims of the wreck” may unconsciously favour letter shapes that support that phrase. A sceptical reader may favour balloon-related wording. A neutral reader may see only scattered strokes. The same photographic noise can therefore become three different “texts” unless the test design removes as much expectation as possible.
 
@@ -464,9 +464,9 @@ This is where blind testing becomes essential. A reader who already expects “v
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-1-dark.svg" | relative_url }}" alt="Blind Tests illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Remove Priming Before Anyone Reads
 
-The strongest Roswell-specific evidence for priming comes from James Houran and Kevin Randle’s 2002 Journal of Scientific Exploration paper, “A Message in a Bottle.” They described the memo as an ambiguous stimulus and set up three suggestion conditions: one group was told the document related to the famous Roswell UFO case, another was told it related to secret atomic-bomb testing, and a third was told nothing about its possible content. The group sizes were similar: 59, 58 and 59 participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The strongest Roswell-specific evidence for priming comes from James Houran and Kevin Randle’s 2002 Journal of Scientific Exploration paper, “A Message in a Bottle.” They described the memo as an ambiguous stimulus and set up three suggestion conditions: one group was told the document related to the famous Roswell UFO case, another was told it related to secret atomic-bomb testing, and a third was told nothing about its possible content. The group sizes were similar: 59, 58 and 59 participants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-The important finding was not that every reading was invented. It was subtler. Many participants claimed to read the document, but the authors reported that their proposed solutions tended to follow the experimental suggestion. In other words, the story frame supplied before the viewing session helped organise the marks into meaningful-looking words. The same study also found that the number of words people thought they had deciphered was related to age, tolerance of ambiguity and prior exposure to UFO material, especially Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The important finding was not that every reading was invented. It was subtler. Many participants claimed to read the document, but the authors reported that their proposed solutions tended to follow the experimental suggestion. In other words, the story frame supplied before the viewing session helped organise the marks into meaningful-looking words. The same study also found that the number of words people thought they had deciphered was related to age, tolerance of ambiguity and prior exposure to UFO material, especially Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 That makes the Ramey memo a textbook case for removing priming. A fair test should not begin with “this is the Roswell memo”, “some people read victims”, or “this may expose a military cover-up”. Even apparently neutral background can be loaded if it tells participants what kind of words to expect. The cleanest first round would present the image simply as a degraded historical document and ask readers to mark only what they can justify from visible features.
 
@@ -475,7 +475,7 @@ That makes the Ramey memo a textbook case for removing priming. A fair test shou
 
 ## Compare Independent Readers, Not Persuasive Reconstructions
 
-A fair test is not just blind; it is comparative. The question is whether readers independently converge on the same letters and words at the same positions. Houran and Randle’s study matters because it looked for that pattern rather than treating one polished reconstruction as decisive. They reported that a few words in the same locations were perceived consistently across the three suggestion conditions and matched words identified in previous investigations. That is the sort of result worth preserving: not a full dramatic message, but limited convergence where the visual evidence may be stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+A fair test is not just blind; it is comparative. The question is whether readers independently converge on the same letters and words at the same positions. Houran and Randle’s study matters because it looked for that pattern rather than treating one polished reconstruction as decisive. They reported that a few words in the same locations were perceived consistently across the three suggestion conditions and matched words identified in previous investigations. That is the sort of result worth preserving: not a full dramatic message, but limited convergence where the visual evidence may be stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 The opposite danger is a reconstruction that becomes more convincing as it becomes more complete. Once a proposed transcript supplies grammar, military phrasing and Roswell context, later readers may judge the whole sentence rather than the pixels. This is especially risky when the disputed phrase carries the entire evidential weight. In the Ramey debate, “victims of the wreck” would point in one direction, while a more mundane phrase about material or debris would point in another. A blind protocol must therefore score each word position separately before anyone sees a full proposed transcript.
 
@@ -496,7 +496,7 @@ Only after that should researchers compare results. If twenty independent reader
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-2-dark.svg" | relative_url }}" alt="Blind Tests illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separate Guesses From Evidence
 
-The phrase “I can see it” is not enough. In disputed UFO photographs, a reader’s confidence can feel like evidence, but the evidence is the repeatable link between image features and the proposed reading. Cognitive research on ambiguous perception helps explain why. Studies of visual ambiguity and pareidolia show that people can perceive meaningful forms in unclear stimuli, and that uncertainty, prior expectation and suggestive instructions can affect what is perceived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9508550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The phrase “I can see it” is not enough. In disputed UFO photographs, a reader’s confidence can feel like evidence, but the evidence is the repeatable link between image features and the proposed reading. Cognitive research on ambiguous perception helps explain why. Studies of visual ambiguity and pareidolia show that people can perceive meaningful forms in unclear stimuli, and that uncertainty, prior expectation and suggestive instructions can affect what is perceived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9508550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 For the Ramey memo, this means every proposed word should be sorted into tiers. A high-value reading is one that independent readers find under blind conditions, in the same location, with plausible letter-by-letter support. A medium-value reading may be visually plausible but not independently replicated. A low-value reading is a contextual guess: it fits the Roswell story, but the image alone does not force it.
 
@@ -507,7 +507,7 @@ This distinction protects both sides of the debate. Pro-Roswell researchers shou
 
 ## What a Stronger Test Would Look Like
 
-Houran and Randle did not argue that research should stop. Their paper explicitly suggested further work with stronger controls. One proposed approach was to obtain a camera like the one used in the Ramey photograph, use military messages from the same era, photograph them at different distances and angles, and then test whether the known text can be deciphered. That would answer a crucial question: can the method recover real words from a comparable degraded image, or does it mainly create plausible-looking [readings]({{ 'readings/' | relative_url }})? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Houran and Randle did not argue that research should stop. Their paper explicitly suggested further work with stronger controls. One proposed approach was to obtain a camera like the one used in the Ramey photograph, use military messages from the same era, photograph them at different distances and angles, and then test whether the known text can be deciphered. That would answer a crucial question: can the method recover real words from a comparable degraded image, or does it mainly create plausible-looking [readings]({{ 'readings/' | relative_url }})?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 A stronger modern version would have four layers:
 
@@ -521,15 +521,15 @@ A stronger modern version would have four layers:
 
 </div>
 
-This approach fits wider forensic-bias guidance. The UK Forensic Science Regulator warns that cognitive bias can affect decision-making in forensic examinations, and later forensic-science work has discussed practical tools such as shielding examiners from irrelevant contextual information, blind verification and sequential release of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5f4fc26ce90e074695f80977/217_FSR-G-217_Cognitive_bias_appendix_Issue_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Forensic Science Regulator Guidance</span><span class="citation-popover-snippet">UK Assets Forensic Science Regulator Guidance</span></span></span>
+This approach fits wider forensic-bias guidance. The UK Forensic Science Regulator warns that cognitive bias can affect decision-making in forensic examinations, and later forensic-science work has discussed practical tools such as shielding examiners from irrelevant contextual information, blind verification and sequential release of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5f4fc26ce90e074695f80977/217_FSR-G-217_Cognitive_bias_appendix_Issue_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Forensic Science Regulator Guidance</span><span class="citation-popover-snippet">UK Assets Forensic Science Regulator Guidance</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-3-dark.svg" | relative_url }}" alt="Blind Tests illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Blind Tests Do Not Settle Roswell by Themselves
 
-Blind testing can improve the Ramey memo debate, but it cannot make the photograph carry more information than it physically contains. Even Kevin Randle’s later Roswell-focused work describes attempts to decipher the memo as not having produced definitive results that rule out all explanations, while still arguing that better scans and empirical study remain possible avenues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident - PhilPapers...</span></span></span>
+Blind testing can improve the Ramey memo debate, but it cannot make the photograph carry more information than it physically contains. Even Kevin Randle’s later Roswell-focused work describes attempts to decipher the memo as not having produced definitive results that rule out all explanations, while still arguing that better scans and empirical study remain possible avenues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident - PhilPapers...</span></span></span>
 
-That limitation matters because the memo sits inside a larger evidential conflict. Official records such as the FBI’s July 1947 teletype described an object near Roswell resembling a high-altitude weather balloon with a radar reflector, while later UFO arguments often rely on witness testimony and contested interpretations of photographs. The memo is therefore not an independent document recovered from an archive; it is a photographed fragment being asked to decide a much larger case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Roswell UFOOn</span><span class="citation-popover-snippet">Roswell UFOOn</span></span></span>
+That limitation matters because the memo sits inside a larger evidential conflict. Official records such as the FBI’s July 1947 teletype described an object near Roswell resembling a high-altitude weather balloon with a radar reflector, while later UFO arguments often rely on witness testimony and contested interpretations of photographs. The memo is therefore not an independent document recovered from an archive; it is a photographed fragment being asked to decide a much larger case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Roswell UFOOn</span><span class="citation-popover-snippet">Roswell UFOOn</span></span></span>
 
 The fairest result may be unsatisfying: some words could be recoverable, while the decisive phrase remains unresolved. That would not be a failure of blind testing. It would be the test doing its job. A good method should reduce false certainty, not manufacture closure.
 
@@ -543,194 +543,194 @@ A fair reading test for disputed UFO evidence should begin by treating the image
 For the Ramey memo specifically, the most responsible claim is narrow. The photograph is authentic and historically important. Some marks may support limited readings. But any phrase that would transform Roswell from a [balloon-debris]({{ 'balloon-debris/' | relative_url }}) case into proof of recovered victims needs stronger support than a persuasive enlargement or a confident reconstruction. It needs blind convergence, controlled comparison and transparent uncertainty.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Test a Mystery Photo Fairly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Test a Mystery Photo Fairly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive bias and interpretation effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive bias and interpretation effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Relevant to confirmation bias and belief persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to confirmation bias and belief persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines evidence quality in the Roswell case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence quality in the Roswell case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="blind-tests-how-to-test-a-mystery-photo-fairly-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -746,7 +746,7 @@ For the Ramey memo specifically, the most responsible claim is narrow. The photo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -766,7 +766,7 @@ For the Ramey memo specifically, the most responsible claim is narrow. The photo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -798,7 +798,7 @@ For the Ramey memo specifically, the most responsible claim is narrow. The photo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -850,7 +850,7 @@ For the Ramey memo specifically, the most responsible claim is narrow. The photo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -895,7 +895,7 @@ For the Ramey memo specifically, the most responsible claim is narrow. The photo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -936,170 +936,170 @@ For the Ramey memo specifically, the most responsible claim is narrow. The photo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
    Title: Phil Papers Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident - PhilPapers...</p></details>
+   Link:<a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle, A Grounded Theory Update on the Roswell UFO Incident - PhilPapers...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson are held by UTA Libraries Special Collections as part of its extensive Fort...</p></details>
+   Link:<a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson are held by UTA Libraries Special Collections as part of its extensive Fort...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: uta.edu  
    Title: The Ramey Memo | UTA Magazine  
-   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
+   Link:<a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9508550/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9508550/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9508550/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9508550/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00426-020-01364-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00426-020-01364-7</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s00426-020-01364-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00426-020-01364-7</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets Forensic Science Regulator Guidance  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5f4fc26ce90e074695f80977/217_FSR-G-217_Cognitive_bias_appendix_Issue_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f4fc26ce90e074695f80977/217_FSR-G-217_Cognitive_bias_appendix_Issue_2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5f4fc26ce90e074695f80977/217_FSR-G-217_Cognitive_bias_appendix_Issue_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f4fc26ce90e074695f80977/217_FSR-G-217_Cognitive_bias_appendix_Issue_2.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReducing the impact of cognitive bias in decision making  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/2</a>  
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/2</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 297491206 Ramey memo meant to deceive 3 multiple letters  
-   Link: <a href="https://www.researchgate.net/publication/297491206_Ramey_memo_meant_to_deceive_3_multiple_letters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/297491206_Ramey_memo_meant_to_deceive_3_multiple_letters</a>  
+   Link:<a href="https://www.researchgate.net/publication/297491206_Ramey_memo_meant_to_deceive_3_multiple_letters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/297491206_Ramey_memo_meant_to_deceive_3_multiple_letters</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Conceptual-priming-for-meaningful-novel-visual-shapes-A-Example-squiggle-stimuli-B_fig4_51795507" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Conceptual-priming-for-meaningful-novel-visual-shapes-A-Example-squiggle-stimuli-B_fig4_51795507</a>  
+   Link:<a href="https://www.researchgate.net/figure/Conceptual-priming-for-meaningful-novel-visual-shapes-A-Example-squiggle-stimuli-B_fig4_51795507" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Conceptual-priming-for-meaningful-novel-visual-shapes-A-Example-squiggle-stimuli-B_fig4_51795507</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387963431_A_practical_approach_to_mitigating_cognitive_bias_effects_in_forensic_casework" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387963431_A_practical_approach_to_mitigating_cognitive_bias_effects_in_forensic_casework</a>  
+   Link:<a href="https://www.researchgate.net/publication/387963431_A_practical_approach_to_mitigating_cognitive_bias_effects_in_forensic_casework" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387963431_A_practical_approach_to_mitigating_cognitive_bias_effects_in_forensic_casework</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sites.libraries.uta.edu  
    Title: ramey memo  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/lxR8pLL7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lxR8pLL7/</a>  
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/lxR8pLL7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lxR8pLL7/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ramey-memo.com  
    Title: 7 SNAPSHOTS FOR ETERNITY  
-   Link: <a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
+   Link:<a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00979/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00979/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00979/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00979/full</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA practical approach to mitigating cognitive bias effects  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11720873/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11720873/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11720873/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11720873/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: digital.library.adelaide.edu.au  
-   Link: <a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
+   Link:<a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40949812/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40949812/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40949812/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40949812/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iconicphotos.wordpress.com  
    Title: roswell memo  
-   Link: <a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
+   Link:<a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: <a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo James Houran XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo REL-MAR McConnell Media Company...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo James Houran XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo REL-MAR McConnell Media Company...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: XZBN UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=r3E-nA9NkC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3E-nA9NkC8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID [RUDIAK](&amp;#123;&amp;#123; &#x27;rudiak/&#x27; | relative_url &amp;#125;&amp;#125;) - Decoding the Ramey Memo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r3E-nA9NkC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3E-nA9NkC8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID [RUDIAK](&amp;#123;&amp;#123; &#x27;rudiak/&#x27; | relative_url &amp;#125;&amp;#125;) - Decoding the Ramey Memo...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="https://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo: Computer Analysis Best 1947 Roswell Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo: Computer Analysis Best 1947 Roswell Evidence...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Kevin Randle Interviews  
-   Link: <a href="https://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bp106jUEyis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bp106jUEyis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2suqSzLTOZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2suqSzLTOZE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2suqSzLTOZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2suqSzLTOZE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: michaelanees.com  
-   Link: <a href="https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf</a>  
+   Link:<a href="https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: x.com  
-   Link: <a href="https://x.com/BrianRoemmele/status/1602386927159689216?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BrianRoemmele/status/1602386927159689216?lang=en</a>  
+   Link:<a href="https://x.com/BrianRoemmele/status/1602386927159689216?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BrianRoemmele/status/1602386927159689216?lang=en</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: bohrium.com  
-   Link: <a href="https://www.bohrium.com/en/sciencepedia/feynman/keyword/cognitive_bias_forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.bohrium.com/en/sciencepedia/feynman/keyword/cognitive_bias_forensics</a>  
+   Link:<a href="https://www.bohrium.com/en/sciencepedia/feynman/keyword/cognitive_bias_forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.bohrium.com/en/sciencepedia/feynman/keyword/cognitive_bias_forensics</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/books/edited-volume/18670/chapter/102340359/Cognitive-Biases-in-Forensic-Science-Training-and" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/18670/chapter/102340359/Cognitive-Biases-in-Forensic-Science-Training-and</a>  
+   Link:<a href="https://www.emerald.com/books/edited-volume/18670/chapter/102340359/Cognitive-Biases-in-Forensic-Science-Training-and" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/18670/chapter/102340359/Cognitive-Biases-in-Forensic-Science-Training-and</a>  

@@ -274,11 +274,11 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_bal
 
 ## Introduction
 
-The Fort Worth photographs are central to the Roswell debate because they show the actual debris presented to reporters when the Army reversed its original “flying disc” announcement. Looking only at the material visible in those images, the strongest contemporary interpretation is that the debris resembles components of a balloon-borne radar target: thin metallic foil, paper-backed reflective material, rubber balloon fragments, and lightweight wooden structural pieces. That conclusion does not resolve every dispute surrounding Roswell, but it explains why many historians, military investigators, and technical researchers regard the photographs themselves as evidence for a balloon-and-radar-reflector origin rather than an exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+The Fort Worth photographs are central to the Roswell debate because they show the actual debris presented to reporters when the Army reversed its original “flying disc” announcement. Looking only at the material visible in those images, the strongest contemporary interpretation is that the debris resembles components of a balloon-borne radar target: thin metallic foil, paper-backed reflective material, rubber balloon fragments, and lightweight wooden structural pieces. That conclusion does not resolve every dispute surrounding Roswell, but it explains why many historians, military investigators, and technical researchers regard the photographs themselves as evidence for a balloon-and-radar-reflector origin rather than an exotic craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Debris illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the narrower question of what appears in the photographs, the key issue is not whether later witnesses offered different memories. It is whether the visible materials match known 1947 balloon and radar-target equipment. On that specific point, the photographic record aligns closely with contemporary military descriptions of [radar reflectors]({{ 'radar-reflectors/' | relative_url }}) used beneath weather and research balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+Within the narrower question of what appears in the photographs, the key issue is not whether later witnesses offered different memories. It is whether the visible materials match known 1947 balloon and radar-target equipment. On that specific point, the photographic record aligns closely with contemporary military descriptions of [radar reflectors]({{ 'radar-reflectors/' | relative_url }}) used beneath weather and research balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 ## Why the debris looked like balloon equipment
 
@@ -289,23 +289,23 @@ Typical radar targets of the period were built from:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Thin metallic foil or foil-backed paper. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+* Thin metallic foil or foil-backed paper.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 * Lightweight wooden sticks, commonly balsa wood.
 * Paper backing and adhesive materials.
 * Rubber balloon remnants attached to the reflector assembly.
 
 </div>
 
-The 1994 Air Force investigation described the relevant reflector construction as aluminium foil or foil-backed paper attached to balsa-wood members, with glue and paper components forming a lightweight framework. Those are precisely the categories of material most commonly identified in the Fort Worth photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+The 1994 Air Force investigation described the relevant reflector construction as aluminium foil or foil-backed paper attached to balsa-wood members, with glue and paper components forming a lightweight framework. Those are precisely the categories of material most commonly identified in the Fort Worth photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
-The visual impression created by the photographs is therefore not of machined metal, heavy structural components, wiring harnesses, engines, or complex instrumentation. Instead, it is of crumpled reflective sheets, broken sticks, and fragile backing material consistent with equipment intended to be carried aloft by balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+The visual impression created by the photographs is therefore not of machined metal, heavy structural components, wiring harnesses, engines, or complex instrumentation. Instead, it is of crumpled reflective sheets, broken sticks, and fragile backing material consistent with equipment intended to be carried aloft by balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
 ### Radar targets and balloon-suspended reflectors
 
-A radar target worked through geometry rather than advanced materials. Reflective surfaces were arranged at angles that bounced radar signals back toward tracking stations. Because the device had to be lifted by balloons, weight was critical. Manufacturers therefore used inexpensive, lightweight materials rather than metal frames or dense components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+A radar target worked through geometry rather than advanced materials. Reflective surfaces were arranged at angles that bounced radar signals back toward tracking stations. Because the device had to be lifted by balloons, weight was critical. Manufacturers therefore used inexpensive, lightweight materials rather than metal frames or dense components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 This design choice helps explain several recurring descriptions associated with Roswell debris:
 
@@ -320,9 +320,9 @@ This design choice helps explain several recurring descriptions associated with 
 
 </div>
 
-Such characteristics are exactly what would be expected from a balloon-supported radar reflector. They can appear unusual when scattered across a large area after a crash or weather exposure, yet they remain fundamentally ordinary materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+Such characteristics are exactly what would be expected from a balloon-supported radar reflector. They can appear unusual when scattered across a large area after a crash or weather exposure, yet they remain fundamentally ordinary materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
-The University of Texas at Arlington Roswell collection also preserves photographs from July 1947 showing military personnel demonstrating a radar device attached to a weather balloon shortly after the incident. These images provide useful visual context because they show the type of equipment military authorities were pointing to when explaining the Roswell debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">About the Roswell Photo Collection &#124; Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Wo...</span></span></span>
+The University of Texas at Arlington Roswell collection also preserves photographs from July 1947 showing military personnel demonstrating a radar device attached to a weather balloon shortly after the incident. These images provide useful visual context because they show the type of equipment military authorities were pointing to when explaining the Roswell debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">About the Roswell Photo Collection &#124; Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Wo...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Debris illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,11 +343,11 @@ Accounts recorded at the time referred to material such as:
 
 </div>
 
-These descriptions correspond closely to the visible debris displayed in Fort Worth. Contemporary reporting also noted the absence of heavy machinery, propulsion systems, or substantial metallic structures. Instead, observers described a lightweight collection of foil, paper, rubber, and wood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+These descriptions correspond closely to the visible debris displayed in Fort Worth. Contemporary reporting also noted the absence of heavy machinery, propulsion systems, or substantial metallic structures. Instead, observers described a lightweight collection of foil, paper, rubber, and wood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Even Jesse Marcel's comments to reporters in 1947 referred to “parts of the weather device” and described material that included tinfoil and broken wooden members. Those statements are often overshadowed by later recollections, but they fit what appears in the photographs themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Even Jesse Marcel's comments to reporters in 1947 referred to “parts of the weather device” and described material that included tinfoil and broken wooden members. Those statements are often overshadowed by later recollections, but they fit what appears in the photographs themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The importance of this correspondence is methodological. When evaluating the Fort Worth images as physical evidence, the strongest comparison is between the photographs and descriptions recorded nearest in time to the event. On that basis, the photographs and contemporary accounts point in the same general direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+The importance of this correspondence is methodological. When evaluating the Fort Worth images as physical evidence, the strongest comparison is between the photographs and descriptions recorded nearest in time to the event. On that basis, the photographs and contemporary accounts point in the same general direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YadmGZcvgr8" title="Roswell Reports, Vol. 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer">Roswell Reports, Vol. 6</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 356.7K &middot; Uploaded: December 2009 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YadmGZcvgr8">Open on YouTube</a></p></div></div></div>
@@ -358,211 +358,211 @@ The continuing controversy arises not because the photographed debris is obvious
 
 That argument shifted the debate from identification to [substitution]({{ 'substitution/' | relative_url }}). Instead of claiming that the photographed debris itself looked extraordinary, critics increasingly argued that ordinary balloon debris had been substituted for something else before the press photographs were taken.
 
-The difficulty for that position is that photographic analysis conducted during the Air Force review found continuity between the debris visible in the different Fort Worth images. Investigators reported that the same wreckage appeared in photographs featuring both Marcel and Ramey, undermining claims that one set of images showed radically different material from another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+The difficulty for that position is that photographic analysis conducted during the Air Force review found continuity between the debris visible in the different Fort Worth images. Investigators reported that the same wreckage appeared in photographs featuring both Marcel and Ramey, undermining claims that one set of images showed radically different material from another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
-As a result, the dispute surrounding the Fort Worth photographs is less about what the visible debris resembles and more about whether the displayed debris was authentic to the original recovery. On the narrower question addressed by the photographs alone, the foil, paper, sticks, and backing material remain strongly consistent with balloon-borne radar-target equipment used in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+As a result, the dispute surrounding the Fort Worth photographs is less about what the visible debris resembles and more about whether the displayed debris was authentic to the original recovery. On the narrower question addressed by the photographs alone, the foil, paper, sticks, and backing material remain strongly consistent with balloon-borne radar-target equipment used in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Debris illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the photographs demonstrate
 
-Viewed strictly as material evidence, the Fort Worth photographs support a straightforward interpretation. The debris consists of lightweight reflective sheets, wooden structural members, paper-backed components, and balloon-related material that closely match known radar-target construction of the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+Viewed strictly as material evidence, the Fort Worth photographs support a straightforward interpretation. The debris consists of lightweight reflective sheets, wooden structural members, paper-backed components, and balloon-related material that closely match known radar-target construction of the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
-That does not settle every aspect of the Roswell controversy or the wider debate surrounding the [Ramey memo]({{ 'ramey-memo/' | relative_url }}). It does, however, explain why the balloon-and-radar-target explanation remains the strongest contemporary reading of the debris actually visible in the Fort Worth photographs. The mechanism is simple: the photographed materials look like the kinds of inexpensive, lightweight components used in radar reflectors suspended beneath military and meteorological balloons, and they look considerably less like the remains of an advanced vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
+That does not settle every aspect of the Roswell controversy or the wider debate surrounding the [Ramey memo]({{ 'ramey-memo/' | relative_url }}). It does, however, explain why the balloon-and-radar-target explanation remains the strongest contemporary reading of the debris actually visible in the Fort Worth photographs. The mechanism is simple: the photographed materials look like the kinds of inexpensive, lightweight components used in radar reflectors suspended beneath military and meteorological balloons, and they look considerably less like the remains of an advanced vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TV0Xm9ZgiKQ" title="8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer">8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 3.1K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the debris looked like balloon equipment. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the debris looked like balloon equipment. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Presents the alternative crash-retrieval interpretation of the same debris evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents the alternative crash-retrieval interpretation of the same debris evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly addresses Roswell evidence, balloon explanations, and disputed witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Roswell evidence, balloon explanations, and disputed witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhgClQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report">The Roswell Report</a>
-        </h4>
-        <p class="fr-book-author">By Richard L. Weaver, U. S. Air Force</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhgClQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report">The Roswell Report</a>
+</h4>
+<p class="fr-book-author">By Richard L. Weaver, U. S. Air Force</p>
         
-        <p class="fr-book-desc">Centres on the Air Force explanation, including balloon and Project Mogul evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on the Air Force explanation, including balloon and Project Mogul evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report+by+Richard+L.+Weaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">The foundational popular Roswell book that revived the debris controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The foundational popular Roswell book that revived the debris controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="{{ '/assets/images/marketplace-covers/d04800e732c49332d0b2.jpg' | relative_url }}" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="{{ '/assets/images/marketplace-covers/d04800e732c49332d0b2.jpg' | relative_url }}" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b549fbd793da851991cb.jpg' | relative_url }}" alt="Listing image for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b549fbd793da851991cb.jpg' | relative_url }}" alt="Listing image for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Wanda Ventham 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/02b002803ad4fe8749d6.jpg' | relative_url }}" alt="Listing image for UFO (TV) Wanda Ventham 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Wanda Ventham 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Wanda Ventham 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/02b002803ad4fe8749d6.jpg' | relative_url }}" alt="Listing image for UFO (TV) Wanda Ventham 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Wanda Ventham 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="balloon-debris-why-the-debris-looked-like-balloon-equipment-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ That does not settle every aspect of the Roswell controversy or the wider debate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ That does not settle every aspect of the Roswell controversy or the wider debate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ That does not settle every aspect of the Roswell controversy or the wider debate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ That does not settle every aspect of the Roswell controversy or the wider debate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ That does not settle every aspect of the Roswell controversy or the wider debate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,89 +768,89 @@ That does not settle every aspect of the Roswell controversy or the wider debate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — These targets were made up of aluminum &quot;foil&quot; or foil-backed paper...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Wo...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About the Roswell Photo Collection | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Wo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/9" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon demonstration | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Worth A...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/9" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon demonstration | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Worth A...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/startelegram/photos/this-photo-and-others-in-the-star-telegrams-roswell-collection-by-reporter-j-bon/10155588626153530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/photos/this-photo-and-others-in-the-star-telegrams-roswell-collection-by-reporter-j-bon/10155588626153530/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They depict the crash debris and a much-debated and studied telegram...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/startelegram/photos/this-photo-and-others-in-the-star-telegrams-roswell-collection-by-reporter-j-bon/10155588626153530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/photos/this-photo-and-others-in-the-star-telegrams-roswell-collection-by-reporter-j-bon/10155588626153530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They depict the crash debris and a much-debated and studied telegram...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: astrootd famous roswell ufo crash reportedon this day in 1947 roswell army air f  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...It occurred in July 1947, near Roswell, New Mexico, when a mysterious object reportedly c...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...It occurred in July 1947, near Roswell, New Mexico, when a mysterious object reportedly c...</p></details>
    Published: July 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: on july 8 1947 the roswell daily record reported the arrival of something strang  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...The photo was by J. Bond [Johnson](&amp;#123;&amp;#123; &#x27;johnson/&#x27; | relative_url &amp;#125;&amp;#125;) for the Fort Worth Star-Telegram. Marcel retired a...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...The photo was by J. Bond [Johnson](&amp;#123;&amp;#123; &#x27;johnson/&#x27; | relative_url &amp;#125;&amp;#125;) for the Fort Worth Star-Telegram. Marcel retired a...</p></details>
    Published: July 8, 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: on june 14 1947 william mac brazel rode out on the jb foster ranch with his neig  
-   Link: <a href="https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947, William “Mac” Brazel rode out on the...The photo was by J. Bond Johnson for the Fort Worth Star-Telegram. Marcel retir...</p></details>
+   Link:<a href="https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LegendsOfAmerica/posts/on-june-14-1947-william-mac-brazel-rode-out-on-the-jb-foster-ranch-with-his-neig/1581855340608590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On June 14, 1947, William “Mac” Brazel rode out on the...The photo was by J. Bond Johnson for the Fort Worth Star-Telegram. Marcel retir...</p></details>
    Published: June 14, 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ciphermysteries.com  
    Title: The Roswell capsule: was it Tex Settle's Flying Coffin?  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell was most likely a “radar reflecting” kite.... Lt Col Cavitt also reviewed the famous Ramey/Marcel photographs of the wreckage ta...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell was most likely a “radar reflecting” kite.... Lt Col Cavitt also reviewed the famous Ramey/Marcel photographs of the wreckage ta...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US military...This is a real photo from Roswell in 1947 of the US military trying to convince everybody a UFO is a weather balloon. a fo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zef4pj/this_is_a_real_photo_from_roswell_in_1947_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US military...This is a real photo from Roswell in 1947 of the US military trying to convince everybody a UFO is a weather balloon. a fo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...In 1997 a definitive air force report—“The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)”—ventured the opinion that stories of alien bodies m...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...In 1997 a definitive air force report—“The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)”—ventured the opinion that stories of alien bodies m...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
    Title: 1994 Roswell Report Prepared for GAO 1994 pdf  
-   Link: <a href="https://www.scribd.com/document/488123120/1994-Roswell-Report-Prepared-for-GAO-1994-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/488123120/1994-Roswell-Report-Prepared-for-GAO-1994-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident FOIA Report | PDFThis document is a foreword to a report on the 1947 Roswell UFO incident. It aims to locate records exp...</p></details>
+   Link:<a href="https://www.scribd.com/document/488123120/1994-Roswell-Report-Prepared-for-GAO-1994-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/488123120/1994-Roswell-Report-Prepared-for-GAO-1994-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident FOIA Report | PDFThis document is a foreword to a report on the 1947 Roswell UFO incident. It aims to locate records exp...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/786925054710392/posts/25843680185274866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/786925054710392/posts/25843680185274866/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alloon with a RAWIN (radar) target. Air Force headquarters in Fort...</p></details>
+   Link:<a href="https://www.facebook.com/groups/786925054710392/posts/25843680185274866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/786925054710392/posts/25843680185274866/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alloon with a RAWIN (radar) target. Air Force headquarters in Fort...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yahoo.com  
    Title: july long ago roswell incident 103000309  
-   Link: <a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a July long ago, the &#x27;Roswell Incident&#x27; spy-UFO crash...4 Jul 2024 — The infamous tinfoil wreckage of a “saucer” from the Roswell Inc...</p></details>
+   Link:<a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a July long ago, the &#x27;Roswell Incident&#x27; spy-UFO crash...4 Jul 2024 — The infamous tinfoil wreckage of a “saucer” from the Roswell Inc...</p></details>

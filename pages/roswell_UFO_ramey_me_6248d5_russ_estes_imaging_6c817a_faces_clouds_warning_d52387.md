@@ -280,17 +280,17 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_face
 
 ## Introduction
 
-One of Russ Estes’ most enduring contributions to the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate was not a new reading of the document but a warning about how people read ambiguous images. After extensive attempts to enhance and inspect the famous photograph, Estes [compared]({{ 'compared/' | relative_url }}) some claimed memo decipherments to seeing “faces in the clouds” — a metaphor for the human tendency to perceive meaningful patterns in visual noise. In the Roswell context, the comparison matters because the dispute is not simply about image quality. It is about whether the surviving marks on the memo contain enough stable information to support the confident words that some readers claim to see. When the image is highly ambiguous, expectation itself can become part of the reading process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+One of Russ Estes’ most enduring contributions to the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate was not a new reading of the document but a warning about how people read ambiguous images. After extensive attempts to enhance and inspect the famous photograph, Estes [compared]({{ 'compared/' | relative_url }}) some claimed memo decipherments to seeing “faces in the clouds” — a metaphor for the human tendency to perceive meaningful patterns in visual noise. In the Roswell context, the comparison matters because the dispute is not simply about image quality. It is about whether the surviving marks on the memo contain enough stable information to support the confident words that some readers claim to see. When the image is highly ambiguous, expectation itself can become part of the reading process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-1-dark.svg" | relative_url }}" alt="Cloud effect illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Estes Used the Cloud Comparison
 
-The “faces in the clouds” analogy emerged from a specific problem in Ramey memo research. Different investigators, often working from the same photograph or related scans, reported dramatically different [readings]({{ 'readings/' | relative_url }}). Some claimed to identify phrases supporting a crashed-disc interpretation, while others could not confirm those readings at all. [Estes]({{ 'estes/' | relative_url }})’ concern was that the image had reached a point where interpretation risked outrunning the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+The “faces in the clouds” analogy emerged from a specific problem in Ramey memo research. Different investigators, often working from the same photograph or related scans, reported dramatically different [readings]({{ 'readings/' | relative_url }}). Some claimed to identify phrases supporting a crashed-disc interpretation, while others could not confirm those readings at all. [Estes]({{ 'estes/' | relative_url }})’ concern was that the image had reached a point where interpretation risked outrunning the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
-The cloud comparison was not an argument that the memo contained no text. Plainly, the document originally contained text. Rather, it was a warning that enlargement, contrast adjustment and repeated inspection can encourage observers to connect scattered marks into familiar words. Once a viewer expects to find a particular phrase, the visual system may begin treating uncertain shapes as confirming evidence. Houran and Randle later highlighted this concern, noting that researchers with specific expectations appeared to find exactly the kinds of messages they anticipated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+The cloud comparison was not an argument that the memo contained no text. Plainly, the document originally contained text. Rather, it was a warning that enlargement, contrast adjustment and repeated inspection can encourage observers to connect scattered marks into familiar words. Once a viewer expects to find a particular phrase, the visual system may begin treating uncertain shapes as confirming evidence. Houran and Randle later highlighted this concern, noting that researchers with specific expectations appeared to find exactly the kinds of messages they anticipated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
-This caution gained force precisely because it came after serious technical effort. Estes had access to large-format prints, high-resolution scans and professional imaging tools, yet still found that many proposed readings could not be established with confidence. The lesson was that technology can magnify ambiguity as well as information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+This caution gained force precisely because it came after serious technical effort. Estes had access to large-format prints, high-resolution scans and professional imaging tools, yet still found that many proposed readings could not be established with confidence. The lesson was that technology can magnify ambiguity as well as information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGXwcHXicBY" title="Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer">Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGXwcHXicBY">Open on YouTube</a></p></div></div></div>
@@ -299,19 +299,19 @@ This caution gained force precisely because it came after serious technical effo
 
 The mechanism behind the cloud analogy is well known in perception research. Humans are exceptionally good at recognising patterns, even when the underlying signal is weak. This ability is useful in everyday life, but it can become misleading when examining degraded photographs, blurred documents or low-information images.
 
-In the [Ramey]({{ 'ramey/' | relative_url }}) memo controversy, readers often approached the image with prior beliefs about Roswell. Some expected evidence of a cover-up. Others expected confirmation of a mundane explanation. When visual information is insufficient to force a clear answer, those expectations can influence what appears readable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+In the [Ramey]({{ 'ramey/' | relative_url }}) memo controversy, readers often approached the image with prior beliefs about Roswell. Some expected evidence of a cover-up. Others expected confirmation of a mundane explanation. When visual information is insufficient to force a clear answer, those expectations can influence what appears readable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
-A particularly important finding came from the study reported by James Houran and Kevin Randle. Participants were shown the memo image under different suggestion conditions. Some were told it related to Roswell, others were given a different context, and a control group received little guidance. Many participants believed they could read words from the document, but the words they reported tended to follow the expectations created by the suggestions they had received. The researchers concluded that interpretation of the memo was strongly influenced by prior assumptions rather than by a universally readable underlying text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+A particularly important finding came from the study reported by James Houran and Kevin Randle. Participants were shown the memo image under different suggestion conditions. Some were told it related to Roswell, others were given a different context, and a control group received little guidance. Many participants believed they could read words from the document, but the words they reported tended to follow the expectations created by the suggestions they had received. The researchers concluded that interpretation of the memo was strongly influenced by prior assumptions rather than by a universally readable underlying text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
-This does not prove that every claimed memo reading is wrong. It does show that confidence alone is not evidence of accuracy. Multiple people can sincerely report seeing words, yet reach incompatible conclusions because they are responding to the same ambiguous visual stimulus in different ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+This does not prove that every claimed memo reading is wrong. It does show that confidence alone is not evidence of accuracy. Multiple people can sincerely report seeing words, yet reach incompatible conclusions because they are responding to the same ambiguous visual stimulus in different ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-2-dark.svg" | relative_url }}" alt="Cloud effect illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Concrete Example of the Risk
 
-The history of memo decipherment itself illustrates the cloud effect. Over the years, researchers have proposed striking phrases such as references to wreckage, victims or other details with major implications for the Roswell story. Supporters often viewed these readings as obvious once pointed out. Critics frequently looked at the same image and saw different letters or no reliable words at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The deciphered letter held in the hands of Gen</span><span class="citation-popover-snippet">19, 2023 — The deciphered letter held in the hands of Gen. Ramey which provides smoking gun proof of a disk crash, and the...</span><span class="citation-popover-meta">Published: March 19, 2023</span></span></span>
+The history of memo decipherment itself illustrates the cloud effect. Over the years, researchers have proposed striking phrases such as references to wreckage, victims or other details with major implications for the Roswell story. Supporters often viewed these readings as obvious once pointed out. Critics frequently looked at the same image and saw different letters or no reliable words at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The deciphered letter held in the hands of Gen</span><span class="citation-popover-snippet">19, 2023 — The deciphered letter held in the hands of Gen. Ramey which provides smoking gun proof of a disk crash, and the...</span><span class="citation-popover-meta">Published: March 19, 2023</span></span></span>
 
-The key point is not which specific phrase is correct. The key point is that the image has repeatedly generated mutually inconsistent readings. If a document genuinely contains a clear phrase recoverable from the available data, independent analysts should converge on roughly the same result. Persistent divergence suggests that at least part of the process involves interpretation rather than straightforward recovery of text. Estes’ cloud analogy was aimed at exactly this problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+The key point is not which specific phrase is correct. The key point is that the image has repeatedly generated mutually inconsistent readings. If a document genuinely contains a clear phrase recoverable from the available data, independent analysts should converge on roughly the same result. Persistent divergence suggests that at least part of the process involves interpretation rather than straightforward recovery of text. Estes’ cloud analogy was aimed at exactly this problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-CbAQzM8M3s" title="XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-CbAQzM8M3s" target="_blank" rel="noopener noreferrer">XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo</a></p><p class="youtube-embed-meta">Channel: XZTV International</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-CbAQzM8M3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-CbAQzM8M3s">Open on YouTube</a></p></div></div></div>
@@ -324,9 +324,9 @@ First, readers should distinguish between a possible reading and a demonstrated 
 
 Second, proposed words should be tested against independent analysis. If multiple examiners, using different methods, cannot consistently reproduce a reading, confidence should remain limited.
 
-Third, context should be treated carefully. Knowing that a document is connected to Roswell can unconsciously steer interpretation. Blind or partially blinded evaluation reduces that influence. The [Houran–Randle study]({{ 'suggestion-study/' | relative_url }}) showed how strongly suggestion can affect what observers report seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+Third, context should be treated carefully. Knowing that a document is connected to Roswell can unconsciously steer interpretation. Blind or partially blinded evaluation reduces that influence. The [Houran–Randle study]({{ 'suggestion-study/' | relative_url }}) showed how strongly suggestion can affect what observers report seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
-Finally, technical enhancement should not be confused with information creation. Sharpening, enlarging and filtering can make marks more visible, but they cannot reliably restore details that were never captured in the original photographic record. Estes’ experience demonstrated that even sophisticated imaging methods may leave the essential ambiguity unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+Finally, technical enhancement should not be confused with information creation. Sharpening, enlarging and filtering can make marks more visible, but they cannot reliably restore details that were never captured in the original photographic record. Estes’ experience demonstrated that even sophisticated imaging methods may leave the essential ambiguity unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-3-dark.svg" | relative_url }}" alt="Cloud effect illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,201 +334,201 @@ Finally, technical enhancement should not be confused with information creation.
 
 The significance of the “faces in the clouds” warning is broader than any single proposed transcript. It shifts attention from whether a particular phrase can be imagined in the image to whether the image supports that phrase strongly enough to survive independent scrutiny.
 
-For memo readers, the lesson is straightforward: ambiguous marks can produce sincere but conflicting interpretations. In such situations, the safest conclusion is often not that a preferred reading has been proven, but that the evidence remains too uncertain to carry the weight being placed upon it. That was the caution embedded in Estes’ comparison, and it remains one of the most important methodological warnings in the entire Ramey memo controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
+For memo readers, the lesson is straightforward: ambiguous marks can produce sincere but conflicting interpretations. In such situations, the safest conclusion is often not that a preferred reading has been proven, but that the evidence remains too uncertain to carry the weight being placed upon it. That was the caution embedded in Estes’ comparison, and it remains one of the most important methodological warnings in the entire Ramey memo controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bp106jUEyis" title="Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer">Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research</a></p><p class="youtube-embed-meta">Channel: The &#x27;X&#x27; Zone Broadcast Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bp106jUEyis">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Seeing Words That May Not Be There. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Seeing Words That May Not Be There. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HvdADQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Amy E. Herman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HvdADQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
+</h4>
+<p class="fr-book-author">By Amy E. Herman</p>
         
-        <p class="fr-book-desc">Explores how perception influences interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how perception influences interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c8ETNQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
-        </h4>
-        <p class="fr-book-author">By Ian Jeffrey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c8ETNQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
+</h4>
+<p class="fr-book-author">By Ian Jeffrey</p>
         
-        <p class="fr-book-desc">Useful for understanding ambiguous image reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding ambiguous image reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DTgQ2PRXCxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
-        </h4>
-        <p class="fr-book-author">By Kal K. Korff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DTgQ2PRXCxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
+</h4>
+<p class="fr-book-author">By Kal K. Korff</p>
         
-        <p class="fr-book-desc">Addresses overinterpretation concerns in Roswell research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses overinterpretation concerns in Roswell research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Closely matches the theme of seeing patterns that may not exist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the theme of seeing patterns that may not exist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visual+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visual Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Visual+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visual Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cloud-effect-seeing-words-that-may-not-be-there-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For memo readers, the lesson is straightforward: ambiguous marks can produce sin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For memo readers, the lesson is straightforward: ambiguous marks can produce sin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For memo readers, the lesson is straightforward: ambiguous marks can produce sin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For memo readers, the lesson is straightforward: ambiguous marks can produce sin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For memo readers, the lesson is straightforward: ambiguous marks can produce sin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,103 +734,103 @@ For memo readers, the lesson is straightforward: ambiguous marks can produce sin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Estes&#x27; suggestion of “faces in the clouds” begins to carry some credenc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19, 2023 — The deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19, 2023 — The deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the...</p></details>
    Published: March 19, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kevinrandle.blogspot.com  
    Title: general ramey and his memo  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: General Ramey and His Memo8 May 2009 — I will be the first to admit the whole thing is down to interpretation, a...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: General Ramey and His Memo8 May 2009 — I will be the first to admit the whole thing is down to interpretation, a...</p></details>
    Published: May 2009  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentPhotographs of the purported debris have suggested a terrestrial explanation, while e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentPhotographs of the purported debris have suggested a terrestrial explanation, while e...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a direct follow-up to Houran and Randle (2002a), Houran had the highest-quality memo scans at the time independently evaluated by thre...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a direct follow-up to Houran and Randle (2002a), Houran had the highest-quality memo scans at the time independently evaluated by thre...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — This is a very thorough study on the meaning and content of the memo. I wish we could...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — This is a very thorough study on the meaning and content of the memo. I wish we could...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: roswell memo the 1947 document examined this breakdown focuses on the memo held  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VICTIMS DISC FORT WORTH, TEX. RAMEY The phrases...30 Apr 2025 — The Ramey Memo is, in many ways, a microcosm of the larger Roswell incid...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VICTIMS DISC FORT WORTH, TEX. RAMEY The phrases...30 Apr 2025 — The Ramey Memo is, in many ways, a microcosm of the larger Roswell incid...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kymillman.com  
-   Link: <a href="https://www.kymillman.com/oldest-message-in-a-bottle/?srsltid=AfmBOoqb61HHjRLDY4fQO7jdzVJIlFKEQXBcOJD3rg0WPkfx7BWvqe66" target="_blank" rel="noopener noreferrer nofollow">https://www.kymillman.com/oldest-message-in-a-bottle/?srsltid=AfmBOoqb61HHjRLDY4fQO7jdzVJIlFKEQXBcOJD3rg0WPkfx7BWvqe66</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oldest Message in a BottleA note, placed in a bottle and thrown overboard on June 12, 1886 was found near Wedge Island, WA on January 21...</p></details>
+   Link:<a href="https://www.kymillman.com/oldest-message-in-a-bottle/?srsltid=AfmBOoqb61HHjRLDY4fQO7jdzVJIlFKEQXBcOJD3rg0WPkfx7BWvqe66" target="_blank" rel="noopener noreferrer nofollow">https://www.kymillman.com/oldest-message-in-a-bottle/?srsltid=AfmBOoqb61HHjRLDY4fQO7jdzVJIlFKEQXBcOJD3rg0WPkfx7BWvqe66</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oldest Message in a BottleA note, placed in a bottle and thrown overboard on June 12, 1886 was found near Wedge Island, WA on January 21...</p></details>
    Published: June 12, 1886  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery The Future Past · 42 views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery The Future Past · 42 views...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: reading randle, between the lines  
-   Link: <a href="https://www.facebook.com/groups/335517217174/posts/10160426651772175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/335517217174/posts/10160426651772175/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a frank *no holds...READING RANDLE, BETWEEN THE LINES - A FRANK *NO HOLDS BARRED* CONFESSION, BY HIS SORCERER&#x27;S APPRENTICE, GERRY GEORGE...</p></details>
+   Link:<a href="https://www.facebook.com/groups/335517217174/posts/10160426651772175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/335517217174/posts/10160426651772175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a frank *no holds...READING RANDLE, BETWEEN THE LINES - A FRANK *NO HOLDS BARRED* CONFESSION, BY HIS SORCERER&#x27;S APPRENTICE, GERRY GEORGE...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: XZBN UFO Files  
-   Link: <a href="http://www.youtube.com/watch?v=-CbAQzM8M3s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-CbAQzM8M3s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-CbAQzM8M3s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-CbAQzM8M3s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery  
-   Link: <a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Roger Ramey Memo, with David [Rudiak](&#123;&#123; 'rudiak/' | relative_url &#125;&#125;)  
-   Link: <a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Kevin D. Randle  
-   Link: <a href="https://en.wikipedia.org/wiki/Kevin_D._Randle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kevin_D._Randle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin D. RandleKevin Douglas Randle (born June 4, 1949) is an American ufologist, science fiction and historical fiction writer and a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kevin_D._Randle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kevin_D._Randle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin D. RandleKevin Douglas Randle (born June 4, 1949) is an American ufologist, science fiction and historical fiction writer and a...</p></details>
    Published: June 4, 1949  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: digital.library.adelaide.edu.au  
-   Link: <a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adelaide.edu.au&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey...</p></details>
+   Link:<a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adelaide.edu.au&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey...</p></details>

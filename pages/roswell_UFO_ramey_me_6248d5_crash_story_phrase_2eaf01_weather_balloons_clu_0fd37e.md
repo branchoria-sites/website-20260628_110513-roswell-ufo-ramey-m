@@ -280,18 +280,18 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weat
 
 ## Introduction
 
-If the words “weather balloons” in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) could be read clearly and unambiguously, they would matter—but not in the simple way often assumed. A readable reference to weather balloons would neither automatically prove a cover-up nor automatically confirm the official explanation for Roswell. Instead, it would narrow the range of plausible interpretations and shift the debate from “Was a balloon mentioned?” to “Why was a balloon mentioned?” The significance lies in context: whether the phrase appeared as an operational description, a public-relations instruction, a shorthand explanation for journalists, or a reference to a classified balloon programme that could not be openly identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+If the words “weather balloons” in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) could be read clearly and unambiguously, they would matter—but not in the simple way often assumed. A readable reference to weather balloons would neither automatically prove a cover-up nor automatically confirm the official explanation for Roswell. Instead, it would narrow the range of plausible interpretations and shift the debate from “Was a balloon mentioned?” to “Why was a balloon mentioned?” The significance lies in context: whether the phrase appeared as an operational description, a public-relations instruction, a shorthand explanation for journalists, or a reference to a classified balloon programme that could not be openly identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Clue illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the long-running dispute over the Ramey memo, “weather balloons” is one of the more frequently claimed [readings]({{ 'readings/' | relative_url }}). Yet even researchers who consider the phrase plausible disagree about what it would mean if confirmed. The phrase cuts both ways because the Roswell story itself involved both genuine balloon technology and later allegations of [narrative]({{ 'narrative/' | relative_url }}) management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+Within the long-running dispute over the Ramey memo, “weather balloons” is one of the more frequently claimed [readings]({{ 'readings/' | relative_url }}). Yet even researchers who consider the phrase plausible disagree about what it would mean if confirmed. The phrase cuts both ways because the Roswell story itself involved both genuine balloon technology and later allegations of [narrative]({{ 'narrative/' | relative_url }}) management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdXwvdvr_Ps" title="The Roger Ramey Memo, with David Rudiak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer">The Roger Ramey Memo, with David Rudiak</a></p><p class="youtube-embed-meta">Channel: Project Bluebook</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdXwvdvr_Ps">Open on YouTube</a></p></div></div></div>
 
 ## Why the Phrase Cuts Both Ways
 
-A clear “weather balloons” reading would strengthen one point immediately: balloons were part of the discussion inside military channels on the day the public explanation changed. That alone would not be surprising. General Roger [Ramey]({{ 'ramey/' | relative_url }}) publicly displayed balloon-like debris in Fort Worth and announced that the recovered material was not a flying disc. A memo mentioning weather balloons would therefore fit known events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Ramey, commander of the 8th Air Force. Roswell&#x27;s morning newspaper debunked the story. the remains of a weather balloon, The...</span></span></span>
+A clear “weather balloons” reading would strengthen one point immediately: balloons were part of the discussion inside military channels on the day the public explanation changed. That alone would not be surprising. General Roger [Ramey]({{ 'ramey/' | relative_url }}) publicly displayed balloon-like debris in Fort Worth and announced that the recovered material was not a flying disc. A memo mentioning weather balloons would therefore fit known events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Ramey, commander of the 8th Air Force. Roswell&#x27;s morning newspaper debunked the story. the remains of a weather balloon, The...</span></span></span>
 
 The harder question is whether the phrase would be descriptive or strategic.
 
@@ -300,9 +300,9 @@ Two competing interpretations would remain:
 * **Straightforward explanation:** the memo referred to the actual nature of the debris, meaning the military was discussing balloon material because balloon material had been recovered.
 * **Narrative explanation:** the memo referred to what should be said publicly, meaning “weather balloons” was the chosen public description regardless of the underlying recovery.
 
-The existence of the phrase alone cannot distinguish between those possibilities. A sentence such as “the remains are weather balloons” would imply one thing; a sentence such as “explain as weather balloons” would imply something very different. Because the surrounding text remains disputed, the phrase by itself would not settle the issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+The existence of the phrase alone cannot distinguish between those possibilities. A sentence such as “the remains are weather balloons” would imply one thing; a sentence such as “explain as weather balloons” would imply something very different. Because the surrounding text remains disputed, the phrase by itself would not settle the issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
-This is one reason the memo has remained controversial for decades. Researchers repeatedly note that isolated words appear more stable than complete sentences. A recognisable phrase can sound decisive when removed from its grammatical context, yet still fail to reveal the author's intended meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+This is one reason the memo has remained controversial for decades. Researchers repeatedly note that isolated words appear more stable than complete sentences. A recognisable phrase can sound decisive when removed from its grammatical context, yet still fail to reveal the author's intended meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r3E-nA9NkC8" title="XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r3E-nA9NkC8" target="_blank" rel="noopener noreferrer">XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo</a></p><p class="youtube-embed-meta">Channel: REL-MAR McConnell Media Company</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r3E-nA9NkC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r3E-nA9NkC8">Open on YouTube</a></p></div></div></div>
@@ -311,11 +311,11 @@ This is one reason the memo has remained controversial for decades. Researchers 
 
 The strongest argument that a readable “weather balloons” phrase would support the official record is simple consistency.
 
-On 8 July 1947, Roswell Army Air Field initially announced recovery of a “flying disc”. Within hours, the story changed. Ramey displayed debris in Fort Worth and identified it as the remains of a weather balloon and radar target. Newspaper coverage quickly followed that revised explanation. A memo in his hand containing the same terminology would align with the explanation being publicly delivered at that exact moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Ramey, commander of the 8th Air Force. Roswell&#x27;s morning newspaper debunked the story. the remains of a weather balloon, The...</span></span></span>
+On 8 July 1947, Roswell Army Air Field initially announced recovery of a “flying disc”. Within hours, the story changed. Ramey displayed debris in Fort Worth and identified it as the remains of a weather balloon and radar target. Newspaper coverage quickly followed that revised explanation. A memo in his hand containing the same terminology would align with the explanation being publicly delivered at that exact moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">5 Jul 2017 — Ramey, commander of the 8th Air Force. Roswell&#x27;s morning newspaper debunked the story. the remains of a weather balloon, The...</span></span></span>
 
-This would not be a trivial point. One criticism sometimes made by sceptics of the official explanation is that the [balloon story]({{ 'balloon-story/' | relative_url }}) appeared suddenly and lacked documentary support. A clearly readable memo containing the phrase would show that balloon terminology was indeed present in contemporaneous communications, rather than being reconstructed only decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell...</span></span></span>
+This would not be a trivial point. One criticism sometimes made by sceptics of the official explanation is that the [balloon story]({{ 'balloon-story/' | relative_url }}) appeared suddenly and lacked documentary support. A clearly readable memo containing the phrase would show that balloon terminology was indeed present in contemporaneous communications, rather than being reconstructed only decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell...</span></span></span>
 
-At the same time, such a finding would not resolve whether the explanation was complete. Government records and later Air Force investigations concluded that the debris most likely came from [Project Mogul]({{ 'project-mogul/' | relative_url }}), a classified balloon programme aimed at detecting Soviet nuclear tests. Those investigations acknowledged that the public “weather balloon” description may have obscured the classified purpose of the equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+At the same time, such a finding would not resolve whether the explanation was complete. Government records and later Air Force investigations concluded that the debris most likely came from [Project Mogul]({{ 'project-mogul/' | relative_url }}), a classified balloon programme aimed at detecting Soviet nuclear tests. Those investigations acknowledged that the public “weather balloon” description may have obscured the classified purpose of the equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 In that sense, a readable “weather balloons” phrase could support the historical record while still leaving open questions about how much information was being withheld.
 
@@ -325,13 +325,13 @@ In that sense, a readable “weather balloons” phrase could support the histor
 
 Project Mogul is the reason a confirmed balloon reference would not automatically prove deception.
 
-The modern Air Force explanation is not that ordinary weather observations caused the Roswell incident. Rather, it is that balloon equipment associated with a secret military programme was recovered, and that officials either simplified the explanation or concealed the programme's real purpose because it involved classified Cold War surveillance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+The modern Air Force explanation is not that ordinary weather observations caused the Roswell incident. Rather, it is that balloon equipment associated with a secret military programme was recovered, and that officials either simplified the explanation or concealed the programme's real purpose because it involved classified Cold War surveillance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
 That creates a middle position between two popular extremes:
 
 InterpretationWhat “weather balloons” would implyComplete official honestyThe debris was exactly what officials said it was.Complete cover-upThe phrase was deliberately invented to conceal something unrelated to balloons.Classified-program explanationThe debris involved balloon technology, but the public description concealed its military mission.
 
-The third position is important because it explains why a balloon reference can coexist with secrecy. Even if the recovered material originated from Mogul hardware, officers in 1947 would have had strong incentives not to discuss its nuclear-detection mission publicly. Later historical research into Mogul repeatedly highlighted that its classified purpose, not necessarily the balloon components themselves, was the sensitive element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">a still-secret government program from the 1940s called Project Mogul.Read more...</span></span></span>
+The third position is important because it explains why a balloon reference can coexist with secrecy. Even if the recovered material originated from Mogul hardware, officers in 1947 would have had strong incentives not to discuss its nuclear-detection mission publicly. Later historical research into Mogul repeatedly highlighted that its classified purpose, not necessarily the balloon components themselves, was the sensitive element.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">a still-secret government program from the 1940s called Project Mogul.Read more...</span></span></span>
 
 As a result, a readable “weather balloons” phrase would weaken arguments that the memo contains no balloon-related language at all, but it would not eliminate the possibility that the phrase functioned as a simplified public explanation.
 
@@ -350,204 +350,204 @@ A confirmed reading of “weather balloons” would likely:
 * Increase confidence that balloon terminology genuinely appears in the memo.
 * Strengthen the connection between the memo and the public Fort Worth explanation.
 * Make interpretations that completely exclude balloons less persuasive.
-* Leave unresolved whether the phrase described the recovered material, the public narrative, or both. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+* Leave unresolved whether the phrase described the recovered material, the public narrative, or both.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 </div>
 
-What it would not do is answer the larger Roswell question by itself. The decisive issue is not whether the words “weather balloons” appear somewhere in the document. The decisive issue is how those words relate to the surrounding text, the military's actions on 8 July 1947, and the later evidence concerning Project Mogul. Until the memo can be read as a coherent document rather than a collection of disputed fragments, “weather balloons” remains a clue rather than a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Digital Library Adelaide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+What it would not do is answer the larger Roswell question by itself. The decisive issue is not whether the words “weather balloons” appear somewhere in the document. The decisive issue is how those words relate to the surrounding text, the military's actions on 8 July 1947, and the later evidence concerning Project Mogul. Until the memo can be read as a coherent document rather than a collection of disputed fragments, “weather balloons” remains a clue rather than a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Digital Library Adelaide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Clue illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does &#x27;Weather Balloons&#x27; Help or Hurt?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does &#x27;Weather Balloons&#x27; Help or Hurt?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly engages with weather balloon and Mogul arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly engages with weather balloon and Mogul arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Places Roswell-era debates in broader context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell-era debates in broader context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Covers governmental responses to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers governmental responses to UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the core crash narrative later challenged by balloon explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the core crash narrative later challenged by balloon explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device"><img src="{{ '/assets/images/marketplace-covers/8d1daf77c6ef187a29ed.jpg' | relative_url }}" alt="Listing image for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device"><img src="{{ '/assets/images/marketplace-covers/8d1daf77c6ef187a29ed.jpg' | relative_url }}" alt="Listing image for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS"><img src="{{ '/assets/images/marketplace-covers/685480d9c7ec8cd937b9.jpg' | relative_url }}" alt="Listing image for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS"><img src="{{ '/assets/images/marketplace-covers/685480d9c7ec8cd937b9.jpg' | relative_url }}" alt="Listing image for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS"><img src="{{ '/assets/images/marketplace-covers/8c511e2df4e5f4cfd188.jpg' | relative_url }}" alt="Listing image for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS"><img src="{{ '/assets/images/marketplace-covers/8c511e2df4e5f4cfd188.jpg' | relative_url }}" alt="Listing image for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video"><img src="{{ '/assets/images/marketplace-covers/49c9b98968f01b0e3464.jpg' | relative_url }}" alt="Listing image for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Collection Balloons Wedding Latex for Meteorology Aerial Video</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video"><img src="{{ '/assets/images/marketplace-covers/49c9b98968f01b0e3464.jpg' | relative_url }}" alt="Listing image for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Collection Balloons Wedding Latex for Meteorology Aerial Video</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="balloon-clue-does-weather-balloons-help-or-hurt-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ What it would not do is answer the larger Roswell question by itself. The decisi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ What it would not do is answer the larger Roswell question by itself. The decisi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ What it would not do is answer the larger Roswell question by itself. The decisi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ What it would not do is answer the larger Roswell question by itself. The decisi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ What it would not do is answer the larger Roswell question by itself. The decisi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,134 +753,134 @@ What it would not do is answer the larger Roswell question by itself. The decisi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe initial 1994 USAF report admitted that the weather balloon explanation was a [cover story](&amp;#123;&amp;#123; &#x27;cover-story/&#x27; | relative_url &amp;#125;&amp;#125;) for Project Mogul, a mili...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe initial 1994 USAF report admitted that the weather balloon explanation was a [cover story](&amp;#123;&amp;#123; &#x27;cover-story/&#x27; | relative_url &amp;#125;&amp;#125;) for Project Mogul, a mili...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>content that supported a crashed extraterrestrial craft scenario.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>content that supported a crashed extraterrestrial craft scenario.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early interpretations by Brad Sparks included words like &quot;BALLOONS,&quot; &quot;weather. balloons,&quot; &quot;Fort Worth, Tex.,&quot; and &quot;disc&quot;...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early interpretations by Brad Sparks included words like &quot;BALLOONS,&quot; &quot;weather. balloons,&quot; &quot;Fort Worth, Tex.,&quot; and &quot;disc&quot;...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeYoung who speculated that his hobby of releasing silvery balloons with his name attached may have been responsib...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeYoung who speculated that his hobby of releasing silvery balloons with his name attached may have been responsib...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: digital.library.adelaide.edu.au  
-   Link: <a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Library Adelaide&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey...&quot;A message in a bottle:&quot; Confounds in deciphering...</p></details>
+   Link:<a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Library Adelaide&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey...&quot;A message in a bottle:&quot; Confounds in deciphering...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Ramey, commander of the 8th Air Force. Roswell&#x27;s morning newspaper debunked the story. the remains of a weather balloon, The...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Ramey, commander of the 8th Air Force. Roswell&#x27;s morning newspaper debunked the story. the remains of a weather balloon, The...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iconicphotos.wordpress.com  
    Title: roswell memo  
-   Link: <a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memo - Iconic Photos - WordPress.com31 May 2018 — Some saw the phrase “victims of the wreck” on the telegram, while others claimed it rea...</p></details>
+   Link:<a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memo - Iconic Photos - WordPress.com31 May 2018 — Some saw the phrase “victims of the wreck” on the telegram, while others claimed it rea...</p></details>
    Published: May 2018  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uta.edu  
-   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey MemoIn 1947, a mysterious object crashed to Earth in Roswell, New Mexico. While it was later identified as a weather balloon, t...</p></details>
+   Link:<a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey MemoIn 1947, a mysterious object crashed to Earth in Roswell, New Mexico. While it was later identified as a weather balloon, t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/9" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>balloon demonstration | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Worth Army Air...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/9" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>balloon demonstration | Roswell UFO IncidentAirmen demonstrate a radar device being attached to a weather balloon at Fort Worth Army Air...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Vault Reveals UFO, Roswell FilesSecret memos about suspicious objects recovered near Roswell, N.M.?... &quot;The object found resembles a...</p></details>
+   Link:<a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Vault Reveals UFO, Roswell FilesSecret memos about suspicious objects recovered near Roswell, N.M.?... &quot;The object found resembles a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I transcripted the Ramey Memo: r/UFOsThe &quot;proof [of weather balloons](&amp;#123;&amp;#123; &#x27;of-balloons/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; suggests the military may have planned to present a weather balloon...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I transcripted the Ramey Memo: r/UFOsThe &quot;proof [of weather balloons](&amp;#123;&amp;#123; &#x27;of-balloons/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; suggests the military may have planned to present a weather balloon...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/783953665828873/posts/1981713112719583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/783953665828873/posts/1981713112719583/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM incident explained as weather balloon crashIt had some metal on it, they guessed it was a radar reflector- that&#x27;s how they ke...</p></details>
+   Link:<a href="https://www.facebook.com/groups/783953665828873/posts/1981713112719583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/783953665828873/posts/1981713112719583/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM incident explained as weather balloon crashIt had some metal on it, they guessed it was a radar reflector- that&#x27;s how they ke...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: roswell memo the 1947 document examined this breakdown focuses on the memo held  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VICTIMS DISC FORT WORTH, TEX. RAMEY The phrases...30 Apr 2025 — He presented debris claimed to be from a weather balloon, not a flying s...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VICTIMS DISC FORT WORTH, TEX. RAMEY The phrases...30 Apr 2025 — He presented debris claimed to be from a weather balloon, not a flying s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“MISSTATE MEANING OF STORY” and “OF WEATHER BALLOONS” might be discussion of...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4003190/The_Most_Comprehensive_Account_of_the_Roswell_Incident_You_Ever_Did_See</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“MISSTATE MEANING OF STORY” and “OF WEATHER BALLOONS” might be discussion of...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: the-sun.com  
    Title: roswell mystery cracked air force captain memo ufo crash  
-   Link: <a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
+   Link:<a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...It had some metal on it, they guessed it was a radar reflector- that&#x27;s how they kept track of weather balloons back then, b...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...It had some metal on it, they guessed it was a radar reflector- that&#x27;s how they kept track of weather balloons back then, b...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=ky-5wlIjzI8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ky-5wlIjzI8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo weather balloons Mogul The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident Today I Found Out...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ky-5wlIjzI8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ky-5wlIjzI8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo weather balloons Mogul The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident Today I Found Out...</p></details>

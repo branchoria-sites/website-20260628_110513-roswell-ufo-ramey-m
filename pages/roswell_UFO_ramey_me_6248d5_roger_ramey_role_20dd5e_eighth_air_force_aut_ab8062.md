@@ -274,17 +274,17 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth
 
 ## Introduction
 
-The importance of Roger [Ramey]({{ 'ramey/' | relative_url }}) in the Roswell story was not simply that he appeared before reporters. It was that he did so as commander of the Eighth Air Force, a headquarters that sat above Roswell Army Air Field in the post-war Army Air Forces command structure. When the debris was flown from New Mexico to Fort Worth on 8 July 1947, the explanation ceased to be a local interpretation by officers at Roswell and became the official position of a senior command authority. That shift helps explain why the original “flying disc” announcement was rapidly eclipsed by the balloon explanation. The correction carried the weight of a higher headquarters, delivered by one of the most senior air officers directly involved in the chain of command. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
+The importance of Roger [Ramey]({{ 'ramey/' | relative_url }}) in the Roswell story was not simply that he appeared before reporters. It was that he did so as commander of the Eighth Air Force, a headquarters that sat above Roswell Army Air Field in the post-war Army Air Forces command structure. When the debris was flown from New Mexico to Fort Worth on 8 July 1947, the explanation ceased to be a local interpretation by officers at Roswell and became the official position of a senior command authority. That shift helps explain why the original “flying disc” announcement was rapidly eclipsed by the balloon explanation. The correction carried the weight of a higher headquarters, delivered by one of the most senior air officers directly involved in the chain of command.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062-Illustration-1-dark.svg" | relative_url }}" alt="Command Weight illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Ramey's Rank Changed the Story
 
-The Roswell announcement originated at Roswell Army Air Field, home of the 509th Bomb Group. Although the base was famous because it housed the military’s only operational atomic-capable bomber unit, it remained subordinate to larger command structures. In July 1947, one of those structures was the Eighth Air Force headquartered at Fort Worth Army Air Field in Texas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eighth_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eighth Air Force</span><span class="citation-popover-snippet">Eighth Air Force</span></span></span>
+The Roswell announcement originated at Roswell Army Air Field, home of the 509th Bomb Group. Although the base was famous because it housed the military’s only operational atomic-capable bomber unit, it remained subordinate to larger command structures. In July 1947, one of those structures was the Eighth Air Force headquartered at Fort Worth Army Air Field in Texas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eighth_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eighth Air Force</span><span class="citation-popover-snippet">Eighth Air Force</span></span></span>
 
-Roger Ramey was not merely a local base commander. The Eighth Air Force had been reactivated in Fort Worth in late 1946, and Ramey assumed command in January 1947. His headquarters exercised authority over major bomber forces, including Roswell’s 509th organisation. When uncertainty arose over the recovered debris, the matter moved upward to his level for review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
+Roger Ramey was not merely a local base commander. The Eighth Air Force had been reactivated in Fort Worth in late 1946, and Ramey assumed command in January 1947. His headquarters exercised authority over major bomber forces, including Roswell’s 509th organisation. When uncertainty arose over the recovered debris, the matter moved upward to his level for review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
 
-This distinction is often lost in simplified retellings. The public did not witness one Roswell officer disagreeing with another. Instead, they saw a higher command office override the interpretation associated with Roswell and present a replacement explanation. From the perspective of military governance, that made the Fort Worth statement inherently more authoritative than the original release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th A...</span></span></span>
+This distinction is often lost in simplified retellings. The public did not witness one Roswell officer disagreeing with another. Instead, they saw a higher command office override the interpretation associated with Roswell and present a replacement explanation. From the perspective of military governance, that made the Fort Worth statement inherently more authoritative than the original release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rih9-80p0Ec" title="The Truth about Roswell: Decoding Decades of Deception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer">The Truth about Roswell: Decoding Decades of Deception</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 9.8M &middot; Uploaded: June 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rih9-80p0Ec">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ This distinction is often lost in simplified retellings. The public did not witn
 
 Understanding the command relationship helps explain why the correction gained immediate traction.
 
-Roswell Army Air Field was not operating independently. The 509th Bomb Group at Roswell belonged to the Eighth Air Force structure, which had responsibility for strategic bomber forces in the region. Contemporary accounts and later historical summaries note that Colonel William Blanchard at Roswell worked through higher headquarters and that Ramey was the senior commander ultimately consulted when the debris became a matter of public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th A...</span></span></span>
+Roswell Army Air Field was not operating independently. The 509th Bomb Group at Roswell belonged to the Eighth Air Force structure, which had responsibility for strategic bomber forces in the region. Contemporary accounts and later historical summaries note that Colonel William Blanchard at Roswell worked through higher headquarters and that Ramey was the senior commander ultimately consulted when the debris became a matter of public attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Jul 5, 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th A...</span></span></span>
 
-Several later reconstructions of the event describe the debris being sent to Fort Worth specifically because Ramey ordered or directed that it be examined at Eighth Air Force headquarters. Once there, the material was no longer being evaluated solely by Roswell personnel. It entered the command environment of a headquarters led by a general officer whose judgement carried organisational authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Project MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but it was not...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
+Several later reconstructions of the event describe the debris being sent to Fort Worth specifically because Ramey ordered or directed that it be examined at Eighth Air Force headquarters. Once there, the material was no longer being evaluated solely by Roswell personnel. It entered the command environment of a headquarters led by a general officer whose judgement carried organisational authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Project MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but it was not...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-The photographs taken that day reinforce this point. Ramey was accompanied by Colonel Thomas J. DuBose, his chief of staff, and the inspection took place within the headquarters setting of the Eighth Air Force rather than at the recovery site itself. The imagery projected command endorsement rather than field-level speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pacificwrecks.com/people/veterans/ramey_r/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificwrecks.com">[Pacific Wrecks+2Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificwrecks.com</span><span class="citation-popover-title">Pacific Wrecks Lt General Roger M</span><span class="citation-popover-snippet">Ramey, U.S. Army Air Force (USAAF)...During January 1947 assumed command of the 8th Air Force (8th AF) and was simultaneously was the co...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
+The photographs taken that day reinforce this point. Ramey was accompanied by Colonel Thomas J. DuBose, his chief of staff, and the inspection took place within the headquarters setting of the Eighth Air Force rather than at the recovery site itself. The imagery projected command endorsement rather than field-level speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pacificwrecks.com/people/veterans/ramey_r/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificwrecks.com">[Pacific Wrecks+2Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificwrecks.com</span><span class="citation-popover-title">Pacific Wrecks Lt General Roger M</span><span class="citation-popover-snippet">Ramey, U.S. Army Air Force (USAAF)...During January 1947 assumed command of the 8th Air Force (8th AF) and was simultaneously was the co...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdXwvdvr_Ps" title="The Roger Ramey Memo, with David Rudiak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer">The Roger Ramey Memo, with David Rudiak</a></p><p class="youtube-embed-meta">Channel: Project Bluebook</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdXwvdvr_Ps">Open on YouTube</a></p></div></div></div>
@@ -306,11 +306,11 @@ The photographs taken that day reinforce this point. Ramey was accompanied by Co
 
 The Fort Worth explanation carried influence because it originated from a command headquarters that occupied a higher place in the military hierarchy.
 
-News organisations in 1947 generally treated statements from senior commanders as more reliable than preliminary reports from subordinate installations. Once Ramey publicly identified the debris as balloon-related and allowed reporters to photograph it, journalists had a new source that appeared both more senior and more definitive than the original Roswell announcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — Roger Ramey, commander of the Eighth Air Force at Fort Worth...</span></span></span>
+News organisations in 1947 generally treated statements from senior commanders as more reliable than preliminary reports from subordinate installations. Once Ramey publicly identified the debris as balloon-related and allowed reporters to photograph it, journalists had a new source that appeared both more senior and more definitive than the original Roswell announcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — Roger Ramey, commander of the Eighth Air Force at Fort Worth...</span></span></span>
 
-The correction also possessed practical advantages. Reporters could see the debris in Fort Worth, photograph it, and obtain comments directly from the commanding general. The original Roswell release had generated excitement because it suggested the recovery of a “flying disc”, but the Fort Worth presentation supplied a visible alternative [narrative]({{ 'narrative/' | relative_url }}) backed by a recognised command authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">roswell ufo incident</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJun 26, 2025 — Ramey Empties Roswell Saucer&#x27; – General Roger Ramey being the C...</span></span></span>
+The correction also possessed practical advantages. Reporters could see the debris in Fort Worth, photograph it, and obtain comments directly from the commanding general. The original Roswell release had generated excitement because it suggested the recovery of a “flying disc”, but the Fort Worth presentation supplied a visible alternative [narrative]({{ 'narrative/' | relative_url }}) backed by a recognised command authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">roswell ufo incident</span><span class="citation-popover-snippet">Sky at Night MagazineRoswell UFO incident facts and historyJun 26, 2025 — Ramey Empties Roswell Saucer&#x27; – General Roger Ramey being the C...</span></span></span>
 
-As a result, newspapers rapidly shifted emphasis. Headlines moved from the extraordinary claim of a recovered disc to the explanation provided by Ramey's headquarters. Whether that explanation was correct, mistaken, incomplete, or deliberately managed is a separate question debated elsewhere in Roswell literature. What matters here is that the public correction came from a level of authority capable of redefining the official story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Captures Flying Saucer On Ranch In Roswell Region,&quot; while the next day&#x27;s edition reported, &quot;Ramey Empties...Read more...</span></span></span>
+As a result, newspapers rapidly shifted emphasis. Headlines moved from the extraordinary claim of a recovered disc to the explanation provided by Ramey's headquarters. Whether that explanation was correct, mistaken, incomplete, or deliberately managed is a separate question debated elsewhere in Roswell literature. What matters here is that the public correction came from a level of authority capable of redefining the official story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Captures Flying Saucer On Ranch In Roswell Region,&quot; while the next day&#x27;s edition reported, &quot;Ramey Empties...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGXwcHXicBY" title="Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer">Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGXwcHXicBY">Open on YouTube</a></p></div></div></div>
@@ -319,201 +319,201 @@ As a result, newspapers rapidly shifted emphasis. Headlines moved from the extra
 
 The Eighth Air Force command role did more than provide visibility; it supplied credibility.
 
-Ramey had an established wartime record and occupied a prominent command position within the Army Air Forces. Reporters and editors had little reason in July 1947 to view him as an unreliable source. His status as a general officer effectively signalled that the matter had been reviewed at a senior level and that the explanation being offered represented the military's considered judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
+Ramey had an established wartime record and occupied a prominent command position within the Army Air Forces. Reporters and editors had little reason in July 1947 to view him as an unreliable source. His status as a general officer effectively signalled that the matter had been reviewed at a senior level and that the explanation being offered represented the military's considered judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
 
-This is one reason the Roswell episode faded so quickly in its original historical moment. The correction was not issued by an anonymous spokesman. It was delivered personally by the commander of the Eighth Air Force, supported by headquarters staff and accompanied by photographs that appeared to show ordinary balloon-related debris. To contemporary observers, that combination of rank, institutional authority, and visible evidence was persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — Roger Ramey, commander of the Eighth Air Force at Fort Worth...</span></span></span>
+This is one reason the Roswell episode faded so quickly in its original historical moment. The correction was not issued by an anonymous spokesman. It was delivered personally by the commander of the Eighth Air Force, supported by headquarters staff and accompanied by photographs that appeared to show ordinary balloon-related debris. To contemporary observers, that combination of rank, institutional authority, and visible evidence was persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — Roger Ramey, commander of the Eighth Air Force at Fort Worth...</span></span></span>
 
-For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) and the Fort Worth photographs, this command context remains crucial. The debate is not only about what the debris was or what the memo may have contained. It is also about why the military's revised explanation gained acceptance so rapidly. The answer lies largely in the authority of the Eighth Air Force headquarters and the fact that Roger Ramey spoke not merely as an individual officer, but as the senior commander whose office formally outweighed Roswell's public claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
+For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) and the Fort Worth photographs, this command context remains crucial. The debate is not only about what the debris was or what the memo may have contained. It is also about why the military's revised explanation gained acceptance so rapidly. The answer lies largely in the authority of the Eighth Air Force headquarters and the fact that Roger Ramey spoke not merely as an individual officer, but as the senior commander whose office formally outweighed Roswell's public claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">lt gen roger m ramey</span><span class="citation-popover-snippet">U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</span><span class="citation-popover-meta">Published: January 1947</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ramey&#x27;s Rank Changed the Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ramey&#x27;s Rank Changed the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Explains command structures relevant to Ramey&#x27;s authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains command structures relevant to Ramey&#x27;s authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Masters+of+the+Air+by+Donald+L.+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Masters of the Air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WSHWDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Masters of the Air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Masters+of+the+Air+by+Donald+L.+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Masters of the Air">Masters of the Air</a>
-        </h4>
-        <p class="fr-book-author">By Donald L. Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Masters+of+the+Air+by+Donald+L.+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Masters of the Air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WSHWDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Masters of the Air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Masters+of+the+Air+by+Donald+L.+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Masters of the Air">Masters of the Air</a>
+</h4>
+<p class="fr-book-author">By Donald L. Miller</p>
         
-        <p class="fr-book-desc">Provides background on the Eighth Air Force and senior air command culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Masters+of+the+Air+by+Donald+L.+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on the Eighth Air Force and senior air command culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Masters+of+the+Air+by+Donald+L.+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mighty+Eighth+by+Gerald+Astor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mighty Eighth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D9tJBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mighty Eighth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mighty+Eighth+by+Gerald+Astor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mighty Eighth">The Mighty Eighth</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Astor</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mighty+Eighth+by+Gerald+Astor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mighty Eighth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D9tJBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mighty Eighth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mighty+Eighth+by+Gerald+Astor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mighty Eighth">The Mighty Eighth</a>
+</h4>
+<p class="fr-book-author">By Gerald Astor</p>
         
-        <p class="fr-book-desc">Directly relevant to understanding the organization Ramey commanded.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mighty+Eighth+by+Gerald+Astor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to understanding the organization Ramey commanded.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mighty+Eighth+by+Gerald+Astor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Places Ramey&#x27;s authority within the unfolding Roswell story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Ramey&#x27;s authority within the unfolding Roswell story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Masters+of+the+Air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Masters of the Air</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mighty+Eighth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mighty Eighth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Masters+of+the+Air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Masters of the Air</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mighty+Eighth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mighty Eighth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="command-weight-why-ramey-s-rank-changed-the-story-roswell-ufo-ramey-memo-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,139 +719,139 @@ For later researchers examining the [Ramey memo]({{ 'ramey-memo/' | relative_url
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Eighth Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Eighth_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eighth_Air_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eighth_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eighth_Air_Force</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — Roger Ramey, commander of the Eighth Air Force at Fort Worth...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSIntelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — Roger Ramey, commander of the Eighth Air Force at Fort Worth...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but it was not...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but it was not...</p></details>
    Published: July 7, 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yahoo.com  
    Title: july long ago roswell incident 103000309  
-   Link: <a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas J. Dubose, chief of staff, look over debris flown to Fort Worth Army Air Field (now...Read more...</p></details>
+   Link:<a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas J. Dubose, chief of staff, look over debris flown to Fort Worth Army Air Field (now...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aol.com  
    Title: Bond [Johnson](&#123;&#123; 'johnson/' | relative_url &#125;&#125;) and claimed that it was only a weather balloon.Read more  
-   Link: <a href="https://www.aol.com/july-long-ago-roswell-incident-103000520.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/july-long-ago-roswell-incident-103000520.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a July long ago, the &#x27;Roswell Incident&#x27; spy-UFO crash...Roger Ramey, commander of the 8th Air Force, held up shreds of tinfoil and...</p></details>
+   Link:<a href="https://www.aol.com/july-long-ago-roswell-incident-103000520.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/july-long-ago-roswell-incident-103000520.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a July long ago, the &#x27;Roswell Incident&#x27; spy-UFO crash...Roger Ramey, commander of the 8th Air Force, held up shreds of tinfoil and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Captures Flying Saucer On Ranch In Roswell Region,&quot; while the next day&#x27;s edition reported, &quot;Ramey Empties...Read more...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captures Flying Saucer On Ranch In Roswell Region,&quot; while the next day&#x27;s edition reported, &quot;Ramey Empties...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Jul...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Jul...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roger M. Ramey  
-   Link: <a href="https://en.wikipedia.org/wiki/Roger_M._Ramey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_M._Ramey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger M. RameyRoger Maxwell Ramey (September 9, 1905 – March 4, 1963) was an American officer who reached the rank of Lieutenant Gener...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roger_M._Ramey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_M._Ramey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger M. RameyRoger Maxwell Ramey (September 9, 1905 – March 4, 1963) was an American officer who reached the rank of Lieutenant Gener...</p></details>
    Published: September 9, 1905  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: af.mil  
    Title: lt gen roger m ramey  
-   Link: <a href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/Display/Article/1686367/lt-gen-roger-m-ramey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Forcelt. gen. roger m. rameyRamey was Chief of Staff of the Eighth, and in January 1947 assumed command of the Eighth. In June 1...</p></details>
    Published: January 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th A...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — Working his way up the chain of command, he decided to contact his superior, General Roger W. Ramey, commander of the 8th A...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pacificwrecks.com  
    Title: Pacific Wrecks Lt General Roger M  
-   Link: <a href="https://pacificwrecks.com/people/veterans/ramey_r/index.html" target="_blank" rel="noopener noreferrer nofollow">https://pacificwrecks.com/people/veterans/ramey_r/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey, U.S. Army Air Force (USAAF)...During January 1947 assumed command of the 8th Air Force (8th AF) and was simultaneously was the co...</p></details>
+   Link:<a href="https://pacificwrecks.com/people/veterans/ramey_r/index.html" target="_blank" rel="noopener noreferrer nofollow">https://pacificwrecks.com/people/veterans/ramey_r/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey, U.S. Army Air Force (USAAF)...During January 1947 assumed command of the 8th Air Force (8th AF) and was simultaneously was the co...</p></details>
    Published: January 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and historyJun 26, 2025 — Ramey Empties Roswell Saucer&#x27; – General Roger Ramey being the C...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineRoswell UFO incident facts and historyJun 26, 2025 — Ramey Empties Roswell Saucer&#x27; – General Roger Ramey being the C...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: valor.militarytimes.com  
    Title: Roger Ramey  
-   Link: <a href="https://valor.militarytimes.com/recipient/recipient-6183/" target="_blank" rel="noopener noreferrer nofollow">https://valor.militarytimes.com/recipient/recipient-6183/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hall of Valor - Military TimesRoger Ramey graduated from the US Military Academy at West Point, Class of 1928. He retired in 1957 as a US...</p></details>
+   Link:<a href="https://valor.militarytimes.com/recipient/recipient-6183/" target="_blank" rel="noopener noreferrer nofollow">https://valor.militarytimes.com/recipient/recipient-6183/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hall of Valor - Military TimesRoger Ramey graduated from the US Military Academy at West Point, Class of 1928. He retired in 1957 as a US...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentPDF | Something unquestionably strange fell southeast of the tiny New Mexican town of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentPDF | Something unquestionably strange fell southeast of the tiny New Mexican town of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fort_Worth_Army_Air_Field_1943_Classbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Fort_Worth_Army_Air_Field_1943_Classbook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFort Worth Air FieldFor a brief period of weeks, General Ramey was. Chief of Staff under Major General Clements McMullen...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fort_Worth_Army_Air_Field_1943_Classbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Fort_Worth_Army_Air_Field_1943_Classbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFort Worth Air FieldFor a brief period of weeks, General Ramey was. Chief of Staff under Major General Clements McMullen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: flying saucer crash in roswellon july 2 1947 some sort of flying object crashed  
-   Link: <a href="https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the 1947 Roswell flying saucer crash?On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating that a...</p></details>
+   Link:<a href="https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/flying-saucer-crash-in-roswellon-july-2-1947-some-sort-of-flying-object-crashed-/122133876062651114/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the 1947 Roswell flying saucer crash?On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating that a...</p></details>
    Published: July 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth Army Air Field [later Carswell Air Force Base] from Roswell on. July 8...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth Army Air Field [later Carswell Air Force Base] from Roswell on. July 8...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records13 Jul 2021 — On July 8, 1947, the Roswell Anny Air Field (RAAF) public information office in Roswell, New Mexico, reported the cr...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records13 Jul 2021 — On July 8, 1947, the Roswell Anny Air Field (RAAF) public information office in Roswell, New Mexico, reported the cr...</p></details>
    Published: July 8, 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: It's one of history's most famous conspiracies  
-   Link: <a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...On July 8, 1947, Roswell Army Air Field issued a press release stating that they had recovered a &quot;flying disc&quot;. The Army qu...</p></details>
+   Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did aliens...On July 8, 1947, Roswell Army Air Field issued a press release stating that they had recovered a &quot;flying disc&quot;. The Army qu...</p></details>
    Published: July 8, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HistoryPorn/comments/14tuqh1/brigadier_general_roger_m_ramey_l_and_colonel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/14tuqh1/brigadier_general_roger_m_ramey_l_and_colonel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ments found by a farmer near Roswell, as pieces of a...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HistoryPorn/comments/14tuqh1/brigadier_general_roger_m_ramey_l_and_colonel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/14tuqh1/brigadier_general_roger_m_ramey_l_and_colonel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ments found by a farmer near Roswell, as pieces of a...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: Research Gate Brigadier General Roger M  
-   Link: <a href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey (left), Commanding...Brigadier General Roger M. Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near t...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Brigadier-General-Roger-M-Ramey-left-Commanding-Officer-of-the-Eighth-Air-Force-is_fig1_228706129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey (left), Commanding...Brigadier General Roger M. Ramey (left), Commanding Officer of the Eighth Air Force, is photographed near t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: generals.dk  
-   Link: <a href="https://www.generals.dk/general/Ramey/Roger_Maxwell/USA.html" target="_blank" rel="noopener noreferrer nofollow">https://www.generals.dk/general/Ramey/Roger_Maxwell/USA.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oger Maxwell Ramey. He was a general during World War Two...</p></details>
+   Link:<a href="https://www.generals.dk/general/Ramey/Roger_Maxwell/USA.html" target="_blank" rel="noopener noreferrer nofollow">https://www.generals.dk/general/Ramey/Roger_Maxwell/USA.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oger Maxwell Ramey. He was a general during World War Two...</p></details>

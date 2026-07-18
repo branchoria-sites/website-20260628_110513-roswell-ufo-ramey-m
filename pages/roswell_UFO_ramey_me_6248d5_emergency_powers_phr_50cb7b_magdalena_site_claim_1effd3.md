@@ -280,17 +280,17 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_ma
 
 ## Introduction
 
-One of the most consequential claims derived from proposed readings of the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) is that the document refers to a second location: “Site Two SW of Magdalena, NMex.” In some reconstructions, this phrase appears immediately after wording interpreted as “emergency [powers are needed]({{ 'readable-words/' | relative_url }})”, creating the impression that military authorities were dealing with more than one recovery area in New Mexico. If genuine, the reference would expand the story beyond the debris field usually associated with Roswell and suggest a wider operational response. The difficulty is that the Magdalena location claim rests on exactly the same uncertain image evidence as the surrounding text. No independent document confirms the alleged site, and different analysts have produced substantially different readings from the same blurred photograph. As a result, the Magdalena claim remains one of the most intriguing but least secure elements of the memo controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+One of the most consequential claims derived from proposed readings of the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) is that the document refers to a second location: “Site Two SW of Magdalena, NMex.” In some reconstructions, this phrase appears immediately after wording interpreted as “emergency [powers are needed]({{ 'readable-words/' | relative_url }})”, creating the impression that military authorities were dealing with more than one recovery area in New Mexico. If genuine, the reference would expand the story beyond the debris field usually associated with Roswell and suggest a wider operational response. The difficulty is that the Magdalena location claim rests on exactly the same uncertain image evidence as the surrounding text. No independent document confirms the alleged site, and different analysts have produced substantially different readings from the same blurred photograph. As a result, the Magdalena claim remains one of the most intriguing but least secure elements of the memo controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-1-dark.svg" | relative_url }}" alt="Magdalena Site illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Magdalena Appears in Proposed Readings
 
-The [Magdalena]({{ 'magdalena/' | relative_url }}) reference entered the debate through attempts to enhance and decipher the small sheet of paper visible in Brigadier General Roger Ramey’s hand during the famous Fort Worth photographs of 8 July 1947. The best-known early reconstruction, attributed to the Roswell Photo Interpretation Team and later discussed by James Houran and Kevin Randle, included the sequence “[EMERGENCY POWERS]({{ 'emergency-powers/' | relative_url }}) ARE NEEDED SITE TWO SW OF MAGDALENA, NMEX”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+The [Magdalena]({{ 'magdalena/' | relative_url }}) reference entered the debate through attempts to enhance and decipher the small sheet of paper visible in Brigadier General Roger Ramey’s hand during the famous Fort Worth photographs of 8 July 1947. The best-known early reconstruction, attributed to the Roswell Photo Interpretation Team and later discussed by James Houran and Kevin Randle, included the sequence “[EMERGENCY POWERS]({{ 'emergency-powers/' | relative_url }}) ARE NEEDED SITE TWO SW OF MAGDALENA, NMEX”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
-What made this reading distinctive was not merely the mention of Magdalena itself. The phrase appeared to identify a specific operational location: a “site two” situated southwest of the New Mexico town. Within a Roswell-crash interpretation, readers naturally viewed this as a possible second recovery area separate from the debris already being discussed publicly. The wording seemed to provide both a geographical clue and a rationale for heightened military activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+What made this reading distinctive was not merely the mention of Magdalena itself. The phrase appeared to identify a specific operational location: a “site two” situated southwest of the New Mexico town. Within a Roswell-crash interpretation, readers naturally viewed this as a possible second recovery area separate from the debris already being discussed publicly. The wording seemed to provide both a geographical clue and a rationale for heightened military activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
-The problem is that the location does not emerge from a broadly agreed transcription. Houran and Randle's review of competing interpretations showed substantial disagreement over the same line of text. Different researchers reported different words, different sentence structures, and in some cases entirely different meanings. The Magdalena reference appears in some reconstructions but not in a form that commands universal acceptance among those attempting to read the memo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+The problem is that the location does not emerge from a broadly agreed transcription. Houran and Randle's review of competing interpretations showed substantial disagreement over the same line of text. Different researchers reported different words, different sentence structures, and in some cases entirely different meanings. The Magdalena reference appears in some reconstructions but not in a form that commands universal acceptance among those attempting to read the memo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rih9-80p0Ec" title="The Truth about Roswell: Decoding Decades of Deception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer">The Truth about Roswell: Decoding Decades of Deception</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 9.8M &middot; Uploaded: June 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rih9-80p0Ec">Open on YouTube</a></p></div></div></div>
@@ -301,9 +301,9 @@ A disputed phrase becomes far more important when it appears to identify a real 
 
 Magdalena is a genuine New Mexico community west of Socorro. Because it lies within the broader region often discussed in Roswell-related investigations, a reference to a site southwest of Magdalena seems potentially testable in a way that vague wording is not. Readers can look at maps, estimate distances, and imagine a second field operation. The phrase therefore gives the memo [narrative]({{ 'narrative/' | relative_url }}) force that a more abstract reading would lack.
 
-The location claim also changes the implied structure of events. Instead of a single recovery effort centred on debris, “site two” suggests multiple locations and a coordinated response. For advocates of an extraordinary-crash interpretation, that possibility has obvious significance because it appears to point towards a larger incident footprint than the public record acknowledges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+The location claim also changes the implied structure of events. Instead of a single recovery effort centred on debris, “site two” suggests multiple locations and a coordinated response. For advocates of an extraordinary-crash interpretation, that possibility has obvious significance because it appears to point towards a larger incident footprint than the public record acknowledges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
-This is why the Magdalena wording is often discussed alongside other controversial proposed [readings]({{ 'readings/' | relative_url }}) such as references to a “crash” or “victims”. The terms reinforce one another. A location by itself might mean little; a location attached to an emergency-oriented message appears far more dramatic. Yet that dramatic effect depends on accepting several disputed readings simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+This is why the Magdalena wording is often discussed alongside other controversial proposed [readings]({{ 'readings/' | relative_url }}) such as references to a “crash” or “victims”. The terms reinforce one another. A location by itself might mean little; a location attached to an emergency-oriented message appears far more dramatic. Yet that dramatic effect depends on accepting several disputed readings simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-2-dark.svg" | relative_url }}" alt="Magdalena Site illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,11 +311,11 @@ This is why the Magdalena wording is often discussed alongside other controversi
 
 The strongest objection is straightforward: the memo has never been definitively deciphered.
 
-Researchers who have examined the document repeatedly emphasise that the image is extremely difficult to read. The memo occupies only a tiny portion of the original photograph, is angled away from the camera, and contains detail near the limits of what the surviving image can support. The University of Texas at Arlington, which holds the original photographic material and has made high-resolution scans available, continues to present the memo as an unresolved puzzle rather than a solved document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA+2UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA MagazineIn 1947, a mysterious object crashed to Earth in Roswell, New Mexico. While it was later identified as a...</span></span></span>
+Researchers who have examined the document repeatedly emphasise that the image is extremely difficult to read. The memo occupies only a tiny portion of the original photograph, is angled away from the camera, and contains detail near the limits of what the surviving image can support. The University of Texas at Arlington, which holds the original photographic material and has made high-resolution scans available, continues to present the memo as an unresolved puzzle rather than a solved document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA+2UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA MagazineIn 1947, a mysterious object crashed to Earth in Roswell, New Mexico. While it was later identified as a...</span></span></span>
 
-The 2002 study by Houran and Randle highlighted another problem: expectation can influence what people believe they see in ambiguous text. Their experimental work suggested that readers often generated interpretations consistent with the context they were given, raising the possibility that some memo readings reflect assumptions as much as recovered wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+The 2002 study by Houran and Randle highlighted another problem: expectation can influence what people believe they see in ambiguous text. Their experimental work suggested that readers often generated interpretations consistent with the context they were given, raising the possibility that some memo readings reflect assumptions as much as recovered wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
-Later reviews of the Roswell evidence have continued to note that no consensus reading of the memo exists. Even researchers sympathetic to further investigation acknowledge that the document has not produced a definitive transcription capable of settling key questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">more...</span></span></span>
+Later reviews of the Roswell evidence have continued to note that no consensus reading of the memo exists. Even researchers sympathetic to further investigation acknowledge that the document has not produced a definitive transcription capable of settling key questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">more...</span></span></span>
 
 The Magdalena claim therefore suffers from a cumulative evidential weakness:
 
@@ -329,7 +329,7 @@ The Magdalena claim therefore suffers from a cumulative evidential weakness:
 
 </div>
 
-Taken together, these factors mean that the alleged Magdalena reference cannot currently be treated as established historical evidence. It is better understood as a hypothesis generated from one family of memo interpretations rather than a verified destination or recovery site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+Taken together, these factors mean that the alleged Magdalena reference cannot currently be treated as established historical evidence. It is better understood as a hypothesis generated from one family of memo interpretations rather than a verified destination or recovery site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z8VQwxF8gRQ" title="The Ramey Memo: Best Roswell Cover-Up Evidence ever Found" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer">The Ramey Memo: Best Roswell Cover-Up Evidence ever Found</a></p><p class="youtube-embed-meta">Channel: AlienScientist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z8VQwxF8gRQ">Open on YouTube</a></p></div></div></div>
@@ -341,200 +341,200 @@ Taken together, these factors mean that the alleged Magdalena reference cannot c
 
 The importance of the Magdalena reading lies less in what it proves than in what it illustrates about the [Ramey]({{ 'ramey/' | relative_url }}) memo debate. A few uncertain marks on a blurred document can produce a highly specific narrative: emergency authority, multiple sites, and a location in rural New Mexico. Yet every element of that narrative depends on interpretation rather than confirmed text.
 
-For that reason, the Magdalena site claim remains a useful example of both the appeal and the limitations of memo decipherment. It demonstrates why enthusiasts continue to study the document, while also showing why historians and researchers remain cautious about treating any single reconstructed phrase as settled fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
+For that reason, the Magdalena site claim remains a useful example of both the appeal and the limitations of memo decipherment. It demonstrates why enthusiasts continue to study the document, while also showing why historians and researchers remain cautious about treating any single reconstructed phrase as settled fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-3-dark.svg" | relative_url }}" alt="Magdalena Site illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the phrase point to a second site?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the phrase point to a second site?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Evaluates location claims critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates location claims critically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Represents broader extraordinary-event interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents broader extraordinary-event interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context for assessing location-based claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing location-based claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduces broader crash-site and recovery claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces broader crash-site and recovery claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/af3ef30e0bec9f33d672.jpg' | relative_url }}" alt="Listing image for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/af3ef30e0bec9f33d672.jpg' | relative_url }}" alt="Listing image for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="magdalena-site-did-the-phrase-point-to-a-second-site-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For that reason, the Magdalena site claim remains a useful example of both the a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For that reason, the Magdalena site claim remains a useful example of both the a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For that reason, the Magdalena site claim remains a useful example of both the a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For that reason, the Magdalena site claim remains a useful example of both the a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For that reason, the Magdalena site claim remains a useful example of both the a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,109 +740,109 @@ For that reason, the Magdalena site claim remains a useful example of both the a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate''A Message in a Bottle:" Confounds in Deciphering  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Abstract—Previous analyses of a photograph showing a document held by...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uta.edu  
-   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo | UTA MagazineIn 1947, a mysterious object crashed to Earth in Roswell, New Mexico. While it was later identified as a...</p></details>
+   Link:<a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo | UTA MagazineIn 1947, a mysterious object crashed to Earth in Roswell, New Mexico. While it was later identified as a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansA private individual is offering a $10,000 reward for the first person o...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansA private individual is offering a $10,000 reward for the first person o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: philpapers.org  
    Title: RANAGT 3  
-   Link: <a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentAttempts to decipher text from a photographed document known as the Ramey Memo have n...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentAttempts to decipher text from a photographed document known as the Ramey Memo have n...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ramey Memo-An In Depth Scientifically Based Deep...23 Sept 2025 — PDF | On Sep 23, 2025, Ronald Stewart published Ramey Memo-An In...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ramey Memo-An In Depth Scientifically Based Deep...23 Sept 2025 — PDF | On Sep 23, 2025, Ronald Stewart published Ramey Memo-An In...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dly revealed content that supported a crashed extraterrestrial craft...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dly revealed content that supported a crashed extraterrestrial craft...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentA private individual is offering a $10,000 reward to the first person or group/lab that can provide a definitive re...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentA private individual is offering a $10,000 reward to the first person or group/lab that can provide a definitive re...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/l8mvk3/6_reasons_why_ufos_might_crash_assuming_some_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/l8mvk3/6_reasons_why_ufos_might_crash_assuming_some_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 reasons why UFOs might crash (assuming some of them...EMERGENCY POWERS ARE NEEDED SITE TWO SW OF MAGDALENA, NMEX... SAFE TALK... FOR M...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/l8mvk3/6_reasons_why_ufos_might_crash_assuming_some_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/l8mvk3/6_reasons_why_ufos_might_crash_assuming_some_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 reasons why UFOs might crash (assuming some of them...EMERGENCY POWERS ARE NEEDED SITE TWO SW OF MAGDALENA, NMEX... SAFE TALK... FOR M...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I transcripted the Ramey Memo: r/UFOsThe line about a &quot;misinterpretation of the story&quot; and &quot;forming a new crew&quot; could imply efforts to c...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ij460d/i_transcripted_the_ramey_memo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I transcripted the Ramey Memo: r/UFOsThe line about a &quot;misinterpretation of the story&quot; and &quot;forming a new crew&quot; could imply efforts to c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/15024807135/posts/10159162266547136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/15024807135/posts/10159162266547136/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico SoundingsNew Mexico Soundings Was originally recorded as a collection of Pieces based on Phenomenon Observed in New Mexico and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/15024807135/posts/10159162266547136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/15024807135/posts/10159162266547136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico SoundingsNew Mexico Soundings Was originally recorded as a collection of Pieces based on Phenomenon Observed in New Mexico and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Crash: Eyewitness Accounts | PDFPowers are needed Site Two SW of Magdalena, NMex.” It suggested that those interpreting...</p></details>
+   Link:<a href="https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Crash: Eyewitness Accounts | PDFPowers are needed Site Two SW of Magdalena, NMex.” It suggested that those interpreting...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19api3t/the_roswell_letter_disk_and_bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19api3t/the_roswell_letter_disk_and_bodies/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19api3t/the_roswell_letter_disk_and_bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19api3t/the_roswell_letter_disk_and_bodies/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: the-sun.com  
    Title: roswell mystery cracked air force captain memo ufo crash  
-   Link: <a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
+   Link:<a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kevinrandle.blogspot.com  
    Title: As I say, some of the files are gigantic  
-   Link: <a href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — We decided to publish here one of the [better scans](&amp;#123;&amp;#123; &#x27;better-scans/&#x27; | relative_url &amp;#125;&amp;#125;) to see what migh...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — We decided to publish here one of the [better scans](&amp;#123;&amp;#123; &#x27;better-scans/&#x27; | relative_url &amp;#125;&amp;#125;) to see what migh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: VICTIM S DISC FORT WORTH, TEX  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAMEY The phrases...30 Apr 2025 — The Ramey Memo is, in many ways, a microcosm of the larger Roswell incident and indeed, the entire fie...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAMEY The phrases...30 Apr 2025 — The Ramey Memo is, in many ways, a microcosm of the larger Roswell incident and indeed, the entire fie...</p></details>

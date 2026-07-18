@@ -274,13 +274,13 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_cr
 
 ## Introduction
 
-If the disputed phrase “emergency [powers are needed]({{ 'readable-words/' | relative_url }})” really appeared in the Ramey memo, its main effect would not be to prove an extraterrestrial crash. Instead, it would change how readers interpret the official balloon explanation. The phrase would imply that military leaders viewed the situation as unusually urgent and potentially requiring extraordinary authority, which sits awkwardly alongside the image of a routine recovery of [balloon debris]({{ 'balloon-debris/' | relative_url }}) from a ranch. That is why the wording attracts so much attention in Roswell debates. The issue is not that the phrase automatically supports an alien explanation, but that it raises questions about the level of concern reflected in the military response. At the same time, the phrase remains highly disputed, and the memo itself has never been definitively deciphered. Multiple researchers have produced conflicting readings from the same blurred document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case report</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+If the disputed phrase “emergency [powers are needed]({{ 'readable-words/' | relative_url }})” really appeared in the Ramey memo, its main effect would not be to prove an extraterrestrial crash. Instead, it would change how readers interpret the official balloon explanation. The phrase would imply that military leaders viewed the situation as unusually urgent and potentially requiring extraordinary authority, which sits awkwardly alongside the image of a routine recovery of [balloon debris]({{ 'balloon-debris/' | relative_url }}) from a ranch. That is why the wording attracts so much attention in Roswell debates. The issue is not that the phrase automatically supports an alien explanation, but that it raises questions about the level of concern reflected in the military response. At the same time, the phrase remains highly disputed, and the memo itself has never been definitively deciphered. Multiple researchers have produced conflicting readings from the same blurred document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case report</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-1-dark.svg" | relative_url }}" alt="Crisis Stakes illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the phrase sounds legally and militarily serious
 
-The expression “[emergency powers]({{ 'emergency-powers/' | relative_url }})” carries implications that go far beyond ordinary field operations. In military, governmental, and legal usage, emergency powers generally refer to special authorities invoked during crises, disasters, security threats, or other situations judged to require exceptional action. The phrase naturally suggests urgency, command attention, and a departure from normal procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idea.int">[idea.int+2repository.law.miami.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idea.int</span><span class="citation-popover-title">Emergency Powers</span><span class="citation-popover-snippet">May 30, 2018 — Most of the world&#x27;s democratic constitutions therefore include emergency provisions that allow the authorities, in times o...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
+The expression “[emergency powers]({{ 'emergency-powers/' | relative_url }})” carries implications that go far beyond ordinary field operations. In military, governmental, and legal usage, emergency powers generally refer to special authorities invoked during crises, disasters, security threats, or other situations judged to require exceptional action. The phrase naturally suggests urgency, command attention, and a departure from normal procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idea.int">[idea.int+2repository.law.miami.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idea.int</span><span class="citation-popover-title">Emergency Powers</span><span class="citation-popover-snippet">May 30, 2018 — Most of the world&#x27;s democratic constitutions therefore include emergency provisions that allow the authorities, in times o...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
 
 That is why Roswell researchers who favour a non-routine interpretation place so much weight on the alleged wording. If a commander was requesting or discussing emergency powers, the argument goes, then the event was being treated as something more consequential than scattered balloon material.
 
@@ -304,7 +304,7 @@ The phrase therefore changes the perceived seriousness of the response more than
 
 ## What it would challenge in the balloon story
 
-The official explanations associated with Roswell have generally portrayed the recovered material as ultimately consistent with balloon-related equipment, first as a weather balloon and later, in Air Force reports, as debris connected to the classified [Project Mogul]({{ 'project-mogul/' | relative_url }}) programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</span></span></span>
+The official explanations associated with Roswell have generally portrayed the recovered material as ultimately consistent with balloon-related equipment, first as a weather balloon and later, in Air Force reports, as debris connected to the classified [Project Mogul]({{ 'project-mogul/' | relative_url }}) programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</span></span></span>
 
 If “emergency powers are needed” were securely established, critics would argue that it creates tension with the most casual version of the balloon narrative. The challenge operates through a simple mechanism: routine objects do not usually require crisis language.
 
@@ -321,7 +321,7 @@ The reasoning would look something like this:
 
 Notice what this argument does and does not accomplish. It does not demonstrate that the balloon explanation was false. Rather, it suggests that the explanation may have omitted important context.
 
-One possible interpretation is that the recovered material belonged to a classified programme. In that scenario, urgent wording could reflect concern about secrecy rather than concern about a non-human craft. Indeed, one reason the Project Mogul explanation emerged decades later was that the programme involved sensitive military research that was not publicly acknowledged in 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</span></span></span>
+One possible interpretation is that the recovered material belonged to a classified programme. In that scenario, urgent wording could reflect concern about secrecy rather than concern about a non-human craft. Indeed, one reason the Project Mogul explanation emerged decades later was that the programme involved sensitive military research that was not publicly acknowledged in 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</span></span></span>
 
 Under this reading, crisis language could actually reinforce a terrestrial explanation while weakening the idea that the recovery was merely an ordinary weather-balloon incident.
 
@@ -331,9 +331,9 @@ Under this reading, crisis language could actually reinforce a terrestrial expla
 
 The force of the argument depends entirely on whether the phrase is really present in the memo.
 
-This is where the case becomes much weaker. The famous reconstruction associated with J. Bond Johnson's interpretation team included wording resembling “EMERGENCY POWERS ARE NEEDED SITE TWO SW OF [MAGDALENA]({{ 'magdalena/' | relative_url }}), NMEX.” Yet later analysts examining the same image produced substantially different readings. Some saw only fragments resembling “powers are needed”. Others interpreted nearby letters differently. Still others failed to confirm the wording at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation T...</span></span></span>
+This is where the case becomes much weaker. The famous reconstruction associated with J. Bond Johnson's interpretation team included wording resembling “EMERGENCY POWERS ARE NEEDED SITE TWO SW OF [MAGDALENA]({{ 'magdalena/' | relative_url }}), NMEX.” Yet later analysts examining the same image produced substantially different readings. Some saw only fragments resembling “powers are needed”. Others interpreted nearby letters differently. Still others failed to confirm the wording at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation T...</span></span></span>
 
-Houran and Randle's study of the memo highlighted a broader problem: the document is an ambiguous visual stimulus. Researchers often perceived different words depending on their expectations and assumptions about Roswell. Their work argued that the image quality and interpretive process make firm conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case report</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+Houran and Randle's study of the memo highlighted a broader problem: the document is an ambiguous visual stimulus. Researchers often perceived different words depending on their expectations and assumptions about Roswell. Their work argued that the image quality and interpretive process make firm conclusions difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case report</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering ...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
 This matters because the entire “crisis wording” argument rests on a small cluster of disputed letters. If the phrase cannot be established reliably, then its ability to challenge the balloon story is correspondingly limited.
 
@@ -346,11 +346,11 @@ Even if one assumes, for the sake of argument, that “emergency powers are need
 
 ### It would not prove an alien crash
 
-The phrase contains no reference to extraterrestrials, spacecraft, or non-human technology. It indicates urgency, not origin. A classified military project, intelligence operation, aircraft incident, or security concern could also generate urgent language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</span></span></span>
+The phrase contains no reference to extraterrestrials, spacecraft, or non-human technology. It indicates urgency, not origin. A classified military project, intelligence operation, aircraft incident, or security concern could also generate urgent language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</span></span></span>
 
 ### It would not prove bodies were recovered
 
-Roswell debates often connect the emergency-powers phrase with other controversial alleged readings, such as references to “victims” or a “wreck”. Yet those readings are themselves disputed and lack universal acceptance among analysts. The emergency-powers phrase cannot independently establish casualties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation T...</span></span></span>
+Roswell debates often connect the emergency-powers phrase with other controversial alleged readings, such as references to “victims” or a “wreck”. Yet those readings are themselves disputed and lack universal acceptance among analysts. The emergency-powers phrase cannot independently establish casualties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering ...England, and who is part of the Johnson “Roswell Photo Interpretation T...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-3-dark.svg" | relative_url }}" alt="Crisis Stakes illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,201 +362,201 @@ At most, the wording would suggest that officials regarded the situation as impo
 
 The importance of the alleged emergency-powers wording lies in how it reframes the balloon explanation. If authentic, it would make the event appear less routine and more strategically significant than a simple balloon recovery. It would encourage readers to ask whether military leaders were dealing with a sensitive operation rather than ordinary debris.
 
-That is a meaningful challenge to the simplest version of the balloon story. But it remains a challenge to the story's level of urgency, not a demonstration of an extraterrestrial crash. Because the memo has never been definitively deciphered and competing readings remain unresolved, the phrase is best understood as a hypothetical complication to the balloon explanation rather than a decisive piece of evidence against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</span></span></span>
+That is a meaningful challenge to the simplest version of the balloon story. But it remains a challenge to the story's level of urgency, not a demonstration of an extraterrestrial crash. Because the memo has never been definitively deciphered and competing readings remain unresolved, the phrase is best understood as a hypothetical complication to the balloon explanation rather than a decisive piece of evidence against it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdXwvdvr_Ps" title="The Roger Ramey Memo, with David Rudiak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer">The Roger Ramey Memo, with David Rudiak</a></p><p class="youtube-embed-meta">Channel: Project Bluebook</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdXwvdvr_Ps">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What emergency powers would actually change. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What emergency powers would actually change. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly useful for judging the significance of dramatic wording.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly useful for judging the significance of dramatic wording.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Illustrates arguments for extraordinary governmental concern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates arguments for extraordinary governmental concern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses official reactions to unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses official reactions to unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides context for crisis-oriented interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for crisis-oriented interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P"><img src="{{ '/assets/images/marketplace-covers/e6d3a6ed324d34756816.jpg' | relative_url }}" alt="Listing image for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P"><img src="{{ '/assets/images/marketplace-covers/e6d3a6ed324d34756816.jpg' | relative_url }}" alt="Listing image for Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">Area 51 Sign | UFO Bedroom Door Plaque | Man Cave | Free Postage | Free P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs"><img src="{{ '/assets/images/marketplace-covers/7e7e9ed635c7a6a132fc.jpg' | relative_url }}" alt="Listing image for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs"><img src="{{ '/assets/images/marketplace-covers/7e7e9ed635c7a6a132fc.jpg' | relative_url }}" alt="Listing image for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash"><img src="{{ '/assets/images/marketplace-covers/857135e26b0f86a73f55.jpg' | relative_url }}" alt="Listing image for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash"><img src="{{ '/assets/images/marketplace-covers/857135e26b0f86a73f55.jpg' | relative_url }}" alt="Listing image for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="crisis-stakes-what-emergency-powers-would-actually-change-roswell-ufo-ramey-memo-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ That is a meaningful challenge to the simplest version of the balloon story. But
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ That is a meaningful challenge to the simplest version of the balloon story. But
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ That is a meaningful challenge to the simplest version of the balloon story. But
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ That is a meaningful challenge to the simplest version of the balloon story. But
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ That is a meaningful challenge to the simplest version of the balloon story. But
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,142 +762,142 @@ That is a meaningful challenge to the simplest version of the balloon story. But
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_[Ramey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_[Ramey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_[Ramey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_[Ramey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: idea.int  
    Title: Emergency Powers  
-   Link: <a href="https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2018 — Most of the world&#x27;s democratic constitutions therefore include emergency provisions that allow the authorities, in times o...</p></details>
+   Link:<a href="https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2018 — Most of the world&#x27;s democratic constitutions therefore include emergency provisions that allow the authorities, in times o...</p></details>
    Published: May 30, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: repository.law.miami.edu  
-   Link: <a href="https://repository.law.miami.edu/umiclr/vol30/iss2/7/" target="_blank" rel="noopener noreferrer nofollow">https://repository.law.miami.edu/umiclr/vol30/iss2/7/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Emergency Powers: Understanding the Benefits While...by S Valentine · 2023 · Cited by 1 — This note compares the short-term benefits an...</p></details>
+   Link:<a href="https://repository.law.miami.edu/umiclr/vol30/iss2/7/" target="_blank" rel="noopener noreferrer nofollow">https://repository.law.miami.edu/umiclr/vol30/iss2/7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Emergency Powers: Understanding the Benefits While...by S Valentine · 2023 · Cited by 1 — This note compares the short-term benefits an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-[Ramey-Memo" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-[Ramey-Memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...England, and who is part of the Johnson “Roswell Photo Interpretation T...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-[Ramey-Memo" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-[Ramey-Memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...England, and who is part of the Johnson “Roswell Photo Interpretation T...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Houran–Randle Experiment. Given the preceding observations, Houran and Randle. (2002a) were interested in researching...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Houran–Randle Experiment. Given the preceding observations, Houran and Randle. (2002a) were interested in researching...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dly revealed content that supported a crashed extraterrestrial craft...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dly revealed content that supported a crashed extraterrestrial craft...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Ramey-Memo, ET, Extraterrestrial, Roswell Incident. Introduction:...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Ramey-Memo, ET, Extraterrestrial, Roswell Incident. Introduction:...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ibed as &quot;The Ramey Memo.&quot; Photograph courtesy of the University of Texas at...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ibed as &quot;The Ramey Memo.&quot; Photograph courtesy of the University of Texas at...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ramey-memo.com  
    Title: The University of Texas at Arlington Library  
-   Link: <a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 SNAPSHOTS FOR ETERNITY - UnlockingTheMysterySix of these were captured by James Bond Johnson, a very young photographer who was only 21...</p></details>
+   Link:<a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 SNAPSHOTS FOR ETERNITY - UnlockingTheMysterySix of these were captured by James Bond Johnson, a very young photographer who was only 21...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... balloon-borne experiments, which provides the explanation for the “Roswell Incident.” Interest abounds s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uta.edu  
-   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey MemoRoswell UFO Incident from the Fort Worth Star- Telegram Collection. In 1947, a mysterious object crashed to Earth in Roswel...</p></details>
+   Link:<a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey MemoRoswell UFO Incident from the Fort Worth Star- Telegram Collection. In 1947, a mysterious object crashed to Earth in Roswel...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — INITIAL ASSESSMENT: WEATHER BALLOONS (WB) EXPLANATION INSUFFICIENT WITNESS REPORTS MEN...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — INITIAL ASSESSMENT: WEATHER BALLOONS (WB) EXPLANATION INSUFFICIENT WITNESS REPORTS MEN...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentThe best case of [provenance](&amp;#123;&amp;#123; &#x27;provenance/&#x27; | relative_url &amp;#125;&amp;#125;) that I have ever seen is the Ramey Memo. We have a picture of Ramey holding the documen...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentThe best case of [provenance](&amp;#123;&amp;#123; &#x27;provenance/&#x27; | relative_url &amp;#125;&amp;#125;) that I have ever seen is the Ramey Memo. We have a picture of Ramey holding the documen...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey Memo stands as arguably the most controversial military document globally, intrinsically linked to the alleged crash of...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey Memo stands as arguably the most controversial military document globally, intrinsically linked to the alleged crash of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scholarship.law.wm.edu  
    Title: In the United States, forty-three declared emergencies give the executive  
-   Link: <a href="https://scholarship.law.wm.edu/wmlr/vol66/iss1/2/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.wm.edu/wmlr/vol66/iss1/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wm.edu&quot;Emergency Powers for Good&quot; by Elena Chachko and...by E Chachko · 2024 · Cited by 16 — Emergency powers are widely, and justly, cr...</p></details>
+   Link:<a href="https://scholarship.law.wm.edu/wmlr/vol66/iss1/2/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.wm.edu/wmlr/vol66/iss1/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wm.edu&quot;Emergency Powers for Good&quot; by Elena Chachko and...by E Chachko · 2024 · Cited by 16 — Emergency powers are widely, and justly, cr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mckinneylaw.iu.edu  
-   Link: <a href="https://mckinneylaw.iu.edu/practice/law-reviews/iiclr/pdf/vol18p233.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mckinneylaw.iu.edu/practice/law-reviews/iiclr/pdf/vol18p233.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs, a term which refers to the expanded authority that a government may exercise during an emergency...</p></details>
+   Link:<a href="https://mckinneylaw.iu.edu/practice/law-reviews/iiclr/pdf/vol18p233.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mckinneylaw.iu.edu/practice/law-reviews/iiclr/pdf/vol18p233.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs, a term which refers to the expanded authority that a government may exercise during an emergency...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thesun.co.uk  
    Title: roswell crash memo key cracking ufo mystery alien bodies  
-   Link: <a href="https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell crash memo &#x27;holds key to cracking UFO and alien...4 Jun 2025 — A BIZARRE memo about the Roswell UFO crash could unlock secrets a...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35262595/roswell-crash-memo-key-cracking-ufo-mystery-alien-bodies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell crash memo &#x27;holds key to cracking UFO and alien...4 Jun 2025 — A BIZARRE memo about the Roswell UFO crash could unlock secrets a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: commons.wikimedia.org  
    Title: File:Brig General Ramey Roswell debris.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Roger Ramey, holds debris. Summary edit Licensing edit w:en:Creative Commons attribution share alike This file is licensed under...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABrig_General_Ramey_Roswell_debris.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Roger Ramey, holds debris. Summary edit Licensing edit w:en:Creative Commons attribution share alike This file is licensed under...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he victims of the wreck&quot; (Photo: Roswell, 1947). Photo.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he victims of the wreck&quot; (Photo: Roswell, 1947). Photo.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rense.com  
    Title: New Roswell Evidence Deciphered In Gen  
-   Link: <a href="https://rense.com/general5/ramey.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general5/ramey.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s MemoThis was a one-time-only operation as permitted by the University of Texas. The result is, in essence, a new negative of the...</p></details>
+   Link:<a href="https://rense.com/general5/ramey.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general5/ramey.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s MemoThis was a one-time-only operation as permitted by the University of Texas. The result is, in essence, a new negative of the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: This is the letter/text that Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>

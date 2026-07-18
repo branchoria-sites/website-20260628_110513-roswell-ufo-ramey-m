@@ -274,21 +274,21 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mo
 
 ## Introduction
 
-[Project Mogul]({{ 'project-mogul/' | relative_url }}) is widely regarded as the strongest conventional explanation for the Roswell debris recovered in 1947. It accounts for why unusual-looking material could have been found on a New Mexico ranch, why military personnel might have reacted cautiously, and why the original “flying disc” announcement was quickly replaced by a balloon-based explanation. For many historians and sceptical investigators, Mogul solves the central debris question better than any extraterrestrial hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+[Project Mogul]({{ 'project-mogul/' | relative_url }}) is widely regarded as the strongest conventional explanation for the Roswell debris recovered in 1947. It accounts for why unusual-looking material could have been found on a New Mexico ranch, why military personnel might have reacted cautiously, and why the original “flying disc” announcement was quickly replaced by a balloon-based explanation. For many historians and sceptical investigators, Mogul solves the central debris question better than any extraterrestrial hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-1-dark.svg" | relative_url }}" alt="Weak Spots illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-However, the strength of the Mogul explanation is often overstated. Explaining the debris found by rancher W. W. “Mack” Brazel is not the same thing as explaining every later Roswell story. Many of the most dramatic claims associated with Roswell emerged decades after 1947 and involve alleged bodies, secondary crash sites, secret recoveries, and witness recollections that sit largely outside the original debris record. Understanding where Mogul works well—and where it stops being directly relevant—is essential for evaluating the Roswell case fairly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+However, the strength of the Mogul explanation is often overstated. Explaining the debris found by rancher W. W. “Mack” Brazel is not the same thing as explaining every later Roswell story. Many of the most dramatic claims associated with Roswell emerged decades after 1947 and involve alleged bodies, secondary crash sites, secret recoveries, and witness recollections that sit largely outside the original debris record. Understanding where Mogul works well—and where it stops being directly relevant—is essential for evaluating the Roswell case fairly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 ## What Mogul Explains Best
 
 The official case is strongest when it focuses narrowly on the material recovered in early July 1947.
 
-Air Force investigators concluded that the debris was consistent with components used in Project Mogul balloon trains, including [radar reflectors]({{ 'radar-reflectors/' | relative_url }}), lightweight structural elements, foil-covered materials, tape, and balloon fragments. The project's classified purpose also helps explain why military officials would avoid discussing its true function publicly. U.S. Department of War+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+Air Force investigators concluded that the debris was consistent with components used in Project Mogul balloon trains, including [radar reflectors]({{ 'radar-reflectors/' | relative_url }}), lightweight structural elements, foil-covered materials, tape, and balloon fragments. The project's classified purpose also helps explain why military officials would avoid discussing its true function publicly. U.S. Department of War+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
-The Mogul explanation also addresses a longstanding puzzle: why personnel at Roswell Army Air Field might initially have misidentified or poorly described what they had. The equipment was not a simple weather balloon. Mogul arrays could involve multiple balloons, radar targets, cords, and specialised components unfamiliar to many observers. Even critics of extraterrestrial claims acknowledge that the debris photographs displayed in General Roger [Ramey]({{ 'ramey/' | relative_url }})'s office resemble ordinary terrestrial materials rather than advanced technology. U.S. Department of War+2Muller Lab <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+The Mogul explanation also addresses a longstanding puzzle: why personnel at Roswell Army Air Field might initially have misidentified or poorly described what they had. The equipment was not a simple weather balloon. Mogul arrays could involve multiple balloons, radar targets, cords, and specialised components unfamiliar to many observers. Even critics of extraterrestrial claims acknowledge that the debris photographs displayed in General Roger [Ramey]({{ 'ramey/' | relative_url }})'s office resemble ordinary terrestrial materials rather than advanced technology. U.S. Department of War+2Muller Lab<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
-In short, if the question is “What most likely produced the debris field reported in 1947?”, Mogul provides a coherent answer supported by documentary records and later military research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+In short, if the question is “What most likely produced the debris field reported in 1947?”, Mogul provides a coherent answer supported by documentary records and later military research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSoYUcVZDSQ" title="Something Strange Happened In This Desert 70 Years Ago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSoYUcVZDSQ" target="_blank" rel="noopener noreferrer">Something Strange Happened In This Desert 70 Years Ago</a></p><p class="youtube-embed-meta">Channel: Thoughty2 &middot; Views: 1.5M &middot; Uploaded: January 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSoYUcVZDSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSoYUcVZDSQ">Open on YouTube</a></p></div></div></div>
@@ -297,7 +297,7 @@ In short, if the question is “What most likely produced the debris field repor
 
 The weakness begins when the Mogul explanation is expected to resolve every claim ever attached to Roswell.
 
-Many famous Roswell stories did not centre on debris at all. They involved allegations of recovered bodies, autopsies, military cordons, hidden crash sites, or secret transport operations. Most of these accounts surfaced decades after the event, particularly from the late 1970s onward. They were not part of the original newspaper reports and were not central to the evidence that first drew attention in July 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
+Many famous Roswell stories did not centre on debris at all. They involved allegations of recovered bodies, autopsies, military cordons, hidden crash sites, or secret transport operations. Most of these accounts surfaced decades after the event, particularly from the late 1970s onward. They were not part of the original newspaper reports and were not central to the evidence that first drew attention in July 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
 
 This creates an important distinction:
 
@@ -310,7 +310,7 @@ This creates an important distinction:
 
 </div>
 
-A balloon explanation for one debris field does not automatically disprove every later witness story. Equally, the existence of later witness stories does not automatically invalidate the balloon explanation for the debris. These are related questions, but they are not the same question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
+A balloon explanation for one debris field does not automatically disprove every later witness story. Equally, the existence of later witness stories does not automatically invalidate the balloon explanation for the debris. These are related questions, but they are not the same question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-2-dark.svg" | relative_url }}" alt="Weak Spots illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,30 +318,30 @@ A balloon explanation for one debris field does not automatically disprove every
 
 One of the most discussed technical criticisms concerns the specific Mogul flight commonly identified as the source of the debris.
 
-The Air Force's reconstruction linked the [Roswell material]({{ 'material-clues/' | relative_url }}) to a Mogul launch often referred to as [Flight 4]({{ 'flight-4/' | relative_url }}). Critics have argued that surviving records create uncertainty about exactly which flights were launched, how far they travelled, and whether the proposed flight path matches the debris location. Some researchers have questioned whether Flight 4 was fully operational or whether documentation gaps make the reconstruction less certain than official accounts sometimes imply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+The Air Force's reconstruction linked the [Roswell material]({{ 'material-clues/' | relative_url }}) to a Mogul launch often referred to as [Flight 4]({{ 'flight-4/' | relative_url }}). Critics have argued that surviving records create uncertainty about exactly which flights were launched, how far they travelled, and whether the proposed flight path matches the debris location. Some researchers have questioned whether Flight 4 was fully operational or whether documentation gaps make the reconstruction less certain than official accounts sometimes imply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
-These objections do not necessarily overturn the Mogul theory. A classified experimental programme from 1947 inevitably left incomplete records. Nevertheless, the debate illustrates a real limitation: the official explanation is stronger at the level of general equipment identification than at proving a precise chain of events for one particular balloon train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+These objections do not necessarily overturn the Mogul theory. A classified experimental programme from 1947 inevitably left incomplete records. Nevertheless, the debate illustrates a real limitation: the official explanation is stronger at the level of general equipment identification than at proving a precise chain of events for one particular balloon train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
 ## The Witness Memory Challenge
 
 Another weak spot involves the relationship between physical evidence and human memory.
 
-The strongest evidence for Mogul comes from documents, photographs, programme records, and the known existence of classified balloon operations. The strongest evidence against it usually comes from witness testimony collected decades later. U.S. Department of War+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+The strongest evidence for Mogul comes from documents, photographs, programme records, and the known existence of classified balloon operations. The strongest evidence against it usually comes from witness testimony collected decades later. U.S. Department of War+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
-This creates a methodological problem. Memories can change over time, especially when an event becomes famous. Researchers across different sides of the Roswell debate have noted that witness accounts often expanded, became more detailed, or shifted as the story evolved publicly. Yet some witnesses continued to insist that what they saw did not resemble balloon material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
+This creates a methodological problem. Memories can change over time, especially when an event becomes famous. Researchers across different sides of the Roswell debate have noted that witness accounts often expanded, became more detailed, or shifted as the story evolved publicly. Yet some witnesses continued to insist that what they saw did not resemble balloon material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
 
-As a result, the dispute is often less about the existence of debris than about how much weight should be given to recollections recorded thirty or forty years after the event. Mogul does not eliminate that debate; it simply provides an alternative interpretation of what witnesses may have encountered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
+As a result, the dispute is often less about the existence of debris than about how much weight should be given to recollections recorded thirty or forty years after the event. Mogul does not eliminate that debate; it simply provides an alternative interpretation of what witnesses may have encountered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1j91poAeF7I" title="Roswell Reunion: Number 1, 07/11/1990 - 07/12/1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1j91poAeF7I" target="_blank" rel="noopener noreferrer">Roswell Reunion: Number 1, 07/11/1990 - 07/12/1990</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 44.9K &middot; Uploaded: January 2010 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1j91poAeF7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1j91poAeF7I">Open on YouTube</a></p></div></div></div>
 
 ## The Ramey Memo Remains Ambiguous
 
-Within the narrower context of the Ramey memo, Mogul also encounters limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</span></span></span>
+Within the narrower context of the Ramey memo, Mogul also encounters limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</span></span></span>
 
-Researchers have repeatedly attempted to decipher the blurred text visible in photographs of General Ramey holding a document while posing with the recovered debris. Some interpretations claim the memo supports a balloon explanation; others claim it refers to discs, crash recoveries, or other extraordinary events. No decoding effort has achieved broad acceptance. The text remains too indistinct for a definitive reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</span></span></span>
+Researchers have repeatedly attempted to decipher the blurred text visible in photographs of General Ramey holding a document while posing with the recovered debris. Some interpretations claim the memo supports a balloon explanation; others claim it refers to discs, crash recoveries, or other extraordinary events. No decoding effort has achieved broad acceptance. The text remains too indistinct for a definitive reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</span></span></span>
 
-Because the memo is ambiguous, it neither decisively confirms nor decisively refutes the Mogul explanation. It remains an area where uncertainty persists rather than a piece of evidence that clearly settles the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</span></span></span>
+Because the memo is ambiguous, it neither decisively confirms nor decisively refutes the Mogul explanation. It remains an area where uncertainty persists rather than a piece of evidence that clearly settles the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
@@ -350,204 +350,204 @@ Because the memo is ambiguous, it neither decisively confirms nor decisively ref
 
 A useful way to assess the Mogul explanation is to distinguish between a gap and a contradiction.
 
-A contradiction would be evidence showing that the recovered debris could not have come from a Mogul balloon train. No widely accepted evidence of that kind has emerged. The official explanation remains compatible with the surviving photographs, programme history, and known military activities in New Mexico during 1947. U.S. Department of War+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+A contradiction would be evidence showing that the recovered debris could not have come from a Mogul balloon train. No widely accepted evidence of that kind has emerged. The official explanation remains compatible with the surviving photographs, programme history, and known military activities in New Mexico during 1947. U.S. Department of War+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
-A gap is different. Gaps include uncertain flight reconstructions, unresolved witness disagreements, incomplete records, and unanswered questions about how later Roswell narratives developed. These issues may leave parts of the story unclear, but they do not automatically overturn the debris explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
+A gap is different. Gaps include uncertain flight reconstructions, unresolved witness disagreements, incomplete records, and unanswered questions about how later Roswell narratives developed. These issues may leave parts of the story unclear, but they do not automatically overturn the debris explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</span></span></span>
 
-That distinction helps explain why the Roswell debate continues. Project Mogul provides a substantial explanation for the original debris episode, yet some later claims associated with Roswell depend on evidence and allegations that extend well beyond the debris field itself. The strongest criticism of the official account is therefore not that Mogul fails to explain the recovered material, but that it does not fully explain how the broader Roswell legend evolved into a story of crashed craft and recovered bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+That distinction helps explain why the Roswell debate continues. Project Mogul provides a substantial explanation for the original debris episode, yet some later claims associated with Roswell depend on evidence and allegations that extend well beyond the debris field itself. The strongest criticism of the official account is therefore not that Mogul fails to explain the recovered material, but that it does not fully explain how the broader Roswell legend evolved into a story of crashed craft and recovered bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-3-dark.svg" | relative_url }}" alt="Weak Spots illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where the Mogul Explanation Runs Out. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where the Mogul Explanation Runs Out. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines strengths and limits of the Mogul explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines strengths and limits of the Mogul explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Highlights claims not fully addressed by Mogul proponents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights claims not fully addressed by Mogul proponents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents the classic alternative interpretation of Roswell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the classic alternative interpretation of Roswell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Covers evidence that extends beyond the debris question.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence that extends beyond the debris question.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latex Weather Balloon Collection Balloons High Altitude Aerial Video"><img src="{{ '/assets/images/marketplace-covers/b48380160f2a64dde203.jpg' | relative_url }}" alt="Listing image for Latex Weather Balloon Collection Balloons High Altitude Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Latex Weather Balloon Collection Balloons High Altitude Aerial Video</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latex Weather Balloon Collection Balloons High Altitude Aerial Video"><img src="{{ '/assets/images/marketplace-covers/b48380160f2a64dde203.jpg' | relative_url }}" alt="Listing image for Latex Weather Balloon Collection Balloons High Altitude Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Latex Weather Balloon Collection Balloons High Altitude Aerial Video</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Simpsons Hi! I&#x27;m Big Butt Skinner&#x27;s Weather Balloon Principal Enamel Pin"><img src="{{ '/assets/images/marketplace-covers/ce4ff1816421dbeec8b4.jpg' | relative_url }}" alt="Listing image for The Simpsons Hi! I&#x27;m Big Butt Skinner&#x27;s Weather Balloon Principal Enamel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">The Simpsons Hi! I&#x27;m Big Butt Skinner&#x27;s Weather Balloon Principal Enamel Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Simpsons Hi! I&#x27;m Big Butt Skinner&#x27;s Weather Balloon Principal Enamel Pin"><img src="{{ '/assets/images/marketplace-covers/ce4ff1816421dbeec8b4.jpg' | relative_url }}" alt="Listing image for The Simpsons Hi! I&#x27;m Big Butt Skinner&#x27;s Weather Balloon Principal Enamel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">The Simpsons Hi! I&#x27;m Big Butt Skinner&#x27;s Weather Balloon Principal Enamel Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS"><img src="{{ '/assets/images/marketplace-covers/685480d9c7ec8cd937b9.jpg' | relative_url }}" alt="Listing image for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS"><img src="{{ '/assets/images/marketplace-covers/685480d9c7ec8cd937b9.jpg' | relative_url }}" alt="Listing image for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device"><img src="{{ '/assets/images/marketplace-covers/8d1daf77c6ef187a29ed.jpg' | relative_url }}" alt="Listing image for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device"><img src="{{ '/assets/images/marketplace-covers/8d1daf77c6ef187a29ed.jpg' | relative_url }}" alt="Listing image for 1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">1989 VIZ Meteorological Instruments Radiosonde Weather Balloon Electronic Device</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="weak-spots-where-the-mogul-explanation-runs-out-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ That distinction helps explain why the Roswell debate continues. Project Mogul p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ That distinction helps explain why the Roswell debate continues. Project Mogul p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ That distinction helps explain why the Roswell debate continues. Project Mogul p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ That distinction helps explain why the Roswell debate continues. Project Mogul p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ That distinction helps explain why the Roswell debate continues. Project Mogul p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,106 +753,106 @@ That distinction helps explain why the Roswell debate continues. Project Mogul p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
    Title: RANAGT 3  
-   Link: <a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</p></details>
+   Link:<a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO Incident.by K Randle · 2022 · Cited by 2 — Photographs of the purported debris have...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.com  
    Title: "Unsolved Mysteries": The True Story of the Roswell UFO Incident  
-   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
+   Link:<a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mack&quot; Brazel. Initially claimed by the U.S. Air Force to be a &quot;flying saucer,&quot; this was quickly retracted, asserting it was a weather ba...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deciphering the [Ramey Memo](&amp;#123;&amp;#123; &#x27;ramey-memo/&#x27; | relative_url &amp;#125;&amp;#125;) | Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deciphering the [Ramey Memo](&amp;#123;&amp;#123; &#x27;ramey-memo/&#x27; | relative_url &amp;#125;&amp;#125;) | Roswell UFO Incident18 Jan 2017 — During the first week in July, 1947, something fell to Earth near the tiny...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the expl...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mogul(5) It is Project MOGUL that provides the ultimate explanation for the &quot;Roswell Incident.&quot; 1. Roswell Daily Record, Jul 9,1947, p.1...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mogul(5) It is Project MOGUL that provides the ultimate explanation for the &quot;Roswell Incident.&quot; 1. Roswell Daily Record, Jul 9,1947, p.1...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, repor...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashOn July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, repor...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings can be explained by classified...8 Mar 2024 — Government investigations have found no evidence of alien technology, the Pe...</p></details>
+   Link:<a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings can be explained by classified...8 Mar 2024 — Government investigations have found no evidence of alien technology, the Pe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories</a>  
+   Link:<a href="https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: on july 8 1947 the roswell daily record reported the arrival of something strang  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...In 1994, an official U.S. Air Force investigation revealed the debris actually came...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...In 1994, an official U.S. Air Force investigation revealed the debris actually came...</p></details>
    Published: July 8, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wxii12.com  
-   Link: <a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s atmosphere...Read more...</p></details>
+   Link:<a href="https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499" target="_blank" rel="noopener noreferrer nofollow">https://www.wxii12.com/article/this-day-in-history-air-force-debunks-ufo-theories-after-roswell-rancher-discovers-mysterious-debris/28320499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was the main part of Project Mogul&#x27;s plan to use high altitude balloons at a part of the Earth&#x27;s atmosphere...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A published statement from the War Department in Washington claimed the debris collected on Brazel&#x27;s ranch was the remains...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A published statement from the War Department in Washington claimed the debris collected on Brazel&#x27;s ranch was the remains...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kevinrandle.blogspot.com  
    Title: Again that is grossly inconsistent with Ramey's singular weather  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: General Ramey and His Memo8 May 2009 — Marcel was quoted back then saying the debris was scattered over a square...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: General Ramey and His Memo8 May 2009 — Marcel was quoted back then saying the debris was scattered over a square...</p></details>
    Published: May 2009  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gutenberg.org  
    Title: Mogul was an experimental attempt to acoustically detect  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>proof of a disk crash, and the recovery of the victims of the wreck...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>proof of a disk crash, and the recovery of the victims of the wreck...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
    Title: the roswell incident at 70 facts not myths  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsThomas&#x27;s special report from the July/August 1995 Skeptical Inquirer “The Roswell Incident an...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsThomas&#x27;s special report from the July/August 1995 Skeptical Inquirer “The Roswell Incident an...</p></details>
    Published: August 1995  

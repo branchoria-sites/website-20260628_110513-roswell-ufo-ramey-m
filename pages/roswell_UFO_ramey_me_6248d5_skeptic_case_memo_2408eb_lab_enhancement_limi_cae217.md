@@ -280,7 +280,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_e
 
 ## Introduction
 
-One reason sceptics remain cautious about the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) is that repeated technical efforts to recover its text have not produced a broadly accepted reading. The issue is not whether the photograph exists or whether modern image-processing tools were applied. Rather, the problem is that multiple enhancement campaigns, including work by qualified laboratories using advanced deblurring and filtering techniques, failed to transform the memo into a clearly readable document. As a result, the strongest Roswell-related claims attributed to the memo still rest on interpretation rather than on an unambiguous textual recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
+One reason sceptics remain cautious about the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) is that repeated technical efforts to recover its text have not produced a broadly accepted reading. The issue is not whether the photograph exists or whether modern image-processing tools were applied. Rather, the problem is that multiple enhancement campaigns, including work by qualified laboratories using advanced deblurring and filtering techniques, failed to transform the memo into a clearly readable document. As a result, the strongest Roswell-related claims attributed to the memo still rest on interpretation rather than on an unambiguous textual recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-1-dark.svg" | relative_url }}" alt="Lab limits illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,7 +302,7 @@ Over the years, investigators applied increasingly sophisticated image-processin
 * Fourier-based enhancement methods, which analyse image information in the frequency domain.
 * Homomorphic filtering, intended to separate illumination effects from image detail.
 * Wavelet-based processing, which attempts to isolate fine-scale structures from noise.
-* Additional digital sharpening and deblurring procedures designed to improve character recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
+* Additional digital sharpening and deblurring procedures designed to improve character recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
 
 </div>
 
@@ -317,7 +317,7 @@ Instead, the results proved disappointing.
 
 The central technical problem was not simply that the memo looked blurry. The deeper issue was that the available image data contained too little reliable information relative to the amount of degradation.
 
-Accounts of the laboratory examinations cited in later reviews describe a recurring conclusion: no enhancement technique produced text that could be read confidently and consistently. One laboratory reportedly concluded that there was “no clearly interpretable text.” Another found that noise frequencies overlapped with the frequencies associated with the suspected lettering, making separation extremely difficult. A third effort again failed to yield clearly interpretable wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
+Accounts of the laboratory examinations cited in later reviews describe a recurring conclusion: no enhancement technique produced text that could be read confidently and consistently. One laboratory reportedly concluded that there was “no clearly interpretable text.” Another found that noise frequencies overlapped with the frequencies associated with the suspected lettering, making separation extremely difficult. A third effort again failed to yield clearly interpretable wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
 
 This distinction is important. Image enhancement can sometimes make hidden information easier to see, but it cannot reliably recreate information that was never captured in the first place. When blur spreads neighbouring letters together and film grain competes with the same visual frequencies as the text, processing may amplify artefacts as easily as it amplifies genuine characters.
 
@@ -329,7 +329,7 @@ In practical terms, researchers often ended up with enlarged shapes that looked 
 
 The laboratory results fed into a broader concern raised by sceptical analysts: ambiguous visual data invites subjective interpretation.
 
-A frequently cited study on the memo's decipherment problem examined how expectations can influence [readings]({{ 'readings/' | relative_url }}) of uncertain text. The researchers argued that the memo's image quality creates conditions in which observers may perceive meaningful words that align with prior beliefs about Roswell. Rather than producing a single stable transcription, the image often supports multiple competing readings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
+A frequently cited study on the memo's decipherment problem examined how expectations can influence [readings]({{ 'readings/' | relative_url }}) of uncertain text. The researchers argued that the memo's image quality creates conditions in which observers may perceive meaningful words that align with prior beliefs about Roswell. Rather than producing a single stable transcription, the image often supports multiple competing readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</span></span></span>
 
 This concern becomes more significant after enhancement attempts fail. If advanced processing does not produce a consensus text, then human observers are still left interpreting ambiguous shapes. Under those conditions, disagreement is not surprising. Different investigators can sincerely believe they see different words because the underlying image remains uncertain.
 
@@ -342,204 +342,204 @@ For sceptics, this is not merely a psychological observation. It is a warning th
 
 The sceptical argument does not require proving that every proposed reading is wrong. Instead, it focuses on the inability to establish that any disputed reading is demonstrably correct.
 
-This point becomes especially important when controversial phrases are involved. Claims about wording such as references to a “wreck”, “victims”, or other potentially dramatic terms depend on confidence that the letters have actually been recovered from the image. When repeated enhancement efforts fail to generate a clearly readable document, confidence in those readings necessarily declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
+This point becomes especially important when controversial phrases are involved. Claims about wording such as references to a “wreck”, “victims”, or other potentially dramatic terms depend on confidence that the letters have actually been recovered from the image. When repeated enhancement efforts fail to generate a clearly readable document, confidence in those readings necessarily declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
 
-Even researchers sympathetic to continued investigation of Roswell have acknowledged that attempts to decipher the memo have not produced definitive results. Reviews of the evidence repeatedly describe the text as unresolved and call for higher-quality scans or new approaches rather than presenting the existing enhancement record as a settled success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
+Even researchers sympathetic to continued investigation of Roswell have acknowledged that attempts to decipher the memo have not produced definitive results. Reviews of the evidence repeatedly describe the text as unresolved and call for higher-quality scans or new approaches rather than presenting the existing enhancement record as a settled success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</span></span></span>
 
-The result is a cautious evidential position. The memo remains an intriguing artefact because it is authentic to the 1947 event and appears in a historically significant photograph. Yet the history of laboratory enhancement efforts means that sceptics see it as an unresolved image problem rather than a decoded document. Until a method can recover text that is both clearly readable and independently verifiable, the enhancement record itself argues for restraint rather than certainty. UT Arlington Libraries+2Journal of Scientific Exploration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">A private...Read more...</span></span></span>
+The result is a cautious evidential position. The memo remains an intriguing artefact because it is authentic to the 1947 event and appears in a historically significant photograph. Yet the history of laboratory enhancement efforts means that sceptics see it as an unresolved image problem rather than a decoded document. Until a method can recover text that is both clearly readable and independently verifiable, the enhancement record itself argues for restraint rather than certainty. UT Arlington Libraries+2Journal of Scientific Exploration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">A private...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-3-dark.svg" | relative_url }}" alt="Lab limits illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why better tools did not settle the memo. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why better tools did not settle the memo. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing+by+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0F05vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Digital Image Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing+by+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing">Digital Image Processing</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C. Gonzalez, Richard Eugene Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing+by+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0F05vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Digital Image Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing+by+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing">Digital Image Processing</a>
+</h4>
+<p class="fr-book-author">By Rafael C. Gonzalez, Richard Eugene Woods</p>
         
-        <p class="fr-book-desc">Covers enhancement, deblurring, noise reduction, and image limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing+by+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers enhancement, deblurring, noise reduction, and image limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing+by+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DTgQ2PRXCxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
-        </h4>
-        <p class="fr-book-author">By Kal K. Korff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DTgQ2PRXCxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
+</h4>
+<p class="fr-book-author">By Kal K. Korff</p>
         
-        <p class="fr-book-desc">Discusses technical and evidential problems in Roswell claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses technical and evidential problems in Roswell claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging+by+JOHN+C.+RUSS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Uses of Digital Imaging on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TvIdzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Uses of Digital Imaging" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging+by+JOHN+C.+RUSS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Uses of Digital Imaging">Forensic Uses of Digital Imaging</a>
-        </h4>
-        <p class="fr-book-author">By JOHN C. RUSS, Jens Rindel et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging+by+JOHN+C.+RUSS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Uses of Digital Imaging on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TvIdzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Uses of Digital Imaging" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging+by+JOHN+C.+RUSS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Uses of Digital Imaging">Forensic Uses of Digital Imaging</a>
+</h4>
+<p class="fr-book-author">By JOHN C. RUSS, Jens Rindel et al.</p>
         
-        <p class="fr-book-desc">Explains what can and cannot be recovered from degraded images.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging+by+JOHN+C.+RUSS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains what can and cannot be recovered from degraded images.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging+by+JOHN+C.+RUSS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating uncertain technical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating uncertain technical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Uses of Digital Imaging</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Uses+of+Digital+Imaging&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Uses of Digital Imaging</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/af3ef30e0bec9f33d672.jpg' | relative_url }}" alt="Listing image for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/af3ef30e0bec9f33d672.jpg' | relative_url }}" alt="Listing image for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="lab-limits-why-better-tools-did-not-settle-the-memo-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ The result is a cautious evidential position. The memo remains an intriguing art
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ The result is a cautious evidential position. The memo remains an intriguing art
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ The result is a cautious evidential position. The memo remains an intriguing art
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ The result is a cautious evidential position. The memo remains an intriguing art
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ The result is a cautious evidential position. The memo remains an intriguing art
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,87 +745,87 @@ The result is a cautious evidential position. The memo remains an intriguing art
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2635" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Grounded Theory Update on the Roswell UFO Incident20 Aug 2022 — Attempts to decipher text from a photo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo fro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A private...Read more...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A private...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sites.libraries.uta.edu  
    Title: research team  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Team | Roswell UFO IncidentKevin Douglas Randle is a prominent ufologist. Within the UFO community he is often regarded as one of the pre...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Team | Roswell UFO IncidentKevin Douglas Randle is a prominent ufologist. Within the UFO community he is often regarded as one of the pre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journalofscientificexploration.org  
    Title: modern language association  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=3577&amp;submissionId=2635" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=3577&amp;submissionId=2635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MLARandle, Kevin. “A Grounded Theory Update on the Roswell UFO Incident”. Journal of Scientific Exploration, vol. 36, no. 2, Aug. 2022, p...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=3577&amp;submissionId=2635" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=3577&amp;submissionId=2635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLARandle, Kevin. “A Grounded Theory Update on the Roswell UFO Incident”. Journal of Scientific Exploration, vol. 36, no. 2, Aug. 2022, p...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: the-sun.com  
    Title: roswell mystery cracked air force captain memo ufo crash  
-   Link: <a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
+   Link:<a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fckkdx/has_anyone_or_any_group_tried_to_enhance_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fckkdx/has_anyone_or_any_group_tried_to_enhance_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>some advanced AI systems have been able to bring to life ancient, unreadable...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fckkdx/has_anyone_or_any_group_tried_to_enhance_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fckkdx/has_anyone_or_any_group_tried_to_enhance_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>some advanced AI systems have been able to bring to life ancient, unreadable...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DRMSHPhD/videos/kevin-randle-a-long-respected-expert-in-the-ufo-research-field-as-it-relates-to-/9917578148347097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DRMSHPhD/videos/kevin-randle-a-long-respected-expert-in-the-ufo-research-field-as-it-relates-to-/9917578148347097/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s to the Roswell, has raised the number of those who lied about...</p></details>
+   Link:<a href="https://www.facebook.com/DRMSHPhD/videos/kevin-randle-a-long-respected-expert-in-the-ufo-research-field-as-it-relates-to-/9917578148347097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DRMSHPhD/videos/kevin-randle-a-long-respected-expert-in-the-ufo-research-field-as-it-relates-to-/9917578148347097/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s to the Roswell, has raised the number of those who lied about...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="https://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: <a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo photo enhancement technique House committee holds UFO hearing Associated Press...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo photo enhancement technique House committee holds UFO hearing Associated Press...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;The transcript of the interview of Mr. James Ragsdale was provided by Kevin Randle, the coaut...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;The transcript of the interview of Mr. James Ragsdale was provided by Kevin Randle, the coaut...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: XZBN UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLs_LeE483Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO [Smoking Gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;): The Ramey Memo Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MLs_LeE483Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO [Smoking Gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;): The Ramey Memo Mystery...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Roger Ramey Memo, with David [Rudiak](&#123;&#123; 'rudiak/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>

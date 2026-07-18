@@ -280,7 +280,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_em
 
 ## Introduction
 
-Among the many disputed phrases proposed for the Roswell Ramey memo, “emergency [powers are needed]({{ 'readable-words/' | relative_url }})” has unusual rhetorical force. If authentic, it would suggest officials were discussing extraordinary authority in response to a serious situation. Yet when researchers compare independent attempts to decipher the same line, the word *emergency* proves far less stable than the rest of the phrase. Across published transcriptions, analysts sometimes converge on fragments resembling “powers are needed” or “urgent powers are needed”, but they do not consistently recover the specific word “emergency”. That pattern is one reason many investigators treat “[emergency powers]({{ 'emergency-powers/' | relative_url }}) are needed” as a reconstruction rather than a direct reading from the document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+Among the many disputed phrases proposed for the Roswell Ramey memo, “emergency [powers are needed]({{ 'readable-words/' | relative_url }})” has unusual rhetorical force. If authentic, it would suggest officials were discussing extraordinary authority in response to a serious situation. Yet when researchers compare independent attempts to decipher the same line, the word *emergency* proves far less stable than the rest of the phrase. Across published transcriptions, analysts sometimes converge on fragments resembling “powers are needed” or “urgent powers are needed”, but they do not consistently recover the specific word “emergency”. That pattern is one reason many investigators treat “[emergency powers]({{ 'emergency-powers/' | relative_url }}) are needed” as a reconstruction rather than a direct reading from the document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-1-dark.svg" | relative_url }}" alt="Missing Emergency illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,18 +288,18 @@ The issue is not whether someone once proposed the phrase. The issue is whether 
 
 ## Where the full phrase first appears
 
-The best-known version of the wording comes from interpretations associated with the Roswell Photo Interpretation Team and later discussed by James Houran and Kevin Randle in their analysis of the memo controversy. In that reconstruction, the line was presented as something close to “EMERGENCY POWERS ARE NEEDED SITE TWO SW OF [MAGDALENA]({{ 'magdalena/' | relative_url }}), NMEX”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+The best-known version of the wording comes from interpretations associated with the Roswell Photo Interpretation Team and later discussed by James Houran and Kevin Randle in their analysis of the memo controversy. In that reconstruction, the line was presented as something close to “EMERGENCY POWERS ARE NEEDED SITE TWO SW OF [MAGDALENA]({{ 'magdalena/' | relative_url }}), NMEX”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
-What made this reading influential was not merely the appearance of the word *emergency*. The phrase seemed to fit other dramatic claims being advanced from the same memo, including alleged references to a crash and victims. Taken together, these [readings]({{ 'readings/' | relative_url }}) created a coherent [narrative]({{ 'narrative/' | relative_url }}) of a major recovery operation rather than a mundane balloon explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+What made this reading influential was not merely the appearance of the word *emergency*. The phrase seemed to fit other dramatic claims being advanced from the same memo, including alleged references to a crash and victims. Taken together, these [readings]({{ 'readings/' | relative_url }}) created a coherent [narrative]({{ 'narrative/' | relative_url }}) of a major recovery operation rather than a mundane balloon explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
-However, the publication that helped popularise the phrase also highlighted a crucial problem: other researchers examining the same image did not consistently read the same wording. The supposed sentence varied substantially from one transcription to another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+However, the publication that helped popularise the phrase also highlighted a crucial problem: other researchers examining the same image did not consistently read the same wording. The supposed sentence varied substantially from one transcription to another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MLs_LeE483Q" title="XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer">XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo</a></p><p class="youtube-embed-meta">Channel: The &#x27;X&#x27; Zone Broadcast Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MLs_LeE483Q">Open on YouTube</a></p></div></div></div>
 
 ## How rival readings change the same line
 
-The comparative tables discussed by Houran and Randle are important because they allow readers to see which words survive repeated attempts at decipherment and which do not. When different investigators examined the memo, several produced readings that resembled one another in places, but the exact opening word before “powers” shifted dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+The comparative tables discussed by Houran and Randle are important because they allow readers to see which words survive repeated attempts at decipherment and which do not. When different investigators examined the memo, several produced readings that resembled one another in places, but the exact opening word before “powers” shifted dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 Examples reported in the comparison include:
 
@@ -309,11 +309,11 @@ Examples reported in the comparison include:
 * Readings resembling “EMERGENCY POWERS ARE NEEDED”.
 * Readings resembling “URGENT POWERS ARE NEEDED”.
 * Readings containing fragments that look more like “... POW...” without a clear preceding word.
-* Readings that diverge further and introduce entirely different interpretations of the line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+* Readings that diverge further and introduce entirely different interpretations of the line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 </div>
 
-This matters because convergence is often used as a rough indicator of reliability in document decipherment. If several independent readers repeatedly identify the same word in the same position, confidence tends to increase. In the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) case, the opposite occurs with *emergency*. The term does not emerge as a consistent point of agreement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+This matters because convergence is often used as a rough indicator of reliability in document decipherment. If several independent readers repeatedly identify the same word in the same position, confidence tends to increase. In the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) case, the opposite occurs with *emergency*. The term does not emerge as a consistent point of agreement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 The result is a hierarchy of confidence. Even proponents of meaningful memo text often find more support for a vague cluster around “powers” and “needed” than for the precise word that precedes them.
 
@@ -325,13 +325,13 @@ Several features of the memo make *emergency* unusually difficult to defend as a
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-2-dark.svg" | relative_url }}" alt="Missing Emergency illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The beginning of words is often the least secure area
 
-The document is visible only as tiny, blurred text on a sheet held at an angle in a 1947 press photograph. Analysts are not reading letters directly; they are interpreting faint shapes after enlargement and enhancement. Small differences in contrast, sharpening, or expectations can change the apparent beginning of a word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+The document is visible only as tiny, blurred text on a sheet held at an angle in a 1947 press photograph. Analysts are not reading letters directly; they are interpreting faint shapes after enlargement and enhancement. Small differences in contrast, sharpening, or expectations can change the apparent beginning of a word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 Because “emergency” is a relatively long word, a reader must identify more letter positions correctly than would be required for a shorter alternative such as “urgent”. A few uncertain character shapes can cause the entire identification to collapse.
 
 ### Readers often agree on fragments rather than complete words
 
-Studies of the memo controversy have repeatedly noted that some isolated fragments appear more consistently than entire sentences. Houran and Randle's work was motivated partly by the concern that observers might impose meaningful patterns on ambiguous visual information. Their experiments found that expectations influenced what participants believed they could read. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+Studies of the memo controversy have repeatedly noted that some isolated fragments appear more consistently than entire sentences. Houran and Randle's work was motivated partly by the concern that observers might impose meaningful patterns on ambiguous visual information. Their experiments found that expectations influenced what participants believed they could read.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
 Under those conditions, a fragment resembling “POWERS” may be more robust than a full phrase such as “EMERGENCY POWERS ARE NEEDED”. The longer the reconstruction, the more opportunities there are for interpretation to fill gaps.
 
@@ -340,7 +340,7 @@ Under those conditions, a fragment resembling “POWERS” may be more robust th
 
 ### The phrase may be partly inferential
 
-“Emergency powers” is a familiar English expression. Once a reader believes they have identified “powers are needed”, it becomes tempting to complete the phrase with language that sounds natural in an official message. That does not mean the reconstruction is wrong, but it means the wording may be influenced by contextual inference rather than direct visual recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+“Emergency powers” is a familiar English expression. Once a reader believes they have identified “powers are needed”, it becomes tempting to complete the phrase with language that sounds natural in an official message. That does not mean the reconstruction is wrong, but it means the wording may be influenced by contextual inference rather than direct visual recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 The distinction is crucial in the Roswell debate. A phrase can be plausible without being demonstrably present.
 
@@ -351,7 +351,7 @@ The distinction is crucial in the Roswell debate. A phrase can be plausible with
 
 At first glance, replacing “emergency” with “urgent” or leaving the opening word unreadable may seem minor. In practice, it changes the historical claim significantly.
 
-“Emergency powers” is a specific concept. It implies extraordinary authority, exceptional measures, or actions outside ordinary procedures. By contrast, “urgent powers”, “powers are needed”, or an unreadable fragment convey much less. They suggest urgency or necessity but do not necessarily imply a formal emergency response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+“Emergency powers” is a specific concept. It implies extraordinary authority, exceptional measures, or actions outside ordinary procedures. By contrast, “urgent powers”, “powers are needed”, or an unreadable fragment convey much less. They suggest urgency or necessity but do not necessarily imply a formal emergency response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 This is why the dispute matters. The evidential value of the line depends heavily on the exact wording. If the memo merely contains an uncertain reference to powers being needed, it becomes one ambiguous fragment among many. If it explicitly says “emergency powers are needed”, it appears to point toward a far more dramatic situation.
 
@@ -361,199 +361,199 @@ The disagreement over a single word therefore affects how strongly the memo can 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-3-dark.svg" | relative_url }}" alt="Missing Emergency illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The comparative lesson from the transcriptions
 
-The strongest takeaway is not that “emergency” has been disproved. Rather, it has failed to achieve the level of agreement that would make it a secure reading. Published comparisons show that different investigators repeatedly extracted different words from the same location on the memo. The recurring instability of the opening term contrasts with the relative persistence of other fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+The strongest takeaway is not that “emergency” has been disproved. Rather, it has failed to achieve the level of agreement that would make it a secure reading. Published comparisons show that different investigators repeatedly extracted different words from the same location on the memo. The recurring instability of the opening term contrasts with the relative persistence of other fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
-For that reason, historians and document analysts who focus on the quality of the reading process tend to treat “emergency powers are needed” cautiously. The phrase remains a notable proposed interpretation, but the word *emergency* is the part least supported by cross-comparison of competing transcriptions. In the debate over the [Ramey]({{ 'ramey/' | relative_url }}) memo, it is the weak link in one of the most consequential alleged sentences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+For that reason, historians and document analysts who focus on the quality of the reading process tend to treat “emergency powers are needed” cautiously. The phrase remains a notable proposed interpretation, but the word *emergency* is the part least supported by cross-comparison of competing transcriptions. In the debate over the [Ramey]({{ 'ramey/' | relative_url }}) memo, it is the weak link in one of the most consequential alleged sentences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the word emergency is the weak link. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the word emergency is the weak link. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Focuses on evidential strength and weak links in Roswell claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidential strength and weak links in Roswell claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding interpretation limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding interpretation limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Emphasizes documentary standards and historical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documentary standards and historical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Source of many influential interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Source of many influential interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/342a781a77638df97461.jpg' | relative_url }}" alt="Listing image for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/342a781a77638df97461.jpg' | relative_url }}" alt="Listing image for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="missing-emergency-why-the-word-emergency-is-the-weak-link-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For that reason, historians and document analysts who focus on the quality of th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For that reason, historians and document analysts who focus on the quality of th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For that reason, historians and document analysts who focus on the quality of th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For that reason, historians and document analysts who focus on the quality of th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For that reason, historians and document analysts who focus on the quality of th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,80 +759,80 @@ For that reason, historians and document analysts who focus on the quality of th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We have a fuzzy photo of a. physical document that is nearly 80 years old and significantly...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We have a fuzzy photo of a. physical document that is nearly 80 years old and significantly...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — Ramey is holding a piece of paper on which some words can be read while others seem to...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — Ramey is holding a piece of paper on which some words can be read while others seem to...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: law.unimelb.edu.au  
-   Link: <a href="https://law.unimelb.edu.au/__data/assets/pdf_file/0019/3402208/Dang-Minh-Tuan_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.unimelb.edu.au/__data/assets/pdf_file/0019/3402208/Dang-Minh-Tuan_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Powers, Human Rights and Rule of Law...Emergency powers are those special prerogatives that a government or a president can resort to in...</p></details>
+   Link:<a href="https://law.unimelb.edu.au/__data/assets/pdf_file/0019/3402208/Dang-Minh-Tuan_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.unimelb.edu.au/__data/assets/pdf_file/0019/3402208/Dang-Minh-Tuan_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Powers, Human Rights and Rule of Law...Emergency powers are those special prerogatives that a government or a president can resort to in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: idea.int  
-   Link: <a href="https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf</a>  
+   Link:<a href="https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idea.int/sites/default/files/publications/emergency-powers-primer.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: yalejreg.com  
-   Link: <a href="https://www.yalejreg.com/nc/ad-law-reading-room-emergency-powers-for-good-by-elena-chachko-and-katerina-linos/" target="_blank" rel="noopener noreferrer nofollow">https://www.yalejreg.com/nc/ad-law-reading-room-emergency-powers-for-good-by-elena-chachko-and-katerina-linos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We argue that under certain limited conditions, political actors can legitimately invoke emergency powers...</p></details>
+   Link:<a href="https://www.yalejreg.com/nc/ad-law-reading-room-emergency-powers-for-good-by-elena-chachko-and-katerina-linos/" target="_blank" rel="noopener noreferrer nofollow">https://www.yalejreg.com/nc/ad-law-reading-room-emergency-powers-for-good-by-elena-chachko-and-katerina-linos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We argue that under certain limited conditions, political actors can legitimately invoke emergency powers...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: law.csuohio.edu  
    Title: friedman final version of article 2  
-   Link: <a href="https://www.law.csuohio.edu/sites/default/files/academics/jlh/friedman_final_version_of_article-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.csuohio.edu/sites/default/files/academics/jlh/friedman_final_version_of_article-2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>POWERS OF THE EXECUTIVEby JL FRIEDMAN · Cited by 32 — Part III reviews specifically enumerated powers of the executive in emergencies whe...</p></details>
+   Link:<a href="https://www.law.csuohio.edu/sites/default/files/academics/jlh/friedman_final_version_of_article-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.csuohio.edu/sites/default/files/academics/jlh/friedman_final_version_of_article-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>POWERS OF THE EXECUTIVEby JL FRIEDMAN · Cited by 32 — Part III reviews specifically enumerated powers of the executive in emergencies whe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sp9mWFAI1Y0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sp9mWFAI1Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Cracking the Roswell UFO [Smoking Gun](&#123;&#123; 'smoking-gun/' | relative_url &#125;&#125;): The Ramey Memo Mystery  
-   Link: <a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roger Ramey Memo, with David Rudiak The Roger Ramey Memo, with David Rudiak Project Bluebook...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roger Ramey Memo, with David Rudiak The Roger Ramey Memo, with David Rudiak Project Bluebook...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: XZBN UFO Files  
-   Link: <a href="http://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MLs_LeE483Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MLs_LeE483Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MLs_LeE483Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bp106jUEyis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bp106jUEyis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295975/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8295975/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEmergencies: on the misuse of government powers - PMCby C Bjørnskov · 2021 · Cited by 37 — Nine out of 10 constitutions contain ex...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295975/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8295975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEmergencies: on the misuse of government powers - PMCby C Bjørnskov · 2021 · Cited by 37 — Nine out of 10 constitutions contain ex...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Roger Ramey Memo, with David Rudiak  
-   Link: <a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>

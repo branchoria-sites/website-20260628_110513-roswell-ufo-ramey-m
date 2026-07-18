@@ -280,51 +280,51 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_mo
 
 ## Introduction
 
-One of the most important disagreements in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate was not over a single letter or blurred word. It was over whether a dramatic phrase about “[Emergency Powers]({{ 'emergency-powers/' | relative_url }})” was really present at all. J. Bond Johnson’s influential transcript included wording that appeared to refer to emergency authority and other striking language, including references associated with Magdalena. Neil Morris’s later readings moved away from those claims. In doing so, Morris highlighted a central problem in the Roswell memo controversy: if independent readers examining the same photograph cannot agree on the presence of major phrases, then the strongest interpretations become much harder to defend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+One of the most important disagreements in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate was not over a single letter or blurred word. It was over whether a dramatic phrase about “[Emergency Powers]({{ 'emergency-powers/' | relative_url }})” was really present at all. J. Bond Johnson’s influential transcript included wording that appeared to refer to emergency authority and other striking language, including references associated with Magdalena. Neil Morris’s later readings moved away from those claims. In doing so, Morris highlighted a central problem in the Roswell memo controversy: if independent readers examining the same photograph cannot agree on the presence of major phrases, then the strongest interpretations become much harder to defend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-1-dark.svg" | relative_url }}" alt="Johnson Split illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The disagreement matters because “Emergency Powers” was not a minor detail. It was one of the phrases that gave the memo an appearance of official urgency and secrecy. [Morris]({{ 'morris/' | relative_url }})’s decision to alter or abandon that reading therefore became a significant test of whether different analysts were actually converging on the same hidden message or constructing different narratives from the same ambiguous image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+The disagreement matters because “Emergency Powers” was not a minor detail. It was one of the phrases that gave the memo an appearance of official urgency and secrecy. [Morris]({{ 'morris/' | relative_url }})’s decision to alter or abandon that reading therefore became a significant test of whether different analysts were actually converging on the same hidden message or constructing different narratives from the same ambiguous image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 ## When Two Transcripts Told Different Stories
 
-The [Ramey]({{ 'ramey/' | relative_url }}) memo photograph has long attracted attempts to reconstruct text from a document held by Brigadier General Roger Ramey during the Roswell publicity events of July 1947. Because the original writing is tiny, angled, and blurred, investigators have produced multiple competing transcripts rather than a single accepted reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+The [Ramey]({{ 'ramey/' | relative_url }}) memo photograph has long attracted attempts to reconstruct text from a document held by Brigadier General Roger Ramey during the Roswell publicity events of July 1947. Because the original writing is tiny, angled, and blurred, investigators have produced multiple competing transcripts rather than a single accepted reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-Johnson's interpretation became notable because it contained several highly consequential phrases. Among them were references interpreted as “Emergency Powers” and wording linked to [Magdalena]({{ 'magdalena/' | relative_url }}), New Mexico. For researchers favouring a crash-retrieval scenario, such phrases appeared to suggest a government response extending far beyond the recovery of an ordinary balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Johnson's interpretation became notable because it contained several highly consequential phrases. Among them were references interpreted as “Emergency Powers” and wording linked to [Magdalena]({{ 'magdalena/' | relative_url }}), New Mexico. For researchers favouring a crash-retrieval scenario, such phrases appeared to suggest a government response extending far beyond the recovery of an ordinary balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-Morris, however, did not simply reproduce Johnson's transcript. As his work evolved, he retained some elements that appeared repeatedly across different attempts to read the memo, but he substantially revised other sections. The result was not a polished confirmation of Johnson's claims but a noticeably different document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Morris, however, did not simply reproduce Johnson's transcript. As his work evolved, he retained some elements that appeared repeatedly across different attempts to read the memo, but he substantially revised other sections. The result was not a polished confirmation of Johnson's claims but a noticeably different document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EcJawLB-FR8" title="After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer">After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx</a></p><p class="youtube-embed-meta">Channel: SciWorx</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EcJawLB-FR8">Open on YouTube</a></p></div></div></div>
 
 ### Johnson's Stronger Emergency Wording
 
-Johnson's reading attracted attention because it offered language that sounded operational and urgent. The alleged “Emergency Powers” wording became one of the most frequently cited examples. If correct, it would imply that the memo recorded extraordinary administrative actions connected to the Roswell events rather than routine handling of [balloon debris]({{ 'balloon-debris/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Johnson's reading attracted attention because it offered language that sounded operational and urgent. The alleged “Emergency Powers” wording became one of the most frequently cited examples. If correct, it would imply that the memo recorded extraordinary administrative actions connected to the Roswell events rather than routine handling of [balloon debris]({{ 'balloon-debris/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-The appeal of such wording is easy to understand. A phrase like “Emergency Powers” appears unusually specific. Unlike vague words that could fit many contexts, it seems to point toward an identifiable governmental response. For supporters of an extraordinary interpretation, this made the phrase disproportionately important compared with less dramatic portions of the transcript. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+The appeal of such wording is easy to understand. A phrase like “Emergency Powers” appears unusually specific. Unlike vague words that could fit many contexts, it seems to point toward an identifiable governmental response. For supporters of an extraordinary interpretation, this made the phrase disproportionately important compared with less dramatic portions of the transcript.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-Yet the phrase's importance also created a problem. The more central a phrase becomes to an argument, the more necessary it is that multiple independent readers identify it from the image itself rather than inherit it from earlier interpretations. That requirement became difficult to satisfy once later analysts began producing different readings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Yet the phrase's importance also created a problem. The more central a phrase becomes to an argument, the more necessary it is that multiple independent readers identify it from the image itself rather than inherit it from earlier interpretations. That requirement became difficult to satisfy once later analysts began producing different readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-2-dark.svg" | relative_url }}" alt="Johnson Split illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What Morris Changed or Dropped
 
-Morris's work is often remembered for its transparency. Rather than presenting a seamless reconstruction, he used notation that distinguished stronger readings from weaker guesses and openly marked uncertain areas. This approach made it easier to see where confidence ended and speculation began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Morris's work is often remembered for its transparency. Rather than presenting a seamless reconstruction, he used notation that distinguished stronger readings from weaker guesses and openly marked uncertain areas. This approach made it easier to see where confidence ended and speculation began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-Within that framework, the dramatic “Emergency Powers” wording did not survive intact. Morris preserved some of the memo's most discussed features, including references interpreted as “victims” and “Fort Worth”, but he moved away from several of Johnson's more sensational passages. The alleged emergency-authority language was among the casualties of that reassessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Within that framework, the dramatic “Emergency Powers” wording did not survive intact. Morris preserved some of the memo's most discussed features, including references interpreted as “victims” and “Fort Worth”, but he moved away from several of Johnson's more sensational passages. The alleged emergency-authority language was among the casualties of that reassessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-Likewise, the Magdalena-related wording associated with Johnson's transcript did not emerge as a stable feature in Morris's later versions. Instead of reinforcing Johnson's most striking claims, Morris's work demonstrated how significantly the text could change when another researcher re-examined the same source material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Likewise, the Magdalena-related wording associated with Johnson's transcript did not emerge as a stable feature in Morris's later versions. Instead of reinforcing Johnson's most striking claims, Morris's work demonstrated how significantly the text could change when another researcher re-examined the same source material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZRWruuXtZ6w" title="History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer">History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZRWruuXtZ6w">Open on YouTube</a></p></div></div></div>
 
 ## Why the Disagreement Matters More Than Spelling
 
-The dispute is sometimes misunderstood as a technical disagreement about image enhancement or letter recognition. In reality, the stakes are much higher. If two researchers disagree about whether a word is “the” or “this”, the overall meaning of a document may remain intact. But when they disagree about whether a phrase like “Emergency Powers” exists at all, the document's significance changes dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+The dispute is sometimes misunderstood as a technical disagreement about image enhancement or letter recognition. In reality, the stakes are much higher. If two researchers disagree about whether a word is “the” or “this”, the overall meaning of a document may remain intact. But when they disagree about whether a phrase like “Emergency Powers” exists at all, the document's significance changes dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-This is why the Morris–Johnson split became such an important case study within the broader Ramey memo controversy. The issue was not merely transcription accuracy. It was whether independent analysis produced convergence. Strong historical evidence usually becomes more persuasive when separate investigators arrive at similar conclusions. The Ramey memo often displayed the opposite pattern: major claims appeared, disappeared, or changed as different analysts revisited the image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+This is why the Morris–Johnson split became such an important case study within the broader Ramey memo controversy. The issue was not merely transcription accuracy. It was whether independent analysis produced convergence. Strong historical evidence usually becomes more persuasive when separate investigators arrive at similar conclusions. The Ramey memo often displayed the opposite pattern: major claims appeared, disappeared, or changed as different analysts revisited the image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-The problem was recognised in broader examinations of the memo as well. Research into the document's decipherment found that observers could be influenced by expectations and background assumptions when attempting to read ambiguous text. While some words appeared repeatedly across different efforts, many of the more elaborate reconstructions showed far less stability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+The problem was recognised in broader examinations of the memo as well. Research into the document's decipherment found that observers could be influenced by expectations and background assumptions when attempting to read ambiguous text. While some words appeared repeatedly across different efforts, many of the more elaborate reconstructions showed far less stability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-3-dark.svg" | relative_url }}" alt="Johnson Split illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,203 +332,203 @@ The problem was recognised in broader examinations of the memo as well. Research
 
 The contrast between Johnson and Morris demonstrates that the strongest claims in the Ramey memo debate cannot be evaluated solely by asking whether a phrase is exciting or suggestive. They must also be judged by whether independent readers consistently see the same phrase.
 
-Morris's departure from Johnson's “Emergency Powers” and Magdalena wording therefore became significant evidence in its own right. It showed that some of the most dramatic elements of the earlier transcript were not robust enough to survive later re-examination. Even researchers who believed the memo contained potentially important information did not necessarily agree on its most sensational passages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+Morris's departure from Johnson's “Emergency Powers” and Magdalena wording therefore became significant evidence in its own right. It showed that some of the most dramatic elements of the earlier transcript were not robust enough to survive later re-examination. Even researchers who believed the memo contained potentially important information did not necessarily agree on its most sensational passages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
-For the Roswell debate, that lesson is more consequential than any individual disputed word. The key question is not whether a remarkable phrase can be extracted from the photograph once. It is whether different analysts, working independently, repeatedly recover the same remarkable phrase from the image. On the question of “Emergency Powers”, Morris and Johnson did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
+For the Roswell debate, that lesson is more consequential than any individual disputed word. The key question is not whether a remarkable phrase can be extracted from the photograph once. It is whether different analysts, working independently, repeatedly recover the same remarkable phrase from the image. On the question of “Emergency Powers”, Morris and Johnson did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">y&#x27;s official explanations is the “Ramey memo.” During the photo session of...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ICu7lcEwI5A" title="Louisiana Ship Building Company Finds Mystery Message In A Bottle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ICu7lcEwI5A" target="_blank" rel="noopener noreferrer">Louisiana Ship Building Company Finds Mystery Message In A Bottle</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ICu7lcEwI5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ICu7lcEwI5A">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Two Transcripts Told Different Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Two Transcripts Told Different Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly relevant to disputes over dramatic Roswell claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to disputes over dramatic Roswell claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents influential interpretations of the incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents influential interpretations of the incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Useful for understanding competing evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding competing evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/b026e120fb2877db71ca.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/b026e120fb2877db71ca.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="johnson-split-when-two-transcripts-told-different-stories-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For the Roswell debate, that lesson is more consequential than any individual di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For the Roswell debate, that lesson is more consequential than any individual di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For the Roswell debate, that lesson is more consequential than any individual di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For the Roswell debate, that lesson is more consequential than any individual di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For the Roswell debate, that lesson is more consequential than any individual di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,74 +734,74 @@ For the Roswell debate, that lesson is more consequential than any individual di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>y&#x27;s official explanations is the “Ramey memo.” During the [photo session](&amp;#123;&amp;#123; &#x27;photo-session/&#x27; | relative_url &amp;#125;&amp;#125;) of...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y&#x27;s official explanations is the “Ramey memo.” During the [photo session](&amp;#123;&amp;#123; &#x27;photo-session/&#x27; | relative_url &amp;#125;&amp;#125;) of...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>content that supported a crashed extraterrestrial craft scenario.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>content that supported a crashed extraterrestrial craft scenario.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 269425372 The Emergency Constitution  
-   Link: <a href="https://www.researchgate.net/publication/269425372_The_Emergency_Constitution" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269425372_The_Emergency_Constitution</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Emergency Constitution6 May 2026 — Terrorist attack of September 11, 2001 shocked the world, it caused major changes in underst...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/269425372_The_Emergency_Constitution" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269425372_The_Emergency_Constitution</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Emergency Constitution6 May 2026 — Terrorist attack of September 11, 2001 shocked the world, it caused major changes in underst...</p></details>
    Published: September 11, 2001  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fordlibrarymuseum.gov  
-   Link: <a href="https://www.fordlibrarymuseum.gov/library/document/0067/1562958.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0067/1562958.pdf</a>  
+   Link:<a href="https://www.fordlibrarymuseum.gov/library/document/0067/1562958.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0067/1562958.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thesun.co.uk  
    Title: roswell mystery cracked air force captain memo ufo crash  
-   Link: <a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — A RETIRED US Air Force captain believes crucial words on a memo m...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — A RETIRED US Air Force captain believes crucial words on a memo m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2013/sep/14/experience-message-bottle-dead-daughter" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2013/sep/14/experience-message-bottle-dead-daughter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience: I found a message in a bottle from my dead...14 Sept 2013 — My daughter Sidonie was 10 when she put a message in a bottle an...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2013/sep/14/experience-message-bottle-dead-daughter" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2013/sep/14/experience-message-bottle-dead-daughter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experience: I found a message in a bottle from my dead...14 Sept 2013 — My daughter Sidonie was 10 when she put a message in a bottle an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia doc frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_doc_frequencies.txtstadt document: its 1326311 who ・ april 483256 july 482974 like 482267 based 481939 each ・ lt...</p></details>
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_doc_frequencies.txtstadt document: its 1326311 who ・ april 483256 july 482974 like 482267 based 481939 each ・ lt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: derecho.uba.ar  
-   Link: <a href="https://www.derecho.uba.ar/academica/carreras_grado/modelo-examen/2019-septiembre-examen-ingles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.derecho.uba.ar/academica/carreras_grado/modelo-examen/2019-septiembre-examen-ingles.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson delivers brutal dismissal of May era on steps...The hair was in order, the jokes were missing, and the rhetoric was defiant: Bri...</p></details>
+   Link:<a href="https://www.derecho.uba.ar/academica/carreras_grado/modelo-examen/2019-septiembre-examen-ingles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.derecho.uba.ar/academica/carreras_grado/modelo-examen/2019-septiembre-examen-ingles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson delivers brutal dismissal of May era on steps...The hair was in order, the jokes were missing, and the rhetoric was defiant: Bri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ICu7lcEwI5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ICu7lcEwI5A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bottle. Inside was a weathered piece of paper with a child&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ICu7lcEwI5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ICu7lcEwI5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bottle. Inside was a weathered piece of paper with a child&#x27;s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: After Disclosure: Dissecting Gen. "Balloon Boy" Ramey  
-   Link: <a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EcJawLB-FR8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Disc Recovery Roswell Army Retracted Within Hours...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EcJawLB-FR8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Disc Recovery Roswell Army Retracted Within Hours...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The World&#x27;s Biggest Alien Cover-Up Finally Exposed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The World&#x27;s Biggest Alien Cover-Up Finally Exposed...</p></details>

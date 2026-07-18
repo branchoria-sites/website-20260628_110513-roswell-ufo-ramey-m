@@ -280,17 +280,17 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kitt
 
 ## Introduction
 
-In the Air Force’s 1997 *Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, Joseph Kittinger occupied a distinctive role. Unlike many figures drawn into the Roswell debate decades after the fact, Kittinger was a documented participant in the high-altitude balloon and parachute programmes that the Air Force argued lay behind some later “alien body” stories. His recollections gave investigators a practical example of how civilians in New Mexico could have encountered recovery operations involving human-shaped test dummies and interpreted them as something extraordinary. Rather than proving or disproving Roswell itself, Kittinger’s testimony helped explain the mechanism behind the Air Force’s memory-misidentification theory: real recoveries, real military teams and real human-like objects later remembered as alien-body events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
+In the Air Force’s 1997 *Roswell Report: [Case Closed]({{ 'case-closed/' | relative_url }})*, Joseph Kittinger occupied a distinctive role. Unlike many figures drawn into the Roswell debate decades after the fact, Kittinger was a documented participant in the high-altitude balloon and parachute programmes that the Air Force argued lay behind some later “alien body” stories. His recollections gave investigators a practical example of how civilians in New Mexico could have encountered recovery operations involving human-shaped test dummies and interpreted them as something extraordinary. Rather than proving or disproving Roswell itself, Kittinger’s testimony helped explain the mechanism behind the Air Force’s memory-misidentification theory: real recoveries, real military teams and real human-like objects later remembered as alien-body events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-1-dark.svg" | relative_url }}" alt="Kittinger illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Kittinger described seeing
 
-Joseph Kittinger is best known for his record-setting high-altitude parachute jumps during Project Excelsior, but before those famous descents he worked in the Air Force research environment that grew out of earlier programmes such as High Dive. Those projects used anthropomorphic dummies—instrumented human-shaped test figures—to study high-altitude escape and parachute behaviour. The dummies were carried aloft by balloons and later recovered after landing across large areas of New Mexico. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceflighthistories.com/post/project-excelsior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflighthistories.com">[SpaceflightHistories+2stratocat.com.ar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflighthistories.com</span><span class="citation-popover-snippet">The Man Who Fell to Earth: Joseph Kittinger &amp; Project ExcelsiorAugust 16, 2023 — 16 Aug 2023 — Operation High Dive, b...</span><span class="citation-popover-meta">Published: August 16, 2023</span></span></span>
+Joseph Kittinger is best known for his record-setting high-altitude parachute jumps during Project Excelsior, but before those famous descents he worked in the Air Force research environment that grew out of earlier programmes such as High Dive. Those projects used anthropomorphic dummies—instrumented human-shaped test figures—to study high-altitude escape and parachute behaviour. The dummies were carried aloft by balloons and later recovered after landing across large areas of New Mexico.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceflighthistories.com/post/project-excelsior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflighthistories.com">[SpaceflightHistories+2stratocat.com.ar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflighthistories.com</span><span class="citation-popover-snippet">The Man Who Fell to Earth: Joseph Kittinger &amp; Project ExcelsiorAugust 16, 2023 — 16 Aug 2023 — Operation High Dive, b...</span><span class="citation-popover-meta">Published: August 16, 2023</span></span></span>
 
-When the Air Force revisited Roswell in the 1990s, investigators interviewed personnel associated with these programmes. Kittinger recalled extensive dummy-drop activity and recovery work connected with the balloon projects. Public reporting on the preparation of *Case Closed* quoted him as responding that he had dropped crash-test dummies near Roswell “about 50 times” when asked whether such operations had occurred in the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Mild-mannered retiree is infamous `Redhead Captain</span><span class="citation-popover-snippet">Air Force captain called and asked Kittinger if he had ever dropped crash-test dummies from high-altitude balloons near Roswell, New...R...</span></span></span>
+When the Air Force revisited Roswell in the 1990s, investigators interviewed personnel associated with these programmes. Kittinger recalled extensive dummy-drop activity and recovery work connected with the balloon projects. Public reporting on the preparation of *Case Closed* quoted him as responding that he had dropped crash-test dummies near Roswell “about 50 times” when asked whether such operations had occurred in the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Mild-mannered retiree is infamous `Redhead Captain</span><span class="citation-popover-snippet">Air Force captain called and asked Kittinger if he had ever dropped crash-test dummies from high-altitude balloons near Roswell, New...R...</span></span></span>
 
-His value to the Air Force explanation was not that he witnessed alleged UFO events, but that he could confirm the routine reality of balloon launches, dummy descents and retrieval missions in the same broad geographical area where later body-recovery stories emerged. Those operations were no longer hypothetical; they were documented programmes remembered by participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
+His value to the Air Force explanation was not that he witnessed alleged UFO events, but that he could confirm the routine reality of balloon launches, dummy descents and retrieval missions in the same broad geographical area where later body-recovery stories emerged. Those operations were no longer hypothetical; they were documented programmes remembered by participants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCr9ft4yWaI" title="Official Reports on the Roswell UFO Incident | USAF Documentary | 1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer">Official Reports on the Roswell UFO Incident | USAF Documentary | 1997</a></p><p class="youtube-embed-meta">Channel: The Best Film Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCr9ft4yWaI">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ His value to the Air Force explanation was not that he witnessed alleged UFO eve
 
 The Air Force argument depended not only on the existence of dummies but also on how recoveries appeared to observers.
 
-The anthropomorphic dummies used in High Dive and related programmes were designed to approximate human dimensions. They possessed human-like proportions, heads, limbs and specialised equipment. Recovery teams often arrived in military vehicles, secured the landing area and transported the test articles and instrumentation for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
+The anthropomorphic dummies used in High Dive and related programmes were designed to approximate human dimensions. They possessed human-like proportions, heads, limbs and specialised equipment. Recovery teams often arrived in military vehicles, secured the landing area and transported the test articles and instrumentation for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
 
-According to *Case Closed*, several details reported by later Roswell witnesses resembled known dummy-recovery procedures. The report noted that dummies could be carried on stretchers, moved in crate-like containers and accompanied by personnel handling sensitive equipment. In some situations, protective coverings and transport methods could resemble body-handling procedures to an uninformed observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+According to *Case Closed*, several details reported by later Roswell witnesses resembled known dummy-recovery procedures. The report noted that dummies could be carried on stretchers, moved in crate-like containers and accompanied by personnel handling sensitive equipment. In some situations, protective coverings and transport methods could resemble body-handling procedures to an uninformed observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-For the Air Force, this was the crucial point. A civilian seeing military personnel recover a human-shaped object from a remote landing site would not necessarily recognise an aeromedical test programme. The sight could be striking even without any intention to conceal information. The report argued that such scenes offered a plausible source for later stories involving small bodies, recovery teams and unusual military activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Force personnel engaged in anthropomorphic dummy recovery operations. •...</span></span></span>
+For the Air Force, this was the crucial point. A civilian seeing military personnel recover a human-shaped object from a remote landing site would not necessarily recognise an aeromedical test programme. The sight could be striking even without any intention to conceal information. The report argued that such scenes offered a plausible source for later stories involving small bodies, recovery teams and unusual military activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Force personnel engaged in anthropomorphic dummy recovery operations. •...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-2-dark.svg" | relative_url }}" alt="Kittinger illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,214 +311,214 @@ For the Air Force, this was the crucial point. A civilian seeing military person
 
 Kittinger’s recollections mattered because they supplied a firsthand operational perspective rather than a retrospective interpretation. The Air Force was attempting to answer a persistent question: if alien bodies were not recovered in 1947, why did body-recovery stories become so widespread decades later?
 
-Its answer was that some witnesses may have encountered genuine military recoveries from the 1950s and subsequently compressed those memories into the Roswell [narrative]({{ 'narrative/' | relative_url }}). Kittinger’s account helped establish that the recoveries were real events conducted in New Mexico and that they involved objects which could appear human at a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
+Its answer was that some witnesses may have encountered genuine military recoveries from the 1950s and subsequently compressed those memories into the Roswell [narrative]({{ 'narrative/' | relative_url }}). Kittinger’s account helped establish that the recoveries were real events conducted in New Mexico and that they involved objects which could appear human at a distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
 
-The report did not claim that Kittinger personally explained every witness statement. Instead, his memories served as a concrete example supporting a broader pattern. Investigators [compared]({{ 'compared/' | relative_url }}) witness descriptions with documented equipment, vehicles and procedures from dummy programmes such as High Dive and Excelsior. They argued that some similarities were too specific to dismiss outright, even if individual recollections remained disputed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/details/AFD-101027-030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Internet ArchiveThe Roswell Report: Case Closed: McAndrew, James, 196314 Dec 2013 — 1.1 Comparison of Testimony to Actual Air Force Equi...</span></span></span>
+The report did not claim that Kittinger personally explained every witness statement. Instead, his memories served as a concrete example supporting a broader pattern. Investigators [compared]({{ 'compared/' | relative_url }}) witness descriptions with documented equipment, vehicles and procedures from dummy programmes such as High Dive and Excelsior. They argued that some similarities were too specific to dismiss outright, even if individual recollections remained disputed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/details/AFD-101027-030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Internet ArchiveThe Roswell Report: Case Closed: McAndrew, James, 196314 Dec 2013 — 1.1 Comparison of Testimony to Actual Air Force Equi...</span></span></span>
 
-Critics of the Air Force explanation have pointed out that the [dummy drops]({{ 'dummy-drops/' | relative_url }}) occurred years after the 1947 Roswell incident. The Air Force acknowledged this chronology but argued that memory distortion, time compression and the merging of separate events could account for the discrepancy. Within that framework, Kittinger’s testimony was useful not because it linked dummies directly to July 1947, but because it demonstrated that the kinds of recovery operations described by some witnesses unquestionably occurred in later years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo+2Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
+Critics of the Air Force explanation have pointed out that the [dummy drops]({{ 'dummy-drops/' | relative_url }}) occurred years after the 1947 Roswell incident. The Air Force acknowledged this chronology but argued that memory distortion, time compression and the merging of separate events could account for the discrepancy. Within that framework, Kittinger’s testimony was useful not because it linked dummies directly to July 1947, but because it demonstrated that the kinds of recovery operations described by some witnesses unquestionably occurred in later years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo+2Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nfuQQrm3Q4U" title="Joe Kittinger&#x27;s Skydive From The Edge Of Space (1960)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nfuQQrm3Q4U" target="_blank" rel="noopener noreferrer">Joe Kittinger&#x27;s Skydive From The Edge Of Space (1960)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nfuQQrm3Q4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nfuQQrm3Q4U">Open on YouTube</a></p></div></div></div>
 
 ## Kittinger’s place in the body-memory debate
 
-Within the wider discussion of the Roswell case and disputed [readings]({{ 'readings/' | relative_url }}) of the [Ramey memo]({{ 'ramey-memo/' | relative_url }}), Kittinger’s significance is narrow but important. He provided evidence that anthropomorphic dummy recoveries were a real and recurring feature of Air Force operations in New Mexico. His recollections helped transform the Air Force’s body-memory explanation from an abstract theory into one grounded in documented Cold War testing programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Mild-mannered retiree is infamous `Redhead Captain</span><span class="citation-popover-snippet">Air Force captain called and asked Kittinger if he had ever dropped crash-test dummies from high-altitude balloons near Roswell, New...R...</span></span></span>
+Within the wider discussion of the Roswell case and disputed [readings]({{ 'readings/' | relative_url }}) of the [Ramey memo]({{ 'ramey-memo/' | relative_url }}), Kittinger’s significance is narrow but important. He provided evidence that anthropomorphic dummy recoveries were a real and recurring feature of Air Force operations in New Mexico. His recollections helped transform the Air Force’s body-memory explanation from an abstract theory into one grounded in documented Cold War testing programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Mild-mannered retiree is infamous `Redhead Captain</span><span class="citation-popover-snippet">Air Force captain called and asked Kittinger if he had ever dropped crash-test dummies from high-altitude balloons near Roswell, New...R...</span></span></span>
 
-Whether one accepts the Air Force’s broader conclusions or not, Kittinger remains one of the most tangible links between the official explanation and actual recovery operations. His testimony did not resolve Roswell, but it supplied a verifiable example of how dramatic military recoveries involving human-shaped objects could enter local memory and later become part of the body-retrieval stories that *Case Closed* sought to explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Force personnel engaged in anthropomorphic dummy recovery operations. •...</span></span></span>
+Whether one accepts the Air Force’s broader conclusions or not, Kittinger remains one of the most tangible links between the official explanation and actual recovery operations. His testimony did not resolve Roswell, but it supplied a verifiable example of how dramatic military recoveries involving human-shaped objects could enter local memory and later become part of the body-retrieval stories that *Case Closed* sought to explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Force personnel engaged in anthropomorphic dummy recovery operations. •...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7OW74On3sAU" title="USA: 50TH ANNIVERSARY OF REPUTED ROSWELL UFO LANDING IN NEW MEXICO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7OW74On3sAU" target="_blank" rel="noopener noreferrer">USA: 50TH ANNIVERSARY OF REPUTED ROSWELL UFO LANDING IN NEW MEXICO</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7OW74On3sAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7OW74On3sAU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The recovery stories behind the dummy theory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The recovery stories behind the dummy theory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pre-astronauts+by+Craig+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pre-astronauts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DFrbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Pre-astronauts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pre-astronauts+by+Craig+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pre-astronauts">The Pre-astronauts</a>
-        </h4>
-        <p class="fr-book-author">By Craig Ryan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pre-astronauts+by+Craig+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pre-astronauts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DFrbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Pre-astronauts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pre-astronauts+by+Craig+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pre-astronauts">The Pre-astronauts</a>
+</h4>
+<p class="fr-book-author">By Craig Ryan</p>
         
-        <p class="fr-book-desc">Covers programs related to the environment behind dummy-drop operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pre-astronauts+by+Craig+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers programs related to the environment behind dummy-drop operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pre-astronauts+by+Craig+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides context for Cold War flight-testing culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Provides context for Cold War flight-testing culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Provides alternative interpretations of Roswell evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides alternative interpretations of Roswell evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Addresses the official explanation involving later military activities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the official explanation involving later military activities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pre+astronauts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pre astronauts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pre+astronauts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pre astronauts</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, NM “STARBUDS” Alien Coffee Mug 1947/UFO Specific To 1 Local Shop; Weed?"><img src="{{ '/assets/images/marketplace-covers/906e4c0bba146613aaa9.jpg' | relative_url }}" alt="Listing image for Roswell, NM “STARBUDS” Alien Coffee Mug 1947/UFO Specific To 1 Local Shop; Weed?" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell, NM “STARBUDS” Alien Coffee Mug 1947/UFO Specific To 1 Local Shop; Weed?</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, NM “STARBUDS” Alien Coffee Mug 1947/UFO Specific To 1 Local Shop; Weed?"><img src="{{ '/assets/images/marketplace-covers/906e4c0bba146613aaa9.jpg' | relative_url }}" alt="Listing image for Roswell, NM “STARBUDS” Alien Coffee Mug 1947/UFO Specific To 1 Local Shop; Weed?" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell, NM “STARBUDS” Alien Coffee Mug 1947/UFO Specific To 1 Local Shop; Weed?</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings"><img src="{{ '/assets/images/marketplace-covers/24cbe8b917a1ba90bd07.jpg' | relative_url }}" alt="Listing image for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings"><img src="{{ '/assets/images/marketplace-covers/24cbe8b917a1ba90bd07.jpg' | relative_url }}" alt="Listing image for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expert UFOlogy Mug Gift Funny UFO Conspiracy Roswell Aliens Space Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/8756262f6bbbe7f9f660.jpg' | relative_url }}" alt="Listing image for Expert UFOlogy Mug Gift Funny UFO Conspiracy Roswell Aliens Space Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Expert UFOlogy Mug Gift Funny UFO Conspiracy Roswell Aliens Space Tea Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expert UFOlogy Mug Gift Funny UFO Conspiracy Roswell Aliens Space Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/8756262f6bbbe7f9f660.jpg' | relative_url }}" alt="Listing image for Expert UFOlogy Mug Gift Funny UFO Conspiracy Roswell Aliens Space Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Expert UFOlogy Mug Gift Funny UFO Conspiracy Roswell Aliens Space Tea Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/eb28d18d4a8be5d6e641.jpg' | relative_url }}" alt="Listing image for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/eb28d18d4a8be5d6e641.jpg' | relative_url }}" alt="Listing image for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="kittinger-the-recovery-stories-behind-the-dummy-theory-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Whether one accepts the Air Force’s broader conclusions or not, Kittinger rema
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Whether one accepts the Air Force’s broader conclusions or not, Kittinger rema
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Whether one accepts the Air Force’s broader conclusions or not, Kittinger rema
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Whether one accepts the Air Force’s broader conclusions or not, Kittinger rema
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Whether one accepts the Air Force’s broader conclusions or not, Kittinger rema
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,118 +724,118 @@ Whether one accepts the Air Force’s broader conclusions or not, Kittinger rema
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: govinfo.gov  
    Title: GOVPUB D301 PURL gpo92195  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ix. Page 11. 24. Map Of New Mexico Depicting Dummy Landing Locations. 25. Capt. Joseph W. Kittinger, Jr.&#x27;s Record Parachute...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Force personnel engaged in anthropomorphic dummy recovery operations. •...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Force personnel engaged in anthropomorphic dummy recovery operations. •...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spaceflighthistories.com  
-   Link: <a href="https://www.spaceflighthistories.com/post/project-excelsior" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceflighthistories.com/post/project-excelsior</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Fell to Earth: Joseph Kittinger &amp; Project ExcelsiorAugust 16, 2023 — 16 Aug 2023 — Operation High Dive, b...</p></details>
+   Link:<a href="https://www.spaceflighthistories.com/post/project-excelsior" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceflighthistories.com/post/project-excelsior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Fell to Earth: Joseph Kittinger &amp; Project ExcelsiorAugust 16, 2023 — 16 Aug 2023 — Operation High Dive, b...</p></details>
    Published: August 16, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stratocat.com.ar  
    Title: Joseph W  
-   Link: <a href="https://stratocat.com.ar/artics/excelsior-e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/artics/excelsior-e.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kittinger and the Highest Step in the WorldIn June 1954, High Dive progressed to a series of unstabilized dummy drops from up to 90,300 f...</p></details>
+   Link:<a href="https://stratocat.com.ar/artics/excelsior-e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/artics/excelsior-e.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kittinger and the Highest Step in the WorldIn June 1954, High Dive progressed to a series of unstabilized dummy drops from up to 90,300 f...</p></details>
    Published: June 1954  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: deseret.com  
    Title: News Mild-mannered retiree is infamous `Redhead Captain  
-   Link: <a href="https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force captain called and asked Kittinger if he had ever dropped crash-test dummies from high-altitude balloons near Roswell, New...R...</p></details>
+   Link:<a href="https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/6/30/19320890/mild-mannered-retiree-is-infamous-redhead-captain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force captain called and asked Kittinger if he had ever dropped crash-test dummies from high-altitude balloons near Roswell, New...R...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: AFD 101027 030  
-   Link: <a href="https://archive.org/details/AFD-101027-030" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/AFD-101027-030</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveThe Roswell Report: Case Closed: McAndrew, James, 196314 Dec 2013 — 1.1 Comparison of Testimony to Actual Air Force Equi...</p></details>
+   Link:<a href="https://archive.org/details/AFD-101027-030" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/AFD-101027-030</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveThe Roswell Report: Case Closed: McAndrew, James, 196314 Dec 2013 — 1.1 Comparison of Testimony to Actual Air Force Equi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: go.gale.com  
    Title: A Roswell requiem  
-   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Roswell requiem - Document - Gale Academic OneFileby BD Gildenberg · 2003 · Cited by 7 — The argument of Cased Closed, in a nutshel...</p></details>
+   Link:<a href="https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA101495912&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Roswell requiem - Document - Gale Academic OneFileby BD Gildenberg · 2003 · Cited by 7 — The argument of Cased Closed, in a nutshel...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Excelsior  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Excelsior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Excelsior</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project ExcelsiorProject Excelsior was a series of parachute jumps made by Joseph Kittinger of the United States Air Force in 1959 and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Excelsior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Excelsior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project ExcelsiorProject Excelsior was a series of parachute jumps made by Joseph Kittinger of the United States Air Force in 1959 and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.centerforinquiry.org  
    Title: Case Closed  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These projects culminated in Captain Joseph W. Kittinger&#x27;s heroic world record parachute jump of 102,800 feet, on...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1998/05/22164918/p31.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These projects culminated in Captain Joseph W. Kittinger&#x27;s heroic world record parachute jump of 102,800 feet, on...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: the roswell reports what crashed in the desert  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Reports: What crashed in the desert?7 Jul 2014 — The USAF interviewees discuss the dropping of anthropomorphic, or crash test...</p></details>
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/07/07/the-roswell-reports-what-crashed-in-the-desert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Reports: What crashed in the desert?7 Jul 2014 — The USAF interviewees discuss the dropping of anthropomorphic, or crash test...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: kittinger the alleged roswell red headed  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/w5z56q/kittinger_the_alleged_roswell_red_headed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/w5z56q/kittinger_the_alleged_roswell_red_headed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kittinger, the alleged Roswell Red Headed interrogator.source crashed at Roswell in 1947! high altitude dummy tests didn&#x27;t occur until a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/w5z56q/kittinger_the_alleged_roswell_red_headed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/w5z56q/kittinger_the_alleged_roswell_red_headed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kittinger, the alleged Roswell Red Headed interrogator.source crashed at Roswell in 1947! high altitude dummy tests didn&#x27;t occur until a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: What are the details? Tim Carrogg  
-   Link: <a href="https://www.facebook.com/TomSkilling/posts/dear-tomi-have-recently-heard-a-story-about-a-sky-dive-from-a-balloon-at-100000-/10158427373801760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TomSkilling/posts/dear-tomi-have-recently-heard-a-story-about-a-sky-dive-from-a-balloon-at-100000-/10158427373801760/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A sky-dive from a balloon at 100000 feet during the 1960sDear Tom,I have recently heard a story about a sky-dive from a balloon at 100,00...</p></details>
+   Link:<a href="https://www.facebook.com/TomSkilling/posts/dear-tomi-have-recently-heard-a-story-about-a-sky-dive-from-a-balloon-at-100000-/10158427373801760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TomSkilling/posts/dear-tomi-have-recently-heard-a-story-about-a-sky-dive-from-a-balloon-at-100000-/10158427373801760/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A sky-dive from a balloon at 100000 feet during the 1960sDear Tom,I have recently heard a story about a sky-dive from a balloon at 100,00...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...either bodies or dummies” 57 leaves little doubt that what he described was an ant...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...either bodies or dummies” 57 leaves little doubt that what he described was an ant...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: esd.whs.mil  
    Title: Roswell Report Case Closed  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report: case closedRecollections of Roswell, Part II (1993), Air Force personnel engaged in anthropomorphic dummy recovery ope...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report: case closedRecollections of Roswell, Part II (1993), Air Force personnel engaged in anthropomorphic dummy recovery ope...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCr9ft4yWaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalmuseum.af.mil  
    Title: mil Excelsior Gondola  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195681/excelsior-gondola/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195681/excelsior-gondola/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He stepped from the open gondola at 102,800 feet, more than 20 miles high and above more...Read more...</p></details>
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195681/excelsior-gondola/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195681/excelsior-gondola/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He stepped from the open gondola at 102,800 feet, more than 20 miles high and above more...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nfuQQrm3Q4U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nfuQQrm3Q4U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Reports on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nfuQQrm3Q4U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nfuQQrm3Q4U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official Reports on the Roswell UFO Incident | USAF Documentary | 1997...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theprojectbluebookarchive.org  
-   Link: <a href="https://www.theprojectbluebookarchive.org/archive/Air%20Intelligence%20Reports-%201948%E2%80%931953/40989270.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/Air%20Intelligence%20Reports-%201948%E2%80%931953/40989270.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DURING THE... ANTHROPOMORPHIC DUMMIES, ALSO KNOWN AS CRASH TEST DUMMIES, ARE. TODAY...Read more...</p></details>
+   Link:<a href="https://www.theprojectbluebookarchive.org/archive/Air%20Intelligence%20Reports-%201948%E2%80%931953/40989270.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/Air%20Intelligence%20Reports-%201948%E2%80%931953/40989270.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DURING THE... ANTHROPOMORPHIC DUMMIES, ALSO KNOWN AS CRASH TEST DUMMIES, ARE. TODAY...Read more...</p></details>

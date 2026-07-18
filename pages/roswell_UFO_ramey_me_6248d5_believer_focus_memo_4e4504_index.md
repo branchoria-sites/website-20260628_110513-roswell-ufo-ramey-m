@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-believer/
 description: Focused pages that expand on Believer Focus.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504
 parent_title: Believer Focus
@@ -16,7 +16,7 @@ parent_permalink: /believer-focus/
 
 # Explore Topics in Believer Focus
 
-The following pages expand on the main **[Believer Focus]({{ '/believer-focus/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Believer Focus]({{ '/believer-focus/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon Clash]({{ '/balloon-clash/' | relative_url }})
 - [1947 Records]({{ '/1947-records/' | relative_url }})

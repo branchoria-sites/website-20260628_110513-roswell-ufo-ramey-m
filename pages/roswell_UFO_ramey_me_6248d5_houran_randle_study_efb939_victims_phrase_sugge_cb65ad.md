@@ -274,38 +274,38 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_vic
 
 ## Introduction
 
-The phrase “victims of the wreck” became one of the most disputed [readings]({{ 'readings/' | relative_url }}) in the Roswell [Ramey memo]({{ 'ramey-memo/' | relative_url }}) because it appeared to offer a direct reference to casualties associated with a crash. If genuine, it would be difficult to reconcile with the conventional weather-balloon explanation and would therefore carry enormous evidential weight. The central question addressed by James Houran and Kevin Randle’s suggestion experiment was not whether the phrase was true, but whether observers could be led to see such a phrase in a damaged image through expectation and contextual framing. Their experiment effectively treated the “victims” line as a test case for the broader problem of reading meaningful text from an ambiguous photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The phrase “victims of the wreck” became one of the most disputed [readings]({{ 'readings/' | relative_url }}) in the Roswell [Ramey memo]({{ 'ramey-memo/' | relative_url }}) because it appeared to offer a direct reference to casualties associated with a crash. If genuine, it would be difficult to reconcile with the conventional weather-balloon explanation and would therefore carry enormous evidential weight. The central question addressed by James Houran and Kevin Randle’s suggestion experiment was not whether the phrase was true, but whether observers could be led to see such a phrase in a damaged image through expectation and contextual framing. Their experiment effectively treated the “victims” line as a test case for the broader problem of reading meaningful text from an ambiguous photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-1-dark.svg" | relative_url }}" alt="Victims Test illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Phrase Became Controversial
 
-Among the many attempted transcriptions of the [Ramey]({{ 'ramey/' | relative_url }}) memo, the alleged wording “victims of the wreck” stood out because it was unusually specific. Other disputed readings involved isolated words or fragments, but this phrase implied an event, casualties and a wreck site. As a result, supporters and critics of Roswell crash interpretations focused heavily on that single line. Later discussions of memo decipherment repeatedly highlighted the phrase as one of the most consequential proposed readings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/additional-ramey-memo-scans.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">additional ramey memo scans</span><span class="citation-popover-snippet">A Different Perspective: Additional Ramey Memo Scans7 Nov 2015 — The phrase &quot;VICTIMS OF THE WRECK,&quot; if that&#x27;s really in the memo, raises...</span></span></span>
+Among the many attempted transcriptions of the [Ramey]({{ 'ramey/' | relative_url }}) memo, the alleged wording “victims of the wreck” stood out because it was unusually specific. Other disputed readings involved isolated words or fragments, but this phrase implied an event, casualties and a wreck site. As a result, supporters and critics of Roswell crash interpretations focused heavily on that single line. Later discussions of memo decipherment repeatedly highlighted the phrase as one of the most consequential proposed readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/additional-ramey-memo-scans.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">additional ramey memo scans</span><span class="citation-popover-snippet">A Different Perspective: Additional Ramey Memo Scans7 Nov 2015 — The phrase &quot;VICTIMS OF THE WRECK,&quot; if that&#x27;s really in the memo, raises...</span></span></span>
 
-The controversy was intensified by the fact that the underlying image is heavily degraded. Researchers attempting to enlarge and enhance the document often agreed that a phrase ending with “of the wreck” seemed plausible, while disagreeing sharply about the preceding word. Some investigators proposed “victims”; others argued that different letter combinations fit the same visual marks. Because the image quality is poor, the line became an ideal example of how multiple interpretations could occupy the same physical space in the photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-snippet">A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — Another point is that EVERYONE agrees that the &quot;VICTIMS&quot; phrase rea...</span></span></span>
+The controversy was intensified by the fact that the underlying image is heavily degraded. Researchers attempting to enlarge and enhance the document often agreed that a phrase ending with “of the wreck” seemed plausible, while disagreeing sharply about the preceding word. Some investigators proposed “victims”; others argued that different letter combinations fit the same visual marks. Because the image quality is poor, the line became an ideal example of how multiple interpretations could occupy the same physical space in the photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-snippet">A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — Another point is that EVERYONE agrees that the &quot;VICTIMS&quot; phrase rea...</span></span></span>
 
-Houran and Randle recognised that this was not merely a technical image-processing dispute. It was also a perception problem. If observers already expected the memo to contain evidence of a crashed craft and bodies, they might be more likely to perceive words consistent with that [narrative]({{ 'narrative/' | relative_url }}) when confronted with incomplete visual information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Houran and Randle recognised that this was not merely a technical image-processing dispute. It was also a perception problem. If observers already expected the memo to contain evidence of a crashed craft and bodies, they might be more likely to perceive words consistent with that [narrative]({{ 'narrative/' | relative_url }}) when confronted with incomplete visual information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rih9-80p0Ec" title="The Truth about Roswell: Decoding Decades of Deception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer">The Truth about Roswell: Decoding Decades of Deception</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 9.8M &middot; Uploaded: June 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rih9-80p0Ec">Open on YouTube</a></p></div></div></div>
 
 ## Competing Readings in the Same Line
 
-The suggestion experiment was designed around a simple principle from perception research: ambiguous stimuli are often interpreted through the lens of prior expectations. Participants were shown the same memo image, but different groups received different contextual stories before attempting to decipher it. One group was primed with the Roswell crash narrative, another with a story involving atomic-bomb-related secrecy, and a third received a relatively neutral description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The suggestion experiment was designed around a simple principle from perception research: ambiguous stimuli are often interpreted through the lens of prior expectations. Participants were shown the same memo image, but different groups received different contextual stories before attempting to decipher it. One group was primed with the Roswell crash narrative, another with a story involving atomic-bomb-related secrecy, and a third received a relatively neutral description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-This design directly addressed the “victims” problem. If a crash-oriented group consistently reported language resembling casualties, wreckage or recovery operations, while differently primed groups reported alternative content, that would suggest that at least some famous memo readings might arise from suggestion rather than from unambiguous visual information. Conversely, if all groups independently produced the same wording, confidence in the reading would increase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+This design directly addressed the “victims” problem. If a crash-oriented group consistently reported language resembling casualties, wreckage or recovery operations, while differently primed groups reported alternative content, that would suggest that at least some famous memo readings might arise from suggestion rather than from unambiguous visual information. Conversely, if all groups independently produced the same wording, confidence in the reading would increase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-The experiment therefore did not attempt to prove or disprove the specific phrase through image enhancement. Instead, it examined whether rival interpretations could emerge from the same damaged line when observers approached it with different expectations. In that sense, the “victims” wording functioned as a psychological test case rather than merely a transcription dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The experiment therefore did not attempt to prove or disprove the specific phrase through image enhancement. Instead, it examined whether rival interpretations could emerge from the same damaged line when observers approached it with different expectations. In that sense, the “victims” wording functioned as a psychological test case rather than merely a transcription dispute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-2-dark.svg" | relative_url }}" alt="Victims Test illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Experiment Found About Suggestion
 
-Houran and Randle reported that suggestion influenced both the quantity and character of the text participants believed they could read. Participants exposed to crash-related framing tended to spend more time examining the memo and were more likely to produce interpretations consistent with that framework. The study concluded that contextual information can substantially shape attempts to decipher ambiguous material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Houran and Randle reported that suggestion influenced both the quantity and character of the text participants believed they could read. Participants exposed to crash-related framing tended to spend more time examining the memo and were more likely to produce interpretations consistent with that framework. The study concluded that contextual information can substantially shape attempts to decipher ambiguous material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-For the “victims” issue, the important implication was methodological rather than linguistic. The experiment demonstrated that researchers could not assume that agreement on a dramatic phrase automatically reflected objective [legibility]({{ 'legibility/' | relative_url }}). Some apparent readings might be partly constructed through expectation, especially when observers know the historical controversy surrounding the document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+For the “victims” issue, the important implication was methodological rather than linguistic. The experiment demonstrated that researchers could not assume that agreement on a dramatic phrase automatically reflected objective [legibility]({{ 'legibility/' | relative_url }}). Some apparent readings might be partly constructed through expectation, especially when observers know the historical controversy surrounding the document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-At the same time, the findings did not show that every proposed reading was an illusion. The authors noted that participants displayed recurring agreement on certain words and place names, suggesting that portions of the memo may contain genuinely recoverable text. The key point was that confidence should vary according to the quality and independence of the agreement rather than according to the dramatic significance of a phrase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+At the same time, the findings did not show that every proposed reading was an illusion. The authors noted that participants displayed recurring agreement on certain words and place names, suggesting that portions of the memo may contain genuinely recoverable text. The key point was that confidence should vary according to the quality and independence of the agreement rather than according to the dramatic significance of a phrase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mx5TxFCz5gs" title="A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer">A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo</a></p><p class="youtube-embed-meta">Channel: Rob McConnell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mx5TxFCz5gs">Open on YouTube</a></p></div></div></div>
@@ -315,204 +315,204 @@ At the same time, the findings did not show that every proposed reading was an i
 
 ## What the Experiment Can and Cannot Rule Out
 
-The experiment can rule out a simplistic argument that repeated citation of “victims of the wreck” is, by itself, proof that the memo clearly contains those words. Because suggestion demonstrably affects interpretation, any reading of the memo must account for observer expectations and prior knowledge. The study showed that a famous phrase can gain apparent support through social and cognitive processes as well as through image content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The experiment can rule out a simplistic argument that repeated citation of “victims of the wreck” is, by itself, proof that the memo clearly contains those words. Because suggestion demonstrably affects interpretation, any reading of the memo must account for observer expectations and prior knowledge. The study showed that a famous phrase can gain apparent support through social and cognitive processes as well as through image content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-However, the experiment cannot establish that the phrase is wrong. It did not determine the actual wording of the disputed line. A psychologically induced reading and a correct reading are not mutually exclusive possibilities. A phrase could be both genuinely present and especially attractive to observers who already expect it to be there. The experiment was not designed to distinguish between those possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+However, the experiment cannot establish that the phrase is wrong. It did not determine the actual wording of the disputed line. A psychologically induced reading and a correct reading are not mutually exclusive possibilities. A phrase could be both genuinely present and especially attractive to observers who already expect it to be there. The experiment was not designed to distinguish between those possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-This limitation is why the “victims” debate survived the study. The experiment challenged confidence in the phrase without definitively eliminating it. For critics of Roswell crash claims, the results provided evidence that expectation can manufacture apparent meaning in an ambiguous image. For proponents, the study did not erase the possibility that the disputed line really does refer to victims and a wreck. What it established was narrower but important: the famous phrase cannot be evaluated solely by looking at the image and claiming it is obvious. The psychological context of the reading process must also be considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+This limitation is why the “victims” debate survived the study. The experiment challenged confidence in the phrase without definitively eliminating it. For critics of Roswell crash claims, the results provided evidence that expectation can manufacture apparent meaning in an ambiguous image. For proponents, the study did not erase the possibility that the disputed line really does refer to victims and a wreck. What it established was narrower but important: the famous phrase cannot be evaluated solely by looking at the image and claiming it is obvious. The psychological context of the reading process must also be considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-3-dark.svg" | relative_url }}" alt="Victims Test illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can suggestion explain the victims reading?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can suggestion explain the victims reading?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Discusses key Roswell evidence and disputed interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses key Roswell evidence and disputed interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains how observers can perceive different things in the same stimulus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how observers can perceive different things in the same stimulus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Foundational account behind many later memo debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational account behind many later memo debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating controversial evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating controversial evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/1d6acef4941644a67f93.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/1d6acef4941644a67f93.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/c9a3183cb594c9a2e6fc.jpg' | relative_url }}" alt="Listing image for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/c9a3183cb594c9a2e6fc.jpg' | relative_url }}" alt="Listing image for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="victims-test-can-suggestion-explain-the-victims-reading-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ This limitation is why the “victims” debate survived the study. The experime
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ This limitation is why the “victims” debate survived the study. The experime
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ This limitation is why the “victims” debate survived the study. The experime
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ This limitation is why the “victims” debate survived the study. The experime
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ This limitation is why the “victims” debate survived the study. The experime
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,92 +718,92 @@ This limitation is why the “victims” debate survived the study. The experime
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reportedly revealed...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reportedly revealed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kevinrandle.blogspot.com  
    Title: additional ramey memo scans  
-   Link: <a href="https://kevinrandle.blogspot.com/2015/11/additional-ramey-memo-scans.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/11/additional-ramey-memo-scans.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Additional Ramey Memo Scans7 Nov 2015 — The phrase &quot;VICTIMS OF THE WRECK,&quot; if that&#x27;s really in the memo, raises...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2015/11/additional-ramey-memo-scans.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/11/additional-ramey-memo-scans.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Additional Ramey Memo Scans7 Nov 2015 — The phrase &quot;VICTIMS OF THE WRECK,&quot; if that&#x27;s really in the memo, raises...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — Another point is that EVERYONE agrees that the &quot;VICTIMS&quot; phrase rea...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — Another point is that EVERYONE agrees that the &quot;VICTIMS&quot; phrase rea...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentHouran and Randle (2002a) commented that: e surprisingly high agreement between our...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentHouran and Randle (2002a) commented that: e surprisingly high agreement between our...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kevinrandle.blogspot.com  
    Title: "the victims of the wreck". Ramey memo convincingly say: "Victims of the wreck"?  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: General Ramey and His Memo8 May 2009 — The so-called &quot;victims&quot; were Japanese not extraterrestrial...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: General Ramey and His Memo8 May 2009 — The so-called &quot;victims&quot; were Japanese not extraterrestrial...</p></details>
    Published: May 2009  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: the-sun.com  
    Title: roswell mystery cracked air force captain memo ufo crash  
-   Link: <a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
+   Link:<a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain who...8 Jul 2022 — A retired US Air Force captain believes crucial words on a me...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thesun.co.uk  
    Title: roswell mystery cracked air force captain memo ufo crash  
-   Link: <a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — The grainy memo appears to say the words “victims of the crash” a...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/19135127/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell mystery cracked by retired US Air Force captain...8 Jul 2022 — The grainy memo appears to say the words “victims of the crash” a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Wreck” “[Priming](&amp;#123;&amp;#123; &#x27;priming/&#x27; | relative_url &amp;#125;&amp;#125;)” of the Victims Agreement in the Wording A New...</p></details>
+   Link:<a href="https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842408380/Kevin-D-Randle-Roswell-Revisited-2007-Galde-Press-Libgen-li</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Wreck” “[Priming](&amp;#123;&amp;#123; &#x27;priming/&#x27; | relative_url &amp;#125;&amp;#125;)” of the Victims Agreement in the Wording A New...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: This is the letter/text that Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/6maKRNKcuOJVWH8siqL4G7" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6maKRNKcuOJVWH8siqL4G7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[RUDIAK](&amp;#123;&amp;#123; &#x27;rudiak/&#x27; | relative_url &amp;#125;&amp;#125;) - Decoding the Ramey Memo - A Different...15 Jun 2024 — Ramey&#x27;s memo mentions &quot;THE VICTIMS OF THE WRECK&quot; and dealing with somethi...</p></details>
+   Link:<a href="https://open.spotify.com/episode/6maKRNKcuOJVWH8siqL4G7" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6maKRNKcuOJVWH8siqL4G7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[RUDIAK](&amp;#123;&amp;#123; &#x27;rudiak/&#x27; | relative_url &amp;#125;&amp;#125;) - Decoding the Ramey Memo - A Different...15 Jun 2024 — Ramey&#x27;s memo mentions &quot;THE VICTIMS OF THE WRECK&quot; and dealing with somethi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Ramey Memo: Best Roswell Cover-Up Evidence ever Found  
-   Link: <a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo victims of the wreck The Roswell Mystery Files | Ancient Aliens HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo victims of the wreck The Roswell Mystery Files | Ancient Aliens HISTORY...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2003/03/22164724/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2003/03/22164724/p16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bait and Switch on &#x27;Roswell: The [Smoking Gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;A UFO researcher, David Rudiak, claims a computer enhancement of the photo allowed him to re...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2003/03/22164724/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2003/03/22164724/p16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bait and Switch on &#x27;Roswell: The [Smoking Gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;A UFO researcher, David Rudiak, claims a computer enhancement of the photo allowed him to re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sites.libraries.uta.edu  
    Title: research team  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Team | Roswell UFO IncidentRandle is a prominent ufologist. often regarded as one of the preeminent experts on the reported crash of a UF...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Team | Roswell UFO IncidentRandle is a prominent ufologist. often regarded as one of the preeminent experts on the reported crash of a UF...</p></details>

@@ -448,32 +448,32 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-ov
 
 ## Introduction
 
-David Rudiak’s “Roswell Proof” reading is the most famous crash-supporting reconstruction of the Ramey memo: the small paper visible in Brigadier General Roger Ramey’s hand during the 8 July 1947 Fort Worth press photographs. Rudiak argues that the memo refers to a “disk”, “the victims of the wreck”, material being sent to Fort Worth, and a public weather-balloon explanation used for damage control. If correct, that would make the image a rare 1947 document contradicting the official balloon account. The difficulty is that the reading depends on extracting words from a tiny, blurred, angled, folded and partly obscured paper. The memo’s [provenance]({{ 'provenance/' | relative_url }}) is strong; the text reconstruction is not. The best way to understand Rudiak’s claim is as an ambitious line-by-line interpretation that made the Ramey memo famous, but also exposed why the evidence remains contested. UTA Special Collections states that the [original negatives]({{ 'negatives/' | relative_url }}) are held in its Fort Worth Star-Telegram Collection and that the memo has “yet to be definitively deciphered”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Open source on flickr.com.</span></span></span>
+David Rudiak’s “Roswell Proof” reading is the most famous crash-supporting reconstruction of the Ramey memo: the small paper visible in Brigadier General Roger Ramey’s hand during the 8 July 1947 Fort Worth press photographs. Rudiak argues that the memo refers to a “disk”, “the victims of the wreck”, material being sent to Fort Worth, and a public weather-balloon explanation used for damage control. If correct, that would make the image a rare 1947 document contradicting the official balloon account. The difficulty is that the reading depends on extracting words from a tiny, blurred, angled, folded and partly obscured paper. The memo’s [provenance]({{ 'provenance/' | relative_url }}) is strong; the text reconstruction is not. The best way to understand Rudiak’s claim is as an ambitious line-by-line interpretation that made the Ramey memo famous, but also exposed why the evidence remains contested. UTA Special Collections states that the [original negatives]({{ 'negatives/' | relative_url }}) are held in its Fort Worth Star-Telegram Collection and that the memo has “yet to be definitively deciphered”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Open source on flickr.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-overview.webp" | relative_url }}" alt="Overview image for Rudiak" loading="eager" decoding="sync" fetchpriority="high">
 ## What Rudiak says the memo proves
 
-Rudiak’s central claim is not merely that a few suggestive words can be seen. His stronger claim is that the visible fragments form a coherent secret communication about a crashed “disk” and recovered “victims”, while the public story about weather balloons appears only at the end as part of the official explanation being prepared for release. In a widely mirrored version of his 2001 material, Rudiak’s headline claim is that the telegram in [Ramey]({{ 'ramey/' | relative_url }})’s hand provides “[smoking gun]({{ 'smoking-gun/' | relative_url }}) proof” of a disk crash and the recovery of “the victims of the wreck”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span><span class="citation-popover-snippet">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span></span></span>
+Rudiak’s central claim is not merely that a few suggestive words can be seen. His stronger claim is that the visible fragments form a coherent secret communication about a crashed “disk” and recovered “victims”, while the public story about weather balloons appears only at the end as part of the official explanation being prepared for release. In a widely mirrored version of his 2001 material, Rudiak’s headline claim is that the telegram in [Ramey]({{ 'ramey/' | relative_url }})’s hand provides “[smoking gun]({{ 'smoking-gun/' | relative_url }}) proof” of a disk crash and the recovery of “the victims of the wreck”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span><span class="citation-popover-snippet">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span></span></span>
 
 The phrases that do the heavy lifting in Rudiak’s reconstruction are:
 
 * **“Disk”**: Rudiak treats this as a direct reference to the object recovered, not merely to [press language]({{ 'press-language/' | relative_url }}) about a flying disc scare.
 * **“The victims of the wreck”**: this is the phrase that gives the reading its dramatic force, because “victims” implies casualties rather than balloon debris.
 * **Something forwarded to Fort Worth**: Rudiak reads the memo as referring to bodies or wreckage being sent onward through military channels.
-* **“Weather balloons” and “RAWIN” targets**: he argues these appear in the context of public statements or a cover story, not as the actual substance of the recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span><span class="citation-popover-snippet">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span></span></span>
+* **“Weather balloons” and “RAWIN” targets**: he argues these appear in the context of public statements or a cover story, not as the actual substance of the recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span><span class="citation-popover-snippet">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span></span></span>
 
-Rudiak’s argument is strongest as a cumulative reading. He does not ask the reader to accept one isolated word in a vacuum; he argues that the alleged “victims”, “disk”, “wreck”, “Fort Worth” and weather-balloon language reinforce each other. In his framing, the memo privately says what the public press conference denied. That is why his reading became the best-known crash-supporting version of the Ramey memo rather than just another attempt to enhance a blurred photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span><span class="citation-popover-snippet">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span></span></span>
+Rudiak’s argument is strongest as a cumulative reading. He does not ask the reader to accept one isolated word in a vacuum; he argues that the alleged “victims”, “disk”, “wreck”, “Fort Worth” and weather-balloon language reinforce each other. In his framing, the memo privately says what the public press conference denied. That is why his reading became the best-known crash-supporting version of the Ramey memo rather than just another attempt to enhance a blurred photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span><span class="citation-popover-snippet">UFO Casebook Roswell Smoking Gun, the Ramey Memo</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-1-dark.svg" | relative_url }}" alt="Rudiak illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the reconstruction works
 
-Rudiak’s approach rests on the idea that the paper is not random visual noise. The document appears to contain typed or teletype-style text; the image is poor, but not blank. Earlier efforts had already established that some markings on the paper looked word-like. James Houran and Kevin Randle’s 2002 paper summarised the history: a former NASA researcher, Richard Haines, had found vague words but not usable individual letters; the US Air Force later sent the image to a national-level organisation, which reported that the photographs were too poor to visualise the details sought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Rudiak’s approach rests on the idea that the paper is not random visual noise. The document appears to contain typed or teletype-style text; the image is poor, but not blank. Earlier efforts had already established that some markings on the paper looked word-like. James Houran and Kevin Randle’s 2002 paper summarised the history: a former NASA researcher, Richard Haines, had found vague words but not usable individual letters; the US Air Force later sent the image to a national-level organisation, which reported that the photographs were too poor to visualise the details sought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 Rudiak’s method, as presented in the wider debate, is a hybrid of image enhancement, letter-shape comparison and contextual reconstruction. That means he tries to identify [partial letters]({{ 'partial-letters/' | relative_url }}) in fixed positions, compare them with other apparent letters on the same paper, and then ask what wording would make sense in a 1947 Roswell-related communication. The key move is not simply magnification; it is interpretation. A stroke that might be a “V”, “R”, “T” or noise becomes meaningful only when placed inside a candidate word such as “VICTIMS”, “REMAINS” or something else.
 
-This is why the Rudiak reading has always been more than a technical image-processing claim. It is also a narrative claim about what kind of document Ramey was holding. Rudiak treats the paper as a military communication tied directly to the Roswell recovery and the Fort Worth handover. Critics have challenged that assumption, arguing that the paper may not have been a secret outgoing message at all, and may have resembled a civilian newswire or another document type more closely than a formal military teletype. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+This is why the Rudiak reading has always been more than a technical image-processing claim. It is also a narrative claim about what kind of document Ramey was holding. Rudiak treats the paper as a military communication tied directly to the Roswell recovery and the Fort Worth handover. Critics have challenged that assumption, arguing that the paper may not have been a secret outgoing message at all, and may have resembled a civilian newswire or another document type more closely than a formal military teletype.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdXwvdvr_Ps" title="The Roger Ramey Memo, with David Rudiak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer">The Roger Ramey Memo, with David Rudiak</a></p><p class="youtube-embed-meta">Channel: Project Bluebook</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdXwvdvr_Ps">Open on YouTube</a></p></div></div></div>
@@ -482,9 +482,9 @@ This is why the Rudiak reading has always been more than a technical image-proce
 
 The phrase “the victims of the wreck” is the centre of Rudiak’s reading because it changes the memo from a debris document into a body-recovery document. A balloon target may have wreckage; it does not have victims. Rudiak’s supporters therefore treat the phrase as the point at which the official balloon explanation breaks down.
 
-The problem is that this exact phrase is also where interpretation becomes most fragile. Other readers have not consistently reproduced it. Houran and Randle reported that John Kirby, using computer equipment and his own analysis, read the crucial line not as “victims of the wreck” but as “the remains of the material you commanded we fly”. That alternative shifts the meaning back towards a conventional material-transfer context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The problem is that this exact phrase is also where interpretation becomes most fragile. Other readers have not consistently reproduced it. Houran and Randle reported that John Kirby, using computer equipment and his own analysis, read the crucial line not as “victims of the wreck” but as “the remains of the material you commanded we fly”. That alternative shifts the meaning back towards a conventional material-transfer context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-Tim Printy’s extended critique focuses on the same vulnerability. He notes that some analysts saw “remains” rather than “victims”, that different possible first letters change the reading sharply, and that the paper is folded and curved near Ramey’s hand, making letter shapes unreliable. In his assessment, Rudiak’s insistence on “victims” depends on rejecting plausible alternatives in an area of the image where lighting, curvature and blur all work against certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">The Ramey Document: Smoking gun or empty water pistol?</span><span class="citation-popover-snippet">The Ramey Document: Smoking gun or empty water pistol?</span></span></span>
+Tim Printy’s extended critique focuses on the same vulnerability. He notes that some analysts saw “remains” rather than “victims”, that different possible first letters change the reading sharply, and that the paper is folded and curved near Ramey’s hand, making letter shapes unreliable. In his assessment, Rudiak’s insistence on “victims” depends on rejecting plausible alternatives in an area of the image where lighting, curvature and blur all work against certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">The Ramey Document: Smoking gun or empty water pistol?</span><span class="citation-popover-snippet">The Ramey Document: Smoking gun or empty water pistol?</span></span></span>
 
 That does not prove Rudiak is wrong. It does show why the phrase cannot bear the full weight of the claim without independent confirmation. If the word is “victims”, the memo is extraordinary. If it is “remains”, “viewing”, or an unreadable cluster of strokes, the case changes completely. The evidential problem is that the most consequential word is one of the least secure.
 
@@ -492,9 +492,9 @@ That does not prove Rudiak is wrong. It does show why the phrase cannot bear the
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-2-dark.svg" | relative_url }}" alt="Rudiak illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Rudiak fits among other readings
 
-Rudiak’s reconstruction did not appear in isolation. The Ramey memo attracted a sequence of attempts by researchers, enthusiasts and image specialists, and their results overlapped only partly. A 1998 team assembled by J. Bond Johnson, the Fort Worth Star-Telegram photographer, reported phrases including “victims”, “crash”, “[emergency powers]({{ 'emergency-powers/' | relative_url }})”, “Magdalena, NMEX” and “weather balloons”. Houran and Randle noted that, if corroborated, those phrases would have been a major Roswell breakthrough because the photograph had strong provenance and a known 1947 context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Rudiak’s reconstruction did not appear in isolation. The Ramey memo attracted a sequence of attempts by researchers, enthusiasts and image specialists, and their results overlapped only partly. A 1998 team assembled by J. Bond Johnson, the Fort Worth Star-Telegram photographer, reported phrases including “victims”, “crash”, “[emergency powers]({{ 'emergency-powers/' | relative_url }})”, “Magdalena, NMEX” and “weather balloons”. Houran and Randle noted that, if corroborated, those phrases would have been a major Roswell breakthrough because the photograph had strong provenance and a known 1947 context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-But later readings diverged. Neil Morris reportedly retained “victims” and “Fort Worth, Texas” while changing much of the surrounding text. Kirby saw “Fort Worth, Tex” but read the key line as “remains” rather than “victims”. Russ Estes, despite using a professional camera, macro lens, microscope, magnifying tools and a very high-resolution scan, said he could not reliably decipher the text, though he could make limited-confidence guesses about fragments such as “Fort Worth, Tex”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+But later readings diverged. Neil Morris reportedly retained “victims” and “Fort Worth, Texas” while changing much of the surrounding text. Kirby saw “Fort Worth, Tex” but read the key line as “remains” rather than “victims”. Russ Estes, despite using a professional camera, macro lens, microscope, magnifying tools and a very high-resolution scan, said he could not reliably decipher the text, though he could make limited-confidence guesses about fragments such as “Fort Worth, Tex”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 This matters because Rudiak’s reading is often presented as a decoded document, but the broader record looks more like a field of competing reconstructions. The repeated appearance of a few phrases — especially “Fort Worth, Tex” and possibly “weather balloons” or “disc” — suggests there may be genuine recoverable text in places. The lack of convergence on full sentences suggests the memo is not reliably readable as a complete document.
 
@@ -505,13 +505,13 @@ This matters because Rudiak’s reading is often presented as a decoded document
 
 The strongest criticisms of Rudiak’s reading do not depend on denying the photograph’s authenticity. They accept that Ramey held a paper and that some marks on it may be text. The dispute is over whether Rudiak’s reconstruction exceeds what the image can support.
 
-**First, expectation can shape perception.** Houran and Randle tested how context affected attempts to read the memo by giving different groups different framing: Roswell UFO case, atomic bomb testing, or no content cue. They found that many participants claimed to read the document, but their readings tended to follow the suggestions they had been given. They also found that only a few words in the same locations were consistently perceived across conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+**First, expectation can shape perception.** Houran and Randle tested how context affected attempts to read the memo by giving different groups different framing: Roswell UFO case, atomic bomb testing, or no content cue. They found that many participants claimed to read the document, but their readings tended to follow the suggestions they had been given. They also found that only a few words in the same locations were consistently perceived across conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-**Second, different readers produced different documents.** Printy’s critique stresses that the various readings were not generated in a clean blind process, and that researchers often knew of each other’s interpretations. That creates a risk that apparent agreement may reflect cross-contamination, not independent confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">The Ramey Document: Smoking gun or empty water pistol?</span><span class="citation-popover-snippet">The Ramey Document: Smoking gun or empty water pistol?</span></span></span>
+**Second, different readers produced different documents.** Printy’s critique stresses that the various readings were not generated in a clean blind process, and that researchers often knew of each other’s interpretations. That creates a risk that apparent agreement may reflect cross-contamination, not independent confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">The Ramey Document: Smoking gun or empty water pistol?</span><span class="citation-popover-snippet">The Ramey Document: Smoking gun or empty water pistol?</span></span></span>
 
-**Third, the document type is uncertain.** Rudiak’s interpretation works best if the paper is a military communication about the recovery. Barry Greenwood and others argued that some features may fit newswire copy better than military teletype style, including wording and time-format conventions. Kevin Randle’s later review reports Greenwood’s argument that phrases such as “at Fort Worth, Tex” also appeared in contemporary newspaper coverage, making a press-wire explanation plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+**Third, the document type is uncertain.** Rudiak’s interpretation works best if the paper is a military communication about the recovery. Barry Greenwood and others argued that some features may fit newswire copy better than military teletype style, including wording and time-format conventions. Kevin Randle’s later review reports Greenwood’s argument that phrases such as “at Fort Worth, Tex” also appeared in contemporary newspaper coverage, making a press-wire explanation plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
-**Fourth, professional enhancement did not settle the matter.** Randle’s 2022 update describes a later effort in which high-quality memo scans were independently examined by three qualified laboratories. Their techniques slightly improved aspects of the image, but the memo remained illegible because of blur and film-grain or speckle noise; the table summarising the lab findings repeatedly states that no clearly interpretable text resulted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+**Fourth, professional enhancement did not settle the matter.** Randle’s 2022 update describes a later effort in which high-quality memo scans were independently examined by three qualified laboratories. Their techniques slightly improved aspects of the image, but the memo remained illegible because of blur and film-grain or speckle noise; the table summarising the lab findings repeatedly states that no clearly interpretable text resulted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
 These criticisms do not make the memo worthless. They do mean that Rudiak’s version should be treated as an argued reconstruction, not as a straightforward transcription.
 
@@ -519,7 +519,7 @@ These criticisms do not make the memo worthless. They do mean that Rudiak’s ve
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-3-dark.svg" | relative_url }}" alt="Rudiak illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the reading can and cannot establish
 
-Rudiak’s reading is valuable because it forced the Roswell debate to engage with a real 1947 artefact rather than only later testimony. The image has unusually good provenance: J. Bond [Johnson]({{ 'johnson/' | relative_url }}) took the Fort Worth photographs on 8 July 1947, and UTA Special Collections identifies the negatives as part of the Fort Worth Star-Telegram Collection. That makes the Ramey memo a serious object of study even for people who reject Roswell crash claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Open source on flickr.com.</span></span></span>
+Rudiak’s reading is valuable because it forced the Roswell debate to engage with a real 1947 artefact rather than only later testimony. The image has unusually good provenance: J. Bond [Johnson]({{ 'johnson/' | relative_url }}) took the Fort Worth photographs on 8 July 1947, and UTA Special Collections identifies the negatives as part of the Fort Worth Star-Telegram Collection. That makes the Ramey memo a serious object of study even for people who reject Roswell crash claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Open source on flickr.com.</span></span></span>
 
 What Rudiak’s reading cannot currently establish is a secure text. The strongest crash-supporting interpretation requires several uncertain steps to align: the key word must be “victims”; the surrounding syntax must mean bodies or occupants rather than material remains; “disk” must refer to an actual recovered craft rather than press terminology; and the document must be a military communication rather than a newswire or other non-secret paper. Each step is possible in Rudiak’s reconstruction, but none is independently settled.
 
@@ -530,194 +530,194 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Most Famous Crash Reading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Most Famous Crash Reading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers witness testimony and competing interpretations relevant to crash and cover-up claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness testimony and competing interpretations relevant to crash and cover-up claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Legacy+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Legacy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xd5EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Legacy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Legacy+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Legacy">The Roswell Legacy</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Marcel, Linda Marcel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Legacy+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Legacy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xd5EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Legacy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Legacy+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Legacy">The Roswell Legacy</a>
+</h4>
+<p class="fr-book-author">By Jesse Marcel, Linda Marcel</p>
         
-        <p class="fr-book-desc">Provides insider-family perspective on the incident discussed in memo interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Legacy+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insider-family perspective on the incident discussed in memo interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Legacy+by+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Foundational book on the Roswell case that provides context for later memo and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational book on the Roswell case that provides context for later memo and evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines evidence surrounding the alleged crash central to the memo controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence surrounding the alleged crash central to the memo controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Legacy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Legacy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Legacy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Legacy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="rudiak-the-most-famous-crash-reading-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,102 +923,102 @@ The fairest assessment is that Rudiak created the most influential pro-crash rea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
+   Link:<a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astronomyufo.com  
    Title: The Ramey Document: Smoking gun or empty water pistol?  
-   Link: <a href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Ramey.htm</a>  
+   Link:<a href="https://www.astronomyufo.com/UFO/Ramey.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Ramey.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sites.libraries.uta.edu  
    Title: research team  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sp9mWFAI1Y0</a>  
+   Link:<a href="http://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sp9mWFAI1Y0</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufocasebook.com  
    Title: UFO Casebook Roswell Smoking Gun, the Ramey Memo  
-   Link: <a href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/rameymemo.html</a>  
+   Link:<a href="https://www.ufocasebook.com/rameymemo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/rameymemo.html</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=ddW9X1dMftc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ddW9X1dMftc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Rudiak Ramey memo A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo REL-MAR McConnell M...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ddW9X1dMftc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ddW9X1dMftc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Rudiak Ramey memo A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo REL-MAR McConnell M...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAVID RUDIAK - Decoding the Ramey Memo (Broadcast)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mx5TxFCz5gs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mx5TxFCz5gs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAVID RUDIAK - Decoding the Ramey Memo (Broadcast)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=q4DdbU0IODU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=q4DdbU0IODU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAVID RUDIAK - Decoding the Ramey Memo (Archive)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=q4DdbU0IODU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=q4DdbU0IODU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAVID RUDIAK - Decoding the Ramey Memo (Archive)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Roger Ramey Memo, with David Rudiak  
-   Link: <a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/BrianRoemmele/status/1602388121638735872" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BrianRoemmele/status/1602388121638735872</a>  
+   Link:<a href="https://x.com/BrianRoemmele/status/1602388121638735872" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BrianRoemmele/status/1602388121638735872</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/from-adam-to-omega-an-anatomy-of-ufo-phenomena-revised-and-updated-9781532093128.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/from-adam-to-omega-an-anatomy-of-ufo-phenomena-revised-and-updated-9781532093128.html</a>  
+   Link:<a href="https://dokumen.pub/from-adam-to-omega-an-anatomy-of-ufo-phenomena-revised-and-updated-9781532093128.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/from-adam-to-omega-an-anatomy-of-ufo-phenomena-revised-and-updated-9781532093128.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/general5/ramey.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general5/ramey.htm</a>  
+   Link:<a href="https://rense.com/general5/ramey.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general5/ramey.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: roswellproof.com  
-   Link: <a href="https://www.roswellproof.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/</a>  
+   Link:<a href="https://www.roswellproof.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/</a>  

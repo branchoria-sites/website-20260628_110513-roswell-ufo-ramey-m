@@ -274,15 +274,15 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_
 
 ## Introduction
 
-The Fort Worth photographs are often discussed as evidence about debris, balloons, or the disputed [Ramey memo]({{ 'ramey-memo/' | relative_url }}). Just as important, however, is who appears in the room. On 8 July 1947, three officers who occupied very different positions in the Roswell chain of events were brought together before the cameras at Fort Worth Army Air Field: Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }}), Major Jesse Marcel, and Colonel Thomas DuBose. The photographs therefore do more than document material on the floor. They capture the moment when the public explanation changed, showing the senior commander who presented the explanation, the intelligence officer who had recovered the debris, and the chief of staff who helped manage the headquarters response. sites.libraries.uta.edu+2sites.libraries.uta.edu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
+The Fort Worth photographs are often discussed as evidence about debris, balloons, or the disputed [Ramey memo]({{ 'ramey-memo/' | relative_url }}). Just as important, however, is who appears in the room. On 8 July 1947, three officers who occupied very different positions in the Roswell chain of events were brought together before the cameras at Fort Worth Army Air Field: Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }}), Major Jesse Marcel, and Colonel Thomas DuBose. The photographs therefore do more than document material on the floor. They capture the moment when the public explanation changed, showing the senior commander who presented the explanation, the intelligence officer who had recovered the debris, and the chief of staff who helped manage the headquarters response. sites.libraries.uta.edu+2sites.libraries.uta.edu<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-1-dark.svg" | relative_url }}" alt="Three Officers illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because the Roswell controversy later revolved around whether the Fort Worth display accurately represented what had been found in New Mexico, the presence of all three men in the same photographic sequence has become a central point of historical analysis. Each officer linked a different stage of the story, and their combined appearance created a visible chain from recovery to public explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
+Because the Roswell controversy later revolved around whether the Fort Worth display accurately represented what had been found in New Mexico, the presence of all three men in the same photographic sequence has become a central point of historical analysis. Each officer linked a different stage of the story, and their combined appearance created a visible chain from recovery to public explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
 
 ## Why Three Officers in One Room Matter
 
-The Fort Worth session was not a random press opportunity. Photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}) of the *Fort Worth Star-Telegram* produced the only known photographs of the debris display, and surviving accounts indicate that multiple poses were staged within Ramey's office. Those images included Marcel alone with the material, Ramey alone, and Ramey together with DuBose. The surviving [negatives]({{ 'negatives/' | relative_url }}) therefore preserve a sequence involving all three officers connected to the Roswell episode. sites.libraries.uta.edu+2artpike.fortunecity.ws <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
+The Fort Worth session was not a random press opportunity. Photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}) of the *Fort Worth Star-Telegram* produced the only known photographs of the debris display, and surviving accounts indicate that multiple poses were staged within Ramey's office. Those images included Marcel alone with the material, Ramey alone, and Ramey together with DuBose. The surviving [negatives]({{ 'negatives/' | relative_url }}) therefore preserve a sequence involving all three officers connected to the Roswell episode. sites.libraries.uta.edu+2artpike.fortunecity.ws<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
 
 What makes the scene historically significant is that the three men represented different levels of authority:
 
@@ -295,39 +295,39 @@ What makes the scene historically significant is that the three men represented 
 
 </div>
 
-Taken together, the images show a transition from field recovery to command-level explanation. For later researchers, that combination made the Fort Worth office the most important physical setting in the early Roswell [narrative]({{ 'narrative/' | relative_url }}). dafhistory.af.mil+2sites.libraries.uta.edu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
+Taken together, the images show a transition from field recovery to command-level explanation. For later researchers, that combination made the Fort Worth office the most important physical setting in the early Roswell [narrative]({{ 'narrative/' | relative_url }}). dafhistory.af.mil+2sites.libraries.uta.edu<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6u0F2_k2o4o" title="America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer">America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 29.3K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6u0F2_k2o4o">Open on YouTube</a></p></div></div></div>
 
 ## Ramey as the Public Explainer
 
-Ramey was the senior officer in the room and the public face of the revised explanation. After Roswell Army Air Field had announced possession of a “flying disc”, the debris was flown to Fort Worth and presented under his authority. Contemporary photographs show him examining the material and, in one of the most analysed images in UFO history, holding the paper later known as the Ramey memo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</span></span></span>
+Ramey was the senior officer in the room and the public face of the revised explanation. After Roswell Army Air Field had announced possession of a “flying disc”, the debris was flown to Fort Worth and presented under his authority. Contemporary photographs show him examining the material and, in one of the most analysed images in UFO history, holding the paper later known as the Ramey memo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</span></span></span>
 
-The visual structure of the photographs reinforced his role. Ramey appears not as a witness from the recovery site but as the officer interpreting what the public should understand the debris to be. In the images with DuBose, both men are shown inspecting material identified at the time as balloon-related equipment. This was the official corrective narrative that quickly replaced the earlier Roswell announcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</span></span></span>
+The visual structure of the photographs reinforced his role. Ramey appears not as a witness from the recovery site but as the officer interpreting what the public should understand the debris to be. In the images with DuBose, both men are shown inspecting material identified at the time as balloon-related equipment. This was the official corrective narrative that quickly replaced the earlier Roswell announcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</span></span></span>
 
-For that reason, discussions of the Ramey memo rarely focus only on the document itself. The wider question concerns the setting in which it appeared: a headquarters office where the commanding general was publicly redefining the meaning of the debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Johnson said that he had re- ceived, from his boss at the Fort Worth St...</span></span></span>
+For that reason, discussions of the Ramey memo rarely focus only on the document itself. The wider question concerns the setting in which it appeared: a headquarters office where the commanding general was publicly redefining the meaning of the debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Johnson said that he had re- ceived, from his boss at the Fort Worth St...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-2-dark.svg" | relative_url }}" alt="Three Officers illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Marcel as the Recovery Link
 
-If Ramey represented the explanation, Marcel represented the origin of the evidence. As the Roswell intelligence officer who had participated in the recovery effort, he was the person in the room with the strongest direct connection to the debris field in New Mexico. Newspapers across the United States carried photographs showing Marcel posing with the material in Fort Worth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</span></span></span>
+If Ramey represented the explanation, Marcel represented the origin of the evidence. As the Roswell intelligence officer who had participated in the recovery effort, he was the person in the room with the strongest direct connection to the debris field in New Mexico. Newspapers across the United States carried photographs showing Marcel posing with the material in Fort Worth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</span></span></span>
 
-This is what gives Marcel's presence unusual significance. The photographs did not merely show headquarters officers discussing an object they had received. They also included the officer associated with collecting the material that had triggered the original “flying disc” announcement. Marcel therefore visually connected the New Mexico recovery and the Texas explanation in a single sequence of images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</span></span></span>
+This is what gives Marcel's presence unusual significance. The photographs did not merely show headquarters officers discussing an object they had received. They also included the officer associated with collecting the material that had triggered the original “flying disc” announcement. Marcel therefore visually connected the New Mexico recovery and the Texas explanation in a single sequence of images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</span></span></span>
 
-Later Roswell debates frequently returned to this point. Researchers who argued that the displayed debris differed from what had originally been recovered often treated Marcel's presence as crucial because he stood at the junction between the field investigation and the public presentation. Whether one accepts or rejects those later interpretations, the photographs undeniably place the recovery officer inside the same media event that introduced the revised explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/zb01bx/roswell_1947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">roswell 1947</span><span class="citation-popover-snippet">Roswell 1947: r/UFOsDecember 2, 2022 — Lt Col Cavitt also reviewed the famous Ramey/Marcel photographs of the wreckage taken to Fo...</span><span class="citation-popover-meta">Published: December 2, 2022</span></span></span>
+Later Roswell debates frequently returned to this point. Researchers who argued that the displayed debris differed from what had originally been recovered often treated Marcel's presence as crucial because he stood at the junction between the field investigation and the public presentation. Whether one accepts or rejects those later interpretations, the photographs undeniably place the recovery officer inside the same media event that introduced the revised explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/zb01bx/roswell_1947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">roswell 1947</span><span class="citation-popover-snippet">Roswell 1947: r/UFOsDecember 2, 2022 — Lt Col Cavitt also reviewed the famous Ramey/Marcel photographs of the wreckage taken to Fo...</span><span class="citation-popover-meta">Published: December 2, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TV0Xm9ZgiKQ" title="8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer">8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 3.1K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ">Open on YouTube</a></p></div></div></div>
 
 ## DuBose as the Command Witness
 
-Thomas DuBose occupied a different role from either Marcel or Ramey. He was Ramey's chief of staff and a headquarters officer rather than a field investigator. In the best-known Fort Worth image alongside Ramey, he appears examining debris displayed on the office floor while Ramey holds a document. The photograph visually associates him with the command-level handling of the case rather than with the original recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</span></span></span>
+Thomas DuBose occupied a different role from either Marcel or Ramey. He was Ramey's chief of staff and a headquarters officer rather than a field investigator. In the best-known Fort Worth image alongside Ramey, he appears examining debris displayed on the office floor while Ramey holds a document. The photograph visually associates him with the command-level handling of the case rather than with the original recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu+2Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</span></span></span>
 
-DuBose became especially important decades later because he gave retrospective interviews discussing the events of July 1947. Those later statements have been cited extensively in Roswell literature, making him one of the most frequently discussed witnesses from the Fort Worth headquarters side of the story. Regardless of how historians evaluate those recollections, his appearance in the original photographs confirms that he was physically present during the public presentation of the debris and the official explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">history roswell incident</span><span class="citation-popover-snippet">History of the Roswell UFO IncidentThomas DuBose, who in July 1947 was serving as adjutant to Ramey&#x27;s staff. The actual mate...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+DuBose became especially important decades later because he gave retrospective interviews discussing the events of July 1947. Those later statements have been cited extensively in Roswell literature, making him one of the most frequently discussed witnesses from the Fort Worth headquarters side of the story. Regardless of how historians evaluate those recollections, his appearance in the original photographs confirms that he was physically present during the public presentation of the debris and the official explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">history roswell incident</span><span class="citation-popover-snippet">History of the Roswell UFO IncidentThomas DuBose, who in July 1947 was serving as adjutant to Ramey&#x27;s staff. The actual mate...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
-Unlike Marcel, DuBose did not link the scene to the recovery site. Unlike Ramey, he was not the principal spokesman. His importance comes from occupying the middle ground: a senior staff officer positioned inside the headquarters process through which the Roswell narrative was reformulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_DuBose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Du Bose</span><span class="citation-popover-snippet">Thomas Du Bose</span></span></span>
+Unlike Marcel, DuBose did not link the scene to the recovery site. Unlike Ramey, he was not the principal spokesman. His importance comes from occupying the middle ground: a senior staff officer positioned inside the headquarters process through which the Roswell narrative was reformulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_DuBose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Du Bose</span><span class="citation-popover-snippet">Thomas Du Bose</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-3-dark.svg" | relative_url }}" alt="Three Officers illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,201 +344,201 @@ Viewed individually, the photographs can appear to be simple press images of deb
 
 </div>
 
-The significance of the Fort Worth scene lies in that convergence. The photographs place the recovery officer, the chief of staff, and the commanding general inside one carefully documented setting at the precise moment the official account changed from a recovered “flying disc” to a balloon-based explanation. That combination is why the images remain central not only to debates over the Ramey memo but also to understanding how the Roswell story moved from a local recovery operation into a nationally reported controversy. kevinrandle.blogspot.com+3sites.libraries.uta.edu+3Wikipedia <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
+The significance of the Fort Worth scene lies in that convergence. The photographs place the recovery officer, the chief of staff, and the commanding general inside one carefully documented setting at the precise moment the official account changed from a recovered “flying disc” to a balloon-based explanation. That combination is why the images remain central not only to debates over the Ramey memo but also to understanding how the Roswell story moved from a local recovery operation into a nationally reported controversy. kevinrandle.blogspot.com+3sites.libraries.uta.edu+3Wikipedia<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Homepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZRWruuXtZ6w" title="History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer">History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZRWruuXtZ6w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Three Officers in One Room Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Three Officers in One Room Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Discusses Marcel, DuBose, and other principal figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses Marcel, DuBose, and other principal figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Provides detailed discussion of the officers&#x27; roles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides detailed discussion of the officers&#x27; roles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines the relationships among the central officers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the relationships among the central officers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduced many readers to the key personalities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced many readers to the key personalities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="three-officers-why-three-officers-in-one-room-matter-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ The significance of the Fort Worth scene lies in that convergence. The photograp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ The significance of the Fort Worth scene lies in that convergence. The photograp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ The significance of the Fort Worth scene lies in that convergence. The photograp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ The significance of the Fort Worth scene lies in that convergence. The photograp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ The significance of the Fort Worth scene lies in that convergence. The photograp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,158 +744,158 @@ The significance of the Fort Worth scene lies in that convergence. The photograp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the large Fort Wo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/2" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey and DuBose with device from RoswellRamey, left, holding letter, and DuBose looking over wind-forecasting device at Fort Worth Army...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentPapers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on July 8...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kevinrandle.blogspot.com  
    Title: roswell ron regehr and me  
-   Link: <a href="https://kevinrandle.blogspot.com/2010/07/roswell-ron-regehr-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2010/07/roswell-ron-regehr-and-me.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Roswell, Ron Regehr, and Me29 Jul 2010 — Johnson was the reporter/photographer from the Fort Worth Star–Telegram...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2010/07/roswell-ron-regehr-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2010/07/roswell-ron-regehr-and-me.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Roswell, Ron Regehr, and Me29 Jul 2010 — Johnson was the reporter/photographer from the Fort Worth Star–Telegram...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: artpike.fortunecity.ws  
    Title: "These four 50+ year old photographs comprise our source data set  
-   Link: <a href="https://artpike.fortunecity.ws/ramey0.htm" target="_blank" rel="noopener noreferrer nofollow">https://artpike.fortunecity.ws/ramey0.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fort Worth Pictures taken by James Bond Johnson.Two images of Jesse Marcel, 1 of General Ramey and 1 of General Ramey and Colonel DuBose...</p></details>
+   Link:<a href="https://artpike.fortunecity.ws/ramey0.htm" target="_blank" rel="noopener noreferrer nofollow">https://artpike.fortunecity.ws/ramey0.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fort Worth Pictures taken by James Bond Johnson.Two images of Jesse Marcel, 1 of General Ramey and 1 of General Ramey and Colonel DuBose...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Ramey-dubose-debris.jpgBrig. General Roger Ramey, left, holding telegram, and Col. Thomas J. DuBose looking over wi...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Ramey-dubose-debris.jpgBrig. General Roger Ramey, left, holding telegram, and Col. Thomas J. DuBose looking over wi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Johnson said that he had re- ceived, from his boss at the Fort Worth St...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Johnson said that he had re- ceived, from his boss at the Fort Worth St...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a July long ago, the &#x27;Roswell Incident&#x27; spy-UFO crash...4 Jul 2024 — Marcel (looking right) of Houma, Louisiana, holding foil de...</p></details>
+   Link:<a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a July long ago, the &#x27;Roswell Incident&#x27; spy-UFO crash...4 Jul 2024 — Marcel (looking right) of Houma, Louisiana, holding foil de...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: roswell 1947  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zb01bx/roswell_1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zb01bx/roswell_1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947: r/UFOsDecember 2, 2022 — Lt Col Cavitt also reviewed the famous Ramey/Marcel photographs of the wreckage taken to Fo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zb01bx/roswell_1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zb01bx/roswell_1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947: r/UFOsDecember 2, 2022 — Lt Col Cavitt also reviewed the famous Ramey/Marcel photographs of the wreckage taken to Fo...</p></details>
    Published: December 2, 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.howstuffworks.com  
    Title: history roswell incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Roswell UFO IncidentThomas DuBose, who in July 1947 was serving as adjutant to Ramey&#x27;s staff. The actual mate...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/history-roswell-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Roswell UFO IncidentThomas DuBose, who in July 1947 was serving as adjutant to Ramey&#x27;s staff. The actual mate...</p></details>
    Published: July 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Thomas Du Bose  
-   Link: <a href="https://en.wikipedia.org/wiki/Thomas_DuBose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_DuBose</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thomas_DuBose" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_DuBose</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: roswell 1947 witnesses jesse marcel and thomas  
-   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/14faezf/roswell_1947_witnesses_jesse_marcel_and_thomas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/14faezf/roswell_1947_witnesses_jesse_marcel_and_thomas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dubose describe their experience of taking the infamous pictures for the Media regarding the US Government...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/14faezf/roswell_1947_witnesses_jesse_marcel_and_thomas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/14faezf/roswell_1947_witnesses_jesse_marcel_and_thomas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dubose describe their experience of taking the infamous pictures for the Media regarding the US Government...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: Category:Fort Worth Star Telegram  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AFort_Worth_Star-Telegram" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AFort_Worth_Star-Telegram</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Fort Worth Star-Telegram - Wikimedia Commons29 Jul 2018 — The following 28 files are in this category, A Marcel of...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AFort_Worth_Star-Telegram" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AFort_Worth_Star-Telegram</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Fort Worth Star-Telegram - Wikimedia Commons29 Jul 2018 — The following 28 files are in this category, A Marcel of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kevinrandle.blogspot.com  
    Title: digital image of ramey memo  
-   Link: <a href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — &quot;Ramey is briefing the superior on the latest happenings about Rosw...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/10/digital-image-of-ramey-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Digital Image of the Ramey Memo29 Oct 2015 — &quot;Ramey is briefing the superior on the latest happenings about Rosw...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=baI7hxuBpQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baI7hxuBpQ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=baI7hxuBpQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baI7hxuBpQ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
    Published: July 1947  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/783953665828873/posts/1981713112719583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/783953665828873/posts/1981713112719583/</a>  
+   Link:<a href="https://www.facebook.com/groups/783953665828873/posts/1981713112719583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/783953665828873/posts/1981713112719583/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/july-long-ago-roswell-incident-103000520.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/july-long-ago-roswell-incident-103000520.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. Roger Ramey, commander of the 8th Air Force, held up shreds of tinfoil and sticks for reporter J. Bond Johnson and claimed that...R...</p></details>
+   Link:<a href="https://www.aol.com/july-long-ago-roswell-incident-103000520.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/july-long-ago-roswell-incident-103000520.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. Roger Ramey, commander of the 8th Air Force, held up shreds of tinfoil and sticks for reporter J. Bond Johnson and claimed that...R...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: But it is the least remarkable thing he ever did. Roger Maxwell  
-   Link: <a href="https://www.facebook.com/groups/1039838571052632/posts/1543225470713937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1039838571052632/posts/1543225470713937/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger Ramey, accomplished air commander, led key battles in...That photograph, and what Ramey did in that room on July 8, 1947, will fol...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1039838571052632/posts/1543225470713937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1039838571052632/posts/1543225470713937/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roger Ramey, accomplished air commander, led key battles in...That photograph, and what Ramey did in that room on July 8, 1947, will fol...</p></details>
    Published: July 8, 1947  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947, Star-Telegram photographer J. Bond Johnson captured the only known images of the wreckage. General Roger Ramey is pictured...</p></details>
+   Link:<a href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947, Star-Telegram photographer J. Bond Johnson captured the only known images of the wreckage. General Roger Ramey is pictured...</p></details>
    Published: July 8, 1947  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trinsically linked to the alleged crash of an unidentified aerial phenomenon...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: public-library.uk  
-   Link: <a href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow">https://public-library.uk/ebooks/83/45.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell TestimonyOn July 8, 1947, in the afternoon, General Clemence McMullen in Washington spoke by telephone with. Colonel (later Briga...</p></details>
+   Link:<a href="https://public-library.uk/ebooks/83/45.pdf" target="_blank" rel="noopener noreferrer nofollow">https://public-library.uk/ebooks/83/45.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell TestimonyOn July 8, 1947, in the afternoon, General Clemence McMullen in Washington spoke by telephone with. Colonel (later Briga...</p></details>
    Published: July 8, 1947  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
    Title: the so-called Roswell incident  
-   Link: <a href="https://www.instagram.com/reel/DXPaF8LjOSH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPaF8LjOSH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On a nearby ranch...The photograph shows Jesse Marcel, an intelligence officer from Roswell Army Air Field, posing with debris found in...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXPaF8LjOSH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPaF8LjOSH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On a nearby ranch...The photograph shows Jesse Marcel, an intelligence officer from Roswell Army Air Field, posing with debris found in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: georgehbalazs.com  
    Title: "Recollections of Roswell--Part II"  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 1947 (when he was 11 years of age), his father woke him up in the middle of the night to show him the...Read more...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 1947 (when he was 11 years of age), his father woke him up in the middle of the night to show him the...Read more...</p></details>
    Published: July 1947  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skyatnightmagazine.com  
    Title: roswell ufo incident  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>facts and history26 Jun 2025 — The facts surrounding the supposed UFO incident at Roswell, New Mexico in July 1947, and how investigation...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>facts and history26 Jun 2025 — The facts surrounding the supposed UFO incident at Roswell, New Mexico in July 1947, and how investigation...</p></details>
    Published: July 1947  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Roswell UFO Mystery That Shocked America in 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Roswell UFO Mystery That Shocked America in 1947...</p></details>

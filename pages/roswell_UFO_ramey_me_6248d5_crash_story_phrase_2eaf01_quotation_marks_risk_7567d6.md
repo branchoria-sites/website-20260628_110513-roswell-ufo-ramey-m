@@ -280,7 +280,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quot
 
 ## Introduction
 
-The alleged phrase **“THE ‘CRASH’ STORY”** is often presented as one of the most intriguing fragments in proposed readings of the [Ramey memo]({{ 'ramey-memo/' | relative_url }}). Yet the quotation marks around the word *crash* are precisely what make the phrase risky to treat as strong evidence. If the marks are genuine, they could suggest a speaker was referring to a [narrative]({{ 'narrative/' | relative_url }}), label, or reported claim rather than describing an actual crash. If the marks are not genuinely present, then a major interpretive layer has been built on a punctuation mark that may exist only in a blurry photograph. The debate therefore turns less on the word *crash* itself and more on whether tiny marks in a damaged image can reliably bear that much meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+The alleged phrase **“THE ‘CRASH’ STORY”** is often presented as one of the most intriguing fragments in proposed readings of the [Ramey memo]({{ 'ramey-memo/' | relative_url }}). Yet the quotation marks around the word *crash* are precisely what make the phrase risky to treat as strong evidence. If the marks are genuine, they could suggest a speaker was referring to a [narrative]({{ 'narrative/' | relative_url }}), label, or reported claim rather than describing an actual crash. If the marks are not genuinely present, then a major interpretive layer has been built on a punctuation mark that may exist only in a blurry photograph. The debate therefore turns less on the word *crash* itself and more on whether tiny marks in a damaged image can reliably bear that much meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-1-dark.svg" | relative_url }}" alt="Quote Marks illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,7 +299,7 @@ Applied to the [Ramey]({{ 'ramey/' | relative_url }}) memo, this has encouraged 
 
 </div>
 
-Those possibilities make the punctuation attractive to researchers looking for clues about military messaging during the Roswell episode. However, every one of those interpretations depends on first establishing that the quotation marks are genuinely present and correctly identified. Without that foundation, the meaning attributed to the marks becomes speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+Those possibilities make the punctuation attractive to researchers looking for clues about military messaging during the Roswell episode. However, every one of those interpretations depends on first establishing that the quotation marks are genuinely present and correctly identified. Without that foundation, the meaning attributed to the marks becomes speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 A second problem is that quotation marks rarely carry a single fixed meaning. Even if they were present, they would not automatically indicate deception, irony, or a [cover story]({{ 'cover-story/' | relative_url }}). Writers use quotation marks for many reasons, including emphasis, citation, shorthand references, or discussion of a term as a term. Treating them as proof of a hidden narrative therefore risks over-interpreting a very small feature.
 
@@ -308,13 +308,13 @@ A second problem is that quotation marks rarely carry a single fixed meaning. Ev
 
 ## How Photo Ambiguity Can Create Punctuation Claims
 
-The Ramey memo survives only as a tiny portion of a photograph taken in 1947. Researchers attempting to decipher it have worked from enlargements, scans, and enhancement techniques. The result is an image where many letters are disputed and entire words remain uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+The Ramey memo survives only as a tiny portion of a photograph taken in 1947. Researchers attempting to decipher it have worked from enlargements, scans, and enhancement techniques. The result is an image where many letters are disputed and entire words remain uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 Punctuation presents a special challenge in such conditions.
 
-Unlike letters, which contain multiple strokes and shapes, quotation marks are tiny visual elements. A speck of contrast, a fold in paper, a printing artefact, film grain, or an enhancement artefact can potentially resemble punctuation when viewed at high magnification. When investigators already expect a meaningful phrase, the human tendency to recognise patterns can make ambiguous marks appear more definite than they really are. This concern was central to later critiques of Ramey memo decipherment efforts. Experimental work by James Houran and Kevin Randle found that people frequently produced [readings]({{ 'readings/' | relative_url }}) influenced by what they expected the document to contain, demonstrating how ambiguous visual material can generate different interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+Unlike letters, which contain multiple strokes and shapes, quotation marks are tiny visual elements. A speck of contrast, a fold in paper, a printing artefact, film grain, or an enhancement artefact can potentially resemble punctuation when viewed at high magnification. When investigators already expect a meaningful phrase, the human tendency to recognise patterns can make ambiguous marks appear more definite than they really are. This concern was central to later critiques of Ramey memo decipherment efforts. Experimental work by James Houran and Kevin Randle found that people frequently produced [readings]({{ 'readings/' | relative_url }}) influenced by what they expected the document to contain, demonstrating how ambiguous visual material can generate different interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
-The same research revealed an important asymmetry: some words appeared repeatedly across different viewing conditions, while others did not. In discussions of the alleged phrase, the word **story** showed broader agreement among readers than **crash**. That distinction matters because the punctuation claim depends on an even finer level of image interpretation than the disputed word itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+The same research revealed an important asymmetry: some words appeared repeatedly across different viewing conditions, while others did not. In discussions of the alleged phrase, the word **story** showed broader agreement among readers than **crash**. That distinction matters because the punctuation claim depends on an even finer level of image interpretation than the disputed word itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-2-dark.svg" | relative_url }}" alt="Quote Marks illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,7 +338,7 @@ The quotation marks can create an illusion of precision. A reader may feel that 
 
 Uncertainty accumulates at every step.
 
-This is why some researchers who regard parts of the memo as potentially significant still treat specific readings cautiously. Even proponents of decipherment have acknowledged that different investigators produced substantially different reconstructions of key lines. A punctuation-based argument is necessarily weaker than an argument based on a clearly legible phrase because it relies on a smaller and more ambiguous visual signal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+This is why some researchers who regard parts of the memo as potentially significant still treat specific readings cautiously. Even proponents of decipherment have acknowledged that different investigators produced substantially different reconstructions of key lines. A punctuation-based argument is necessarily weaker than an argument based on a clearly legible phrase because it relies on a smaller and more ambiguous visual signal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EcJawLB-FR8" title="After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer">After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx</a></p><p class="youtube-embed-meta">Channel: SciWorx</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EcJawLB-FR8">Open on YouTube</a></p></div></div></div>
@@ -347,202 +347,202 @@ This is why some researchers who regard parts of the memo as potentially signifi
 
 For quotation marks around *crash* to carry substantial evidential weight, several conditions would need to be met.
 
-First, independent analysts would need to identify the same marks from the image without being told what phrase to expect. Consistent replication would reduce concerns about expectation effects. Second, the surrounding words would need to be read with comparable confidence, producing a coherent sentence rather than an isolated fragment. Third, higher-quality source material would need to show the punctuation clearly enough that alternative explanations such as film grain or enhancement artefacts become unlikely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
+First, independent analysts would need to identify the same marks from the image without being told what phrase to expect. Consistent replication would reduce concerns about expectation effects. Second, the surrounding words would need to be read with comparable confidence, producing a coherent sentence rather than an isolated fragment. Third, higher-quality source material would need to show the punctuation clearly enough that alternative explanations such as film grain or enhancement artefacts become unlikely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</span></span></span>
 
-At present, the quotation marks remain more useful as an example of the memo's interpretive difficulties than as a decisive clue. They illustrate how tiny visual details can acquire large significance in the Roswell debate, while also showing why caution is necessary when a major conclusion rests on marks that are difficult to verify from the photograph itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
+At present, the quotation marks remain more useful as an example of the memo's interpretive difficulties than as a decisive clue. They illustrate how tiny visual details can acquire large significance in the Roswell debate, while also showing why caution is necessary when a major conclusion rests on marks that are difficult to verify from the photograph itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-3-dark.svg" | relative_url }}" alt="Quote Marks illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Quotation Marks Really Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Quotation Marks Really Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Strong on evaluating disputed evidence and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong on evaluating disputed evidence and interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses standards of evidence and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses standards of evidence and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Useful background on documentary and governmental UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on documentary and governmental UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduces the claims later debated in memo interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the claims later debated in memo interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe In Aliens Mug Gift Funny UFO Conspiracy Roswell Area 51 Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/9f519920d44449a544b4.jpg' | relative_url }}" alt="Listing image for I Believe In Aliens Mug Gift Funny UFO Conspiracy Roswell Area 51 Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">I Believe In Aliens Mug Gift Funny UFO Conspiracy Roswell Area 51 Tea Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe In Aliens Mug Gift Funny UFO Conspiracy Roswell Area 51 Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/9f519920d44449a544b4.jpg' | relative_url }}" alt="Listing image for I Believe In Aliens Mug Gift Funny UFO Conspiracy Roswell Area 51 Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">I Believe In Aliens Mug Gift Funny UFO Conspiracy Roswell Area 51 Tea Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings"><img src="{{ '/assets/images/marketplace-covers/24cbe8b917a1ba90bd07.jpg' | relative_url }}" alt="Listing image for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings"><img src="{{ '/assets/images/marketplace-covers/24cbe8b917a1ba90bd07.jpg' | relative_url }}" alt="Listing image for VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">VTG Roswell Mug New Mexico Alien UFO Martians 12 Oz Coffee Cup Orca Coatings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/eb28d18d4a8be5d6e641.jpg' | relative_url }}" alt="Listing image for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/eb28d18d4a8be5d6e641.jpg' | relative_url }}" alt="Listing image for Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell Or Bust Mug Gift Funny UFO Area 51 Aliens Flying Saucer Tea Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EUC Alien Mug UFO Museum Roswell New Mexico"><img src="{{ '/assets/images/marketplace-covers/aa6c0d292014011ca947.jpg' | relative_url }}" alt="Listing image for EUC Alien Mug UFO Museum Roswell New Mexico" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">EUC Alien Mug UFO Museum Roswell New Mexico</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EUC Alien Mug UFO Museum Roswell New Mexico"><img src="{{ '/assets/images/marketplace-covers/aa6c0d292014011ca947.jpg' | relative_url }}" alt="Listing image for EUC Alien Mug UFO Museum Roswell New Mexico" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">EUC Alien Mug UFO Museum Roswell New Mexico</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO mug" data-ebay-reference="quote-marks-do-the-quotation-marks-really-matter-roswell-ufo-ramey-memo-roswell-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ At present, the quotation marks remain more useful as an example of the memo's i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ At present, the quotation marks remain more useful as an example of the memo's i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ At present, the quotation marks remain more useful as an example of the memo's i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ At present, the quotation marks remain more useful as an example of the memo's i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ At present, the quotation marks remain more useful as an example of the memo's i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,81 +748,81 @@ At present, the quotation marks remain more useful as an example of the memo's i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...One example of newly discovered evidence that apparently conflicts with...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reporte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey... - RedditMarch 19, 2023 — The deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey... - RedditMarch 19, 2023 — The deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash...</p></details>
    Published: March 19, 2023  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s-Memo An In-Depth Scientifically Based Deep Research...Ramey Memo stands as arguably the most controversial military document glo...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s-Memo An In-Depth Scientifically Based Deep Research...Ramey Memo stands as arguably the most controversial military document glo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Memo: The 1947 Document Examined This breakdown...April 30, 2025 — In the summer of 1947, a UFO crashed near Roswell, New Mexico...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-roswell-memo-the-1947-document-examined-this-breakdown-focuses-on-the-memo-held/662362226597441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Memo: The 1947 Document Examined This breakdown...April 30, 2025 — In the summer of 1947, a UFO crashed near Roswell, New Mexico...</p></details>
    Published: April 30, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skyatnightmagazine.com  
    Title: Roswell UFO incident facts and history | BBC Sky at Night Magazine  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2025 — Believers say an extraterrestrial spacecraft crashed in the New Mexico desert, with debris – and possibly alien bodies –...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2025 — Believers say an extraterrestrial spacecraft crashed in the New Mexico desert, with debris – and possibly alien bodies –...</p></details>
    Published: June 26, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: the-sun.com  
    Title: Ex-US Air Force captain says memo holds key to Roswell UFO crash  
-   Link: <a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2022 — The grainy memo appears to say the words “victims of the crash” and is held in the photograph by Brigadier General Roger R...</p></details>
+   Link:<a href="https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/5725502/roswell-mystery-cracked-air-force-captain-memo-ufo-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2022 — The grainy memo appears to say the words “victims of the crash” and is held in the photograph by Brigadier General Roger R...</p></details>
    Published: July 8, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: After Disclosure: Dissecting Gen. "Balloon Boy" Ramey  
-   Link: <a href="http://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EcJawLB-FR8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo &quot;[crash story](&amp;#123;&amp;#123; &#x27;crash-story/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; CRC-1067D - REPORT ON THE GENERAL RAMEY OFFICE PHOTOS IN ROSWELL, NEW MEXICO, with Ron Regehr...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EcJawLB-FR8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo &quot;[crash story](&amp;#123;&amp;#123; &#x27;crash-story/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; CRC-1067D - REPORT ON THE GENERAL RAMEY OFFICE PHOTOS IN ROSWELL, NEW MEXICO, with Ron Regehr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: koat.com  
    Title: FB I's New Mexico UFO memo is most read  
-   Link: <a href="https://www.koat.com/article/fbi-s-new-mexico-ufo-memo-is-most-read/5046829" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/fbi-s-new-mexico-ufo-memo-is-most-read/5046829</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI&#x27;s New Mexico UFO memo is most read - KOATMarch 29, 2013 — &quot;The memo actually refers to an Air Force investigator, telling someone in...</p></details>
+   Link:<a href="https://www.koat.com/article/fbi-s-new-mexico-ufo-memo-is-most-read/5046829" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/fbi-s-new-mexico-ufo-memo-is-most-read/5046829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI&#x27;s New Mexico UFO memo is most read - KOATMarch 29, 2013 — &quot;The memo actually refers to an Air Force investigator, telling someone in...</p></details>
    Published: March 29, 2013  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: This is the letter/text that Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=SWolx8So4G8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SWolx8So4G8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SWolx8So4G8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SWolx8So4G8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dafhistory.af.mil  
    Title: mil[PDF] The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplicates the information provided to...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplicates the information provided to...</p></details>

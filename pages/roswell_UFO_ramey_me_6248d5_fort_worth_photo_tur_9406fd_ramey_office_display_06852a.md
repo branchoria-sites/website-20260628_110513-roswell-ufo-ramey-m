@@ -280,7 +280,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ra
 
 ## Introduction
 
-On 8 July 1947, Brigadier General Roger M. [Ramey]({{ 'ramey/' | relative_url }})'s office at Fort Worth Army Air Field became the place where the US Army Air Forces publicly reversed the day's extraordinary Roswell announcement. Rather than relying on a written statement alone, senior officers invited journalists into the office, spread the recovered material across the floor, and presented it as the remains of an ordinary weather balloon and radar target. That carefully staged display transformed a disputed object into a visible explanation. The photographs taken there became the enduring public record of the official correction, shaping how newspapers and readers understood the story within hours of the original "flying disc" announcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
+On 8 July 1947, Brigadier General Roger M. [Ramey]({{ 'ramey/' | relative_url }})'s office at Fort Worth Army Air Field became the place where the US Army Air Forces publicly reversed the day's extraordinary Roswell announcement. Rather than relying on a written statement alone, senior officers invited journalists into the office, spread the recovered material across the floor, and presented it as the remains of an ordinary weather balloon and radar target. That carefully staged display transformed a disputed object into a visible explanation. The photographs taken there became the enduring public record of the official correction, shaping how newspapers and readers understood the story within hours of the original "flying disc" announcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_office_display_06852a-Illustration-1-dark.svg" | relative_url }}" alt="Office Display illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_office_display_06852a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_office_display_06852a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ On 8 July 1947, Brigadier General Roger M. [Ramey]({{ 'ramey/' | relative_url }}
 
 The move from Roswell to Fort Worth was more than a change of location. It shifted control of the story from a local airfield to the headquarters of the Eighth Air Force, where Ramey could issue an authoritative explanation backed by visual evidence.
 
-Instead of asking reporters simply to accept a denial, the Army Air Forces created a demonstration. Debris recovered from the Roswell area was laid out on the office floor while Ramey, his chief of staff Colonel Thomas J. DuBose and, shortly afterwards, weather officer Irving Newton explained that the material matched equipment used in weather observation. Newton reportedly identified the wreckage as parts of a radar target attached to a weather balloon, something familiar to military meteorological personnel. Newspapers rapidly adopted this interpretation, and the sensational claim from Roswell was overtaken by the Fort Worth explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">November 23, 2003 — Papers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Ju...</span><span class="citation-popover-meta">Published: November 23, 2003</span></span></span>
+Instead of asking reporters simply to accept a denial, the Army Air Forces created a demonstration. Debris recovered from the Roswell area was laid out on the office floor while Ramey, his chief of staff Colonel Thomas J. DuBose and, shortly afterwards, weather officer Irving Newton explained that the material matched equipment used in weather observation. Newton reportedly identified the wreckage as parts of a radar target attached to a weather balloon, something familiar to military meteorological personnel. Newspapers rapidly adopted this interpretation, and the sensational claim from Roswell was overtaken by the Fort Worth explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">November 23, 2003 — Papers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Ju...</span><span class="citation-popover-meta">Published: November 23, 2003</span></span></span>
 
 The choice of venue also mattered psychologically. A commander's office projected authority and order rather than mystery. The setting implied that the incident had already been investigated and resolved by senior officers, encouraging journalists to treat the balloon explanation as the definitive account rather than one competing interpretation.
 
@@ -299,7 +299,7 @@ The choice of venue also mattered psychologically. A commander's office projecte
 
 The Fort Worth session succeeded because it replaced an invisible claim with visible objects. Readers who had never seen the recovered material were suddenly presented with photographs showing lightweight foil, broken wooden sticks, rubber fragments and paper spread across the office floor.
 
-The surviving images, taken by Fort Worth Star-Telegram photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}), remain the only known photographs made during the original press presentation. Preserved by the University of Texas at Arlington, they document not only the debris itself but also the manner in which it was displayed and interpreted. Because the photographs originated during the event rather than years later, they occupy a unique place in the historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The surviving images, taken by Fort Worth Star-Telegram photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}), remain the only known photographs made during the original press presentation. Preserved by the University of Texas at Arlington, they document not only the debris itself but also the manner in which it was displayed and interpreted. Because the photographs originated during the event rather than years later, they occupy a unique place in the historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 Equally important is what the photographs encouraged viewers to conclude. Nothing in the displayed material appeared large, engineered or recognisably aircraft-like. Instead, the scattered fragments visually reinforced Ramey's explanation that the object consisted of commonplace balloon equipment. The images therefore acted as evidence in the public imagination, regardless of later disputes over whether all of the original Roswell debris was actually shown.
 
@@ -311,18 +311,18 @@ The mechanism of the correction depended on more than words. It relied on combin
 
 * **Recognisable authority:** the commanding general of the Eighth Air Force personally endorsed the explanation.
 * **Physical demonstration:** reporters were shown tangible debris rather than being asked to rely solely on official statements.
-* **Photographic reproduction:** wire-service photographs allowed newspapers across the United States to publish essentially the same visual evidence within the next news cycle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">November 23, 2003 — Papers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Ju...</span><span class="citation-popover-meta">Published: November 23, 2003</span></span></span>
+* **Photographic reproduction:** wire-service photographs allowed newspapers across the United States to publish essentially the same visual evidence within the next news cycle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">November 23, 2003 — Papers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Ju...</span><span class="citation-popover-meta">Published: November 23, 2003</span></span></span>
 
 This combination made the correction unusually persuasive. A newspaper headline announcing that the "flying disc" was actually a weather balloon could now be accompanied by an image apparently confirming the claim. For many readers, the photograph resolved the story more effectively than any written denial could have done.
 
-The speed of the process also mattered. The Roswell announcement and the Fort Worth correction occurred on the same day, leaving little time for competing interpretations to become firmly established in mainstream reporting. By the following day's newspapers, the official visual [narrative]({{ 'narrative/' | relative_url }}) had largely displaced the earlier flying-disc story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
+The speed of the process also mattered. The Roswell announcement and the Fort Worth correction occurred on the same day, leaving little time for competing interpretations to become firmly established in mainstream reporting. By the following day's newspapers, the official visual [narrative]({{ 'narrative/' | relative_url }}) had largely displaced the earlier flying-disc story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 ## Why the display remains central to the Ramey memo debate
 
-The Fort Worth office display is remembered today not only because it reversed the Roswell story but because it inadvertently preserved details that later investigators continue to scrutinise. One photograph shows Ramey holding a folded message—the document now commonly called the "[Ramey memo]({{ 'ramey-memo/' | relative_url }})"—while standing beside the displayed debris. Decades of attempts to enhance and decipher the text have produced competing interpretations, but no generally accepted reading. The poor quality of the surviving image means the memo has never provided definitive support for either sceptical or pro-Roswell arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The Fort Worth office display is remembered today not only because it reversed the Roswell story but because it inadvertently preserved details that later investigators continue to scrutinise. One photograph shows Ramey holding a folded message—the document now commonly called the "[Ramey memo]({{ 'ramey-memo/' | relative_url }})"—while standing beside the displayed debris. Decades of attempts to enhance and decipher the text have produced competing interpretations, but no generally accepted reading. The poor quality of the surviving image means the memo has never provided definitive support for either sceptical or pro-Roswell arguments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 What is beyond dispute is the function of the office display itself. The press event created the visual record against which every later debate has been measured. Whether researchers focus on the debris, the photographs or the memo, all of those questions originate from the same carefully staged presentation in Ramey's office on 8 July 1947.
 
@@ -332,201 +332,201 @@ What is beyond dispute is the function of the office display itself. The press e
 
 The Fort Worth office session demonstrates how an official correction can become persuasive through presentation as much as through explanation. By bringing reporters into a command office, arranging the debris for inspection and ensuring that photographs accompanied the revised account, Ramey's headquarters transformed an abstract rebuttal into a concrete public event.
 
-For the wider Roswell narrative, that mechanism proved decisive. The office did not simply house the announcement that the recovered object was a balloon; it became the setting in which the military's revised explanation acquired its enduring visual form. More than seventy years later, the same photographs continue to define discussions of both the Roswell incident and the unresolved questions surrounding the Ramey memo. sites.libraries.uta.edu+2dafhistory.af.mil <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+For the wider Roswell narrative, that mechanism proved decisive. The office did not simply house the announcement that the recovered object was a balloon; it became the setting in which the military's revised explanation acquired its enduring visual form. More than seventy years later, the same photographs continue to define discussions of both the Roswell incident and the unresolved questions surrounding the Ramey memo. sites.libraries.uta.edu+2dafhistory.af.mil<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Deciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U23ylt1sqw" title="Military Weather Surveillance Balloon Roswell UFO Footage 84710k HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U23ylt1sqw" target="_blank" rel="noopener noreferrer">Military Weather Surveillance Balloon Roswell UFO Footage 84710k HD</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 5.3K &middot; Uploaded: September 2014 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U23ylt1sqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U23ylt1sqw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One Office Changed the Roswell Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One Office Changed the Roswell Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Discusses the Fort Worth press event, military personnel and the photographic record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the Fort Worth press event, military personnel and the photographic record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Carefully analyzes the official balloon explanation presented during the office demonstration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Carefully analyzes the official balloon explanation presented during the office demonstration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ii7BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ii7BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Examines evidence and military handling of the Roswell incident, including the official narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence and military handling of the Roswell incident, including the official narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Explores the sequence of events culminating in the Fort Worth office display.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the sequence of events culminating in the Fort Worth office display.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir"><img src="{{ '/assets/images/marketplace-covers/e15e0dc4b66063ace18c.jpg' | relative_url }}" alt="Listing image for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir"><img src="{{ '/assets/images/marketplace-covers/e15e0dc4b66063ace18c.jpg' | relative_url }}" alt="Listing image for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin"><img src="{{ '/assets/images/marketplace-covers/8d231ef87a710bd23ef2.jpg' | relative_url }}" alt="Listing image for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin"><img src="{{ '/assets/images/marketplace-covers/8d231ef87a710bd23ef2.jpg' | relative_url }}" alt="Listing image for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL UFO ALIEN ALIEN UFO Pin Badge Patch New High Quality"><img src="{{ '/assets/images/marketplace-covers/c91d8c11d331e59a7bfc.jpg' | relative_url }}" alt="Listing image for ROSWELL UFO ALIEN ALIEN UFO Pin Badge Patch New High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">ROSWELL UFO ALIEN ALIEN UFO Pin Badge Patch New High Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL UFO ALIEN ALIEN UFO Pin Badge Patch New High Quality"><img src="{{ '/assets/images/marketplace-covers/c91d8c11d331e59a7bfc.jpg' | relative_url }}" alt="Listing image for ROSWELL UFO ALIEN ALIEN UFO Pin Badge Patch New High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">ROSWELL UFO ALIEN ALIEN UFO Pin Badge Patch New High Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="office-display-how-one-office-changed-the-roswell-story-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ For the wider Roswell narrative, that mechanism proved decisive. The office did 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ For the wider Roswell narrative, that mechanism proved decisive. The office did 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ For the wider Roswell narrative, that mechanism proved decisive. The office did 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ For the wider Roswell narrative, that mechanism proved decisive. The office did 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ For the wider Roswell narrative, that mechanism proved decisive. The office did 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,86 +732,86 @@ For the wider Roswell narrative, that mechanism proved decisive. The office did 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — It is dated July 8, 1947 and was transmitted over the INS wire service at...</p></details>
    Published: July 8, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2003 — Papers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Ju...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2003 — Papers nationwide published an image from Fort Worth Army Air Field of Major Jesse A. Marcel posing with debris on Ju...</p></details>
    Published: November 23, 2003  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson - The photograph itself was captured on July 8, 1947, by J. Bond Johnson and transmitted at 11:59 p.m. via the INS wire...R...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson - The photograph itself was captured on July 8, 1947, by J. Bond Johnson and transmitted at 11:59 p.m. via the INS wire...R...</p></details>
    Published: July 8, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ramey-memo.com  
    Title: 7 SNAPSHOTS FOR ETERNITY  
-   Link: <a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UnlockingTheMysteryJames Bond Johnson, a reporter and backup photographer working for the Fort Worth Star-Telegram at the time, returned...</p></details>
+   Link:<a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UnlockingTheMysteryJames Bond Johnson, a reporter and backup photographer working for the Fort Worth Star-Telegram at the time, returned...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iconicphotos.wordpress.com  
    Title: roswell memo  
-   Link: <a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memo - Iconic Photos - WordPress.com31 May 2018 — In 1947, Ramey was the Commanding General of the Eighth Air Force in Fort Worth, Texas...</p></details>
+   Link:<a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memo - Iconic Photos - WordPress.com31 May 2018 — In 1947, Ramey was the Commanding General of the Eighth Air Force in Fort Worth, Texas...</p></details>
    Published: May 2018  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Ramey-dubose-debris.jpgBrig. General Roger Ramey, left, holding telegram, and Col. Thomas J. DuBose looking over wi...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Ramey-dubose-debris.jpgBrig. General Roger Ramey, left, holding telegram, and Col. Thomas J. DuBose looking over wi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kevinrandle.blogspot.com  
    Title: UF Os, the Ramey Memo, J  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson and Me9 Oct 2009 — I posed Gen. Ramey with this debris. At that time I was briefed on the idea that it was not a flying disc...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson and Me9 Oct 2009 — I posed Gen. Ramey with this debris. At that time I was briefed on the idea that it was not a flying disc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BZpHEALNozw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BZpHEALNozw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Weather Surveillance Balloon Roswell UFO Footage 84710k HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BZpHEALNozw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BZpHEALNozw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Weather Surveillance Balloon Roswell UFO Footage 84710k HD...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 1)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2U23ylt1sqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2U23ylt1sqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was the Crash in Roswell a Weather Balloon?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2U23ylt1sqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2U23ylt1sqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was the Crash in Roswell a Weather Balloon?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Was the Crash in Roswell a Weather Balloon?  
-   Link: <a href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fAArhGRN5xk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask an Expert: The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fAArhGRN5xk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fAArhGRN5xk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask an Expert: The Roswell Incident...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Ask an Expert: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=foJWblpzEjA</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-john-kirby/
 description: Focused pages that expand on Kirby.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55
 parent_title: Kirby
@@ -16,7 +16,7 @@ parent_permalink: /kirby/
 
 # Explore Topics in Kirby
 
-The following pages expand on the main **[Kirby]({{ '/kirby/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Kirby]({{ '/kirby/' | relative_url }})** page and cover its key branches in.
 
 - [Reading Table]({{ '/reading-table/' | relative_url }})
 - [Stable Words]({{ '/stable-words/' | relative_url }})

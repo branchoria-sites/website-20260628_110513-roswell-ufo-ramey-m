@@ -280,7 +280,7 @@ The debate over the so-called "[Ramey memo]({{ 'ramey-memo/' | relative_url }})"
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-1-dark.svg" | relative_url }}" alt="UTA Negatives illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What UTA says it holds
 
-UTA Libraries Special Collections preserves the photographic archive of the *Fort Worth Star-Telegram*, one of the largest newspaper photographic collections in Texas. The archive contains millions of original film [negatives]({{ 'negatives/' | relative_url }}) spanning much of the twentieth century, organised through the newspaper's original cataloguing system and assignment records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
+UTA Libraries Special Collections preserves the photographic archive of the *Fort Worth Star-Telegram*, one of the largest newspaper photographic collections in Texas. The archive contains millions of original film [negatives]({{ 'negatives/' | relative_url }}) spanning much of the twentieth century, organised through the newspaper's original cataloguing system and assignment records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
 
 Within that collection are the photographs from the Fort Worth press conference held on 8 July 1947 after debris from Roswell was flown to Fort Worth Army Air Field. UTA's catalogue identifies the relevant photographs as original black-and-white negatives from the *Fort Worth Star-Telegram* collection, rather than later photographic prints or copied reproductions. The archive attributes the photographs to newspaper photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}) and records the assignment date as 8 July 1947.
 
@@ -306,9 +306,9 @@ A strong provenance chain can be reconstructed from the surviving documentation:
 
 </div>
 
-Each link in that chain reduces uncertainty. Instead of relying on an unattributed print reproduced decades later, researchers can trace the image back through institutional custody to the original newspaper assignment. This is considerably stronger provenance than many other pieces of Roswell-related evidence, which often depend on recollections recorded decades after the events or on documents whose physical origins cannot be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
+Each link in that chain reduces uncertainty. Instead of relying on an unattributed print reproduced decades later, researchers can trace the image back through institutional custody to the original newspaper assignment. This is considerably stronger provenance than many other pieces of Roswell-related evidence, which often depend on recollections recorded decades after the events or on documents whose physical origins cannot be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
 
-The broader *Fort Worth Star-Telegram* archive also supports confidence in the cataloguing system itself. UTA preserves millions of negatives from newspaper photographers using consistent archival practices and original assignment records, making the Roswell photographs part of a much larger, professionally managed historical collection rather than a specially assembled UFO archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
+The broader *Fort Worth Star-Telegram* archive also supports confidence in the cataloguing system itself. UTA preserves millions of negatives from newspaper photographers using consistent archival practices and original assignment records, making the Roswell photographs part of a much larger, professionally managed historical collection rather than a specially assembled UFO archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6u0F2_k2o4o" title="America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer">America’s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 29.3K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6u0F2_k2o4o">Open on YouTube</a></p></div></div></div>
@@ -369,200 +369,200 @@ Indeed, the continuing disagreement over memo transcriptions exists precisely be
 
 The UTA negatives have become the fixed point in an otherwise contested debate. Whatever interpretation one adopts regarding the memo's contents, the source trail is unusually well documented for a key piece of Roswell evidence.
 
-Rather than circulating as an anonymous image, the photograph can be traced through a named photographer, the *Fort Worth Star-Telegram*'s original photographic workflow, archival collection records, surviving negatives and long-term institutional preservation. That chain of custody does not settle the memo controversy, but it establishes that the controversy centres on an authentic contemporary press photograph whose origins are substantially better documented than many other items in the wider Roswell record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
+Rather than circulating as an anonymous image, the photograph can be traced through a named photographer, the *Fort Worth Star-Telegram*'s original photographic workflow, archival collection records, surviving negatives and long-term institutional preservation. That chain of custody does not settle the memo controversy, but it establishes that the controversy centres on an authentic contemporary press photograph whose origins are substantially better documented than many other items in the wider Roswell record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraries.uta.edu">[libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraries.uta.edu</span><span class="citation-popover-title">fw star telegram card catalog</span><span class="citation-popover-snippet">Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-3-dark.svg" | relative_url }}" alt="UTA Negatives illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the UTA Negatives Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the UTA Negatives Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Explores witness testimony and documentary evidence relevant to debates over authentic source material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness testimony and documentary evidence relevant to debates over authentic source material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places documentary evaluation and official records into the wider study of UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places documentary evaluation and official records into the wider study of UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the foundational narrative behind the Roswell case discussed by the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational narrative behind the Roswell case discussed by the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner</p>
         
-        <p class="fr-book-desc">Covers the historical evidence, documents, and competing interpretations surrounding Roswell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the historical evidence, documents, and competing interpretations surrounding Roswell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="uta-negatives-why-the-uta-negatives-matter-roswell-ufo-ramey-memo-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ Rather than circulating as an anonymous image, the photograph can be traced thro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ Rather than circulating as an anonymous image, the photograph can be traced thro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ Rather than circulating as an anonymous image, the photograph can be traced thro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ Rather than circulating as an anonymous image, the photograph can be traced thro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ Rather than circulating as an anonymous image, the photograph can be traced thro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,80 +768,80 @@ Rather than circulating as an anonymous image, the photograph can be traced thro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: libraries.uta.edu  
    Title: fw star telegram card catalog  
-   Link: <a href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow">https://libraries.uta.edu/collections/fw-star-telegram-card-catalog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</p></details>
+   Link:<a href="https://libraries.uta.edu/collections/fw-star-telegram-card-catalog" target="_blank" rel="noopener noreferrer nofollow">https://libraries.uta.edu/collections/fw-star-telegram-card-catalog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth Star-Telegram Card CatalogThe film negatives span 1920-1991 into four different date ranges: 1920-1949, 1950-1955, 1956-1979...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mavmatrix.uta.edu  
    Title: specialcollections startelegram1940s  
-   Link: <a href="https://mavmatrix.uta.edu/specialcollections_startelegram1940s/14063/" target="_blank" rel="noopener noreferrer nofollow">https://mavmatrix.uta.edu/specialcollections_startelegram1940s/14063/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>uta.edu&quot;Selling Defense bonds&quot;Description. Left to right Mrs. Faye Garner of Fort Worth, Texas, is selling bonds to Mrs. Maye Whitley of...</p></details>
+   Link:<a href="https://mavmatrix.uta.edu/specialcollections_startelegram1940s/14063/" target="_blank" rel="noopener noreferrer nofollow">https://mavmatrix.uta.edu/specialcollections_startelegram1940s/14063/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uta.edu&quot;Selling Defense bonds&quot;Description. Left to right Mrs. Faye Garner of Fort Worth, Texas, is selling bonds to Mrs. Maye Whitley of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: star-telegram.com  
-   Link: <a href="https://www.star-telegram.com/latest-news/article215101200.html" target="_blank" rel="noopener noreferrer nofollow">https://www.star-telegram.com/latest-news/article215101200.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth&#x27;s history through photos18 Jul 2018 — feature 136 pages of historical images spanning from the 1800&#x27;s to 1939. The Star-Telegr...</p></details>
+   Link:<a href="https://www.star-telegram.com/latest-news/article215101200.html" target="_blank" rel="noopener noreferrer nofollow">https://www.star-telegram.com/latest-news/article215101200.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth&#x27;s history through photos18 Jul 2018 — feature 136 pages of historical images spanning from the 1800&#x27;s to 1939. The Star-Telegr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: texashistory.unt.edu  
-   Link: <a href="https://texashistory.unt.edu/explore/collections/FWPRS/" target="_blank" rel="noopener noreferrer nofollow">https://texashistory.unt.edu/explore/collections/FWPRS/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Worth Press - The Portal to Texas History4 days ago — The Fort Worth Press was a tabloid newspaper published in Fort Worth, Texas from 19...</p></details>
+   Link:<a href="https://texashistory.unt.edu/explore/collections/FWPRS/" target="_blank" rel="noopener noreferrer nofollow">https://texashistory.unt.edu/explore/collections/FWPRS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Worth Press - The Portal to Texas History4 days ago — The Fort Worth Press was a tabloid newspaper published in Fort Worth, Texas from 19...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: westlibrary.txwes.edu  
-   Link: <a href="https://westlibrary.txwes.edu/az/fort-worth-star-telegram-photograph-collection" target="_blank" rel="noopener noreferrer nofollow">https://westlibrary.txwes.edu/az/fort-worth-star-telegram-photograph-collection</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Worth Star-Telegram Photograph CollectionThe collection consists of approximately 179,500 photographs, ca. 1849-1986, and nearly three mi...</p></details>
+   Link:<a href="https://westlibrary.txwes.edu/az/fort-worth-star-telegram-photograph-collection" target="_blank" rel="noopener noreferrer nofollow">https://westlibrary.txwes.edu/az/fort-worth-star-telegram-photograph-collection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Worth Star-Telegram Photograph CollectionThe collection consists of approximately 179,500 photographs, ca. 1849-1986, and nearly three mi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: txarchives.org  
    Title: subject organizations= Fort Worth star telegram Archives  
-   Link: <a href="https://txarchives.org/search/subject_organizations%3D%20Fort%20Worth%20star-telegram--Archives" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/search/subject_organizations%3D%20Fort%20Worth%20star-telegram--Archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas ArchivesSearchThe Star purchased the Fort Worth Telegram in 1909. Prints, negatives, clippings, and card files. Photographic materi...</p></details>
+   Link:<a href="https://txarchives.org/search/subject_organizations%3D%20Fort%20Worth%20star-telegram--Archives" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/search/subject_organizations%3D%20Fort%20Worth%20star-telegram--Archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas ArchivesSearchThe Star purchased the Fort Worth Telegram in 1909. Prints, negatives, clippings, and card files. Photographic materi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tarrantcountytx.gov  
    Title: Newspaper Database  
-   Link: <a href="https://www.tarrantcountytx.gov/en/tarrant-county-archives/holdings/newspapers/newspaper-database-1950-present.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrantcountytx.gov/en/tarrant-county-archives/holdings/newspapers/newspaper-database-1950-present.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1950-PresentNewspaper Database - 1950-Present. Search items by entering keyword(s) in the search field. The table will filter the results...</p></details>
+   Link:<a href="https://www.tarrantcountytx.gov/en/tarrant-county-archives/holdings/newspapers/newspaper-database-1950-present.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrantcountytx.gov/en/tarrant-county-archives/holdings/newspapers/newspaper-database-1950-present.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950-PresentNewspaper Database - 1950-Present. Search items by entering keyword(s) in the search field. The table will filter the results...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tshaonline.org  
    Title: fort worth star telegram  
-   Link: <a href="https://www.tshaonline.org/handbook/entries/fort-worth-star-telegram" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/handbook/entries/fort-worth-star-telegram</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Fort Worth Star-Telegram29 Jan 2021 — Explore the rich history of the Fort Worth Star-Telegram, from its founding in 1906...</p></details>
+   Link:<a href="https://www.tshaonline.org/handbook/entries/fort-worth-star-telegram" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/handbook/entries/fort-worth-star-telegram</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Fort Worth Star-Telegram29 Jan 2021 — Explore the rich history of the Fort Worth Star-Telegram, from its founding in 1906...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6u0F2_k2o4o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6u0F2_k2o4o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Incident w/ Connor Randall - RE:WIRE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Incident w/ Connor Randall - RE:WIRE...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Sn1UTpZQEK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sn1UTpZQEK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sn1UTpZQEK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sn1UTpZQEK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Roswell UFO Crash (Overview)  
-   Link: <a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZltLHh_WsZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZltLHh_WsZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: repository.tcu.edu  
-   Link: <a href="https://repository.tcu.edu/bitstreams/dbaedb45-544d-48cb-86ef-2c1f98983df8/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.tcu.edu/bitstreams/dbaedb45-544d-48cb-86ef-2c1f98983df8/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amon G. Carter Fort Worth Star-Telegram...by GA Johnson · 1947 — Fort Worth Star-Telegram. Fort Worth, Texas. Dear Mr. Carter: FORT WORT...</p></details>
+   Link:<a href="https://repository.tcu.edu/bitstreams/dbaedb45-544d-48cb-86ef-2c1f98983df8/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.tcu.edu/bitstreams/dbaedb45-544d-48cb-86ef-2c1f98983df8/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amon G. Carter Fort Worth Star-Telegram...by GA Johnson · 1947 — Fort Worth Star-Telegram. Fort Worth, Texas. Dear Mr. Carter: FORT WORT...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Roswell UFO Incident w/ Connor Randall  
-   Link: <a href="https://www.youtube.com/watch?v=QJddrLPM5k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJddrLPM5k4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QJddrLPM5k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJddrLPM5k4</a>  

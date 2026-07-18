@@ -280,24 +280,24 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_w
 
 ## Introduction
 
-The decision to let reporters photograph the Roswell debris in Fort Worth was not a minor public-relations detail. It was the mechanism that turned Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }})’s explanation from a verbal denial into a visible demonstration. Earlier on 8 July 1947, Roswell Army Air Field had generated international headlines by announcing the recovery of a “flying disc”. That claim spread rapidly through wire services and newspapers. Ramey therefore faced a practical press problem: a simple statement that the object was actually balloon-related might not have been enough to reverse a story that had already captured public attention. By allowing reporters and photographers into the room, he provided newspapers with images that appeared to support the correction and gave editors something concrete to publish alongside the revised account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
+The decision to let reporters photograph the Roswell debris in Fort Worth was not a minor public-relations detail. It was the mechanism that turned Brigadier General Roger [Ramey]({{ 'ramey/' | relative_url }})’s explanation from a verbal denial into a visible demonstration. Earlier on 8 July 1947, Roswell Army Air Field had generated international headlines by announcing the recovery of a “flying disc”. That claim spread rapidly through wire services and newspapers. Ramey therefore faced a practical press problem: a simple statement that the object was actually balloon-related might not have been enough to reverse a story that had already captured public attention. By allowing reporters and photographers into the room, he provided newspapers with images that appeared to support the correction and gave editors something concrete to publish alongside the revised account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-1-dark.svg" | relative_url }}" alt="Photo Invite illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The famous Fort Worth photographs became central because they offered a visual answer to a visual mystery. Whether one accepts the official explanation or later challenges to it, the invitation to the press was designed to make the correction visible, not merely audible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+The famous Fort Worth photographs became central because they offered a visual answer to a visual mystery. Whether one accepts the official explanation or later challenges to it, the invitation to the press was designed to make the correction visible, not merely audible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
 ## The Press Problem Ramey Had to Solve
 
-When the Roswell announcement reached news wires, the story immediately expanded beyond New Mexico. Newspapers, radio stations and wire services suddenly wanted evidence, comments and photographs. A simple internal military reassessment would not necessarily halt the spread of the original “flying disc” [narrative]({{ 'narrative/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+When the Roswell announcement reached news wires, the story immediately expanded beyond New Mexico. Newspapers, radio stations and wire services suddenly wanted evidence, comments and photographs. A simple internal military reassessment would not necessarily halt the spread of the original “flying disc” [narrative]({{ 'narrative/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Ramey’s response was unusually public. According to later Air Force accounts, after the debris arrived in Fort Worth he and his staff concluded that it resembled balloon equipment and summoned weather officer Irving Newton to examine it. Importantly, local press representatives were then allowed to view and photograph the material themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
+Ramey’s response was unusually public. According to later Air Force accounts, after the debris arrived in Fort Worth he and his staff concluded that it resembled balloon equipment and summoned weather officer Irving Newton to examine it. Importantly, local press representatives were then allowed to view and photograph the material themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span>
 
 This solved several communication problems at once:
 
 * It provided reporters with direct access rather than asking them to rely solely on military statements.
 * It generated photographs that could travel through wire-photo networks just as quickly as the original flying-saucer headlines.
 * It shifted attention from the dramatic Roswell announcement to a new image of apparently ordinary debris spread across an office floor.
-* It placed a senior commander, Roger Ramey, visibly behind the revised explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+* It placed a senior commander, Roger Ramey, visibly behind the revised explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
 In effect, the Fort Worth display transformed a correction into a media event.
 
@@ -308,24 +308,24 @@ In effect, the Fort Worth display transformed a correction into a media event.
 
 Photographs have a different persuasive function from official statements. A reader may doubt a government explanation, but a newspaper photograph can create the impression that the matter has been independently verified. That appears to have been the logic behind the Fort Worth session.
 
-Photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}) later recalled being alerted that the recovered object was being flown to Ramey’s office. He went directly to Fort Worth Army Air Field and photographed the debris arranged on the floor of the general’s office. He also recalled being told during the session that the object initially reported as a flying disc was actually a weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+Photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}) later recalled being alerted that the recovered object was being flown to Ramey’s office. He went directly to Fort Worth Army Air Field and photographed the debris arranged on the floor of the general’s office. He also recalled being told during the session that the object initially reported as a flying disc was actually a weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
-The resulting images accomplished something a written correction could not. Readers could see foil-like material, sticks and balloon-related components rather than imagine an unknown object. Newspapers therefore had a visual narrative that matched the revised explanation. The photographs effectively said: “Here is the recovered material, and this is why the flying-disc story was mistaken.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+The resulting images accomplished something a written correction could not. Readers could see foil-like material, sticks and balloon-related components rather than imagine an unknown object. Newspapers therefore had a visual narrative that matched the revised explanation. The photographs effectively said: “Here is the recovered material, and this is why the flying-disc story was mistaken.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
-The speed of the process also mattered. Wire services and newspapers operated on tight deadlines. A photograph of the debris could circulate quickly and help replace the earlier headline before speculation hardened into a more durable public belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+The speed of the process also mattered. Wire services and newspapers operated on tight deadlines. A photograph of the debris could circulate quickly and help replace the earlier headline before speculation hardened into a more durable public belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-2-dark.svg" | relative_url }}" alt="Photo Invite illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Setting Mattered
 
-One striking feature of the episode is that the debris was photographed in Ramey’s office rather than in a hangar, warehouse or laboratory. Johnson later described the material spread across the floor of the general’s large office, noting how odd it seemed to place such debris in that setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+One striking feature of the episode is that the debris was photographed in Ramey’s office rather than in a hangar, warehouse or laboratory. Johnson later described the material spread across the floor of the general’s large office, noting how odd it seemed to place such debris in that setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
 From a communication standpoint, however, the office location carried advantages:
 
 * It associated the explanation directly with the commanding general.
 * It created a controlled environment where reporters could be briefed.
 * It produced images showing senior officers calmly inspecting the material.
-* It visually framed the event as an official review rather than an ongoing mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+* It visually framed the event as an official review rather than an ongoing mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
 The photographs therefore did more than show debris. They showed authority. Readers saw a high-ranking officer examining the recovered material and presenting a conclusion, reinforcing the idea that the matter had been investigated and resolved.
 
@@ -336,9 +336,9 @@ The photographs therefore did more than show debris. They showed authority. Read
 
 The Fort Worth photographs were powerful public-relations tools, but their evidential value has limits.
 
-What they could demonstrate was that reporters were allowed to see and photograph material that military officials identified as balloon-related debris. They also show that Ramey publicly attached his authority to that explanation. Those facts are not seriously disputed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+What they could demonstrate was that reporters were allowed to see and photograph material that military officials identified as balloon-related debris. They also show that Ramey publicly attached his authority to that explanation. Those facts are not seriously disputed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
-What the photographs could not prove was whether the displayed material represented all of the debris recovered in New Mexico, whether the identification was correct, or whether anything had been omitted from public view. Those questions became central to later Roswell debates. Critics of the official account argued that the photographs merely documented what was shown to reporters, not necessarily everything involved in the case. Supporters of the official explanation, by contrast, pointed to the willingness to invite photographers as evidence that officials were not behaving as though they were concealing an extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+What the photographs could not prove was whether the displayed material represented all of the debris recovered in New Mexico, whether the identification was correct, or whether anything had been omitted from public view. Those questions became central to later Roswell debates. Critics of the official account argued that the photographs merely documented what was shown to reporters, not necessarily everything involved in the case. Supporters of the official explanation, by contrast, pointed to the willingness to invite photographers as evidence that officials were not behaving as though they were concealing an extraordinary object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 That distinction is important. The photo opportunity functioned as a public demonstration, not a comprehensive audit of the evidence. Its immediate purpose was to make the revised explanation visible and believable to newspapers and their readers.
 
@@ -346,203 +346,203 @@ That distinction is important. The photo opportunity functioned as a public demo
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-3-dark.svg" | relative_url }}" alt="Photo Invite illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Invitation Still Matters
 
-The invitation to photograph the debris remains significant because it reveals how the Roswell story was redirected in real time. Ramey did not merely issue a statement denying the flying-disc report. He arranged a situation in which journalists could leave with images, not just quotations. Those images became some of the most reproduced photographs in UFO history and continue to frame debates about the Roswell incident decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Bond Johnson captured the only known images of the wreckage. General Roger Ramey is pictured here...Read more...</span></span></span>
+The invitation to photograph the debris remains significant because it reveals how the Roswell story was redirected in real time. Ramey did not merely issue a statement denying the flying-disc report. He arranged a situation in which journalists could leave with images, not just quotations. Those images became some of the most reproduced photographs in UFO history and continue to frame debates about the Roswell incident decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Bond Johnson captured the only known images of the wreckage. General Roger Ramey is pictured here...Read more...</span></span></span>
 
-For understanding Roger Ramey’s role, this is the key point: the Fort Worth photographs were the practical mechanism that transformed an official correction into a public, visual narrative. The press invitation was not incidental. It was the means by which the revised explanation was meant to be seen, circulated and believed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
+For understanding Roger Ramey’s role, this is the key point: the Fort Worth photographs were the practical mechanism that transformed an official correction into a public, visual narrative. The press invitation was not incidental. It was the means by which the revised explanation was meant to be seen, circulated and believed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">j bond johnsons statement on his visit</span><span class="citation-popover-snippet">Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sp9mWFAI1Y0" title="A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer">A Different Perspective with Kevin Randle Interviews - DAVID RUDIAK - Decoding the Ramey Memo</a></p><p class="youtube-embed-meta">Channel: REL-MAR McConnell Media Company</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sp9mWFAI1Y0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Show the Debris to Reporters?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Show the Debris to Reporters?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Extensively discusses photographs and public presentations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Extensively discusses photographs and public presentations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines the Fort Worth display and media response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the Fort Worth display and media response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Covers the famous photographs and press coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the famous photographs and press coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Analyzes the photo opportunity and subsequent controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the photo opportunity and subsequent controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="photo-invite-why-show-the-debris-to-reporters-roswell-ufo-ramey-memo-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For understanding Roger Ramey’s role, this is the key point: the Fort Worth ph
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For understanding Roger Ramey’s role, this is the key point: the Fort Worth ph
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For understanding Roger Ramey’s role, this is the key point: the Fort Worth ph
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For understanding Roger Ramey’s role, this is the key point: the Fort Worth ph
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For understanding Roger Ramey’s role, this is the key point: the Fort Worth ph
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,123 +748,123 @@ For understanding Roger Ramey’s role, this is the key point: the Fort Worth ph
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kevinrandle.blogspot.com  
    Title: j bond johnsons statement on his visit  
-   Link: <a href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/11/j-bond-johnsons-statement-on-his-visit.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson&#x27;s Statement on His Visit to General Ramey9 Nov 2015 — I posed General Ramey with this debris piled in the middle of his rath...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roger M. Ramey  
-   Link: <a href="https://en.wikipedia.org/wiki/Roger_M._Ramey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_M._Ramey</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roger_M._Ramey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_M._Ramey</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kevinrandle.blogspot.com  
    Title: ufos [ramey memo](&#123;&#123; 'ramey-memo/' | relative_url &#125;&#125;) j bond johnson and me  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, the Ramey Memo, J. Bond Johnson and Me9 Oct 2009 — the debris was flown to Ft Worth. Johnson was photographing anything at Ft Worth...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/10/ufos-ramey-memo-j-bond-johnson-and-me.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, the Ramey Memo, J. Bond Johnson and Me9 Oct 2009 — the debris was flown to Ft Worth. Johnson was photographing anything at Ft Worth...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson captured the only known images of the wreckage. General Roger Ramey is pictured here...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond Johnson captured the only known images of the wreckage. General Roger Ramey is pictured here...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/fabulousloversofweirdeverything/posts/1591317209060680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/fabulousloversofweirdeverything/posts/1591317209060680/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>weather balloon. His name was Roger Ramey. And a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/fabulousloversofweirdeverything/posts/1591317209060680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/fabulousloversofweirdeverything/posts/1591317209060680/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weather balloon. His name was Roger Ramey. And a...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: His name was Roger Ramey. A photograph  
-   Link: <a href="https://www.facebook.com/thecuriousfacts/posts/on-july-8-1947-a-press-release-went-out-from-roswell-army-air-field-in-new-mexic/1018605467348427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecuriousfacts/posts/on-july-8-1947-a-press-release-went-out-from-roswell-army-air-field-in-new-mexic/1018605467348427/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, a press release went out from Roswell Army Air...He stood in front of reporters, held up pieces of foil and wooden stic...</p></details>
+   Link:<a href="https://www.facebook.com/thecuriousfacts/posts/on-july-8-1947-a-press-release-went-out-from-roswell-army-air-field-in-new-mexic/1018605467348427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecuriousfacts/posts/on-july-8-1947-a-press-release-went-out-from-roswell-army-air-field-in-new-mexic/1018605467348427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, a press release went out from Roswell Army Air...He stood in front of reporters, held up pieces of foil and wooden stic...</p></details>
    Published: July 8, 1947  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...The debris is switched for the newspaper photographer, James Bond Johnson, at a pre...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/on-july-8-1947-the-roswell-daily-record-reported-the-arrival-of-something-strang/10160323978939122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 8, 1947, the Roswell Daily Record reported...The debris is switched for the newspaper photographer, James Bond Johnson, at a pre...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Johnson said that he had re- ceived, from his boss at the Fort Worth Star-Telegram...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Johnson said that he had re- ceived, from his boss at the Fort Worth Star-Telegram...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: General Roger Ramey immediately issued a retraction, claiming a weather balloon  
-   Link: <a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;flying disc&quot; crashes, then suddenly it&#x27;s just a...Army Air Forces reported flying disc recovery on July 8, 1947...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYSKqeVk-rc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYSKqeVk-rc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, 1947: a &quot;flying disc&quot; crashes, then suddenly it&#x27;s just a...Army Air Forces reported flying disc recovery on July 8, 1947...</p></details>
    Published: July 8, 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfPhenomena (NICAP) in the Dallas - Fort Worth area, the purp~se of which organization is to con...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfPhenomena (NICAP) in the Dallas - Fort Worth area, the purp~se of which organization is to con...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: This is the letter/text that Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is a real photo from Roswell in 1947 of the US military trying to convince everybody a UFO is a weather...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is a real photo from Roswell in 1947 of the US military trying to convince everybody a UFO is a weather...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: A Different Perspective with Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sp9mWFAI1Y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Disc Recovery Roswell Army Retracted Within Hours...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=sp9mWFAI1Y0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sp9mWFAI1Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Disc Recovery Roswell Army Retracted Within Hours...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Sn1UTpZQEK4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Sn1UTpZQEK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell debris photos Bond Johnson Ramey press House committee holds UFO hearing Associated Press...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Sn1UTpZQEK4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Sn1UTpZQEK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell debris photos Bond Johnson Ramey press House committee holds UFO hearing Associated Press...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: yahoo.com  
    Title: july long ago roswell incident 103000309  
-   Link: <a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas J. Dubose, chief of staff, look over debris flown to Fort Worth Army Air Field...Read more...</p></details>
+   Link:<a href="https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/july-long-ago-roswell-incident-103000309.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas J. Dubose, chief of staff, look over debris flown to Fort Worth Army Air Field...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Ramey Memo: Best Roswell Cover-Up Evidence ever Found  
-   Link: <a href="http://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID [RUDIAK](&amp;#123;&amp;#123; &#x27;rudiak/&#x27; | relative_url &amp;#125;&amp;#125;) - Decoding the Ramey Memo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective with Kevin Randle Interviews - DAVID [RUDIAK](&amp;#123;&amp;#123; &#x27;rudiak/&#x27; | relative_url &amp;#125;&amp;#125;) - Decoding the Ramey Memo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CtztK95sDlm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtztK95sDlm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s consistent with a &#x27;catastrophic event...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CtztK95sDlm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtztK95sDlm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s consistent with a &#x27;catastrophic event...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
    Title: DXPa F8Lj OSH  
-   Link: <a href="https://www.instagram.com/reel/DXPaF8LjOSH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPaF8LjOSH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the so-called Roswell incident. On a nearby ranch...The photograph shows Jesse Marcel, posing with debris found in July 1947. It was tak...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXPaF8LjOSH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPaF8LjOSH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the so-called Roswell incident. On a nearby ranch...The photograph shows Jesse Marcel, posing with debris found in July 1947. It was tak...</p></details>
    Published: July 1947  

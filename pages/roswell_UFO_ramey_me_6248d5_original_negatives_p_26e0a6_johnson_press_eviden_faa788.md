@@ -280,15 +280,15 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_jo
 
 ## Introduction
 
-J. Bond Johnson's importance to the Roswell "[Ramey memo]({{ 'ramey-memo/' | relative_url }})" debate does not rest on his later opinions about what the paper might say. It rests on his role as the working press photographer who documented General Roger Ramey's Fort Worth press event on 8 July 1947. Because Johnson was photographing a news conference for the *Fort Worth Star-Telegram*, his [negatives]({{ 'negatives/' | relative_url }}) belong to the original chain of reporting rather than to decades-later recollections or reconstructed narratives. That gives the photographs an unusually strong evidential foundation within the Roswell record, even though the contents of the paper held by Ramey remain disputed. The distinction is crucial: Johnson's work provides reliable evidence that the memo existed and was photographed at the time, but it does not by itself settle what the blurred text actually says. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the...</span></span></span>
+J. Bond Johnson's importance to the Roswell "[Ramey memo]({{ 'ramey-memo/' | relative_url }})" debate does not rest on his later opinions about what the paper might say. It rests on his role as the working press photographer who documented General Roger Ramey's Fort Worth press event on 8 July 1947. Because Johnson was photographing a news conference for the *Fort Worth Star-Telegram*, his [negatives]({{ 'negatives/' | relative_url }}) belong to the original chain of reporting rather than to decades-later recollections or reconstructed narratives. That gives the photographs an unusually strong evidential foundation within the Roswell record, even though the contents of the paper held by Ramey remain disputed. The distinction is crucial: Johnson's work provides reliable evidence that the memo existed and was photographed at the time, but it does not by itself settle what the blurred text actually says.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-1-dark.svg" | relative_url }}" alt="Johnson Role illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The photographer at the Fort Worth event
 
-J. Bond [Johnson]({{ 'johnson/' | relative_url }}) was not an outside observer who later claimed to have seen the Roswell evidence. He was the *Fort Worth Star-Telegram* photographer assigned to cover the military briefing after debris from Roswell was flown to Fort Worth Army Air Field. His photographs captured General Roger [Ramey]({{ 'ramey/' | relative_url }}), Colonel Thomas DuBose and the displayed debris during the press session that publicly reframed the Roswell recovery as balloon material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+J. Bond [Johnson]({{ 'johnson/' | relative_url }}) was not an outside observer who later claimed to have seen the Roswell evidence. He was the *Fort Worth Star-Telegram* photographer assigned to cover the military briefing after debris from Roswell was flown to Fort Worth Army Air Field. His photographs captured General Roger [Ramey]({{ 'ramey/' | relative_url }}), Colonel Thomas DuBose and the displayed debris during the press session that publicly reframed the Roswell recovery as balloon material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
-The University of Texas at Arlington (UTA), which now preserves the *Fort Worth Star-Telegram* photographic archive, identifies Johnson as the photographer and states that he produced the only known photographs of the wreckage taken during that event. The archive also preserves the original negatives rather than relying solely on newspaper reproductions or later copies. That archival continuity makes Johnson's photographs primary historical documents rather than artefacts whose origins must be reconstructed decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+The University of Texas at Arlington (UTA), which now preserves the *Fort Worth Star-Telegram* photographic archive, identifies Johnson as the photographer and states that he produced the only known photographs of the wreckage taken during that event. The archive also preserves the original negatives rather than relying solely on newspaper reproductions or later copies. That archival continuity makes Johnson's photographs primary historical documents rather than artefacts whose origins must be reconstructed decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 This [provenance]({{ 'provenance/' | relative_url }}) distinguishes the images from many other Roswell-related claims. Instead of depending on memory or testimony recorded years afterwards, the photographs can be traced directly from the 1947 assignment through the newspaper collection into an institutional archive.
 
@@ -305,7 +305,7 @@ For historians, provenance often matters as much as content. Johnson's photograp
 * **Known creator:** The photographer is identified by name.
 * **Known date and setting:** The photographs were taken during the documented Fort Worth press conference on 8 July 1947.
 * **Known institutional origin:** They were created for the *Fort Worth Star-Telegram* rather than emerging anonymously years later.
-* **Preserved originals:** The surviving negatives remain part of a catalogued archival collection at UTA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+* **Preserved originals:** The surviving negatives remain part of a catalogued archival collection at UTA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 </div>
 
@@ -319,9 +319,9 @@ The photographs therefore serve as a stable point of reference. Researchers with
 
 Johnson's role as photographer should not be confused with authority over the memo's contents. The paper visible in Ramey's hand occupies only a small part of the frame, is angled away from the camera and suffers from the limitations of 1947 photographic resolution.
 
-UTA's Roswell research project has supported high-resolution scans and image-processing work, yet it also acknowledges that the memo has not been definitively deciphered. Numerous researchers have proposed [readings]({{ 'readings/' | relative_url }}) using enhanced scans, but no interpretation has achieved broad agreement among document specialists or historians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
+UTA's Roswell research project has supported high-resolution scans and image-processing work, yet it also acknowledges that the memo has not been definitively deciphered. Numerous researchers have proposed [readings]({{ 'readings/' | relative_url }}) using enhanced scans, but no interpretation has achieved broad agreement among document specialists or historians.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</span></span></span>
 
-Independent methodological reviews reach a similar conclusion. They note that the combination of small text, film grain, viewing angle and limited image detail creates conditions in which different analysts can legitimately perceive different words, making overconfident readings difficult to justify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
+Independent methodological reviews reach a similar conclusion. They note that the combination of small text, film grain, viewing angle and limited image detail creates conditions in which different analysts can legitimately perceive different words, making overconfident readings difficult to justify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</span></span></span>
 
 Accordingly, Johnson's photographs establish the existence of the document in Ramey's hand, but they do not transform uncertain text into certain evidence.
 
@@ -330,7 +330,7 @@ Accordingly, Johnson's photographs establish the existence of the document in Ra
 
 ## Johnson's later involvement and its limits
 
-As interest in Roswell revived decades after 1947, Johnson participated in discussions about the photographs and became interested in attempts to enhance and interpret the memo. His later views and recollections have attracted attention within UFO literature, but they should be evaluated separately from the evidential status of the photographs themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Iconic Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — This is a very thorough study on the meaning and content of t...</span></span></span>
+As interest in Roswell revived decades after 1947, Johnson participated in discussions about the photographs and became interested in attempts to enhance and interpret the memo. His later views and recollections have attracted attention within UFO literature, but they should be evaluated separately from the evidential status of the photographs themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Iconic Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — This is a very thorough study on the meaning and content of t...</span></span></span>
 
 This distinction is important because historical reliability does not depend on whether every later statement by a witness or photographer proves accurate. Johnson's lasting contribution is that he created contemporaneous press photographs whose provenance is unusually well documented. His subsequent interpretations—like those of later researchers—remain open to critical examination and do not alter the original chain of custody.
 
@@ -338,203 +338,203 @@ This distinction is important because historical reliability does not depend on 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-3-dark.svg" | relative_url }}" alt="Johnson Role illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Johnson's role ultimately proves
 
-J. Bond Johnson's importance in the Ramey memo story is narrower, but stronger, than it is sometimes presented. His photographs provide a firmly sourced visual record from the day the Roswell debris was publicly displayed in Fort Worth. Because they originate with a named newspaper photographer, survive as original negatives in a recognised archive and can be tied directly to the 1947 press event, they possess greater historical credibility than many later Roswell claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the...</span></span></span>
+J. Bond Johnson's importance in the Ramey memo story is narrower, but stronger, than it is sometimes presented. His photographs provide a firmly sourced visual record from the day the Roswell debris was publicly displayed in Fort Worth. Because they originate with a named newspaper photographer, survive as original negatives in a recognised archive and can be tied directly to the 1947 press event, they possess greater historical credibility than many later Roswell claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries+2Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesHomepage &#124; Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the...</span></span></span>
 
-At the same time, that strong provenance should not be mistaken for proof of any specific memo transcription. Johnson's photographs reliably document the existence of the paper in General Ramey's hand; the unresolved question is what, if anything, can be read from it with confidence. That distinction explains why the photographs remain central to Roswell research while the memo itself continues to be debated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+At the same time, that strong provenance should not be mistaken for proof of any specific memo transcription. Johnson's photographs reliably document the existence of the paper in General Ramey's hand; the unresolved question is what, if anything, can be read from it with confidence. That distinction explains why the photographs remain central to Roswell research while the memo itself continues to be debated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr+2UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-title">Some speculate the wreckage was that of an alien spacecraft.Read more</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zK_nHT3tiuw" title="The Smoking Gun Of Roswell The Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zK_nHT3tiuw" target="_blank" rel="noopener noreferrer">The Smoking Gun Of Roswell The Ramey Memo</a></p><p class="youtube-embed-meta">Channel: INVESTIGATION 13</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zK_nHT3tiuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zK_nHT3tiuw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Johnson&#x27;s Photo Carries Weight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Johnson&#x27;s Photo Carries Weight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Covers witness testimony and documentary evidence surrounding Roswell, including the Fort Worth events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness testimony and documentary evidence surrounding Roswell, including the Fort Worth events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/809552-M.jpg" alt="Cover for Roswell Incident" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/809552-M.jpg" alt="Cover for Roswell Incident" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Unidentified flying objects, sightings and encounters, Human-alien encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Unidentified flying objects, sightings and encounters, Human-alien encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the foundational narrative behind the Roswell case discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational narrative behind the Roswell case discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines the evidence and competing interpretations surrounding the Roswell incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the evidence and competing interpretations surrounding the Roswell incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell Incident</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell Incident</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kyle MacLachlan - Roswell Autographed Signed &amp; Framed Photo"><img src="{{ '/assets/images/marketplace-covers/c2f2d6e0cc8f6bef2acc.jpg' | relative_url }}" alt="Listing image for Kyle MacLachlan - Roswell Autographed Signed &amp; Framed Photo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Kyle MacLachlan - Roswell Autographed Signed &amp; Framed Photo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kyle MacLachlan - Roswell Autographed Signed &amp; Framed Photo"><img src="{{ '/assets/images/marketplace-covers/c2f2d6e0cc8f6bef2acc.jpg' | relative_url }}" alt="Listing image for Kyle MacLachlan - Roswell Autographed Signed &amp; Framed Photo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Kyle MacLachlan - Roswell Autographed Signed &amp; Framed Photo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bc29f229c965eaf1b331.jpg' | relative_url }}" alt="Listing image for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell (TV) Katherine Heigl 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bc29f229c965eaf1b331.jpg' | relative_url }}" alt="Listing image for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell (TV) Katherine Heigl 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print"><img src="{{ '/assets/images/marketplace-covers/b8cb49c5e6d7809b4a74.jpg' | relative_url }}" alt="Listing image for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell Shiri Appleby Jason Behr Cast 4x6 photo print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print"><img src="{{ '/assets/images/marketplace-covers/b8cb49c5e6d7809b4a74.jpg' | relative_url }}" alt="Listing image for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell Shiri Appleby Jason Behr Cast 4x6 photo print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="johnson-role-why-johnson-s-photo-carries-weight-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ At the same time, that strong provenance should not be mistaken for proof of any
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ At the same time, that strong provenance should not be mistaken for proof of any
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ At the same time, that strong provenance should not be mistaken for proof of any
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ At the same time, that strong provenance should not be mistaken for proof of any
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ At the same time, that strong provenance should not be mistaken for proof of any
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,109 +740,109 @@ At the same time, that strong provenance should not be mistaken for proof of any
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesHomepage | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesHomepage | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident as part of the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flickr.com  
    Title: Some speculate the wreckage was that of an alien spacecraft.Read more  
-   Link: <a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Incident, July 1947 |...</p></details>
+   Link:<a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Incident, July 1947 |...</p></details>
    Published: July 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from th...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesAbout the Roswell Photo Collection | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones presen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — This is a very thorough study on the meaning and content of t...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — This is a very thorough study on the meaning and content of t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...The Ramey Memo One example of newly discovered evidence that apparently...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: This is not merely a challenge for analysis  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ramey Memo-An In Depth Scientifically Based Deep...23 Sept 2025 — The description of the memo limitation: the quality of the origi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ramey Memo-An In Depth Scientifically Based Deep...23 Sept 2025 — The description of the memo limitation: the quality of the origi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6u0F2_k2o4o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6u0F2_k2o4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6u0F2_k2o4o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo: Best Roswell Cover-Up Evidence ever Found...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo: Best Roswell Cover-Up Evidence ever Found...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iconicphotos.wordpress.com  
    Title: Iconic Photos Roswell Memo  
-   Link: <a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic PhotosRoswell Memo - Iconic Photos - WordPress.com31 May 2018 — The photo above was taken by a photographer from the Fort Worth St...</p></details>
+   Link:<a href="https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic PhotosRoswell Memo - Iconic Photos - WordPress.com31 May 2018 — The photo above was taken by a photographer from the Fort Worth St...</p></details>
    Published: May 2018  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/july-long-ago-roswell-incident-103000520.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/july-long-ago-roswell-incident-103000520.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. Roger Ramey, commander of the 8th Air Force, held up shreds of tinfoil and sticks for reporter J. Bond Johnson and claimed that...R...</p></details>
+   Link:<a href="https://www.aol.com/july-long-ago-roswell-incident-103000520.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/july-long-ago-roswell-incident-103000520.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. Roger Ramey, commander of the 8th Air Force, held up shreds of tinfoil and sticks for reporter J. Bond Johnson and claimed that...R...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Roger Ramey is pictured here with materials from the crash site. The memo...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/startelegram/posts/whatever-fell-to-the-ground-in-roswell-eventually-landed-in-fort-worth/10160135272763530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Roger Ramey is pictured here with materials from the crash site. The memo...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kevinrandle.blogspot.com  
    Title: Johnson turned flaky and became completely unreliable in his  
-   Link: <a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: General Ramey and His Memo8 May 2009 — Johnson recanted the claim, saying it was nothing but...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/05/general-ramey-and-his-memo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: General Ramey and His Memo8 May 2009 — Johnson recanted the claim, saying it was nothing but...</p></details>
    Published: May 2009  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ves of the University of Texas – Arlington (UTA) for detailed analysis.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ves of the University of Texas – Arlington (UTA) for detailed analysis.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: The deciphered letter held in the hands of Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11vip6d/the_deciphered_letter_held_in_the_hands_of_gen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deciphered letter held in the hands of Gen. Ramey which provides [smoking gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) proof of a disk crash, and the recovery of the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Sn1UTpZQEK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sn1UTpZQEK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sn1UTpZQEK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sn1UTpZQEK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Most Mysterious UFO Cases | Expedition Unknown: Hunt For Extraterrestrials S1E4...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Ramey Memo: Best Roswell Cover-Up Evidence ever Found  
-   Link: <a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Smoking Gun Of Roswell The Ramey Memo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Smoking Gun Of Roswell The Ramey Memo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Smoking Gun Of Roswell The Ramey Memo  
-   Link: <a href="https://www.youtube.com/watch?v=zK_nHT3tiuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zK_nHT3tiuw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ramey memo&quot; Roswell Ramey Memo Decoded by A.I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zK_nHT3tiuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zK_nHT3tiuw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ramey memo&quot; Roswell Ramey Memo Decoded by A.I...</p></details>

@@ -280,17 +280,17 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_denni
 
 ## Introduction
 
-Glenn Dennis became one of the most influential later Roswell witnesses because his story supplied something the documentary record largely lacks: alleged human encounters with bodies, medical staff, and military secrecy. As a mortician working in Roswell in 1947, Dennis claimed that personnel from the local Army Air Field asked about small hermetically sealed coffins and body-preservation procedures, and that a nurse later described unusual bodies examined at the base hospital. His account helped transform Roswell from a debris-recovery story into a [narrative]({{ 'narrative/' | relative_url }}) involving biological occupants. The key question for the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate is whether the memo independently supports those claims. The answer is that the memo has sometimes been interpreted as containing language about “victims”, but the document remains too indistinct to confirm Dennis's body narrative on its own. The relationship is therefore suggestive to some researchers, but far from corroborative in a historical sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
+Glenn Dennis became one of the most influential later Roswell witnesses because his story supplied something the documentary record largely lacks: alleged human encounters with bodies, medical staff, and military secrecy. As a mortician working in Roswell in 1947, Dennis claimed that personnel from the local Army Air Field asked about small hermetically sealed coffins and body-preservation procedures, and that a nurse later described unusual bodies examined at the base hospital. His account helped transform Roswell from a debris-recovery story into a [narrative]({{ 'narrative/' | relative_url }}) involving biological occupants. The key question for the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) debate is whether the memo independently supports those claims. The answer is that the memo has sometimes been interpreted as containing language about “victims”, but the document remains too indistinct to confirm Dennis's body narrative on its own. The relationship is therefore suggestive to some researchers, but far from corroborative in a historical sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-1-dark.svg" | relative_url }}" alt="Dennis Claims illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Coffin and Base Hospital Claims
 
-Dennis first gained prominence decades after 1947 when he described receiving unusual enquiries from Roswell Army Air Field concerning child-sized or very small hermetically sealed caskets and the treatment of bodies exposed to the elements. He also claimed that a nurse at the base hospital told him about examinations of non-human bodies and warned him away from the facility. These details became central elements in later Roswell books, documentaries and television programmes because they provided a narrative bridge between alleged crash debris and alleged recovered occupants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/roswell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Roswell</span><span class="citation-popover-snippet">Unsolved MysteriesRoswell - Unsolved MysteriesIn 1947, Glenn Dennis was 22-years-old and just out of college. That summer, he was working...</span></span></span>
+Dennis first gained prominence decades after 1947 when he described receiving unusual enquiries from Roswell Army Air Field concerning child-sized or very small hermetically sealed caskets and the treatment of bodies exposed to the elements. He also claimed that a nurse at the base hospital told him about examinations of non-human bodies and warned him away from the facility. These details became central elements in later Roswell books, documentaries and television programmes because they provided a narrative bridge between alleged crash debris and alleged recovered occupants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/roswell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Roswell</span><span class="citation-popover-snippet">Unsolved MysteriesRoswell - Unsolved MysteriesIn 1947, Glenn Dennis was 22-years-old and just out of college. That summer, he was working...</span></span></span>
 
-The appeal of Dennis's testimony is obvious. Unlike discussions of strange metal fragments or disputed photographs, his account concerns identifiable actions: telephone calls, medical facilities, caskets and conversations. Those details give the story a sense of realism that many readers find compelling. For that reason, Dennis was often described as one of the most important Roswell witnesses in the body-recovery narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The appeal of Dennis's testimony is obvious. Unlike discussions of strange metal fragments or disputed photographs, his account concerns identifiable actions: telephone calls, medical facilities, caskets and conversations. Those details give the story a sense of realism that many readers find compelling. For that reason, Dennis was often described as one of the most important Roswell witnesses in the body-recovery narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-However, later scrutiny complicated the picture. Researchers discovered problems with the identity of the nurse Dennis said had confided in him. Dennis admitted that names he had provided were fictitious, explaining that he had concealed the woman's identity. Even some researchers sympathetic to Roswell claims concluded that this damaged his evidential standing because a crucial witness could not be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
+However, later scrutiny complicated the picture. Researchers discovered problems with the identity of the nurse Dennis said had confided in him. Dennis admitted that names he had provided were fictitious, explaining that he had concealed the woman's identity. Even some researchers sympathetic to Roswell claims concluded that this damaged his evidential standing because a crucial witness could not be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fe_NwCqfz6c" title="Nurse Who Saw Alien Autopsies In Roswell | Roswell: The Final Verdict" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer">Nurse Who Saw Alien Autopsies In Roswell | Roswell: The Final Verdict</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 2.3M &middot; Uploaded: March 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fe_NwCqfz6c">Open on YouTube</a></p></div></div></div>
@@ -299,9 +299,9 @@ However, later scrutiny complicated the picture. Researchers discovered problems
 
 For the [Ramey]({{ 'ramey/' | relative_url }}) memo to serve as meaningful corroboration of Dennis's story, it would need to do more than contain an ambiguous reference to a wreck. It would have to provide reasonably clear evidence that people associated with the 1947 operation were discussing bodies, casualties, biological remains or medical handling procedures.
 
-This is where the evidential gap appears. Various attempts to enhance and decipher the memo have produced competing [readings]({{ 'readings/' | relative_url }}). Some researchers have argued that a phrase may refer to “victims of the wreck”, while others have proposed alternatives such as “remains of the wreck” or “viewing of the wreck”. The problem is that these interpretations arise from a document that has never been definitively read. Even proponents of intensive memo analysis acknowledge that the text remains uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
+This is where the evidential gap appears. Various attempts to enhance and decipher the memo have produced competing [readings]({{ 'readings/' | relative_url }}). Some researchers have argued that a phrase may refer to “victims of the wreck”, while others have proposed alternatives such as “remains of the wreck” or “viewing of the wreck”. The problem is that these interpretations arise from a document that has never been definitively read. Even proponents of intensive memo analysis acknowledge that the text remains uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
 
-The University of Texas at Arlington's Roswell project notes that some memo interpretations include language about victims associated with a wreck, and UFO researchers have sometimes connected that possibility to witness accounts involving bodies. Yet the same debate illustrates the underlying difficulty: the wording is disputed, and no consensus decipherment exists. A contested reading cannot function as strong independent confirmation of another contested claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
+The University of Texas at Arlington's Roswell project notes that some memo interpretations include language about victims associated with a wreck, and UFO researchers have sometimes connected that possibility to witness accounts involving bodies. Yet the same debate illustrates the underlying difficulty: the wording is disputed, and no consensus decipherment exists. A contested reading cannot function as strong independent confirmation of another contested claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
 
 In practical terms, the memo would need to contain clear and broadly accepted wording that pointed directly to biological recoveries. It does not. At best, it offers a possible point of comparison for those who already believe the witness testimony.
 
@@ -311,11 +311,11 @@ In practical terms, the memo would need to contain clear and broadly accepted wo
 
 Dennis's account illustrates a broader issue in evaluating Roswell evidence. Detailed testimony can make a story more persuasive emotionally without necessarily making it more secure historically.
 
-The strength of Dennis's narrative is its specificity. The weakness is that it emerged decades after the event and depends heavily on recollection, secondary conversations and witnesses who cannot be fully checked. Historians generally look for independent contemporary documentation when assessing such claims. That is precisely why the Ramey memo attracts so much attention: unlike later testimony, it is a document physically connected to the events of July 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
+The strength of Dennis's narrative is its specificity. The weakness is that it emerged decades after the event and depends heavily on recollection, secondary conversations and witnesses who cannot be fully checked. Historians generally look for independent contemporary documentation when assessing such claims. That is precisely why the Ramey memo attracts so much attention: unlike later testimony, it is a document physically connected to the events of July 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
 
-Yet the memo's value as a contemporary document is limited by its poor [legibility]({{ 'legibility/' | relative_url }}). A document that cannot be confidently read cannot provide the level of corroboration that Dennis's claims would require. The result is an evidential mismatch. Dennis supplies detail but lacks strong contemporary documentation. The memo supplies contemporaneity but lacks clear wording. Neither source fully solves the other's weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
+Yet the memo's value as a contemporary document is limited by its poor [legibility]({{ 'legibility/' | relative_url }}). A document that cannot be confidently read cannot provide the level of corroboration that Dennis's claims would require. The result is an evidential mismatch. Dennis supplies detail but lacks strong contemporary documentation. The memo supplies contemporaneity but lacks clear wording. Neither source fully solves the other's weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
 
-This is why even researchers who regard Dennis as an important witness often treat the memo as potentially supportive rather than decisive. Conversely, critics argue that because the memo's alleged references to victims are disputed and Dennis's testimony contains verification problems, combining the two does not automatically create stronger evidence. Instead, it links two separate uncertainties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
+This is why even researchers who regard Dennis as an important witness often treat the memo as potentially supportive rather than decisive. Conversely, critics argue that because the memo's alleged references to victims are disputed and Dennis's testimony contains verification problems, combining the two does not automatically create stronger evidence. Instead, it links two separate uncertainties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JeySwjTaqvY" title="The Roswell Mystery Files | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JeySwjTaqvY" target="_blank" rel="noopener noreferrer">The Roswell Mystery Files | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JeySwjTaqvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JeySwjTaqvY">Open on YouTube</a></p></div></div></div>
@@ -327,204 +327,204 @@ This is why even researchers who regard Dennis as an important witness often tre
 
 Only in a limited and highly tentative sense.
 
-If one accepts a particular reading of the Ramey memo that includes the phrase “victims of the wreck”, the document can be viewed as broadly consistent with later stories involving recovered bodies. That is the strongest case advocates can make for a connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
+If one accepts a particular reading of the Ramey memo that includes the phrase “victims of the wreck”, the document can be viewed as broadly consistent with later stories involving recovered bodies. That is the strongest case advocates can make for a connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</span></span></span>
 
-The problem is that the memo does not clearly and indisputably say that. Alternative readings exist, and no definitive decipherment has achieved widespread acceptance. As a result, the memo cannot independently verify Dennis's claims about coffin requests, hospital activity or non-human bodies. Those claims still stand or fall primarily on the credibility of Dennis and the supporting witnesses around him rather than on the memo itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
+The problem is that the memo does not clearly and indisputably say that. Alternative readings exist, and no definitive decipherment has achieved widespread acceptance. As a result, the memo cannot independently verify Dennis's claims about coffin requests, hospital activity or non-human bodies. Those claims still stand or fall primarily on the credibility of Dennis and the supporting witnesses around him rather than on the memo itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">Kevin Randle&#x27;s Blog The Ramey Memo</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</span></span></span>
 
-Within the narrower debate over the Ramey memo versus later Roswell testimony, Glenn Dennis therefore represents a vivid example of the distinction between narrative detail and documentary corroboration. His story provides the detail. The memo, despite decades of analysis, has not provided the clear confirmation that the story would need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
+Within the narrower debate over the Ramey memo versus later Roswell testimony, Glenn Dennis therefore represents a vivid example of the distinction between narrative detail and documentary corroboration. His story provides the detail. The memo, despite decades of analysis, has not provided the clear confirmation that the story would need.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-3-dark.svg" | relative_url }}" alt="Dennis Claims illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Memo Support Glenn Dennis&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Memo Support Glenn Dennis&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Discusses Glenn Dennis and related testimony extensively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses Glenn Dennis and related testimony extensively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Critically examines Dennis&#x27;s claims and corroboration issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Critically examines Dennis&#x27;s claims and corroboration issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Covers witness testimony involving bodies and recovery stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness testimony involving bodies and recovery stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides historical context for later witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for later witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="{{ '/assets/images/marketplace-covers/d04800e732c49332d0b2.jpg' | relative_url }}" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="{{ '/assets/images/marketplace-covers/d04800e732c49332d0b2.jpg' | relative_url }}" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b549fbd793da851991cb.jpg' | relative_url }}" alt="Listing image for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b549fbd793da851991cb.jpg' | relative_url }}" alt="Listing image for UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Rural Landscape Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Wanda Ventham 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/02b002803ad4fe8749d6.jpg' | relative_url }}" alt="Listing image for UFO (TV) Wanda Ventham 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Wanda Ventham 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Wanda Ventham 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/02b002803ad4fe8749d6.jpg' | relative_url }}" alt="Listing image for UFO (TV) Wanda Ventham 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Wanda Ventham 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print" data-ebay-reference="dennis-claims-can-the-memo-support-glenn-dennis-s-story-roswell-ufo-ramey-memo-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Within the narrower debate over the Ramey memo versus later Roswell testimony, G
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Within the narrower debate over the Ramey memo versus later Roswell testimony, G
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Within the narrower debate over the Ramey memo versus later Roswell testimony, G
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Within the narrower debate over the Ramey memo versus later Roswell testimony, G
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Within the narrower debate over the Ramey memo versus later Roswell testimony, G
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,101 +730,101 @@ Within the narrower debate over the Ramey memo versus later Roswell testimony, G
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brown, and Glenn Dennis of 4 Humanoid Grey alien...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Roswell  
-   Link: <a href="https://unsolved.com/gallery/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/roswell/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesRoswell - Unsolved MysteriesIn 1947, Glenn Dennis was 22-years-old and just out of college. That summer, he was working...</p></details>
+   Link:<a href="https://unsolved.com/gallery/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesRoswell - Unsolved MysteriesIn 1947, Glenn Dennis was 22-years-old and just out of college. That summer, he was working...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: content.time.com  
    Title: DID ALIENS REALLY LAND?  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a m...</p></details>
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DID ALIENS REALLY LAND? - TIME23 Jun 1997 — The most notable of their sources was Glenn Dennis, who in 1947 was 22 and working as a m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Glenn Dennis  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memo Update | Roswell UFO Incident18 Jan 2017 — Roswell witnesses confirmed ET spacecraft crash with non-human beings; Gerald Anderson, G...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memo Update | Roswell UFO Incident18 Jan 2017 — Roswell witnesses confirmed ET spacecraft crash with non-human beings; Gerald Anderson, G...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kevinrandle.blogspot.com  
    Title: Kevin Randle's Blog The Ramey Memo  
-   Link: <a href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2018/12/the-ramey-memo-latest-information.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogThe Ramey Memo - The Latest Information11 Dec 2018 — Back about two decades ago, one phrase that was almost readable...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2020/04/glenn-dennis-lies.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2020/04/glenn-dennis-lies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: Glenn Dennis Lies?13 Apr 2020 — When Dennis first appeared on the Roswell scene, his name pro...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2020/04/glenn-dennis-lies.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2020/04/glenn-dennis-lies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: Glenn Dennis Lies?13 Apr 2020 — When Dennis first appeared on the Roswell scene, his name pro...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local undertaker Glenn Dennis had long claimed that he was contacted by authorities at Roswell shortly...Read more...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/roswell-officers-amazing-deathbed-admission-raises-possibility-that-aliens-did-visit-6594156.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local undertaker Glenn Dennis had long claimed that he was contacted by authorities at Roswell shortly...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fe_NwCqfz6c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fe_NwCqfz6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fe_NwCqfz6c</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious - Roswell Affidavits - Clear evidence of a coverupGlenn Dennis, a mortician who was contacted to help with the &quot;bodies&quot;...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serious - Roswell Affidavits - Clear evidence of a coverupGlenn Dennis, a mortician who was contacted to help with the &quot;bodies&quot;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: w glenn dennis said in 1990 interview that nurse  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at...W. Glenn Dennis said in 1990 interview that nurse at Roswell alien autopsy told h...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12xl3u5/w_glenn_dennis_said_in_1990_interview_that_nurse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W. Glenn Dennis said in 1990 interview that nurse at...W. Glenn Dennis said in 1990 interview that nurse at Roswell alien autopsy told h...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>irms Alien bodies after crash This video recording contains an...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q8irfj/w_glenn_dennis_interview_roswell_mortician_who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>irms Alien bodies after crash This video recording contains an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dp.la  
-   Link: <a href="https://dp.la/item/d6c69762f36a559e5ef46a8fc7f056fc" target="_blank" rel="noopener noreferrer nofollow">https://dp.la/item/d6c69762f36a559e5ef46a8fc7f056fc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>me in Roswell, who is an alleged first-hand witness to events...</p></details>
+   Link:<a href="https://dp.la/item/d6c69762f36a559e5ef46a8fc7f056fc" target="_blank" rel="noopener noreferrer nofollow">https://dp.la/item/d6c69762f36a559e5ef46a8fc7f056fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>me in Roswell, who is an alleged first-hand witness to events...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dialaflight.com  
    Title: New Mexico Holiday Review  
-   Link: <a href="https://www.dialaflight.com/magazine/2003/07/newmexico_jul03.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.dialaflight.com/magazine/2003/07/newmexico_jul03.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Town: RoswellRoswell and local mortician Glenn Dennis was asked if he had a number of child-sized coffins he could bring to a hanga...</p></details>
+   Link:<a href="https://www.dialaflight.com/magazine/2003/07/newmexico_jul03.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.dialaflight.com/magazine/2003/07/newmexico_jul03.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Town: RoswellRoswell and local mortician Glenn Dennis was asked if he had a number of child-sized coffins he could bring to a hanga...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: esd.whs.mil  
    Title: Roswell Report [Case Closed](&#123;&#123; 'case-closed/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report22 May 2017 — James Ragsdale was provided by Kevin Randle, the coauthor of the Truth About the UFO. Crash at Roswell (Avon...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf?ver=2017-05-22-113519-430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell report22 May 2017 — James Ragsdale was provided by Kevin Randle, the coauthor of the Truth About the UFO. Crash at Roswell (Avon...</p></details>
    Published: May 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Roswell Mystery Files | Ancient Aliens  
-   Link: <a href="http://www.youtube.com/watch?v=JeySwjTaqvY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JeySwjTaqvY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Dennis Roswell testimony From the Archives: Roswell witness testimony. W. Glenn Dennis un-edited Eccentric Orbits...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JeySwjTaqvY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JeySwjTaqvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Dennis Roswell testimony From the Archives: Roswell witness testimony. W. Glenn Dennis un-edited Eccentric Orbits...</p></details>

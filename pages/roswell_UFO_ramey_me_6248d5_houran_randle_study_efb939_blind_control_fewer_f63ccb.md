@@ -280,247 +280,247 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_bli
 
 ## Introduction
 
-One of the most revealing results in Houran and Randle’s experiment was not what believers or sceptics thought they saw in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}), but what happened when the story was removed. Participants who received only a neutral description of the image—without being told it might relate to Roswell, a cover-up, or any other dramatic event—reported an average of just 1.6 words from the document. By contrast, participants given [narrative]({{ 'narrative/' | relative_url }}) context reported substantially more words. This gap became a central finding because it suggested that much of the apparent readability of the memo might depend on expectation as much as on the image itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+One of the most revealing results in Houran and Randle’s experiment was not what believers or sceptics thought they saw in the [Ramey memo]({{ 'ramey-memo/' | relative_url }}), but what happened when the story was removed. Participants who received only a neutral description of the image—without being told it might relate to Roswell, a cover-up, or any other dramatic event—reported an average of just 1.6 words from the document. By contrast, participants given [narrative]({{ 'narrative/' | relative_url }}) context reported substantially more words. This gap became a central finding because it suggested that much of the apparent readability of the memo might depend on expectation as much as on the image itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-1-dark.svg" | relative_url }}" alt="Blind Control illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the wider Roswell [Ramey]({{ 'ramey/' | relative_url }}) memo debate, the control group's performance functions as a reality check. If the memo genuinely contains large amounts of easily recoverable text, then readers should identify many words even when they know nothing about the document's alleged significance. The fact that they did not is one reason the experiment remains important in discussions about whether famous memo [readings]({{ 'readings/' | relative_url }}) reflect visual evidence or contextual suggestion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+In the wider Roswell [Ramey]({{ 'ramey/' | relative_url }}) memo debate, the control group's performance functions as a reality check. If the memo genuinely contains large amounts of easily recoverable text, then readers should identify many words even when they know nothing about the document's alleged significance. The fact that they did not is one reason the experiment remains important in discussions about whether famous memo [readings]({{ 'readings/' | relative_url }}) reflect visual evidence or contextual suggestion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdXwvdvr_Ps" title="The Roger Ramey Memo, with David Rudiak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer">The Roger Ramey Memo, with David Rudiak</a></p><p class="youtube-embed-meta">Channel: Project Bluebook</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdXwvdvr_Ps">Open on YouTube</a></p></div></div></div>
 
 ## What the neutral prompt removed
 
-The neutral condition was designed to strip away the interpretive framework surrounding the memo. Participants were not primed with stories about extraterrestrial crashes, military secrecy, or atomic testing. They were simply asked to examine a photographed document and report what they could decipher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+The neutral condition was designed to strip away the interpretive framework surrounding the memo. Participants were not primed with stories about extraterrestrial crashes, military secrecy, or atomic testing. They were simply asked to examine a photographed document and report what they could decipher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-This matters because the Ramey memo is an extremely degraded image. The visible marks are incomplete, blurred and ambiguous. In such situations, perception researchers have long recognised that people often use prior knowledge and expectations to fill in missing information. Houran and Randle's experiment tested whether that process was influencing memo interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+This matters because the Ramey memo is an extremely degraded image. The visible marks are incomplete, blurred and ambiguous. In such situations, perception researchers have long recognised that people often use prior knowledge and expectations to fill in missing information. Houran and Randle's experiment tested whether that process was influencing memo interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-By removing a narrative frame, the neutral prompt also removed cues about what kinds of words participants should expect to find. Readers were no longer looking for references to crashes, wreckage, weather balloons, secret operations or government actions. Without those cues, many of the apparent words reported in other conditions simply failed to emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+By removing a narrative frame, the neutral prompt also removed cues about what kinds of words participants should expect to find. Readers were no longer looking for references to crashes, wreckage, weather balloons, secret operations or government actions. Without those cues, many of the apparent words reported in other conditions simply failed to emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zK_nHT3tiuw" title="The Smoking Gun Of Roswell The Ramey Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zK_nHT3tiuw" target="_blank" rel="noopener noreferrer">The Smoking Gun Of Roswell The Ramey Memo</a></p><p class="youtube-embed-meta">Channel: INVESTIGATION 13</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zK_nHT3tiuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zK_nHT3tiuw">Open on YouTube</a></p></div></div></div>
 
 ## The 1.6-word average in context
 
-The most frequently cited numerical result from the control condition is the average of 1.6 words reported by participants. Houran and Randle noted that both suggestion conditions produced significantly more reported words than this neutral baseline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+The most frequently cited numerical result from the control condition is the average of 1.6 words reported by participants. Houran and Randle noted that both suggestion conditions produced significantly more reported words than this neutral baseline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-The importance of that figure lies less in the exact number than in what it represents. The neutral group was not prevented from seeing genuine text if it existed. They viewed the same image as everyone else. The principal difference was that they lacked a storyline that might guide interpretation. The sharp reduction in reported words therefore points toward the role of cognitive framing rather than differences in visual access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+The importance of that figure lies less in the exact number than in what it represents. The neutral group was not prevented from seeing genuine text if it existed. They viewed the same image as everyone else. The principal difference was that they lacked a storyline that might guide interpretation. The sharp reduction in reported words therefore points toward the role of cognitive framing rather than differences in visual access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-This does not mean the memo contains no readable text. Houran and Randle reported that certain terms attracted recurring agreement across conditions. However, the control result suggests that the quantity of text people believed they could read dropped dramatically once expectations were minimised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+This does not mean the memo contains no readable text. Houran and Randle reported that certain terms attracted recurring agreement across conditions. However, the control result suggests that the quantity of text people believed they could read dropped dramatically once expectations were minimised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-A useful way to understand the finding is to distinguish between isolated recognisable fragments and coherent document recovery. The experiment indicated that some fragments may indeed be visible, while the larger narrative often reconstructed from the memo becomes much harder to support when readers approach the image without prior assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+A useful way to understand the finding is to distinguish between isolated recognisable fragments and coherent document recovery. The experiment indicated that some fragments may indeed be visible, while the larger narrative often reconstructed from the memo becomes much harder to support when readers approach the image without prior assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-2-dark.svg" | relative_url }}" alt="Blind Control illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why control results matter for caution
 
-The neutral group's performance is often treated as the experiment's strongest cautionary signal. If a document can be read reliably, independent observers should converge on similar words even when they do not know what the document is supposed to say. The low average from the control condition suggests that much of the memo's alleged content does not meet that standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+The neutral group's performance is often treated as the experiment's strongest cautionary signal. If a document can be read reliably, independent observers should converge on similar words even when they do not know what the document is supposed to say. The low average from the control condition suggests that much of the memo's alleged content does not meet that standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-This is particularly relevant to controversial phrases that have circulated in Roswell literature. Some celebrated readings appeared persuasive because they seemed to fit an existing crash-and-cover-up narrative. The control findings raise the possibility that at least part of this apparent agreement resulted from readers approaching the image with similar expectations rather than extracting the same information directly from the photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+This is particularly relevant to controversial phrases that have circulated in Roswell literature. Some celebrated readings appeared persuasive because they seemed to fit an existing crash-and-cover-up narrative. The control findings raise the possibility that at least part of this apparent agreement resulted from readers approaching the image with similar expectations rather than extracting the same information directly from the photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-The lesson is not that every claimed memo word is wrong. Instead, the control condition shows why confidence should be proportional to independent agreement. Words consistently identified across different viewing conditions deserve more attention than words that appear mainly when readers are encouraged to think about Roswell-related themes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+The lesson is not that every claimed memo word is wrong. Instead, the control condition shows why confidence should be proportional to independent agreement. Words consistently identified across different viewing conditions deserve more attention than words that appear mainly when readers are encouraged to think about Roswell-related themes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z8VQwxF8gRQ" title="The Ramey Memo: Best Roswell Cover-Up Evidence ever Found" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer">The Ramey Memo: Best Roswell Cover-Up Evidence ever Found</a></p><p class="youtube-embed-meta">Channel: AlienScientist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z8VQwxF8gRQ">Open on YouTube</a></p></div></div></div>
 
 ## What changed when the story disappeared?
 
-When the dramatic context vanished, reported readability largely vanished with it. The neutral participants still had access to the same photograph, the same visible marks and the same potential evidence. What they lacked was a narrative template telling them what kinds of words might be hidden in the image. Their average of 1.6 words became an empirical measure of how little text many observers could recover from the memo alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+When the dramatic context vanished, reported readability largely vanished with it. The neutral participants still had access to the same photograph, the same visible marks and the same potential evidence. What they lacked was a narrative template telling them what kinds of words might be hidden in the image. Their average of 1.6 words became an empirical measure of how little text many observers could recover from the memo alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
-For critics and supporters alike, that result remains one of the most informative aspects of Houran and Randle's study. It suggests that the central question is not merely whether the memo contains text, but how much of any proposed reading survives once expectations are removed. In that sense, the neutral control group provides the benchmark against which stronger Roswell-related interpretations must be judged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
+For critics and supporters alike, that result remains one of the most informative aspects of Houran and Randle's study. It suggests that the central question is not merely whether the memo contains text, but how much of any proposed reading survives once expectations are removed. In that sense, the neutral control group provides the benchmark against which stronger Roswell-related interpretations must be judged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering</span><span class="citation-popover-snippet">words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-3-dark.svg" | relative_url }}" alt="Blind Control illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What changed when the story disappeared?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What changed when the story disappeared?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers cognitive biases relevant to reading ambiguous material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive biases relevant to reading ambiguous material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how people reinforce interpretations once adopted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people reinforce interpretations once adopted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how expectation and evidence affect interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how expectation and evidence affect interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the narrative context removed in the experiment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the narrative context removed in the experiment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir"><img src="{{ '/assets/images/marketplace-covers/e15e0dc4b66063ace18c.jpg' | relative_url }}" alt="Listing image for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir"><img src="{{ '/assets/images/marketplace-covers/e15e0dc4b66063ace18c.jpg' | relative_url }}" alt="Listing image for Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage Roswell UFO Visitors Welcome Logo Lapel Pin Black Silver Travel Souvenir</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO"><img src="{{ '/assets/images/marketplace-covers/0a7e7fe02fbec99d74bc.jpg' | relative_url }}" alt="Listing image for ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">ALIEN BADGE BUTTON PIN SET (Size is 1inch/25mm diameter) ET ROSWELL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin"><img src="{{ '/assets/images/marketplace-covers/8d231ef87a710bd23ef2.jpg' | relative_url }}" alt="Listing image for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin"><img src="{{ '/assets/images/marketplace-covers/8d231ef87a710bd23ef2.jpg' | relative_url }}" alt="Listing image for Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Museum Research Center Roswell New Mexico NM Epoxy Lapel Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Incident New Mexico NM 60th Anniversary Pin UFO&#x27;s Aliens Souvenir 2007"><img src="{{ '/assets/images/marketplace-covers/a63ad474d0558aece3ff.jpg' | relative_url }}" alt="Listing image for Roswell Incident New Mexico NM 60th Anniversary Pin UFO&#x27;s Aliens Souvenir 2007" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Roswell Incident New Mexico NM 60th Anniversary Pin UFO&#x27;s Aliens Souvenir 2007</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Incident New Mexico NM 60th Anniversary Pin UFO&#x27;s Aliens Souvenir 2007"><img src="{{ '/assets/images/marketplace-covers/a63ad474d0558aece3ff.jpg' | relative_url }}" alt="Listing image for Roswell Incident New Mexico NM 60th Anniversary Pin UFO&#x27;s Aliens Souvenir 2007" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">Roswell Incident New Mexico NM 60th Anniversary Pin UFO&#x27;s Aliens Souvenir 2007</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO pin" data-ebay-reference="blind-control-what-changed-when-the-story-disappeared-roswell-ufo-ramey-memo-roswell-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ For critics and supporters alike, that result remains one of the most informativ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ For critics and supporters alike, that result remains one of the most informativ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ For critics and supporters alike, that result remains one of the most informativ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ For critics and supporters alike, that result remains one of the most informativ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ For critics and supporters alike, that result remains one of the most informativ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,88 +726,88 @@ For critics and supporters alike, that result remains one of the most informativ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate''A Message in a Bottle:" Confounds in Deciphering  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>words than did the blind control condition (M = 1.6, SD =.23). Participants in the Pro-Roswell Condition spent an average of 20 minutes...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reportedly revealed...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “A Message in a Bottle:” Confounds in Deciphering...A document held by General Ramey from the Roswell UFO case reportedly revealed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: The Roger Ramey Memo, with David [Rudiak](&#123;&#123; 'rudiak/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo - Time Chasers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo - Time Chasers...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Ramey Memo  
-   Link: <a href="https://www.youtube.com/watch?v=a0WGx393SME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a0WGx393SME</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo Ramey Memo Decoded by A.I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a0WGx393SME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a0WGx393SME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo Ramey Memo Decoded by A.I...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.libraries.uta.edu  
    Title: ramey memo  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones present with [negatives](&amp;#123;&amp;#123; &#x27;negatives/&#x27; | relative_url &amp;#125;&amp;#125;) an...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of tones present with [negatives](&amp;#123;&amp;#123; &#x27;negatives/&#x27; | relative_url &amp;#125;&amp;#125;) an...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Ramey memo analysis accurate?: r/AlienBodiesWe seem to get the support of a lot of independent CGI artists, photographers/astrono...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blogeconomics.unime.it  
-   Link: <a href="https://blogeconomics.unime.it/columns/" target="_blank" rel="noopener noreferrer nofollow">https://blogeconomics.unime.it/columns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>M Belloc — Our results, obtained by regressing children&#x27;s wealth outcomes on those of their parents, suggest that Florentine society was...</p></details>
+   Link:<a href="https://blogeconomics.unime.it/columns/" target="_blank" rel="noopener noreferrer nofollow">https://blogeconomics.unime.it/columns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M Belloc — Our results, obtained by regressing children&#x27;s wealth outcomes on those of their parents, suggest that Florentine society was...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedocs.worldbank.org  
    Title: India Country Economic Memorandum 2024 0227c  
-   Link: <a href="https://thedocs.worldbank.org/en/doc/400139d320ead96a0ec624d3608d9b56-0310012025/original/India-Country-Economic-Memorandum-2024-0227c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thedocs.worldbank.org/en/doc/400139d320ead96a0ec624d3608d9b56-0310012025/original/India-Country-Economic-Memorandum-2024-0227c.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a High-Income Economy in a GenerationIn this model, the treatment group comprises establishments in Andhra Pradesh with greater than 100...</p></details>
+   Link:<a href="https://thedocs.worldbank.org/en/doc/400139d320ead96a0ec624d3608d9b56-0310012025/original/India-Country-Economic-Memorandum-2024-0227c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thedocs.worldbank.org/en/doc/400139d320ead96a0ec624d3608d9b56-0310012025/original/India-Country-Economic-Memorandum-2024-0227c.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a High-Income Economy in a GenerationIn this model, the treatment group comprises establishments in Andhra Pradesh with greater than 100...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bancaditalia.it  
-   Link: <a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1521/en_tema_1521.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1521/en_tema_1521.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>y funded innovation on postwar US productivity and economic growth...</p></details>
+   Link:<a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1521/en_tema_1521.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bancaditalia.it/pubblicazioni/temi-discussione/2026/2026-1521/en_tema_1521.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y funded innovation on postwar US productivity and economic growth...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A message in a bottle:&quot; Confounds in deciphering...&quot;A message in a bottle:&quot; Confounds in deciphering the Ramey memo from the Roswell UF...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: astrid-online.it  
    Title: The WEO is prepared by the IMF  
-   Link: <a href="https://www.astrid-online.it/static/upload/imf_/0000/imf_world-economic-outlook-4-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astrid-online.it/static/upload/imf_/0000/imf_world-economic-outlook-4-22.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World economic outlook (International Monetary Fund)11 Feb 2022 — The World Economic Outlook (WEO) is a survey by the IMF staff published...</p></details>
+   Link:<a href="https://www.astrid-online.it/static/upload/imf_/0000/imf_world-economic-outlook-4-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astrid-online.it/static/upload/imf_/0000/imf_world-economic-outlook-4-22.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World economic outlook (International Monetary Fund)11 Feb 2022 — The World Economic Outlook (WEO) is a survey by the IMF staff published...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: invalsiopen.it  
    Title: Percorsi e Strumenti INVALSI  
-   Link: <a href="https://www.invalsiopen.it/wp-content/uploads/2021/05/MESSAGE_IN-A-bottle_b2-INVALSI-TASK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.invalsiopen.it/wp-content/uploads/2021/05/MESSAGE_IN-A-bottle_b2-INVALSI-TASK.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INGLESEThe first one (0) has been done for you. The oldest message in a bottle ever discovered has washed up on a shore in Western. Austr...</p></details>
+   Link:<a href="https://www.invalsiopen.it/wp-content/uploads/2021/05/MESSAGE_IN-A-bottle_b2-INVALSI-TASK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.invalsiopen.it/wp-content/uploads/2021/05/MESSAGE_IN-A-bottle_b2-INVALSI-TASK.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INGLESEThe first one (0) has been done for you. The oldest message in a bottle ever discovered has washed up on a shore in Western. Austr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: understandingsociety.ac.uk  
    Title: The results show that  
-   Link: <a href="https://www.understandingsociety.ac.uk/research/publications/working-paper/understanding-society/2023-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingsociety.ac.uk/research/publications/working-paper/understanding-society/2023-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Short-term impact of increasing the value of unconditional...by PC Alvarez · 2023 — In the experiment, the treatment group received £20...</p></details>
+   Link:<a href="https://www.understandingsociety.ac.uk/research/publications/working-paper/understanding-society/2023-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingsociety.ac.uk/research/publications/working-paper/understanding-society/2023-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Short-term impact of increasing the value of unconditional...by PC Alvarez · 2023 — In the experiment, the treatment group received £20...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Message in a bottle  
-   Link: <a href="https://en.wikipedia.org/wiki/Message_in_a_bottle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Message_in_a_bottle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Message in a bottleA message in a bottle (MIB), message bottle, or bottled message is a form of communication in which a message is se...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Message_in_a_bottle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Message_in_a_bottle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Message in a bottleA message in a bottle (MIB), message bottle, or bottled message is a form of communication in which a message is se...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8854596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8854596/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report with their submitted puzzle sheet. The NP/NS group has average over-reporting of approximately 1.6 puzzles, matching that of the N...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8854596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8854596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report with their submitted puzzle sheet. The NP/NS group has average over-reporting of approximately 1.6 puzzles, matching that of the N...</p></details>

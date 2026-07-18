@@ -446,13 +446,13 @@ Roswell believers focus on the [Ramey memo]({{ 'ramey-memo/' | relative_url }}) 
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-overview.webp" | relative_url }}" alt="Overview image for Believer Focus" loading="eager" decoding="sync" fetchpriority="high">
-That is why a tiny, blurred paper has become so important. It sits in a case where the surviving 1947 paper trail is thin, where later testimony is contested, and where believers hope for a contemporary contradiction: a phrase such as “victims of the wreck” would mean something very different from a weather balloon or radar target. The difficulty is that the memo remains unresolved; even sources sympathetic to continued research acknowledge that attempted [readings]({{ 'readings/' | relative_url }}) have not produced definitive results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+That is why a tiny, blurred paper has become so important. It sits in a case where the surviving 1947 paper trail is thin, where later testimony is contested, and where believers hope for a contemporary contradiction: a phrase such as “victims of the wreck” would mean something very different from a weather balloon or radar target. The difficulty is that the memo remains unresolved; even sources sympathetic to continued research acknowledge that attempted [readings]({{ 'readings/' | relative_url }}) have not produced definitive results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 ## Why a Small Memo Carries So Much Weight
 
-The [Ramey]({{ 'ramey/' | relative_url }}) memo matters to Roswell believers because it belongs to the original news cycle. On 8 July 1947, Roswell Army Air Field announced the recovery of a “flying disc”; by the following day, the press reported Ramey’s Fort Worth explanation that the object was a crashed radar-tracking weather balloon rather than a disc. The Government Accountability Office later summarised this sharp reversal while reviewing federal records on the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+The [Ramey]({{ 'ramey/' | relative_url }}) memo matters to Roswell believers because it belongs to the original news cycle. On 8 July 1947, Roswell Army Air Field announced the recovery of a “flying disc”; by the following day, the press reported Ramey’s Fort Worth explanation that the object was a crashed radar-tracking weather balloon rather than a disc. The Government Accountability Office later summarised this sharp reversal while reviewing federal records on the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
-That timing gives the memo a special status. Believers are not treating it as just another Roswell claim; they are treating it as a possible internal communication caught accidentally in a public photograph. The University of Texas at Arlington Special Collections states that J. Bond Johnson took the only known images of the wreckage on 8 July 1947, and that the original negatives are held in its Fort Worth Star-Telegram Collection. It also notes that the memo in Ramey’s hand has been scrutinised by researchers and UFO hobbyists but has not been definitively deciphered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+That timing gives the memo a special status. Believers are not treating it as just another Roswell claim; they are treating it as a possible internal communication caught accidentally in a public photograph. The University of Texas at Arlington Special Collections states that J. Bond Johnson took the only known images of the wreckage on 8 July 1947, and that the original negatives are held in its Fort Worth Star-Telegram Collection. It also notes that the memo in Ramey’s hand has been scrutinised by researchers and UFO hobbyists but has not been definitively deciphered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Roswell UFO Incident, July 1947 &#124;...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 This provenance is the heart of the believer focus. Much of Roswell’s later mythology depends on recollections, second-hand family accounts, and arguments about what witnesses remembered decades after the event. The memo is different: it is embedded in a contemporary press photograph, physically linked to Ramey’s office, the debris display, and the official pivot from “flying disc” to balloon. That makes it unusually attractive to people looking for evidence that is closer to 1947 than to later UFO culture.
 
@@ -460,13 +460,13 @@ This provenance is the heart of the believer focus. Much of Roswell’s later my
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-Illustration-1-dark.svg" | relative_url }}" alt="Believer Focus illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scarcity of 1947 Sources
 
-The memo became important partly because there are so few known Roswell records from 1947. The GAO reported in 1995 that its search yielded only two records originating in 1947: a July 1947 history report by the combined 509th Bomb Group and Roswell Army Air Field, and an FBI teletype dated 8 July 1947. The same report noted that some Roswell Army Air Field administrative records and outgoing messages for the relevant period had been destroyed, without a clear indication of when, by whom, or under what authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+The memo became important partly because there are so few known Roswell records from 1947. The GAO reported in 1995 that its search yielded only two records originating in 1947: a July 1947 history report by the combined 509th Bomb Group and Roswell Army Air Field, and an FBI teletype dated 8 July 1947. The same report noted that some Roswell Army Air Field administrative records and outgoing messages for the relevant period had been destroyed, without a clear indication of when, by whom, or under what authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
-That scarcity changes the psychology of the debate. If there were a thick archive of daily orders, message traffic, transportation records, photographs, and laboratory reports, a blurred memo in one photograph would be less central. Instead, the surviving record is patchy. The FBI teletype described an object reported to resemble a high-altitude weather balloon with a radar reflector, and the 509th-RAAF history said the “flying disc” turned out to be a radar-tracking balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+That scarcity changes the psychology of the debate. If there were a thick archive of daily orders, message traffic, transportation records, photographs, and laboratory reports, a blurred memo in one photograph would be less central. Instead, the surviving record is patchy. The FBI teletype described an object reported to resemble a high-altitude weather balloon with a radar reflector, and the 509th-RAAF history said the “flying disc” turned out to be a radar-tracking balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 For sceptics, that surviving record supports a conventional explanation. For believers, the same thinness leaves room for a different question: what if the public explanation and the internal communications were not the same? The Ramey memo becomes a target because it might, in principle, preserve the language of an internal message from the very day the public account was being managed.
 
-The memo also appeals because it is not a free-floating alleged document with weak provenance. UTA Magazine described it as a particular point of interest for ufologists and noted that Kevin Randle offered a reward to anyone who could definitively decipher the obscured words in Ramey’s hand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-title">The Ramey Memo &#124; UTA Magazine</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA Magazine</span></span></span> The reward is telling: believers do not merely want another interpretive claim. They want a reading strong enough to move the memo from suggestive artefact to usable evidence.
+The memo also appeals because it is not a free-floating alleged document with weak provenance. UTA Magazine described it as a particular point of interest for ufologists and noted that Kevin Randle offered a reward to anyone who could definitively decipher the obscured words in Ramey’s hand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-title">The Ramey Memo &#124; UTA Magazine</span><span class="citation-popover-snippet">The Ramey Memo &#124; UTA Magazine</span></span></span> The reward is telling: believers do not merely want another interpretive claim. They want a reading strong enough to move the memo from suggestive artefact to usable evidence.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Es4AGX8Y_sw" title="The Roswell Coverup 75 Years Later (Full Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Es4AGX8Y_sw" target="_blank" rel="noopener noreferrer">The Roswell Coverup 75 Years Later (Full Documentary)</a></p><p class="youtube-embed-meta">Channel: UNIDENTIFIED &middot; Views: 768.3K &middot; Uploaded: April 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Es4AGX8Y_sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Es4AGX8Y_sw">Open on YouTube</a></p></div></div></div>
@@ -475,11 +475,11 @@ The memo also appeals because it is not a free-floating alleged document with we
 
 The phrase that made the memo famous is the alleged reading “victims of the wreck”, or similar variants. Believers focus on it because it would be highly disruptive if verified. Balloons can have debris, targets, lines, sticks, foil, rubber and [radar reflectors]({{ 'radar-reflectors/' | relative_url }}); they do not normally have “victims”. A secure reading of that phrase would therefore be treated as a direct contradiction of the official balloon explanation.
 
-That is the memo’s “contradiction value”: it is not important because every word would need to prove an extraterrestrial craft. It would be important because one or two words, in the right place, could undermine the claim that officials were only dealing with an inert balloon device. David Rudiak’s pro-UFO interpretation emphasises this point, arguing that “victims of the wreck” would point away from both the 1947 weather-balloon explanation and later Project Mogul explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellproof.com/critical_phrases.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellproof.com">[Roswell Proof]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellproof.com</span><span class="citation-popover-title">Roswell Proof Critical_Phrases</span><span class="citation-popover-snippet">Roswell Proof Critical_Phrases</span></span></span>
+That is the memo’s “contradiction value”: it is not important because every word would need to prove an extraterrestrial craft. It would be important because one or two words, in the right place, could undermine the claim that officials were only dealing with an inert balloon device. David Rudiak’s pro-UFO interpretation emphasises this point, arguing that “victims of the wreck” would point away from both the 1947 weather-balloon explanation and later Project Mogul explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellproof.com/critical_phrases.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellproof.com">[Roswell Proof]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellproof.com</span><span class="citation-popover-title">Roswell Proof Critical_Phrases</span><span class="citation-popover-snippet">Roswell Proof Critical_Phrases</span></span></span>
 
 The appeal is sharpened by the setting of the photograph. Ramey was not photographed in a neutral archive room years later; he was photographed beside debris being shown to reporters as the explanation for Roswell. If the paper in his hand referred to bodies, victims, a crash, or a disc in a non-trivial way, believers argue that it would suggest a split between the display staged for public consumption and the information circulating privately.
 
-Yet this is exactly where the evidence becomes fragile. The strongest pro-memo argument depends on disputed image interpretation, not on possession of the original paper. The original memo itself is not available; researchers are trying to recover text from a tiny area of a photograph. Houran and Randle’s 2002 study described the paper as showing marks that might be words, and noted that investigators considered it potentially significant because so few known documents relate to the case. But it also recorded the early difficulty: Richard Haines, asked to examine the image in 1991, could see vague words but could not make out individual letters in a useful way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Yet this is exactly where the evidence becomes fragile. The strongest pro-memo argument depends on disputed image interpretation, not on possession of the original paper. The original memo itself is not available; researchers are trying to recover text from a tiny area of a photograph. Houran and Randle’s 2002 study described the paper as showing marks that might be words, and noted that investigators considered it potentially significant because so few known documents relate to the case. But it also recorded the early difficulty: Richard Haines, asked to examine the image in 1991, could see vague words but could not make out individual letters in a useful way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 ## Why Believers Prefer the Memo to Later Testimony
 
@@ -487,7 +487,7 @@ The Ramey memo attracts believers who are frustrated by the weaknesses of late R
 
 This does not make the memo readable. It does explain why it feels different. A late claim about alien bodies asks the reader to trust memory, transmission, and interpretation. The memo asks a narrower question: can the photographic record itself preserve enough detail to recover a line of text? That makes it attractive to researchers who want Roswell to move from folklore and witness debate towards empirical testing.
 
-Randle’s later “grounded theory” update makes this dynamic explicit. It says the Roswell controversy has centred on the identification of the recovered debris rather than whether something was found, and it describes two areas where empirical progress might still be possible: clarifying Project Mogul details and making new efforts to read the Ramey memo from higher-quality scans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+Randle’s later “grounded theory” update makes this dynamic explicit. It says the Roswell controversy has centred on the identification of the recovered debris rather than whether something was found, and it describes two areas where empirical progress might still be possible: clarifying Project Mogul details and making new efforts to read the Ramey memo from higher-quality scans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
 For believers, this offers a more disciplined route than simply accumulating anecdotes. The memo can be scanned, enlarged, compared, processed and debated. Its limits can be tested. Researchers can ask whether the visible marks line up with teletype spacing, military message conventions, newspaper copy, or random photographic noise. That makes the memo feel like a solvable problem, even if decades of attempts show how hard the problem is.
 
@@ -504,7 +504,7 @@ That uncertainty creates several mechanisms that keep the memo alive:
 * **It keeps the stakes high.** Because even a few words could change the interpretation of Roswell, believers keep returning to the same tiny image area.
 * **It appears technically improvable.** New scans, high dynamic range imaging, microscopy and digital enhancement create hope that the next method may extract more information than the last.
 
-Houran and Randle warned about this exact problem. Their study argued that earlier approaches were vulnerable to significant interpretive errors, especially when researchers used Roswell context to guide word reconstruction. They noted that changing the assumed context could change the letters and words perceived on the document, and that only a few ambiguous words remained after attempts to control for context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Houran and Randle warned about this exact problem. Their study argued that earlier approaches were vulnerable to significant interpretive errors, especially when researchers used Roswell context to guide word reconstruction. They noted that changing the assumed context could change the letters and words perceived on the document, and that only a few ambiguous words remained after attempts to control for context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 This is why the memo has become both a believer focus and a cautionary example. It feels like hard evidence because it is anchored to a real photograph and original negatives. It behaves like soft evidence because the words are not independently recoverable with consensus. The debate persists because both facts are true.
 
@@ -513,11 +513,11 @@ This is why the memo has become both a believer focus and a cautionary example. 
 
 ## The Memo as a Test of the Official Story
 
-Believers often use the memo as a pressure point against the official account rather than as a standalone proof of extraterrestrials. The official record says the Roswell object was ultimately identified as a radar-tracking balloon or, in later Air Force work, likely linked to Project Mogul, a classified balloon-borne programme intended to detect Soviet nuclear activity. The GAO reported that the Air Force did not dispute that something happened near Roswell but identified the most likely source as a balloon-launched classified government project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
+Believers often use the memo as a pressure point against the official account rather than as a standalone proof of extraterrestrials. The official record says the Roswell object was ultimately identified as a radar-tracking balloon or, in later Air Force work, likely linked to Project Mogul, a classified balloon-borne programme intended to detect Soviet nuclear activity. The GAO reported that the Air Force did not dispute that something happened near Roswell but identified the most likely source as a balloon-launched classified government project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</span></span></span>
 
 The memo’s role is to test whether officials in Ramey’s office were using language consistent with that explanation. A message about debris, balloons, radar targets, shipment to Wright Field, or press handling would fit a conventional account. A message about victims, bodies, a wreck, or a disc in a context inconsistent with public statements would not.
 
-This is also why sceptical critiques matter. Barry Greenwood, writing in a Journal of Scientific Exploration review, noted that the paper is at the edge of resolution, that many conflicting attempts have been made to decipher it, and that the “victims” reading is not assured or supported by consensus. He also pointed to the possibility that the paper may have been a teletype newswire rather than an internal military memo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/201/144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">JS E_24_2_book_reviews</span><span class="citation-popover-snippet">JS E_24_2_book_reviews</span></span></span>
+This is also why sceptical critiques matter. Barry Greenwood, writing in a Journal of Scientific Exploration review, noted that the paper is at the edge of resolution, that many conflicting attempts have been made to decipher it, and that the “victims” reading is not assured or supported by consensus. He also pointed to the possibility that the paper may have been a teletype newswire rather than an internal military memo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/201/144" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">JS E_24_2_book_reviews</span><span class="citation-popover-snippet">JS E_24_2_book_reviews</span></span></span>
 
 That possibility does not remove the memo from the debate; it explains why the debate is so stubborn. If the paper were a civilian newswire handed to or brought into Ramey’s office, then Roswell-related words on it would not necessarily reveal military secrets. If it were an internal military message, then its wording would carry more weight. Believers focus on the memo because the document type itself is part of the mystery.
 
@@ -525,13 +525,13 @@ That possibility does not remove the memo from the debate; it explains why the d
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-Illustration-3-dark.svg" | relative_url }}" alt="Believer Focus illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Better Imaging Has Not Settled It
 
-Modern imaging has intensified interest rather than ending the dispute. Later work described direct inspection and re-recording of the original negative under controlled conditions at the University of Texas at Arlington, with aims including assessing the condition of the negative, distinguishing image density from film fog, identifying recurring characters, and determining what details were candidates for enhancement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+Modern imaging has intensified interest rather than ending the dispute. Later work described direct inspection and re-recording of the original negative under controlled conditions at the University of Texas at Arlington, with aims including assessing the condition of the negative, distinguishing image density from film fog, identifying recurring characters, and determining what details were candidates for enhancement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
-The same later account described the negatives as relatively well preserved, with the memo area in focus, but identified scale as the central problem: the message area was extremely small in relation to the full negative, and the task depended on whether individual letter forms could be separated from film grain and other visual noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+The same later account described the negatives as relatively well preserved, with the memo area in focus, but identified scale as the central problem: the message area was extremely small in relation to the full negative, and the task depended on whether individual letter forms could be separated from film grain and other visual noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
 This helps explain the memo’s continuing hold on believers. The obstacle is not simply that the photograph is “bad”. It is that the evidence sits near the physical limits of what the image captured. That makes each technical improvement feel promising while still leaving room for disagreement. High-resolution scans can reveal more structure, but they can also reveal more grain, scratches, processing artefacts and ambiguous shapes.
 
-Houran and Randle proposed a more rigorous path: blind analysis by multiple qualified laboratories, using consistent protocols, followed by checks for agreement on specific words in specific locations. They also suggested control experiments using the same type of camera and known military messages photographed from comparable distances and angles. Their conclusion was careful: parts of the document might be readable, but there is no substitute for the original memo or a good verifiable copy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Houran and Randle proposed a more rigorous path: blind analysis by multiple qualified laboratories, using consistent protocols, followed by checks for agreement on specific words in specific locations. They also suggested control experiments using the same type of camera and known military messages photographed from comparable distances and angles. Their conclusion was careful: parts of the document might be readable, but there is no substitute for the original memo or a good verifiable copy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z8VQwxF8gRQ" title="The Ramey Memo: Best Roswell Cover-Up Evidence ever Found" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer">The Ramey Memo: Best Roswell Cover-Up Evidence ever Found</a></p><p class="youtube-embed-meta">Channel: AlienScientist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z8VQwxF8gRQ">Open on YouTube</a></p></div></div></div>
@@ -545,194 +545,194 @@ Its power comes from scarcity and timing. The known 1947 documentary record is l
 But the same features also define its limits. The memo is not an intact document; it is a tiny photographed surface at the edge of [legibility]({{ 'legibility/' | relative_url }}). The most consequential readings depend on interpretation, and competing readings have not converged. That is why the Ramey memo remains important to believers not as settled proof, but as a rare 1947 artefact that seems close enough to the centre of the Roswell story to keep promising more than it can yet securely deliver.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why This Tiny Paper Became So Important. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why This Tiny Paper Became So Important. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Discusses the significance of surviving evidence and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the significance of surviving evidence and testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines competing interpretations of Roswell evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines competing interpretations of Roswell evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for why documentary evidence matters in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why documentary evidence matters in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Explains why specific pieces of evidence became central to the Roswell story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why specific pieces of evidence became central to the Roswell story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift"><img src="{{ '/assets/images/marketplace-covers/30333d24ecb2927c2354.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Roswell Alien Desert Decor, UAP Cryptid Area 51 Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/af3ef30e0bec9f33d672.jpg' | relative_url }}" alt="Listing image for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/af3ef30e0bec9f33d672.jpg' | relative_url }}" alt="Listing image for Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Larry Elmore Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed."><img src="{{ '/assets/images/marketplace-covers/eafeb0918c2f681c8687.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash Majestic 12 Top Secret Doc. Wall Art small A4 Unframed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/342a781a77638df97461.jpg' | relative_url }}" alt="Listing image for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered"><img src="{{ '/assets/images/marketplace-covers/342a781a77638df97461.jpg' | relative_url }}" alt="Listing image for SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">SPECIAL LISTING- Lithograph ROSWELL: SURVIVOR - UFO Art Print Signed &amp; Numbered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO art print" data-ebay-reference="believer-focus-why-this-tiny-paper-became-so-important-roswell-ufo-ramey-memo-roswell-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -748,7 +748,7 @@ But the same features also define its limits. The memo is not an intact document
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -768,7 +768,7 @@ But the same features also define its limits. The memo is not an intact document
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -800,7 +800,7 @@ But the same features also define its limits. The memo is not an intact document
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -852,7 +852,7 @@ But the same features also define its limits. The memo is not an intact document
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -897,7 +897,7 @@ But the same features also define its limits. The memo is not an intact document
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -938,162 +938,162 @@ But the same features also define its limits. The memo is not an intact document
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Incident, July 1947 |...</p></details>
+   Link:<a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Incident, July 1947 |...</p></details>
    Published: July 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vault.fbi.gov  
    Title: — Federal Bureau of Investigation  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI — Federal Bureau of Investigation...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI — Federal Bureau of Investigation...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uta.edu  
    Title: The Ramey Memo | UTA Magazine  
-   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
+   Link:<a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journalofscientificexploration.org  
    Title: JS E_24_2_book_reviews  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/201/144" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/201/144</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/201/144" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/201/144</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sites.libraries.uta.edu  
    Title: ramey memo  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sites.libraries.uta.edu  
    Title: research team  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident/fulltext/63a499df097c7832ca5912b6/A-Grounded-Theory-Update-on-the-Roswell-UFO-Incident.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ramey-memo.com  
    Title: 7 SNAPSHOTS FOR ETERNITY  
-   Link: <a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
+   Link:<a href="https://www.ramey-memo.com/7-snapshots-for-eternity/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/7-snapshots-for-eternity/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: roswellproof.com  
    Title: Roswell Proof Critical_Phrases  
-   Link: <a href="https://www.roswellproof.com/critical_phrases.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/critical_phrases.html</a>  
+   Link:<a href="https://www.roswellproof.com/critical_phrases.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/critical_phrases.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: roswellproof.com  
-   Link: <a href="https://www.roswellproof.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/</a>  
+   Link:<a href="https://www.roswellproof.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: roswellproof.com  
-   Link: <a href="https://www.roswellproof.com/ramey_memo_compare.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/ramey_memo_compare.html</a>  
+   Link:<a href="https://www.roswellproof.com/ramey_memo_compare.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/ramey_memo_compare.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: roswellproof.com  
-   Link: <a href="https://www.roswellproof.com/Methods.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/Methods.html</a>  
+   Link:<a href="https://www.roswellproof.com/Methods.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/Methods.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: webarchive.nationalarchives.gov.uk  
-   Link: <a href="https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/4PTkDEJRzZo" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/4PTkDEJRzZo</a>  
+   Link:<a href="https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/4PTkDEJRzZo" target="_blank" rel="noopener noreferrer nofollow">https://webarchive.nationalarchives.gov.uk/video/UCMxYjfZsqLa8DanN0r2eNJw/4PTkDEJRzZo</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo: Best Roswell Cover-Up Evidence ever Found...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZRWruuXtZ6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZRWruuXtZ6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey Memo: Best Roswell Cover-Up Evidence ever Found...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Was Roswell Really a Secret Government Experiment?  
-   Link: <a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Mp7vDBvN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Coverup 75 Years Later (Full Documentary)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Mp7vDBvN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Coverup 75 Years Later (Full Documentary)...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Ramey Memo: Best Roswell Cover-Up Evidence ever Found  
-   Link: <a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Smoking Gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) Of Roswell The Ramey Memo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z8VQwxF8gRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z8VQwxF8gRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Smoking Gun](&amp;#123;&amp;#123; &#x27;smoking-gun/&#x27; | relative_url &amp;#125;&amp;#125;) Of Roswell The Ramey Memo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Roswell Coverup 75 Years Later (Full Documentary)  
-   Link: <a href="https://www.youtube.com/watch?v=Es4AGX8Y_sw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Es4AGX8Y_sw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ramey memo&quot; Roswell Ramey Memo Decoded by A.I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Es4AGX8Y_sw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Es4AGX8Y_sw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ramey memo&quot; Roswell Ramey Memo Decoded by A.I...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: deezer.com  
-   Link: <a href="https://www.deezer.com/en/show/451802" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/en/show/451802</a>  
+   Link:<a href="https://www.deezer.com/en/show/451802" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/en/show/451802</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  

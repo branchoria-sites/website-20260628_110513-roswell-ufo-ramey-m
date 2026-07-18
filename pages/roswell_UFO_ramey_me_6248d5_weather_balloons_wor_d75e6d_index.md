@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-weather/
 description: Focused pages that expand on Weather Words.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d
 parent_title: Weather Words
@@ -16,7 +16,7 @@ parent_permalink: /weather-words/
 
 # Explore Topics in Weather Words
 
-The following pages expand on the main **[Weather Words]({{ '/weather-words/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Weather Words]({{ '/weather-words/' | relative_url }})** page and cover its key branches in.
 
 - [Press Pivot]({{ '/press-pivot/' | relative_url }})
 - [Of Balloons]({{ '/of-balloons/' | relative_url }})

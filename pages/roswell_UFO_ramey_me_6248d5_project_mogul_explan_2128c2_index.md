@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-project/
 description: Focused pages that expand on Project Mogul.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2
 parent_title: Project Mogul
@@ -16,7 +16,7 @@ parent_permalink: /project-mogul/
 
 # Explore Topics in Project Mogul
 
-The following pages expand on the main **[Project Mogul]({{ '/project-mogul/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Project Mogul]({{ '/project-mogul/' | relative_url }})** page and cover its key branches in.
 
 - [FBI Teletype]({{ '/fbi-teletype-c010a1/' | relative_url }})
 - [Debris Match]({{ '/debris-match/' | relative_url }})

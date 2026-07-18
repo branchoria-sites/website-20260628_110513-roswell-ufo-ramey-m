@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-inter/
 description: Focused pages that expand on Reader Agreement.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309
 parent_title: Reader Agreement
@@ -16,7 +16,7 @@ parent_permalink: /reader-agreement/
 
 # Explore Topics in Reader Agreement
 
-The following pages expand on the main **[Reader Agreement]({{ '/reader-agreement/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Reader Agreement]({{ '/reader-agreement/' | relative_url }})** page and cover its key branches in.
 
 - [Expert Split]({{ '/expert-split/' | relative_url }})
 - [Reader Test]({{ '/reader-test/' | relative_url }})

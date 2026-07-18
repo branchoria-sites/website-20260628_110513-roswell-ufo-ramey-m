@@ -280,7 +280,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_je
 
 ## Introduction
 
-Major Jesse A. Marcel became the pivotal human figure in the Fort Worth correction of the Roswell incident because he physically connected the reported recovery in New Mexico with the Army Air Forces' revised public explanation in Texas. As the intelligence officer from Roswell Army Air Field (RAAF) who investigated rancher W. W. "Mac" Brazel's debris field and accompanied the recovered material to Fort Worth, Marcel appeared in the now-famous photographs taken on 8 July 1947 beside debris that Brigadier General Roger M. [Ramey]({{ 'ramey/' | relative_url }}) identified as the remains of a balloon-borne radar target rather than a "flying disc." Those photographs were intended to demonstrate that the Roswell announcement had been a mistake. Yet Marcel's public statements from 1978 onwards fundamentally altered how those images were interpreted. By insisting that the material displayed in Fort Worth was not what he had originally recovered, Marcel transformed a routine military press event into one of the central points of dispute in Roswell history. His role is therefore significant not because he merely appeared in the photographs, but because his later recollections directly challenged what the photographs were intended to communicate. DAF History+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+Major Jesse A. Marcel became the pivotal human figure in the Fort Worth correction of the Roswell incident because he physically connected the reported recovery in New Mexico with the Army Air Forces' revised public explanation in Texas. As the intelligence officer from Roswell Army Air Field (RAAF) who investigated rancher W. W. "Mac" Brazel's debris field and accompanied the recovered material to Fort Worth, Marcel appeared in the now-famous photographs taken on 8 July 1947 beside debris that Brigadier General Roger M. [Ramey]({{ 'ramey/' | relative_url }}) identified as the remains of a balloon-borne radar target rather than a "flying disc." Those photographs were intended to demonstrate that the Roswell announcement had been a mistake. Yet Marcel's public statements from 1978 onwards fundamentally altered how those images were interpreted. By insisting that the material displayed in Fort Worth was not what he had originally recovered, Marcel transformed a routine military press event into one of the central points of dispute in Roswell history. His role is therefore significant not because he merely appeared in the photographs, but because his later recollections directly challenged what the photographs were intended to communicate. DAF History+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_jesse_marcel_role_af3c3f-Illustration-1-dark.svg" | relative_url }}" alt="Marcel illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_jesse_marcel_role_af3c3f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_jesse_marcel_role_af3c3f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Major Jesse A. Marcel became the pivotal human figure in the Fort Worth correcti
 
 By July 1947 Marcel was the intelligence officer (S-2) for the 509th Bomb Group at Roswell Army Air Field, one of the United States' most prestigious military units following its role in the atomic bomb missions during the Second World War. When Sheriff George Wilcox informed the base that rancher Mac Brazel had discovered unusual debris northwest of Roswell, Marcel was assigned to investigate alongside Counter Intelligence Corps officer Sheridan Cavitt.
 
-[Contemporary records]({{ '1947-records/' | relative_url }}) consistently place Marcel at the recovery site. He examined the scattered debris, assisted in collecting it, and reported his findings to Colonel William Blanchard, commander of Roswell Army Air Field. The base's now-famous press release announcing that personnel had recovered a "flying disc" specifically identified Marcel as the officer involved in the recovery. He subsequently accompanied the recovered material on its flight from Roswell to Fort Worth Army Air Field, where Brigadier General Roger Ramey, commander of the Eighth Air Force, assumed control of the public explanation. DAF History+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+[Contemporary records]({{ '1947-records/' | relative_url }}) consistently place Marcel at the recovery site. He examined the scattered debris, assisted in collecting it, and reported his findings to Colonel William Blanchard, commander of Roswell Army Air Field. The base's now-famous press release announcing that personnel had recovered a "flying disc" specifically identified Marcel as the officer involved in the recovery. He subsequently accompanied the recovered material on its flight from Roswell to Fort Worth Army Air Field, where Brigadier General Roger Ramey, commander of the Eighth Air Force, assumed control of the public explanation. DAF History+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 This sequence made Marcel indispensable to the official correction. Unlike officers who encountered the debris only in Fort Worth, Marcel had first-hand knowledge of the collection process in New Mexico. His presence implicitly assured reporters that the same officer who recovered the material was confirming the Army's revised explanation.
 
@@ -298,9 +298,9 @@ The Fort Worth press session served a practical public-relations purpose. Only h
 
 Marcel's role within that presentation was subtle but important. He was not the senior spokesman—Ramey filled that role—but he functioned as the recovery officer whose participation suggested continuity between the New Mexico recovery and the Texas explanation.
 
-The surviving photographs show Marcel kneeling beside crumpled foil, broken wooden sticks and fragments of rubber while handling pieces of the debris for photographers. Other photographs show Ramey and Colonel Thomas J. DuBose with the same material. The University of Texas at Arlington's Roswell Photograph Collection, which preserves the original Fort Worth Star-Telegram [negatives]({{ 'negatives/' | relative_url }}) taken by photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}), identifies Marcel in multiple images and documents the photographs as originating during the official Fort Worth demonstration on 8 July 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Weather balloon demonstration...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+The surviving photographs show Marcel kneeling beside crumpled foil, broken wooden sticks and fragments of rubber while handling pieces of the debris for photographers. Other photographs show Ramey and Colonel Thomas J. DuBose with the same material. The University of Texas at Arlington's Roswell Photograph Collection, which preserves the original Fort Worth Star-Telegram [negatives]({{ 'negatives/' | relative_url }}) taken by photographer J. Bond [Johnson]({{ 'johnson/' | relative_url }}), identifies Marcel in multiple images and documents the photographs as originating during the official Fort Worth demonstration on 8 July 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Weather balloon demonstration...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
-From the perspective of journalists present in 1947, Marcel's appearance strengthened the credibility of the correction. There is no evidence that contemporary reporters viewed him as contradicting Ramey's explanation. Newspaper coverage instead treated him as one of the officers involved in recovering what the military now described as balloon wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
+From the perspective of journalists present in 1947, Marcel's appearance strengthened the credibility of the correction. There is no evidence that contemporary reporters viewed him as contradicting Ramey's explanation. Newspaper coverage instead treated him as one of the officers involved in recovering what the military now described as balloon wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YadmGZcvgr8" title="Roswell Reports, Vol. 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer">Roswell Reports, Vol. 6</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 356.7K &middot; Uploaded: December 2009 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YadmGZcvgr8">Open on YouTube</a></p></div></div></div>
@@ -309,7 +309,7 @@ From the perspective of journalists present in 1947, Marcel's appearance strengt
 
 An important feature of the Fort Worth correction is that Marcel himself made remarks consistent with the official account during the press event.
 
-Newspaper reports quoted Marcel describing the search for additional debris and discussing the recovered material without publicly disputing the balloon explanation. One frequently cited quotation attributed to him explained that personnel had spent several hours searching for further fragments and had found additional pieces of foil and rubber. Nothing reported from the press conference suggested that Marcel attempted to correct General Ramey or indicate that the displayed debris differed from what he had collected in New Mexico. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+Newspaper reports quoted Marcel describing the search for additional debris and discussing the recovered material without publicly disputing the balloon explanation. One frequently cited quotation attributed to him explained that personnel had spent several hours searching for further fragments and had found additional pieces of foil and rubber. Nothing reported from the press conference suggested that Marcel attempted to correct General Ramey or indicate that the displayed debris differed from what he had collected in New Mexico.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 Whether these remarks reflected Marcel's genuine opinion or military discipline has become one of the central historical questions. The documentary record from July 1947 shows only public agreement with the official explanation. Assertions that Marcel privately disagreed emerge decades later through retrospective interviews rather than contemporary documents.
 
@@ -321,11 +321,11 @@ That distinction matters because historians generally assign greater evidential 
 
 The Roswell incident attracted little public attention for roughly three decades. Marcel became central to its revival after being interviewed by nuclear physicist and UFO researcher Stanton Friedman in 1978.
 
-During those interviews and subsequent media appearances, Marcel argued that the debris photographed in Fort Worth was not the same material he had recovered near Roswell. He described the original debris as unusually light, extremely strong, and unlike conventional balloon materials. He also claimed that the military had substituted ordinary balloon wreckage for the press demonstration in General Ramey's office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
+During those interviews and subsequent media appearances, Marcel argued that the debris photographed in Fort Worth was not the same material he had recovered near Roswell. He described the original debris as unusually light, extremely strong, and unlike conventional balloon materials. He also claimed that the military had substituted ordinary balloon wreckage for the press demonstration in General Ramey's office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jesse Marcel</span><span class="citation-popover-snippet">Jesse Marcel</span></span></span>
 
 These interviews dramatically altered Marcel's historical importance. Instead of being remembered simply as the recovery officer shown in famous photographs, he became the principal eyewitness supporting the allegation that the Fort Worth correction itself had been staged.
 
-His claims formed the backbone of Charles Berlitz and William L. Moore's influential 1980 book *The Roswell Incident*, which introduced Roswell to a mass audience and established Marcel as the key witness arguing that the official explanation concealed something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+His claims formed the backbone of Charles Berlitz and William L. Moore's influential 1980 book *The Roswell Incident*, which introduced Roswell to a mass audience and established Marcel as the key witness arguing that the official explanation concealed something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
@@ -336,7 +336,7 @@ Marcel's later testimony fundamentally changed how researchers interpreted the F
 
 For supporters of Marcel's later account, the photographs document an intentional [substitution]({{ 'substitution/' | relative_url }}). Under this interpretation, the debris displayed on Ramey's office floor consisted of ordinary balloon material brought in specifically for the press while the genuinely unusual debris was removed elsewhere. Marcel's appearance in the photographs is therefore interpreted as evidence that he was required to participate in an official [cover story]({{ 'cover-story/' | relative_url }}) despite knowing that the displayed material was different.
 
-Critics of this interpretation point to several practical difficulties. Multiple photographs taken during the same session consistently depict the same debris arranged in similar positions before different officers. There is no contemporary documentation describing an exchange of material during the press conference, and the surviving photographic sequence shows continuity across the session rather than obvious evidence of substitution. These objections have led sceptical historians to argue that Marcel's recollections, although sincerely expressed decades later, conflict with the contemporaneous photographic record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+Critics of this interpretation point to several practical difficulties. Multiple photographs taken during the same session consistently depict the same debris arranged in similar positions before different officers. There is no contemporary documentation describing an exchange of material during the press conference, and the surviving photographic sequence shows continuity across the session rather than obvious evidence of substitution. These objections have led sceptical historians to argue that Marcel's recollections, although sincerely expressed decades later, conflict with the contemporaneous photographic record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 The disagreement illustrates why Marcel's role remains so controversial. The dispute is not over whether he attended the Fort Worth correction—that is firmly established—but over whether the photographs depict the actual recovered debris.
 
@@ -348,15 +348,15 @@ Marcel's later statements significantly influenced interpretation of the dispute
 
 Researchers who believe Marcel's substitution claim often argue that the memo may preserve textual evidence inconsistent with the balloon explanation. In this reading, Marcel's testimony provides contextual support for attempts to decipher phrases in the memo that allegedly refer to more significant events.
 
-Conversely, historians and researchers who reject Marcel's substitution account generally view the memo within the broader context of the documented balloon explanation and caution that attempts to recover text from the small photograph remain highly uncertain because of image quality and methodological limitations. The debate over the memo therefore depends in part upon whether Marcel's retrospective testimony is considered sufficiently reliable to reinterpret the Fort Worth press session itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Submitted... Ramey Memo photographed in General Roger Ramey&#x27;s office on 8 July 1947.Read more...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+Conversely, historians and researchers who reject Marcel's substitution account generally view the memo within the broader context of the documented balloon explanation and caution that attempts to recover text from the small photograph remain highly uncertain because of image quality and methodological limitations. The debate over the memo therefore depends in part upon whether Marcel's retrospective testimony is considered sufficiently reliable to reinterpret the Fort Worth press session itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Submitted... Ramey Memo photographed in General Roger Ramey&#x27;s office on 8 July 1947.Read more...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 ## How official investigations assessed Marcel's claims
 
 Official investigations conducted decades later acknowledged Marcel's central role while reaching different conclusions from his own.
 
-The 1994 United States Air Force report concluded that the recovered material most likely originated from the classified [Project Mogul]({{ 'project-mogul/' | relative_url }}) balloon programme rather than an extraterrestrial craft. The report recognised Marcel's participation in the recovery but argued that neither he nor other personnel would necessarily have recognised components of the then-secret balloon arrays. The larger 1995 *Roswell Report: Fact versus Fiction in the New Mexico Desert* expanded this explanation by linking the debris to a lost Mogul balloon train and addressing many of the later witness claims individually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — what was originally reported to have been recovered was a bal...</span></span></span>
+The 1994 United States Air Force report concluded that the recovered material most likely originated from the classified [Project Mogul]({{ 'project-mogul/' | relative_url }}) balloon programme rather than an extraterrestrial craft. The report recognised Marcel's participation in the recovery but argued that neither he nor other personnel would necessarily have recognised components of the then-secret balloon arrays. The larger 1995 *Roswell Report: Fact versus Fiction in the New Mexico Desert* expanded this explanation by linking the debris to a lost Mogul balloon train and addressing many of the later witness claims individually.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — what was originally reported to have been recovered was a bal...</span></span></span>
 
-Similarly, the Government Accountability Office's investigation confirmed the historical sequence whereby Roswell Army Air Field announced recovery of a "flying disc" before the Eighth Air Force in Fort Worth publicly corrected the story to a balloon explanation. The GAO investigation did not validate claims that the Fort Worth photographs showed substituted debris but instead focused on the documentary record surrounding the military's handling of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
+Similarly, the Government Accountability Office's investigation confirmed the historical sequence whereby Roswell Army Air Field announced recovery of a "flying disc" before the Eighth Air Force in Fort Worth publicly corrected the story to a balloon explanation. The GAO investigation did not validate claims that the Fort Worth photographs showed substituted debris but instead focused on the documentary record surrounding the military's handling of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EcJawLB-FR8" title="After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer">After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx</a></p><p class="youtube-embed-meta">Channel: SciWorx</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EcJawLB-FR8">Open on YouTube</a></p></div></div></div>
@@ -368,194 +368,194 @@ Jesse Marcel remains indispensable to understanding the Fort Worth correction be
 That combination of roles ensures that Marcel cannot be treated merely as another witness. His contemporaneous participation gave legitimacy to the Fort Worth correction in 1947, while his retrospective testimony became one of the principal reasons that the correction itself came under sustained historical scrutiny after 1978. Whether one accepts or rejects Marcel's later account, the controversy surrounding the Fort Worth photographs—and by extension the continuing debate over the Ramey memo—cannot be understood without recognising how the same individual came to symbolise both the original military explanation and its most influential subsequent challenge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Jesse Marcel&#x27;s Photo Role Became So Contested. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Jesse Marcel&#x27;s Photo Role Became So Contested. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Critically evaluates witness testimony, including Marcel&#x27;s changing statements and the Fort Worth episode.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Critically evaluates witness testimony, including Marcel&#x27;s changing statements and the Fort Worth episode.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Explores how Marcel&#x27;s story and the famous photographs evolved into a contested historical narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how Marcel&#x27;s story and the famous photographs evolved into a contested historical narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduced and popularized Jesse Marcel&#x27;s later account, making it foundational for understanding why his role became disputed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced and popularized Jesse Marcel&#x27;s later account, making it foundational for understanding why his role became disputed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner</p>
         
-        <p class="fr-book-desc">Provides detailed discussion of Marcel&#x27;s recollections and their significance to the Roswell narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides detailed discussion of Marcel&#x27;s recollections and their significance to the Roswell narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/c9a3183cb594c9a2e6fc.jpg' | relative_url }}" alt="Listing image for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/c9a3183cb594c9a2e6fc.jpg' | relative_url }}" alt="Listing image for Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/1d6acef4941644a67f93.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/1d6acef4941644a67f93.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell alien collectible" data-ebay-reference="marcel-f35fa3-why-jesse-marcel-s-photo-role-became-so-contested-roswell-ufo-ramey-memo-roswell-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That combination of roles ensures that Marcel cannot be treated merely as anothe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That combination of roles ensures that Marcel cannot be treated merely as anothe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That combination of roles ensures that Marcel cannot be treated merely as anothe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That combination of roles ensures that Marcel cannot be treated merely as anothe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That combination of roles ensures that Marcel cannot be treated merely as anothe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,147 +761,147 @@ That combination of roles ensures that Marcel cannot be treated merely as anothe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/4" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Major Marcel with Roswell deb...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/4" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Major Marcel with Roswell deb...</p></details>
    Published: July 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Weather balloon demonstration...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/images" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/images</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel (looking right) of Houma, LA holding foil debris from Roswell, New Mexico UFO crash site, July 1947. Weather balloon demonstration...</p></details>
    Published: July 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentBrigadier General Thomas DuBose publicly described the claims of a weather balloon as a cover story in 1978 and 1991...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentBrigadier General Thomas DuBose publicly described the claims of a weather balloon as a cover story in 1978 and 1991...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submitted... Ramey Memo photographed in General Roger Ramey&#x27;s office on 8 July 1947.Read more...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submitted... Ramey Memo photographed in General Roger Ramey&#x27;s office on 8 July 1947.Read more...</p></details>
    Published: July 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — what was originally reported to have been recovered was a bal...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...27 Jul 1994 — what was originally reported to have been recovered was a bal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/3" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>balloon demonstration | Roswell UFO IncidentFive airmen demonstrate a radar device being attached to a weather balloon at Fort Worth Army...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/3" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>balloon demonstration | Roswell UFO IncidentFive airmen demonstrate a radar device being attached to a weather balloon at Fort Worth Army...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentMajor Jesse A. Marcel (looking right) of Houma, LA holding foil debris from...Read more...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO IncidentMajor Jesse A. Marcel (looking right) of Houma, LA holding foil debris from...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Fichier:Marcel roswell debris 0.jpg  
-   Link: <a href="https://fr.wikipedia.org/wiki/Fichier%3AMarcel-roswell-debris_0.jpg" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Fichier%3AMarcel-roswell-debris_0.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fichier:Marcel-roswell-debris 0.jpgDescriptionMarcel-roswell-debris 0.jpg. English: At Fort Worth Army Air Field, Major Jesse A. Marce...</p></details>
+   Link:<a href="https://fr.wikipedia.org/wiki/Fichier%3AMarcel-roswell-debris_0.jpg" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Fichier%3AMarcel-roswell-debris_0.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fichier:Marcel-roswell-debris 0.jpgDescriptionMarcel-roswell-debris 0.jpg. English: At Fort Worth Army Air Field, Major Jesse A. Marce...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Roswell Reports, Vol. 6  
-   Link: <a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YadmGZcvgr8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YadmGZcvgr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YadmGZcvgr8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After Disclosure: Dissecting Gen. &quot;Balloon Boy&quot; Ramey - Architect of the Roswell Cover Up | SciWorx...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: granger.com  
-   Link: <a href="https://granger.com/1056981-major-jesse-a-marcel-at-fort-worth-army-air-field-holding-p-image.html" target="_blank" rel="noopener noreferrer nofollow">https://granger.com/1056981-major-jesse-a-marcel-at-fort-worth-army-air-field-holding-p-image.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel at Fort Worth Army Air Field, holding...Major Jesse A. Marcel at Fort Worth Army Air Field, holding piece of foil lined material...</p></details>
+   Link:<a href="https://granger.com/1056981-major-jesse-a-marcel-at-fort-worth-army-air-field-holding-p-image.html" target="_blank" rel="noopener noreferrer nofollow">https://granger.com/1056981-major-jesse-a-marcel-at-fort-worth-army-air-field-holding-p-image.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcel at Fort Worth Army Air Field, holding...Major Jesse A. Marcel at Fort Worth Army Air Field, holding piece of foil lined material...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/jesse-marcel-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/jesse-marcel-roswell.html</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/jesse-marcel-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/jesse-marcel-roswell.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records13 Jul 2021 — General of the U.S. Eighth. Fort Worth, Texas, announced that RAAF personnel had recovered a crashed radar-tracking...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records13 Jul 2021 — General of the U.S. Eighth. Fort Worth, Texas, announced that RAAF personnel had recovered a crashed radar-tracking...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BoneyardSafari/posts/otd-maj-jesse-marcel-with-debris-at-fort-worth-army-airfield-roswell-new-mexico-/919192733573173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BoneyardSafari/posts/otd-maj-jesse-marcel-with-debris-at-fort-worth-army-airfield-roswell-new-mexico-/919192733573173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elated book publication &#x27;The Roswell Incident&#x27;, by Charles...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BoneyardSafari/posts/otd-maj-jesse-marcel-with-debris-at-fort-worth-army-airfield-roswell-new-mexico-/919192733573173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BoneyardSafari/posts/otd-maj-jesse-marcel-with-debris-at-fort-worth-army-airfield-roswell-new-mexico-/919192733573173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elated book publication &#x27;The Roswell Incident&#x27;, by Charles...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d on July 8, 1947 which had been recovered from Rosewell, NM.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/zx32ah/major_jesse_a_marcel_posing_with_extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d on July 8, 1947 which had been recovered from Rosewell, NM.Read more...</p></details>
    Published: July 8, 1947  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs of his family, along with former CIA operative Ben Smith.Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/roswell-the-first-witness/articles/jesse-marcel-roswell-s-first-witness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs of his family, along with former CIA operative Ben Smith.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>well Incident by Charles Berlitz and William L. Moore.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/l6lv51/jesse_marcel_stated_he_was_photographed_with_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>well Incident by Charles Berlitz and William L. Moore.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: After Disclosure: Dissecting Gen. "Balloon Boy" Ramey  
-   Link: <a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EcJawLB-FR8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EcJawLB-FR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EcJawLB-FR8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s Greatest Mysteries: ROSWELL SECRETS Revealed in Eyewitness Journal (Part 2)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: commons.wikimedia.org  
    Title: File:Marcel roswell debris 0.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMarcel-roswell-debris_0.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMarcel-roswell-debris_0.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Marcel-roswell-debris 0.jpgAt Fort Worth Army Air Field, Major Jesse A. Marcel (looking left) of Houma, LA - holding fo...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AMarcel-roswell-debris_0.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMarcel-roswell-debris_0.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Marcel-roswell-debris 0.jpgAt Fort Worth Army Air Field, Major Jesse A. Marcel (looking left) of Houma, LA - holding fo...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: This is the letter/text that Gen  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey had in hand during...This is the letter/text that Gen. Ramey had in hand during press briefing of the alleged crashed weather ball...</p></details>

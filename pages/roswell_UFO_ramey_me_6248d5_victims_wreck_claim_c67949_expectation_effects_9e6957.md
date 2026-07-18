@@ -274,15 +274,15 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_exp
 
 ## Introduction
 
-The [Ramey memo]({{ 'ramey-memo/' | relative_url }}) is a cautionary case in how blurred evidence can invite confident [readings]({{ 'readings/' | relative_url }}). The document appears in a 8 July 1947 photograph of Brigadier General Roger Ramey holding a message during the Fort Worth display of Roswell debris, but the visible text is small, folded, degraded and still not definitively deciphered. That makes it vulnerable to expectation effects: once a reader is primed to look for “victims of the wreck”, the marks on the page can begin to look more legible than they really are. The issue is not whether all readings are equally weak. Some words may be more plausible than others. The issue is that the most consequential phrases are being inferred from ambiguous visual data, in a dispute where the reader’s prior view of Roswell can strongly shape what seems obvious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Ramey&#x27;s hand has been closely scrutinized by researchers and UFO hobbyists and has yet to be definitively deciphered. The...</span></span></span>
+The [Ramey memo]({{ 'ramey-memo/' | relative_url }}) is a cautionary case in how blurred evidence can invite confident [readings]({{ 'readings/' | relative_url }}). The document appears in a 8 July 1947 photograph of Brigadier General Roger Ramey holding a message during the Fort Worth display of Roswell debris, but the visible text is small, folded, degraded and still not definitively deciphered. That makes it vulnerable to expectation effects: once a reader is primed to look for “victims of the wreck”, the marks on the page can begin to look more legible than they really are. The issue is not whether all readings are equally weak. Some words may be more plausible than others. The issue is that the most consequential phrases are being inferred from ambiguous visual data, in a dispute where the reader’s prior view of Roswell can strongly shape what seems obvious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Ramey&#x27;s hand has been closely scrutinized by researchers and UFO hobbyists and has yet to be definitively deciphered. The...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-1-dark.svg" | relative_url }}" alt="Expectation Effects illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Framing Can Guide Ambiguous Readings
 
-The Ramey memo sits at the worst possible intersection for neutral reading: a real historical image, a missing original document, and a claim with unusually high stakes. UTA Special Collections describes the memo as closely scrutinised but not definitively deciphered, which is a crucial restraint on the entire debate. The photograph’s [provenance]({{ 'provenance/' | relative_url }}) gives the object credibility; the poor [legibility]({{ 'legibility/' | relative_url }}) of the visible paper limits what can safely be extracted from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Ramey&#x27;s hand has been closely scrutinized by researchers and UFO hobbyists and has yet to be definitively deciphered. The...</span></span></span>
+The Ramey memo sits at the worst possible intersection for neutral reading: a real historical image, a missing original document, and a claim with unusually high stakes. UTA Special Collections describes the memo as closely scrutinised but not definitively deciphered, which is a crucial restraint on the entire debate. The photograph’s [provenance]({{ 'provenance/' | relative_url }}) gives the object credibility; the poor [legibility]({{ 'legibility/' | relative_url }}) of the visible paper limits what can safely be extracted from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Ramey&#x27;s hand has been closely scrutinized by researchers and UFO hobbyists and has yet to be definitively deciphered. The...</span></span></span>
 
-Expectation effects matter because human perception is not a camera-like recording of incoming data. In visual perception research, “top-down processing” refers to the way prior knowledge, context and expectations influence what people perceive, especially when the signal is incomplete or ambiguous. A modern review in *Teaching of Psychology* describes this as perception being shaped not only by incoming sensory information, but also by expectations and other higher-level influences. Neuroscience reviews similarly describe visual processing as dynamic, with top-down influences interacting with lower-level visual input. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0098628319853943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">In this article, I</span><span class="citation-popover-snippet">Sage JournalsNew Approaches and Debates on Top-Down Perceptual...13 Jun 2019 — Top-down processing, in contrast, occurs when people&#x27;s ex...</span></span></span>
+Expectation effects matter because human perception is not a camera-like recording of incoming data. In visual perception research, “top-down processing” refers to the way prior knowledge, context and expectations influence what people perceive, especially when the signal is incomplete or ambiguous. A modern review in *Teaching of Psychology* describes this as perception being shaped not only by incoming sensory information, but also by expectations and other higher-level influences. Neuroscience reviews similarly describe visual processing as dynamic, with top-down influences interacting with lower-level visual input.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0098628319853943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">In this article, I</span><span class="citation-popover-snippet">Sage JournalsNew Approaches and Debates on Top-Down Perceptual...13 Jun 2019 — Top-down processing, in contrast, occurs when people&#x27;s ex...</span></span></span>
 
 In the [Ramey]({{ 'ramey/' | relative_url }}) memo debate, the framing problem is unusually direct. Tell a reader that the memo may reveal a crashed craft and bodies, and the eye searches for words consistent with that scenario. Tell a reader it concerns mundane debris being explained to reporters, and different fragments may become salient. This does not require dishonesty. It is a normal feature of perception under uncertainty: the mind tries to make a coherent message from fragments, and the suggested story helps decide which fragments count.
 
@@ -291,19 +291,19 @@ In the [Ramey]({{ 'ramey/' | relative_url }}) memo debate, the framing problem i
 
 ## What Blind Reading Conditions Reveal
 
-The most relevant study for this specific mechanism is James Houran and Kevin Randle’s 2002 paper, “A Message in a Bottle: Confounds in Deciphering the Ramey Memo from the Roswell UFO Case”. The authors treated the memo as an ambiguous stimulus and tested whether suggestion affected what people reported seeing. Their abstract states the core problem plainly: earlier analyses had claimed the document supported a crashed extraterrestrial craft scenario, while critics argued that ambiguous marks were being interpreted according to expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</span></span></span>
+The most relevant study for this specific mechanism is James Houran and Kevin Randle’s 2002 paper, “A Message in a Bottle: Confounds in Deciphering the Ramey Memo from the Roswell UFO Case”. The authors treated the memo as an ambiguous stimulus and tested whether suggestion affected what people reported seeing. Their abstract states the core problem plainly: earlier analyses had claimed the document supported a crashed extraterrestrial craft scenario, while critics argued that ambiguous marks were being interpreted according to expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</span></span></span>
 
-The study found that suggestion conditions could influence reported readings, but it did not make the memo useless. Some words in the same locations were reportedly perceived across different suggestion groups and matched words found in earlier investigations. That is an important distinction. The best critique of expectation-led reading is not “nothing can be read”; it is “the most dramatic readings need stricter controls than enthusiastic visual inspection”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</span></span></span>
+The study found that suggestion conditions could influence reported readings, but it did not make the memo useless. Some words in the same locations were reportedly perceived across different suggestion groups and matched words found in earlier investigations. That is an important distinction. The best critique of expectation-led reading is not “nothing can be read”; it is “the most dramatic readings need stricter controls than enthusiastic visual inspection”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</span></span></span>
 
-The later Roswell literature shows why this remains contested. Kevin Randle’s 2022 “Grounded Theory Update” notes that attempts to decipher the Ramey memo have not produced definitive results capable of ruling out explanations, while also recording that advocates of stronger memo readings criticised the [Houran-Randle study]({{ 'suggestion-study/' | relative_url }}) on conceptual and statistical grounds. In other words, the study did not end the debate, but it did identify the right danger: if readers know the desired Roswell scenario before they inspect the image, their “decipherment” may partly measure expectation rather than text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
+The later Roswell literature shows why this remains contested. Kevin Randle’s 2022 “Grounded Theory Update” notes that attempts to decipher the Ramey memo have not produced definitive results capable of ruling out explanations, while also recording that advocates of stronger memo readings criticised the [Houran-Randle study]({{ 'suggestion-study/' | relative_url }}) on conceptual and statistical grounds. In other words, the study did not end the debate, but it did identify the right danger: if readers know the desired Roswell scenario before they inspect the image, their “decipherment” may partly measure expectation rather than text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">Research Gate A Grounded Theory Update on the Roswell UFO Incident</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-2-dark.svg" | relative_url }}" alt="Expectation Effects illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Confidence Is Not the Same as Legibility
 
-The phrase “victims of the wreck” is powerful because it appears to resolve the Roswell dispute in one line. If clearly present in a 1947 military message, it would be difficult to square with a simple debris explanation. But confidence in seeing that phrase is not the same as independent legibility. The UTA transcription page itself captures the problem: it notes that many people trying to read the memo are “100% sure” about a dramatic first-line reading, while closer examination raises doubts about what the marks actually support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</span></span></span>
+The phrase “victims of the wreck” is powerful because it appears to resolve the Roswell dispute in one line. If clearly present in a 1947 military message, it would be difficult to square with a simple debris explanation. But confidence in seeing that phrase is not the same as independent legibility. The UTA transcription page itself captures the problem: it notes that many people trying to read the memo are “100% sure” about a dramatic first-line reading, while closer examination raises doubts about what the marks actually support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UTA Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UTA LibrariesDeciphering the Ramey Memo &#124; Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</span></span></span>
 
-That difference between certainty and evidence is familiar from ambiguity research. Studies using ambiguous visual stimuli, such as figures that can be read differently depending on surrounding context, show that classification can be biased by contextual cues. A 2020 *Psychological Science* study using the classic “B or 13” ambiguity found that context influenced how participants classified the same uncertain stimulus. The parallel with the Ramey memo is not that the memo is a laboratory illusion, but that the same perceptual principle applies: when the visual evidence underdetermines the answer, context helps choose the reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0956797620915887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+That difference between certainty and evidence is familiar from ambiguity research. Studies using ambiguous visual stimuli, such as figures that can be read differently depending on surrounding context, show that classification can be biased by contextual cues. A 2020 *Psychological Science* study using the classic “B or 13” ambiguity found that context influenced how participants classified the same uncertain stimulus. The parallel with the Ramey memo is not that the memo is a laboratory illusion, but that the same perceptual principle applies: when the visual evidence underdetermines the answer, context helps choose the reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0956797620915887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 This is why a responsible reading of the memo should separate three claims:
 
@@ -326,7 +326,7 @@ Expectation effects become most dangerous when those levels collapse into one an
 
 ## The Best Use of the Ramey Memo Is Controlled Caution
 
-The Ramey memo should not be dismissed simply because expectation effects exist. Ambiguous evidence can still contain recoverable information. The Houran-Randle study itself allowed that future research might be informative if stronger methodological protocols were used. The practical lesson is that the memo needs blind or minimally cued reading conditions, competing hypotheses, independent image-processing standards and honest reporting of uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</span></span></span>
+The Ramey memo should not be dismissed simply because expectation effects exist. Ambiguous evidence can still contain recoverable information. The Houran-Randle study itself allowed that future research might be informative if stronger methodological protocols were used. The practical lesson is that the memo needs blind or minimally cued reading conditions, competing hypotheses, independent image-processing standards and honest reporting of uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</span></span></span>
 
 For the “victims of the wreck” claim, expectation effects lower the evidential weight of confident-looking reconstructions unless they can be reproduced by readers who are not primed with the desired wording. The claim remains interesting because the photograph is real, contemporary and potentially relevant to Roswell’s highest-stakes question. It remains unsafe as proof because the document is not independently legible enough to carry the burden placed on it. The blurred words invite certainty precisely because they sit where evidence, belief and [narrative]({{ 'narrative/' | relative_url }}) pressure meet.
 
@@ -334,194 +334,194 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-3-dark.svg" | relative_url }}" alt="Expectation Effects illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Blurred Words Invite Certainty. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Blurred Words Invite Certainty. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Directly explains how expectations and prior beliefs shape interpretation of ambiguous evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how expectations and prior beliefs shape interpretation of ambiguous evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explores perception errors, attention limits, and why confidence can exceed what evidence supports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores perception errors, attention limits, and why confidence can exceed what evidence supports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims and separating evidence from expectation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims and separating evidence from expectation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Examines confirmation bias and self-justification, key themes in disputed interpretations of unclear evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines confirmation bias and self-justification, key themes in disputed interpretations of unclear evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -series -television" data-ebay-reference="expectation-effects-why-blurred-words-invite-certainty-roswell-ufo-ramey-memo-ufo-art-print-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,151 +727,151 @@ For the “victims of the wreck” claim, expectation effects lower the evidenti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s hand has been closely scrutinized by researchers and UFO hobbyists and has yet to be definitively deciphered. The...</p></details>
+   Link:<a href="https://www.flickr.com/photos/spcouta/36080122212" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/spcouta/36080122212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramey&#x27;s hand has been closely scrutinized by researchers and UFO hobbyists and has yet to be definitively deciphered. The...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...We conclude therefore that future research of Ramey memo might be po- t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UTA LibrariesDeciphering the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
+   Link:<a href="https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/22" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/22</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sites.libraries.uta.edu  
    Title: research team  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
+   Link:<a href="https://sites.libraries.uta.edu/roswell/research-team" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/research-team</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/21884733_Lexical_ambiguity_semantic_context_and_visual_word_recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/21884733_Lexical_ambiguity_semantic_context_and_visual_word_recognition</a>  
+   Link:<a href="https://www.researchgate.net/publication/21884733_Lexical_ambiguity_semantic_context_and_visual_word_recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/21884733_Lexical_ambiguity_semantic_context_and_visual_word_recognition</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333778860_New_Approaches_and_Debates_on_Top-Down_Perceptual_Processing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333778860_New_Approaches_and_Debates_on_Top-Down_Perceptual_Processing</a>  
+   Link:<a href="https://www.researchgate.net/publication/333778860_New_Approaches_and_Debates_on_Top-Down_Perceptual_Processing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333778860_New_Approaches_and_Debates_on_Top-Down_Perceptual_Processing</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: In this article, I  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0098628319853943" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0098628319853943</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsNew Approaches and Debates on Top-Down Perceptual...13 Jun 2019 — Top-down processing, in contrast, occurs when people&#x27;s ex...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0098628319853943" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0098628319853943</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsNew Approaches and Debates on Top-Down Perceptual...13 Jun 2019 — Top-down processing, in contrast, occurs when people&#x27;s ex...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0956797620915887" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620915887</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0956797620915887" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620915887</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: digital.library.adelaide.edu.au  
-   Link: <a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
+   Link:<a href="https://digital.library.adelaide.edu.au/dspace/handle/2440/3334" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.adelaide.edu.au/dspace/handle/2440/3334</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03010066251355391" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03010066251355391</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03010066251355391" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03010066251355391</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/09567976241237737" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09567976241237737</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/09567976241237737" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09567976241237737</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20416695251350000" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20416695251350000</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20416695251350000" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20416695251350000</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03010066221114436" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03010066221114436</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03010066221114436" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03010066221114436</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/002383098703000103" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/002383098703000103</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/002383098703000103" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/002383098703000103</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00139165221107535" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00139165221107535</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00139165221107535" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00139165221107535</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/002383098803100101?download=true" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/002383098803100101?download=true</a>  
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/002383098803100101?download=true" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/002383098803100101?download=true</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211010217" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211010217</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03057356211010217" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211010217</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/09567976221121348" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/09567976221121348</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/09567976221121348" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/09567976221121348</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ideals.illinois.edu  
-   Link: <a href="https://www.ideals.illinois.edu/items/18142/bitstreams/64898/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/18142/bitstreams/64898/data.pdf</a>  
+   Link:<a href="https://www.ideals.illinois.edu/items/18142/bitstreams/64898/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/18142/bitstreams/64898/data.pdf</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: THE [SMOKING GUN](&#123;&#123; 'smoking-gun/' | relative_url &#125;&#125;) OF ROSWELL  
-   Link: <a href="http://www.youtube.com/watch?v=mWHPHHUi0x4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mWHPHHUi0x4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo &quot;James Houran&quot; XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo REL-MAR McConnell Media Company...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mWHPHHUi0x4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mWHPHHUi0x4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Ramey memo &quot;James Houran&quot; XZBN UFO Files - Kevin Randle Interviews - JAMES HOURAN - The Ramey Memo REL-MAR McConnell Media Company...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery  
-   Link: <a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SMOKING GUN OF ROSWELL - THE &quot;RAMEY MEMO&quot; (ANALYSIS BY DAVID RUDIAK) [2002 &amp; 2006 TV SEGMENTS]...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bGXwcHXicBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bGXwcHXicBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE SMOKING GUN OF ROSWELL - THE &quot;RAMEY MEMO&quot; (ANALYSIS BY DAVID RUDIAK) [2002 &amp; 2006 TV SEGMENTS]...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Kevin Randle Interviews  
-   Link: <a href="http://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bp106jUEyis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bp106jUEyis" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bp106jUEyis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cracking the Roswell UFO Smoking Gun: The Ramey Memo Mystery...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Roger Ramey Memo, with David Rudiak  
-   Link: <a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YdXwvdvr_Ps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YdXwvdvr_Ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle Interviews - DR. JAMES HOURAN - JSE, Ramey Memo, UFO Research...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: x.com  
-   Link: <a href="https://x.com/BrianRoemmele/status/1602386927159689216?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BrianRoemmele/status/1602386927159689216?lang=en</a>  
+   Link:<a href="https://x.com/BrianRoemmele/status/1602386927159689216?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BrianRoemmele/status/1602386927159689216?lang=en</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/18bciar/is_the_ramey_memo_analysis_accurate/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/786925054710392/posts/25843680185274866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/786925054710392/posts/25843680185274866/</a>  
+   Link:<a href="https://www.facebook.com/groups/786925054710392/posts/25843680185274866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/786925054710392/posts/25843680185274866/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+   Link:<a href="https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144097753/Rameys_Memo_An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: roswellproof.com  
-   Link: <a href="https://www.roswellproof.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/</a>  
+   Link:<a href="https://www.roswellproof.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellproof.com/</a>  

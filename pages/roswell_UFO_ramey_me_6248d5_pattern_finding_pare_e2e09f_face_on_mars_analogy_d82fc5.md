@@ -280,24 +280,24 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_fa
 
 ## Introduction
 
-The “Face on Mars” is one of the clearest public examples of why ambiguous visual evidence can appear highly persuasive and then lose much of its force when better data arrive. For researchers and readers assessing disputed claims about the Roswell [Ramey memo]({{ 'ramey-memo/' | relative_url }}), the analogy is not that the memo and the Martian formation are identical. Rather, both involve people extracting meaning from limited, low-quality information. The lesson from Mars is that confidence should remain proportional to image quality. A pattern that seems compelling in a blurred or poorly resolved image may look very different once sharper evidence becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
+The “Face on Mars” is one of the clearest public examples of why ambiguous visual evidence can appear highly persuasive and then lose much of its force when better data arrive. For researchers and readers assessing disputed claims about the Roswell [Ramey memo]({{ 'ramey-memo/' | relative_url }}), the analogy is not that the memo and the Martian formation are identical. Rather, both involve people extracting meaning from limited, low-quality information. The lesson from Mars is that confidence should remain proportional to image quality. A pattern that seems compelling in a blurred or poorly resolved image may look very different once sharper evidence becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-1-dark.svg" | relative_url }}" alt="Mars Analogy illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within discussions of [pattern-finding]({{ 'pattern-finding/' | relative_url }}) and pareidolia in UFO-related materials, the Face on Mars serves as a cautionary case: a reminder that apparent significance can emerge from lighting, resolution limits, and human expectations rather than from the underlying object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
+Within discussions of [pattern-finding]({{ 'pattern-finding/' | relative_url }}) and pareidolia in UFO-related materials, the Face on Mars serves as a cautionary case: a reminder that apparent significance can emerge from lighting, resolution limits, and human expectations rather than from the underlying object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
 
 ## Why the Face on Mars Became Persuasive
 
-In 1976, NASA’s Viking 1 orbiter photographed a mesa in the Cydonia region of Mars. Under the specific lighting conditions captured in that image, the formation appeared remarkably face-like. The impression was strong enough that many observers interpreted it as a possible artificial structure rather than a natural landform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">more...</span></span></span>
+In 1976, NASA’s Viking 1 orbiter photographed a mesa in the Cydonia region of Mars. Under the specific lighting conditions captured in that image, the formation appeared remarkably face-like. The impression was strong enough that many observers interpreted it as a possible artificial structure rather than a natural landform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">more...</span></span></span>
 
 Several factors made the image persuasive:
 
 * The lighting created shadows that suggested eyes, a nose, and a mouth.
 * The available imagery was relatively low in resolution by later standards.
 * Humans are especially prone to recognising faces, even from incomplete visual cues.
-* Once the image became famous, observers approached it expecting to see a face. NASA Jet Propulsion Laboratory (JPL)+2That Thinking Feeling <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars&quot;May 24, 2001 — NASA&#x27;s Mars Global Surveyor shows thousands o...</span><span class="citation-popover-meta">Published: May 24, 2001</span></span></span>
+* Once the image became famous, observers approached it expecting to see a face. NASA Jet Propulsion Laboratory (JPL)+2That Thinking Feeling<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars&quot;May 24, 2001 — NASA&#x27;s Mars Global Surveyor shows thousands o...</span><span class="citation-popover-meta">Published: May 24, 2001</span></span></span>
 
-The result was a classic example of pareidolia: perceiving a familiar pattern in ambiguous visual information. Importantly, the formation really did resemble a face under certain conditions. The mistake was not seeing the resemblance. The mistake was treating that resemblance as strong evidence for a particular explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
+The result was a classic example of pareidolia: perceiving a familiar pattern in ambiguous visual information. Importantly, the formation really did resemble a face under certain conditions. The mistake was not seeing the resemblance. The mistake was treating that resemblance as strong evidence for a particular explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
 
 This distinction matters for the [Ramey]({{ 'ramey/' | relative_url }}) memo. A person may genuinely perceive words or phrases in a blurred document image without those [readings]({{ 'readings/' | relative_url }}) necessarily reflecting what the document actually says.
 
@@ -308,13 +308,13 @@ This distinction matters for the [Ramey]({{ 'ramey/' | relative_url }}) memo. A 
 
 The most important development in the Face on Mars story was not a new argument but new imagery.
 
-In 1998, NASA’s Mars Global Surveyor obtained images of the formation at roughly ten times the resolution of the best Viking-era view. Later observations provided even sharper coverage. These images revealed an ordinary mesa with irregular geological features rather than a sculpted face. NASA Jet Propulsion Laboratory (JPL)+2NASA Science <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/images/pia01442-mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">pia01442 mars orbiter camera views the face on mars comparison with viking</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Mars Orbiter Camera Views the &quot;Face on Mars&quot;Jul 3, 1998 — The picture has a resolution of 14.1 feet (...</span></span></span>
+In 1998, NASA’s Mars Global Surveyor obtained images of the formation at roughly ten times the resolution of the best Viking-era view. Later observations provided even sharper coverage. These images revealed an ordinary mesa with irregular geological features rather than a sculpted face. NASA Jet Propulsion Laboratory (JPL)+2NASA Science<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/images/pia01442-mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">pia01442 mars orbiter camera views the face on mars comparison with viking</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Mars Orbiter Camera Views the &quot;Face on Mars&quot;Jul 3, 1998 — The picture has a resolution of 14.1 feet (...</span></span></span>
 
-NASA noted that the apparent facial features seen in the original image were largely products of viewing geometry and shadowing. As image quality improved, the human-face interpretation became much harder to sustain. NASA Science+2NASA Jet Propulsion Laboratory (JPL) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
+NASA noted that the apparent facial features seen in the original image were largely products of viewing geometry and shadowing. As image quality improved, the human-face interpretation became much harder to sustain. NASA Science+2NASA Jet Propulsion Laboratory (JPL)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
 
-The key methodological lesson is straightforward: when evidence quality increases, interpretations should be tested against the new information. In the Mars case, the more detailed data reduced ambiguity. The feature did not become more face-like as resolution improved; it became less so. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
+The key methodological lesson is straightforward: when evidence quality increases, interpretations should be tested against the new information. In the Mars case, the more detailed data reduced ambiguity. The feature did not become more face-like as resolution improved; it became less so.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
 
-That progression is why the case remains a favourite example in discussions of perception and pattern recognition. It demonstrates that apparent structure in noisy data can weaken rather than strengthen when additional detail becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
+That progression is why the case remains a favourite example in discussions of perception and pattern recognition. It demonstrates that apparent structure in noisy data can weaken rather than strengthen when additional detail becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-2-dark.svg" | relative_url }}" alt="Mars Analogy illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,7 +329,7 @@ The Mars example suggests several cautions:
 * Ambiguous marks can appear more meaningful than they really are.
 * Expectations can influence what observers believe they see.
 * Image enhancement can reveal genuine information, but it can also amplify noise.
-* Confidence should reflect the quality of the underlying evidence, not merely the vividness of the perceived pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thatthinkingfeeling.co.uk/blog/pareidolia-faces-inanimate-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatthinkingfeeling.co.uk">[That Thinking Feeling+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatthinkingfeeling.co.uk</span><span class="citation-popover-title">pareidolia faces inanimate objects</span><span class="citation-popover-snippet">That Thinking FeelingWhy we see faces in inanimate objects &#124; Dr Clare Jonas21 Mar 2026 — Pareidolia is your mind&#x27;s tendency to decide tha...</span></span></span>
+* Confidence should reflect the quality of the underlying evidence, not merely the vividness of the perceived pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thatthinkingfeeling.co.uk/blog/pareidolia-faces-inanimate-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatthinkingfeeling.co.uk">[That Thinking Feeling+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatthinkingfeeling.co.uk</span><span class="citation-popover-title">pareidolia faces inanimate objects</span><span class="citation-popover-snippet">That Thinking FeelingWhy we see faces in inanimate objects &#124; Dr Clare Jonas21 Mar 2026 — Pareidolia is your mind&#x27;s tendency to decide tha...</span></span></span>
 
 The analogy therefore supports a conservative approach to claimed memo readings. A phrase that appears obvious after enhancement may still require independent verification if the source image remains marginal.
 
@@ -342,7 +342,7 @@ The analogy therefore supports a conservative approach to claimed memo readings.
 
 The Martian formation was a geological object viewed from orbit, whereas the Ramey memo is a human-created document that almost certainly contained actual written language. The question in the Mars case was whether a face-like shape was real or illusory. The question in the memo case is whether specific words can be recovered accurately from a degraded image.
 
-That difference matters because the memo almost certainly contains genuine textual information, whereas the face-like appearance on Mars was never evidence that a literal face had been carved into the landscape. The issue is not whether the memo contains words; it is whether modern readers can determine those words reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars&quot;May 24, 2001 — NASA&#x27;s Mars Global Surveyor shows thousands o...</span><span class="citation-popover-meta">Published: May 24, 2001</span></span></span>
+That difference matters because the memo almost certainly contains genuine textual information, whereas the face-like appearance on Mars was never evidence that a literal face had been carved into the landscape. The issue is not whether the memo contains words; it is whether modern readers can determine those words reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-title">Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars&quot;May 24, 2001 — NASA&#x27;s Mars Global Surveyor shows thousands o...</span><span class="citation-popover-meta">Published: May 24, 2001</span></span></span>
 
 For that reason, the Mars analogy is best used as a warning about overconfidence, not as proof that any particular memo interpretation is wrong.
 
@@ -350,203 +350,203 @@ For that reason, the Mars analogy is best used as a warning about overconfidence
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-3-dark.svg" | relative_url }}" alt="Mars Analogy illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Mars Teaches About the Ramey Memo
 
-The enduring value of the Face on Mars lies in its demonstration of how perception interacts with uncertainty. A famous image once seemed to show something extraordinary. Better evidence later showed that the appearance depended heavily on resolution, shadows, and human pattern recognition. NASA Science+2NASA Jet Propulsion Laboratory (JPL) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
+The enduring value of the Face on Mars lies in its demonstration of how perception interacts with uncertainty. A famous image once seemed to show something extraordinary. Better evidence later showed that the appearance depended heavily on resolution, shadows, and human pattern recognition. NASA Science+2NASA Jet Propulsion Laboratory (JPL)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">cydonia two years later 4</span><span class="citation-popover-snippet">NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</span><span class="citation-popover-meta">Published: April 5, 1998</span></span></span>
 
-Applied to the Ramey memo, the lesson is modest but important: when evidence is ambiguous, readers should separate what is clearly visible from what is inferred. The more a conclusion depends on filling gaps, connecting fragments, or seeing meaningful patterns in marginal detail, the more cautiously it should be held. The Face on Mars remains a memorable reminder that apparent clarity can sometimes be a product of perception rather than a property of the evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2That Thinking Feeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
+Applied to the Ramey memo, the lesson is modest but important: when evidence is ambiguous, readers should separate what is clearly visible from what is inferred. The more a conclusion depends on filling gaps, connecting fragments, or seeing meaningful patterns in marginal detail, the more cautiously it should be held. The Face on Mars remains a memorable reminder that apparent clarity can sometimes be a product of perception rather than a property of the evidence itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2That Thinking Feeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">the face on mars and other cases of cosmic pareidolia</span><span class="citation-popover-snippet">Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nDBVO2QEYgU" title="Cydonia Mensa (&quot;Face On Mars&quot;) (2006)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nDBVO2QEYgU" target="_blank" rel="noopener noreferrer">Cydonia Mensa (&quot;Face On Mars&quot;) (2006)</a></p><p class="youtube-embed-meta">Channel: djxatlanta</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nDBVO2QEYgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nDBVO2QEYgU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Mars Teaches About the Ramey Memo. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Mars Teaches About the Ramey Memo. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why face-like patterns seem meaningful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why face-like patterns seem meaningful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Addresses interpretation of unusual phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses interpretation of unusual phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Illustrates limits of perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates limits of perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly relevant to extraordinary claims and visual interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to extraordinary claims and visual interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television" data-ebay-reference="mars-analogy-what-mars-teaches-about-the-ramey-memo-roswell-ufo-ramey-memo-ufo-wall-art-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ Applied to the Ramey memo, the lesson is modest but important: when evidence is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ Applied to the Ramey memo, the lesson is modest but important: when evidence is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ Applied to the Ramey memo, the lesson is modest but important: when evidence is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ Applied to the Ramey memo, the lesson is modest but important: when evidence is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ Applied to the Ramey memo, the lesson is modest but important: when evidence is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,181 +752,181 @@ Applied to the Ramey memo, the lesson is modest but important: when evidence is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: cydonia two years later 4  
-   Link: <a href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/cydonia-two-years-later-4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</p></details>
+   Link:<a href="https://science.nasa.gov/photojournal/cydonia-two-years-later-4/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/cydonia-two-years-later-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceCydonia: Two Years LaterApr 7, 2000 — On April 5, 1998, the Mars Global Surveyor (MGS) spacecraft performed a specially-plann...</p></details>
    Published: April 5, 1998  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jpl.nasa.gov  
    Title: Jet Propulsion Laboratory (JPL)Highest-Resolution View of "Face on Mars"  
-   Link: <a href="https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars&quot;May 24, 2001 — NASA&#x27;s Mars Global Surveyor shows thousands o...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia03225-highest-resolution-view-of-face-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Highest-Resolution View of &quot;Face on Mars&quot;May 24, 2001 — NASA&#x27;s Mars Global Surveyor shows thousands o...</p></details>
    Published: May 24, 2001  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Seeing Faces in Things: A Model and Dataset for Pareidolia  
-   Link: <a href="https://arxiv.org/abs/2409.16143" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.16143</a>  
+   Link:<a href="https://arxiv.org/abs/2409.16143" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.16143</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jpl.nasa.gov  
    Title: pia01442 mars orbiter camera views the face on mars comparison with viking  
-   Link: <a href="https://www.jpl.nasa.gov/images/pia01442-mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia01442-mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Mars Orbiter Camera Views the &quot;Face on Mars&quot;Jul 3, 1998 — The picture has a resolution of 14.1 feet (...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/images/pia01442-mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia01442-mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Mars Orbiter Camera Views the &quot;Face on Mars&quot;Jul 3, 1998 — The picture has a resolution of 14.1 feet (...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: mars orbiter camera views the face on mars comparison with viking  
-   Link: <a href="https://science.nasa.gov/resource/mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMars Orbiter Camera Views the “Face on Mars”Jul 3, 1998 — The Mars Orbiter Camera (MOC) on the Mars Global Surveyor (MGS) spa...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/mars-orbiter-camera-views-the-face-on-mars-comparison-with-viking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMars Orbiter Camera Views the “Face on Mars”Jul 3, 1998 — The Mars Orbiter Camera (MOC) on the Mars Global Surveyor (MGS) spa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Highest-Resolution View of “Face on Mars”  
-   Link: <a href="https://science.nasa.gov/resource/highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/highest-resolution-view-of-face-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceHighest-Resolution View of “Face on Mars”May 24, 2001 — The large &quot;face&quot; picture covers an area about 3.6 kilometers (2.2 mil...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/highest-resolution-view-of-face-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/highest-resolution-view-of-face-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceHighest-Resolution View of “Face on Mars”May 24, 2001 — The large &quot;face&quot; picture covers an area about 3.6 kilometers (2.2 mil...</p></details>
    Published: May 24, 2001  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: face on mars  
-   Link: <a href="https://science.nasa.gov/resource/face-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/face-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on Mars1 Apr 2012 — This Viking Orbiter image is one of the best Viking pictures of the area Cydonia where the &quot;Face&quot; is located. Marked...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/face-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/face-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Mars1 Apr 2012 — This Viking Orbiter image is one of the best Viking pictures of the area Cydonia where the &quot;Face&quot; is located. Marked...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: pareidolia seeing shapes cosmos  
-   Link: <a href="https://www.nasa.gov/image-article/pareidolia-seeing-shapes-cosmos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/pareidolia-seeing-shapes-cosmos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pareidolia: Seeing Shapes in the CosmosJan 5, 2021 — It is the psychological phenomenon where we see recognizable shapes in clouds, rock...</p></details>
+   Link:<a href="https://www.nasa.gov/image-article/pareidolia-seeing-shapes-cosmos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/pareidolia-seeing-shapes-cosmos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pareidolia: Seeing Shapes in the CosmosJan 5, 2021 — It is the psychological phenomenon where we see recognizable shapes in clouds, rock...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: a bear on mars  
-   Link: <a href="https://www.nasa.gov/image-article/a-bear-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/a-bear-on-mars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?5 Oct 2023 — A V-shaped collapse structure makes the nose, two craters form the eyes, and a circular fracture pattern shapes the head. T...</p></details>
+   Link:<a href="https://www.nasa.gov/image-article/a-bear-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/a-bear-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?5 Oct 2023 — A V-shaped collapse structure makes the nose, two craters form the eyes, and a circular fracture pattern shapes the head. T...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: 17191 face on mars  
-   Link: <a href="https://www.space.com/17191-face-on-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/17191-face-on-mars.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Face on Mars: Fact &amp; FictionAug 20, 2012 — On July 25, 1976, it captured the image of a pile of rocks that greatly resembled a human...</p></details>
+   Link:<a href="https://www.space.com/17191-face-on-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/17191-face-on-mars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Face on Mars: Fact &amp; FictionAug 20, 2012 — On July 25, 1976, it captured the image of a pile of rocks that greatly resembled a human...</p></details>
    Published: July 25, 1976  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scientificamerican.com  
    Title: the face on mars and other cases of cosmic pareidolia  
-   Link: <a href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-face-on-mars-and-other-cases-of-cosmic-pareidolia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Face on Mars and Other Cases of Cosmic Pareidolia28 Jun 2024 — In one of the orbiter&#x27;s pictures of a region called...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thatthinkingfeeling.co.uk  
    Title: pareidolia faces inanimate objects  
-   Link: <a href="https://www.thatthinkingfeeling.co.uk/blog/pareidolia-faces-inanimate-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.thatthinkingfeeling.co.uk/blog/pareidolia-faces-inanimate-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That Thinking FeelingWhy we see faces in inanimate objects | Dr Clare Jonas21 Mar 2026 — Pareidolia is your mind&#x27;s tendency to decide tha...</p></details>
+   Link:<a href="https://www.thatthinkingfeeling.co.uk/blog/pareidolia-faces-inanimate-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.thatthinkingfeeling.co.uk/blog/pareidolia-faces-inanimate-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That Thinking FeelingWhy we see faces in inanimate objects | Dr Clare Jonas21 Mar 2026 — Pareidolia is your mind&#x27;s tendency to decide tha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_-_the_face_on_Mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pareidolia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PareidoliaPareidolia is the tendency for perception to impose a meaningful interpretation on a nebulous stimulus, usually visual, so t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pareidolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PareidoliaPareidolia is the tendency for perception to impose a meaningful interpretation on a nebulous stimulus, usually visual, so t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/image/716931/mars-orbiter-camera-views-face-mars-best-view-viking" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/716931/mars-orbiter-camera-views-face-mars-best-view-viking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mars Orbiter Camera Views the &quot; Face on Mars&quot;Oct 10, 2012 — The picture has a resolution of 14.1 feet (4.3 meters) per pixel, making it t...</p></details>
+   Link:<a href="https://www.dvidshub.net/image/716931/mars-orbiter-camera-views-face-mars-best-view-viking" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/716931/mars-orbiter-camera-views-face-mars-best-view-viking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mars Orbiter Camera Views the &quot; Face on Mars&quot;Oct 10, 2012 — The picture has a resolution of 14.1 feet (4.3 meters) per pixel, making it t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Mars-Global-Surveyor" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Mars-Global-Surveyor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mars Global Surveyor | Mapping, Imaging &amp; Data CollectionA high-resolution image of the “face on Mars,” an anthropomorphic rock formation...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Mars-Global-Surveyor" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Mars-Global-Surveyor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mars Global Surveyor | Mapping, Imaging &amp; Data CollectionA high-resolution image of the “face on Mars,” an anthropomorphic rock formation...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_s_Face_on_Mars_in_3D_animation" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_s_Face_on_Mars_in_3D_animation</a>  
+   Link:<a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_s_Face_on_Mars_in_3D_animation" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cydonia_s_Face_on_Mars_in_3D_animation</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iflscience.com  
    Title: face on mars photographed by nasas mars perseverance rover 76316  
-   Link: <a href="https://www.iflscience.com/face-on-mars-photographed-by-nasas-mars-perseverance-rover-76316" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/face-on-mars-photographed-by-nasas-mars-perseverance-rover-76316</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Face&quot; On Mars Photographed By NASA&#x27;s...10 Oct 2024 — A rock on Mars which looks like a face. The image of the rock was captured on Sept...</p></details>
+   Link:<a href="https://www.iflscience.com/face-on-mars-photographed-by-nasas-mars-perseverance-rover-76316" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/face-on-mars-photographed-by-nasas-mars-perseverance-rover-76316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Face&quot; On Mars Photographed By NASA&#x27;s...10 Oct 2024 — A rock on Mars which looks like a face. The image of the rock was captured on Sept...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: michaelbach.de  
    Title: Face on Mars  
-   Link: <a href="https://michaelbach.de/ot/fcs-faceOnMars/" target="_blank" rel="noopener noreferrer nofollow">https://michaelbach.de/ot/fcs-faceOnMars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2004 — In 1998, the Mars Global Surveyor (MGS) reached the Red Planet with far better, more high-resolution equipment than Viking...</p></details>
+   Link:<a href="https://michaelbach.de/ot/fcs-faceOnMars/" target="_blank" rel="noopener noreferrer nofollow">https://michaelbach.de/ot/fcs-faceOnMars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2004 — In 1998, the Mars Global Surveyor (MGS) reached the Red Planet with far better, more high-resolution equipment than Viking...</p></details>
    Published: May 30, 2004  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: marspedia.org  
    Title: The Face on Mars  
-   Link: <a href="https://marspedia.org/The_Face_on_Mars" target="_blank" rel="noopener noreferrer nofollow">https://marspedia.org/The_Face_on_Mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 26, 2025 — Pareidolia is the tendency of a human observer to interpret a configuration of objects as a human face. The human brain ha...</p></details>
+   Link:<a href="https://marspedia.org/The_Face_on_Mars" target="_blank" rel="noopener noreferrer nofollow">https://marspedia.org/The_Face_on_Mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 26, 2025 — Pareidolia is the tendency of a human observer to interpret a configuration of objects as a human face. The human brain ha...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kmatthews.org.uk  
-   Link: <a href="https://www.kmatthews.org.uk/face_on_mars/cydonia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kmatthews.org.uk/face_on_mars/cydonia.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CydoniaEven so, the &#x27;face&#x27; appears as a highly eroded ridge, with a steep perimeter. A second photograph from the Mars Orbital Camera, ta...</p></details>
+   Link:<a href="https://www.kmatthews.org.uk/face_on_mars/cydonia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kmatthews.org.uk/face_on_mars/cydonia.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CydoniaEven so, the &#x27;face&#x27; appears as a highly eroded ridge, with a steep perimeter. A second photograph from the Mars Orbital Camera, ta...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CSIROnews/posts/a-self-pawtrait-on-mars-nasas-mars-reconnaissance-orbiter-has-captured-this-bear/579684197533599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CSIROnews/posts/a-self-pawtrait-on-mars-nasas-mars-reconnaissance-orbiter-has-captured-this-bear/579684197533599/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA/JPL-Caltech/UArizona 📃 | ABC NewsIn short: Pareidolia is the brain tricking you into seeing faces or familiar shapes in random objec...</p></details>
+   Link:<a href="https://www.facebook.com/CSIROnews/posts/a-self-pawtrait-on-mars-nasas-mars-reconnaissance-orbiter-has-captured-this-bear/579684197533599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CSIROnews/posts/a-self-pawtrait-on-mars-nasas-mars-reconnaissance-orbiter-has-captured-this-bear/579684197533599/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA/JPL-Caltech/UArizona 📃 | ABC NewsIn short: Pareidolia is the brain tricking you into seeing faces or familiar shapes in random objec...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tsijournals.com  
-   Link: <a href="https://www.tsijournals.com/articles/the-meridiani-face-on-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsijournals.com/articles/the-meridiani-face-on-mars.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Meridiani Face on MarsIn this hypothesis the variations in Martian topography would create so many random shapes that researchers wou...</p></details>
+   Link:<a href="https://www.tsijournals.com/articles/the-meridiani-face-on-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsijournals.com/articles/the-meridiani-face-on-mars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Meridiani Face on MarsIn this hypothesis the variations in Martian topography would create so many random shapes that researchers wou...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/44657380_Digital_imagery_analysis_of_unusual_Martian_surface_features" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44657380_Digital_imagery_analysis_of_unusual_Martian_surface_features</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Especially famous is the face pareidolia, for example, the &quot;Face on Mars&quot; in the Cydonia region of Mars (Carlotto 1988;...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/44657380_Digital_imagery_analysis_of_unusual_Martian_surface_features" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44657380_Digital_imagery_analysis_of_unusual_Martian_surface_features</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Especially famous is the face pareidolia, for example, the &quot;Face on Mars&quot; in the Cydonia region of Mars (Carlotto 1988;...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61574844186139/posts/a-face-like-formation-spotted-on-mars-is-capturing-attention-once-again-the-feat/122186164052828139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61574844186139/posts/a-face-like-formation-spotted-on-mars-is-capturing-attention-once-again-the-feat/122186164052828139/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the human brain perceives familiar patterns, such as animals or faces...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/61574844186139/posts/a-face-like-formation-spotted-on-mars-is-capturing-attention-once-again-the-feat/122186164052828139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61574844186139/posts/a-face-like-formation-spotted-on-mars-is-capturing-attention-once-again-the-feat/122186164052828139/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the human brain perceives familiar patterns, such as animals or faces...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: starstryder.medium.com  
    Title: pareidolia why you see faces on mars 76839805462e  
-   Link: <a href="https://starstryder.medium.com/pareidolia-why-you-see-faces-on-mars-76839805462e" target="_blank" rel="noopener noreferrer nofollow">https://starstryder.medium.com/pareidolia-why-you-see-faces-on-mars-76839805462e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gay, Ph.D.It was recognized at the time that this face is just a trick of light and shadow that causes our human mind to see a face when...</p></details>
+   Link:<a href="https://starstryder.medium.com/pareidolia-why-you-see-faces-on-mars-76839805462e" target="_blank" rel="noopener noreferrer nofollow">https://starstryder.medium.com/pareidolia-why-you-see-faces-on-mars-76839805462e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gay, Ph.D.It was recognized at the time that this face is just a trick of light and shadow that causes our human mind to see a face when...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: msss.com  
-   Link: <a href="https://www.msss.com/mars_images/moc/4_6_98_face_release" target="_blank" rel="noopener noreferrer nofollow">https://www.msss.com/mars_images/moc/4_6_98_face_release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lution than the best previous image of the feature, which was...Read more...</p></details>
+   Link:<a href="https://www.msss.com/mars_images/moc/4_6_98_face_release" target="_blank" rel="noopener noreferrer nofollow">https://www.msss.com/mars_images/moc/4_6_98_face_release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lution than the best previous image of the feature, which was...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: skyatnightmagazine.com  
    Title: The face on Mars, from conspiracy to debunking  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/face-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/face-on-mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How this...15 Aug 2025 —... face on Mars is an example of pareidolia, where the human brain sees faces or other familiar patterns in ra...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/face-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/face-on-mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How this...15 Aug 2025 —... face on Mars is an example of pareidolia, where the human brain sees faces or other familiar patterns in ra...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/235935251_An_Analysis_of_the_Precursor_Measurements_of_Mars_Needed_to_Reduce_the_Risk_of_the_First_Human_Missions_to_Mars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235935251_An_Analysis_of_the_Precursor_Measurements_of_Mars_Needed_to_Reduce_the_Risk_of_the_First_Human_Missions_to_Mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the First Human Missions to Mars. January 2005. Authors:.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/235935251_An_Analysis_of_the_Precursor_Measurements_of_Mars_Needed_to_Reduce_the_Risk_of_the_First_Human_Missions_to_Mars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235935251_An_Analysis_of_the_Precursor_Measurements_of_Mars_Needed_to_Reduce_the_Risk_of_the_First_Human_Missions_to_Mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the First Human Missions to Mars. January 2005. Authors:.Read more...</p></details>
    Published: January 2005  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: grunge.com  
-   Link: <a href="https://www.grunge.com/1199493/humans-see-reconginzable-shape-on-mars-in-reconnaissance-orbiters-recent-photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1199493/humans-see-reconginzable-shape-on-mars-in-reconnaissance-orbiters-recent-photo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Feb 2023 — An instance of pareidolia occurred when NASA&#x27;s Reconnaissance Orbiter spacecraft sent back photos from Mars in late 2...</p></details>
+   Link:<a href="https://www.grunge.com/1199493/humans-see-reconginzable-shape-on-mars-in-reconnaissance-orbiters-recent-photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1199493/humans-see-reconginzable-shape-on-mars-in-reconnaissance-orbiters-recent-photo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Feb 2023 — An instance of pareidolia occurred when NASA&#x27;s Reconnaissance Orbiter spacecraft sent back photos from Mars in late 2...</p></details>

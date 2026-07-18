@@ -280,7 +280,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_pr
 
 ## Introduction
 
-Any future attempt to strengthen the evidential value of the Roswell [Ramey memo]({{ 'ramey-memo/' | relative_url }}) would depend less on new interpretations and more on better source material. Researchers are not working from the original paper document allegedly visible in General Roger Ramey’s hand. They are working from photographic traces preserved in archival [negatives]({{ 'negatives/' | relative_url }}) and reproductions. As a result, the quality, transparency, and verifiability of those image sources become central to the question. The key issue is not whether another enhanced image can be produced, but whether the underlying archival material can be released in a way that allows independent experts to evaluate exactly what information is present and what information has been introduced through processing. UTA's Roswell project has already employed high-dynamic-range imaging and high-resolution scans of relevant negatives, demonstrating that additional tonal information can be extracted from the source material. The challenge is ensuring that any future release meets standards that permit genuine public verification rather than another round of competing interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</span></span></span>
+Any future attempt to strengthen the evidential value of the Roswell [Ramey memo]({{ 'ramey-memo/' | relative_url }}) would depend less on new interpretations and more on better source material. Researchers are not working from the original paper document allegedly visible in General Roger Ramey’s hand. They are working from photographic traces preserved in archival [negatives]({{ 'negatives/' | relative_url }}) and reproductions. As a result, the quality, transparency, and verifiability of those image sources become central to the question. The key issue is not whether another enhanced image can be produced, but whether the underlying archival material can be released in a way that allows independent experts to evaluate exactly what information is present and what information has been introduced through processing. UTA's Roswell project has already employed high-dynamic-range imaging and high-resolution scans of relevant negatives, demonstrating that additional tonal information can be extracted from the source material. The challenge is ensuring that any future release meets standards that permit genuine public verification rather than another round of competing interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-1-dark.svg" | relative_url }}" alt="Better Scans illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Any future attempt to strengthen the evidential value of the Roswell [Ramey memo
 
 The [Ramey]({{ 'ramey/' | relative_url }}) memo debate has often revolved around enlarged images circulated in books, websites, and discussion forums. Enlargement alone, however, does not create new information. A larger JPEG may make marks easier to inspect, but it can also magnify grain, compression artefacts, scratches, dust, and enhancement effects.
 
-This distinction matters because the disputed text occupies a tiny area within a larger photograph. Researchers attempting to decipher words are often working near the limits of what the photographic record can support. Earlier studies examining the memo found that different observers could derive different [readings]({{ 'readings/' | relative_url }}) from the same image material, raising concerns about expectation effects and subjective interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Specifically, participants viewed four high-resolution images: (1) a ne...</span></span></span>
+This distinction matters because the disputed text occupies a tiny area within a larger photograph. Researchers attempting to decipher words are often working near the limits of what the photographic record can support. Earlier studies examining the memo found that different observers could derive different [readings]({{ 'readings/' | relative_url }}) from the same image material, raising concerns about expectation effects and subjective interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Specifically, participants viewed four high-resolution images: (1) a ne...</span></span></span>
 
 A preservation-grade release would therefore prioritise source fidelity over visual impressiveness. Instead of publishing a sharpened or contrast-enhanced image as the primary artefact, archives would ideally release:
 
@@ -303,7 +303,7 @@ A preservation-grade release would therefore prioritise source fidelity over vis
 
 </div>
 
-UTA's Roswell archive has specifically described using high-dynamic-range photography to capture a wider tonal range from the negatives and the memo area. That approach can reveal information hidden in conventional reproductions, but it also increases the need for transparent documentation so that observers understand exactly how the image was produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</span></span></span>
+UTA's Roswell archive has specifically described using high-dynamic-range photography to capture a wider tonal range from the negatives and the memo area. That approach can reveal information hidden in conventional reproductions, but it also increases the need for transparent documentation so that observers understand exactly how the image was produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[UT Arlington Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yC-996sr6kw" title="What Chris Mellon Says About The Kingman UFO | Larry Hancock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yC-996sr6kw" target="_blank" rel="noopener noreferrer">What Chris Mellon Says About The Kingman UFO | Larry Hancock</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yC-996sr6kw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yC-996sr6kw">Open on YouTube</a></p></div></div></div>
@@ -312,7 +312,7 @@ UTA's Roswell archive has specifically described using high-dynamic-range photog
 
 A stronger evidential package would require more than image files. It would also require a documented record explaining where those files came from and how they were created.
 
-Modern forensic image-management standards emphasise preservation of original files, documentation of transfers, and maintenance of a verifiable chain of custody. The objective is not merely archival neatness. It is to ensure that later users can determine whether a file is authentic, whether it has changed, and whether processing steps can be reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">130... Original images are to be maintained in their native file format and protected at.Read more...</span></span></span>
+Modern forensic image-management standards emphasise preservation of original files, documentation of transfers, and maintenance of a verifiable chain of custody. The objective is not merely archival neatness. It is to ensure that later users can determine whether a file is authentic, whether it has changed, and whether processing steps can be reconstructed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">130... Original images are to be maintained in their native file format and protected at.Read more...</span></span></span>
 
 For the Ramey memo, the most useful accompanying information would include:
 
@@ -362,7 +362,7 @@ For the Ramey memo, the most useful accompanying information would include:
 
 </div>
 
-NIST guidance on digital evidence management stresses maintaining originals in native form, documenting transfers, and preserving records that allow future examiners to understand the evidence lifecycle. These principles are especially relevant where small tonal differences may determine whether a mark is interpreted as a letter or as photographic noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">130... Original images are to be maintained in their native file format and protected at.Read more...</span></span></span>
+NIST guidance on digital evidence management stresses maintaining originals in native form, documenting transfers, and preserving records that allow future examiners to understand the evidence lifecycle. These principles are especially relevant where small tonal differences may determine whether a mark is interpreted as a letter or as photographic noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">130... Original images are to be maintained in their native file format and protected at.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-2-dark.svg" | relative_url }}" alt="Better Scans illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -379,7 +379,7 @@ A preservation-oriented release would therefore contain multiple layers:
 The closest digital equivalent to the original negative, preserved without interpretive enhancement.
 2. **Preservation masters**
 
-Archival-quality files, commonly stored in formats intended for long-term preservation such as TIFF, retaining maximum available information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1027&amp;context=libr_pubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.lib.uconn.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.lib.uconn.edu</span><span class="citation-popover-snippet">Digital CommonsRaw as Archival Still Image Format: A Considerationby MJ Bennett · 2010 · Cited by 8 — Currently, the TIFF image format is...</span></span></span>
+Archival-quality files, commonly stored in formats intended for long-term preservation such as TIFF, retaining maximum available information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1027&amp;context=libr_pubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.lib.uconn.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.lib.uconn.edu</span><span class="citation-popover-snippet">Digital CommonsRaw as Archival Still Image Format: A Considerationby MJ Bennett · 2010 · Cited by 8 — Currently, the TIFF image format is...</span></span></span>
 3. **Working derivatives**
 
 Files prepared for analysis, with all processing steps documented.
@@ -387,7 +387,7 @@ Files prepared for analysis, with all processing steps documented.
 
 Smaller files suitable for websites and general distribution.
 
-The crucial requirement is that every derivative file be traceable back to the raw source. Forensic imaging standards emphasise repeatability and integrity precisely because conclusions should not depend on trusting an analyst's undocumented workflow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">In the current legal system, there are standards and...Read more...</span></span></span>
+The crucial requirement is that every derivative file be traceable back to the raw source. Forensic imaging standards emphasise repeatability and integrity precisely because conclusions should not depend on trusting an analyst's undocumented workflow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">In the current legal system, there are standards and...Read more...</span></span></span>
 
 In practical terms, researchers evaluating the Ramey memo should be able to download the same source scan, apply the same processing parameters, and determine whether the claimed text emerges consistently. If a proposed reading only appears after undocumented enhancement steps, its evidential value remains weak.
 
@@ -407,7 +407,7 @@ The minimum elements would likely include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Preservation-grade scans of the original negative.
-* Full-resolution downloadable files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">e of image states ranging from low contrast grey tones. Link for the...</span></span></span>
+* Full-resolution downloadable files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">e of image states ranging from low contrast grey tones. Link for the...</span></span></span>
 * Checksums or hashes verifying file integrity.
 * Technical metadata describing digitisation.
 * Custody records for the archival materials.
@@ -417,200 +417,200 @@ The minimum elements would likely include:
 
 </div>
 
-Such a release would not guarantee that the memo becomes readable. The underlying photographic information may simply be insufficient. However, it would change the nature of the debate. Instead of arguing over isolated enlargements or selectively enhanced images, researchers could evaluate a transparent evidential record whose [provenance]({{ 'provenance/' | relative_url }}), handling, and processing history are open to scrutiny. That is the standard required if future claims about the memo are to carry substantially more weight than previous interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">130... Original images are to be maintained in their native file format and protected at.Read more...</span></span></span>
+Such a release would not guarantee that the memo becomes readable. The underlying photographic information may simply be insufficient. However, it would change the nature of the debate. Instead of arguing over isolated enlargements or selectively enhanced images, researchers could evaluate a transparent evidential record whose [provenance]({{ 'provenance/' | relative_url }}), handling, and processing history are open to scrutiny. That is the standard required if future claims about the memo are to carry substantially more weight than previous interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2024 n 0011 standard guide forensic digital image management version 10</span><span class="citation-popover-snippet">130... Original images are to be maintained in their native file format and protected at.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-3-dark.svg" | relative_url }}" alt="Better Scans illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Better Ramey Scans Would Need. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Better Ramey Scans Would Need. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Provides context for why better source material matters in Roswell research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why better source material matters in Roswell research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Managing+Archives+by+Caroline+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Managing Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1BxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Managing Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Managing+Archives+by+Caroline+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Managing Archives">Managing Archives</a>
-        </h4>
-        <p class="fr-book-author">By Caroline M. Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Managing+Archives+by+Caroline+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Managing Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1BxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Managing Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Managing+Archives+by+Caroline+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Managing Archives">Managing Archives</a>
+</h4>
+<p class="fr-book-author">By Caroline M. Williams</p>
         
-        <p class="fr-book-desc">Covers custody, provenance, and archival standards relevant to source verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Managing+Archives+by+Caroline+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers custody, provenance, and archival standards relevant to source verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Managing+Archives+by+Caroline+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Background reading for the document and image controversies discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Background reading for the document and image controversies discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Witness+to+Roswell%2C+Revised+and+Expanded+Edition+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell, Revised and Expanded Edition on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell%2C+Revised+and+Expanded+Edition+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell, Revised and Expanded Edition">Witness to Roswell, Revised and Expanded Edition</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Witness+to+Roswell%2C+Revised+and+Expanded+Edition+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell, Revised and Expanded Edition on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell%2C+Revised+and+Expanded+Edition+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell, Revised and Expanded Edition">Witness to Roswell, Revised and Expanded Edition</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">First published 2009.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell%2C+Revised+and+Expanded+Edition+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell%2C+Revised+and+Expanded+Edition+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Managing+Archives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Managing Archives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Managing+Archives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Managing Archives</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="better-scans-what-better-ramey-scans-would-need-roswell-ufo-ramey-memo-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ Such a release would not guarantee that the memo becomes readable. The underlyin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ Such a release would not guarantee that the memo becomes readable. The underlyin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ Such a release would not guarantee that the memo becomes readable. The underlyin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ Such a release would not guarantee that the memo becomes readable. The underlyin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ Such a release would not guarantee that the memo becomes readable. The underlyin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,156 +816,156 @@ Such a release would not guarantee that the memo becomes readable. The underlyin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesRamey Memo High Resolution Microfiche ScansHigh Dynamic Range photography has been used to harness the range of ton...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesHomepage | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident. Unive...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/home" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Arlington LibrariesHomepage | Roswell UFO IncidentThe UTA Libraries currently holds photographs and negatives from the incident. Unive...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Specifically, participants viewed four high-resolution images: (1) a ne...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate&#x27;&#x27;A Message in a Bottle:&quot; Confounds in Deciphering...Specifically, participants viewed four high-resolution images: (1) a ne...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close up of the memo section of the photograph...A photograph showing a document held by General Ramey from the Roswell UFO case reporte...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Close-up-of-the-memo-section-of-the-photograph-of-Brigadier-General-Roger-M-Ramey_fig2_228706129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close up of the memo section of the photograph...A photograph showing a document held by General Ramey from the Roswell UFO case reporte...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nist.gov  
    Title: osac 2024 n 0011 standard guide forensic digital image management version 10  
-   Link: <a href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>130... Original images are to be maintained in their native file format and protected at.Read more...</p></details>
+   Link:<a href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>130... Original images are to be maintained in their native file format and protected at.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: csrc.nist.gov  
    Title: Computer Security Resource Centerchain of custody  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource Centerchain of custody - Glossary | CSRCA process that tracks the movement of evidence through its collec...</p></details>
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource Centerchain of custody - Glossary | CSRCA process that tracks the movement of evidence through its collec...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nvlpubs.nist.gov  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Evidence Preservationby B Guttman · 2022 · Cited by 12 — It is best practice to hash digital images and other ob...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Evidence Preservationby B Guttman · 2022 · Cited by 12 — It is best practice to hash digital images and other ob...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
    Title: digital forensics  
-   Link: <a href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/digital-forensics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and image files as well as sof...</p></details>
+   Link:<a href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/digital-forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and image files as well as sof...</p></details>
    Published: May 10, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the current legal system, there are standards and...Read more...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the current legal system, there are standards and...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/standard/3351" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/standard/3351</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE: 23-F-004-1.1 Best Practices for Digital Evidence...1 Apr 2025 — SWGDE: 23-F-004-1.1 Best Practices for Digital Evidence Acquisiti...</p></details>
+   Link:<a href="https://www.nist.gov/standard/3351" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/standard/3351</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE: 23-F-004-1.1 Best Practices for Digital Evidence...1 Apr 2025 — SWGDE: 23-F-004-1.1 Best Practices for Digital Evidence Acquisiti...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ramey Memo-An In Depth Scientifically Based Deep...23 Sept 2025 — This technology possesses an extraordinary resolution capability...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ramey Memo-An In Depth Scientifically Based Deep...23 Sept 2025 — This technology possesses an extraordinary resolution capability...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Evidence Chain of Custody: Navigating New...Dec 3, 2024 — This paper explores the critical role of Chain of Custody (CoC)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Evidence Chain of Custody: Navigating New...Dec 3, 2024 — This paper explores the critical role of Chain of Custody (CoC)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399051556_Digital_Forensics_and_Chain_of_Custody_Safeguarding_the_Integrity_and_Admissibility_of_Electronic_Evidence_in_Legal_Proceedings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399051556_Digital_Forensics_and_Chain_of_Custody_Safeguarding_the_Integrity_and_Admissibility_of_Electronic_Evidence_in_Legal_Proceedings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics and Chain of Custody: Safeguarding the...1 Jan 2026 — This work contributes to strengthening procedural safeguards and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399051556_Digital_Forensics_and_Chain_of_Custody_Safeguarding_the_Integrity_and_Admissibility_of_Electronic_Evidence_in_Legal_Proceedings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399051556_Digital_Forensics_and_Chain_of_Custody_Safeguarding_the_Integrity_and_Admissibility_of_Electronic_Evidence_in_Legal_Proceedings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics and Chain of Custody: Safeguarding the...1 Jan 2026 — This work contributes to strengthening procedural safeguards and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uta.edu  
-   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey MemoThe Ramey Memo Roswell UFO Incident from the Fort Worth Star- Telegram Collection In 1947, a mysterious object crashed to E...</p></details>
+   Link:<a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ramey MemoThe Ramey Memo Roswell UFO Incident from the Fort Worth Star- Telegram Collection In 1947, a mysterious object crashed to E...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sites.libraries.uta.edu  
-   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced scans of the Ramey Memo...</p></details>
+   Link:<a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Ramey Memo | Roswell UFO Incident18 Jan 2017 — The following transcription is derived from multiple enhanced scans of the Ramey Memo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: digitalcommons.lib.uconn.edu  
-   Link: <a href="https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1027&amp;context=libr_pubs" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1027&amp;context=libr_pubs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsRaw as Archival Still Image Format: A Considerationby MJ Bennett · 2010 · Cited by 8 — Currently, the TIFF image format is...</p></details>
+   Link:<a href="https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1027&amp;context=libr_pubs" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1027&amp;context=libr_pubs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsRaw as Archival Still Image Format: A Considerationby MJ Bennett · 2010 · Cited by 8 — Currently, the TIFF image format is...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e of image states ranging from low contrast grey tones. Link for the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zi8p7s/this_is_the_lettertext_that_gen_ramey_had_in_hand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e of image states ranging from low contrast grey tones. Link for the...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: truescreen.io  
-   Link: <a href="https://truescreen.io/articles/certify-photos-legal-value/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/certify-photos-legal-value/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Certifying Photos with Legal Value: Complete Forensic Guide7 days ago — When is a digital photo admissible as evidence in court?...</p></details>
+   Link:<a href="https://truescreen.io/articles/certify-photos-legal-value/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/certify-photos-legal-value/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Certifying Photos with Legal Value: Complete Forensic Guide7 days ago — When is a digital photo admissible as evidence in court?...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rcademy.com  
-   Link: <a href="https://rcademy.com/blockchain-based-evidence-chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://rcademy.com/blockchain-based-evidence-chain-of-custody/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a detailed record of evidence from collection to court. Every piece of evidence must be...Read more...</p></details>
+   Link:<a href="https://rcademy.com/blockchain-based-evidence-chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://rcademy.com/blockchain-based-evidence-chain-of-custody/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a detailed record of evidence from collection to court. Every piece of evidence must be...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: forge-work.com  
    Title: Chain of custody documentation, forensic imaging procedures, evidence  
-   Link: <a href="https://forge-work.com/blog/digital-evidence-handling.html" target="_blank" rel="noopener noreferrer nofollow">https://forge-work.com/blog/digital-evidence-handling.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Handling: Chain of Custody Best Practices3 Apr 2026 — Best practices for handling digital evidence in incident response...</p></details>
+   Link:<a href="https://forge-work.com/blog/digital-evidence-handling.html" target="_blank" rel="noopener noreferrer nofollow">https://forge-work.com/blog/digital-evidence-handling.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Handling: Chain of Custody Best Practices3 Apr 2026 — Best practices for handling digital evidence in incident response...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: amu.apus.edu  
    Title: how to maintain chain of custody for digital forensic evidence  
-   Link: <a href="https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Maintain Chain of Custody for Digital Forensic Evidence18 Sept 2025 — A chain of custody for digital forensic evidence ensures that la...</p></details>
+   Link:<a href="https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Maintain Chain of Custody for Digital Forensic Evidence18 Sept 2025 — A chain of custody for digital forensic evidence ensures that la...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lumificyber.com  
    Title: 3 methods to preserve digital evidence for computer forensics  
-   Link: <a href="https://www.lumificyber.com/blog/3-methods-to-preserve-digital-evidence-for-computer-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://www.lumificyber.com/blog/3-methods-to-preserve-digital-evidence-for-computer-forensics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Methods to Preserve Digital Evidence for Computer...27 Sept 2023 — Preserve data, collect forensically-sound digital copies of media...</p></details>
+   Link:<a href="https://www.lumificyber.com/blog/3-methods-to-preserve-digital-evidence-for-computer-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://www.lumificyber.com/blog/3-methods-to-preserve-digital-evidence-for-computer-forensics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Methods to Preserve Digital Evidence for Computer...27 Sept 2023 — Preserve data, collect forensically-sound digital copies of media...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: truescreen.io  
    Title: Digital Chain of Custody: Complete Guide to Evidence  
-   Link: <a href="https://truescreen.io/articles/digital-chain-of-custody-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/digital-chain-of-custody-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2026 — A valid chain of custody for photos and videos requires these metadata to be acquired and sealed at the moment of capture...</p></details>
+   Link:<a href="https://truescreen.io/articles/digital-chain-of-custody-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/digital-chain-of-custody-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2026 — A valid chain of custody for photos and videos requires these metadata to be acquired and sealed at the moment of capture...</p></details>
    Published: May 15, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: forensicdiscovery.expert  
    Title: chain of custody for digital evidence best practices  
-   Link: <a href="https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Digital Evidence: Best PracticesJun 14, 2026 — A source-first forensic process can support chain of custody for digi...</p></details>
+   Link:<a href="https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Digital Evidence: Best PracticesJun 14, 2026 — A source-first forensic process can support chain of custody for digi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: networkershome.com  
-   Link: <a href="https://www.networkershome.com/fundamentals/cybersecurity/digital-forensics-basics-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.networkershome.com/fundamentals/cybersecurity/digital-forensics-basics-evidence-collection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating forensic images ensures data preservation and enables...Read more...</p></details>
+   Link:<a href="https://www.networkershome.com/fundamentals/cybersecurity/digital-forensics-basics-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.networkershome.com/fundamentals/cybersecurity/digital-forensics-basics-evidence-collection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating forensic images ensures data preservation and enables...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheRoswellUFOTour/posts/does-the-memo-in-general-rameys-hand-really-say-victims-of-the-wreck-decide-for-/121362907531047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheRoswellUFOTour/posts/does-the-memo-in-general-rameys-hand-really-say-victims-of-the-wreck-decide-for-/121362907531047/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decide for yourself by looking at high-res scans of the original negatives provided by the...</p></details>
+   Link:<a href="https://www.facebook.com/TheRoswellUFOTour/posts/does-the-memo-in-general-rameys-hand-really-say-victims-of-the-wreck-decide-for-/121362907531047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheRoswellUFOTour/posts/does-the-memo-in-general-rameys-hand-really-say-victims-of-the-wreck-decide-for-/121362907531047/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decide for yourself by looking at high-res scans of the original negatives provided by the...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lcgdiscovery.com  
-   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond The Screen, Part 6: Video Evidence Under...Nov 12, 2025 — A defensible playbook for authenticating and challenging digital video...</p></details>
+   Link:<a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond The Screen, Part 6: Video Evidence Under...Nov 12, 2025 — A defensible playbook for authenticating and challenging digital video...</p></details>

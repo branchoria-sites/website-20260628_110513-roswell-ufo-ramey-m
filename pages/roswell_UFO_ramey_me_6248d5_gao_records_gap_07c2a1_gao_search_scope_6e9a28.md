@@ -280,15 +280,15 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_sea
 
 ## Introduction
 
-The General Accounting Office (GAO) did not approach Roswell as a search for a single missing UFO file. Instead, its 1994–1995 inquiry tested exotic-crash claims by asking a practical archival question: if an extraordinary military recovery had really occurred in July 1947, what bureaucratic traces should it have left behind, and do those traces still exist? The resulting search extended far beyond Roswell Army Air Field itself. GAO examined records systems across military commands, intelligence agencies, archives, personnel repositories, and historical collections to determine whether reports, messages, investigations, or command correspondence consistent with a major crash-and-recovery operation could be found. The significance of the search lies not only in what was discovered, but also in the fact that such a wide review produced remarkably little documentary support for claims of a recovered extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+The General Accounting Office (GAO) did not approach Roswell as a search for a single missing UFO file. Instead, its 1994–1995 inquiry tested exotic-crash claims by asking a practical archival question: if an extraordinary military recovery had really occurred in July 1947, what bureaucratic traces should it have left behind, and do those traces still exist? The resulting search extended far beyond Roswell Army Air Field itself. GAO examined records systems across military commands, intelligence agencies, archives, personnel repositories, and historical collections to determine whether reports, messages, investigations, or command correspondence consistent with a major crash-and-recovery operation could be found. The significance of the search lies not only in what was discovered, but also in the fact that such a wide review produced remarkably little documentary support for claims of a recovered extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-1-dark.svg" | relative_url }}" alt="Search Scope illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Wide Was GAO's Roswell Search?
 
-The GAO inquiry was designed around the assumption that a significant military incident generates paperwork at multiple levels of government. Rather than limiting itself to files labelled “Roswell”, investigators examined both classified and unclassified records from the late 1940s and early 1950s across a broad network of institutions. These included the Department of Defense, National Archives facilities, the FBI, CIA, National Security Council, National Security Agency, Air Force historical offices, intelligence repositories, and personnel records centres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+The GAO inquiry was designed around the assumption that a significant military incident generates paperwork at multiple levels of government. Rather than limiting itself to files labelled “Roswell”, investigators examined both classified and unclassified records from the late 1940s and early 1950s across a broad network of institutions. These included the Department of Defense, National Archives facilities, the FBI, CIA, National Security Council, National Security Agency, Air Force historical offices, intelligence repositories, and personnel records centres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
-The search also reached into operational military records that would have been only indirectly related to Roswell. GAO reviewed message traffic, unit histories, counterintelligence files, Air Materiel Command records, Eighth Air Force correspondence, Project Sign materials, personnel files, and other collections that might reveal reactions to an unusual recovery operation. This was an important methodological choice. If an exotic craft had been recovered and moved through military channels, evidence would likely appear in multiple record series rather than in a single dedicated file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+The search also reached into operational military records that would have been only indirectly related to Roswell. GAO reviewed message traffic, unit histories, counterintelligence files, Air Materiel Command records, Eighth Air Force correspondence, Project Sign materials, personnel files, and other collections that might reveal reactions to an unusual recovery operation. This was an important methodological choice. If an exotic craft had been recovered and moved through military channels, evidence would likely appear in multiple record series rather than in a single dedicated file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iuaLed7Jnu4" title="USA: UFO ANTI-SECRECY GROUP DEMONSTRATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iuaLed7Jnu4" target="_blank" rel="noopener noreferrer">USA: UFO ANTI-SECRECY GROUP DEMONSTRATION</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 897 &middot; Uploaded: July 2015 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iuaLed7Jnu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iuaLed7Jnu4">Open on YouTube</a></p></div></div></div>
@@ -297,7 +297,7 @@ The search also reached into operational military records that would have been o
 
 A central feature of the inquiry was its effort to identify the administrative footprint that an extraordinary crash would normally leave.
 
-GAO examined historical reporting requirements in effect during 1947 and found that Army Air Forces regulations required formal documentation for aircraft accidents. Investigators therefore searched for accident reports, command communications, operational messages, intelligence memoranda, and other records that would be expected if military authorities had recovered a significant airborne object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">NSIA D-95-187</span><span class="citation-popover-snippet">NSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswell Army Air Field h...</span></span></span>
+GAO examined historical reporting requirements in effect during 1947 and found that Army Air Forces regulations required formal documentation for aircraft accidents. Investigators therefore searched for accident reports, command communications, operational messages, intelligence memoranda, and other records that would be expected if military authorities had recovered a significant airborne object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">NSIA D</span><span class="citation-popover-snippet">NSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswell Army Air Field h...</span></span></span>
 
 The logic was straightforward:
 
@@ -307,7 +307,7 @@ The logic was straightforward:
 * A recovered aircraft or unknown vehicle would likely trigger reporting through operational command channels.
 * Transportation and analysis of unusual debris would normally generate correspondence between bases, commands, and technical organisations.
 * Intelligence exploitation of an unprecedented object would be expected to leave traces in intelligence archives.
-* Senior-level concern over a revolutionary technology or extraterrestrial craft would likely appear in policy, security, or briefing records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+* Senior-level concern over a revolutionary technology or extraterrestrial craft would likely appear in policy, security, or briefing records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
 </div>
 
@@ -320,9 +320,9 @@ By searching for these secondary and tertiary traces, GAO effectively tested the
 
 The most striking outcome was how little direct documentary evidence emerged despite the breadth of the search.
 
-GAO reported finding only two surviving 1947 government records that clearly referred to the Roswell incident itself. One was a July 1947 history prepared by the combined 509th Bomb Group and Roswell Army Air Field. The other was a July 8 FBI teletype describing military reports of recovered debris resembling a weather balloon and radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+GAO reported finding only two surviving 1947 government records that clearly referred to the Roswell incident itself. One was a July 1947 history prepared by the combined 509th Bomb Group and Roswell Army Air Field. The other was a July 8 FBI teletype describing military reports of recovered debris resembling a weather balloon and radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
-Equally important was what investigators did not find. GAO reported that the numerous classified and unclassified records reviewed—including files that had previously been unavailable to the public—did not contain references to a recovered extraterrestrial vehicle, alien bodies, or a special recovery programme connected to the July 1947 event. Agency inquiries also failed to produce additional Roswell crash records from organisations such as the CIA, National Security Council, Department of Energy, or White House science offices. The CIA specifically informed GAO that a database search for “Roswell, New Mexico” produced no relevant agency documents concerning the crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">NSIA D-95-187</span><span class="citation-popover-snippet">NSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswell Army Air Field h...</span></span></span>
+Equally important was what investigators did not find. GAO reported that the numerous classified and unclassified records reviewed—including files that had previously been unavailable to the public—did not contain references to a recovered extraterrestrial vehicle, alien bodies, or a special recovery programme connected to the July 1947 event. Agency inquiries also failed to produce additional Roswell crash records from organisations such as the CIA, National Security Council, Department of Energy, or White House science offices. The CIA specifically informed GAO that a database search for “Roswell, New Mexico” produced no relevant agency documents concerning the crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">NSIA D</span><span class="citation-popover-snippet">NSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswell Army Air Field h...</span></span></span>
 
 For advocates of exotic-crash theories, this result did not prove that no such event occurred. However, it meant that the expected bureaucratic footprint was either absent, successfully hidden across multiple agencies for decades, or never created in the first place.
 
@@ -332,9 +332,9 @@ For advocates of exotic-crash theories, this result did not prove that no such e
 
 One of the most misunderstood aspects of the GAO inquiry concerns destroyed records.
 
-Investigators discovered that Roswell Army Air Field administrative records covering 1945–1949 and outgoing message files covering 1946–1949 had been destroyed. Documentation describing the destruction failed to identify who authorised it, precisely when it occurred, or under what authority it happened. This became one of the report's most controversial findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+Investigators discovered that Roswell Army Air Field administrative records covering 1945–1949 and outgoing message files covering 1946–1949 had been destroyed. Documentation describing the destruction failed to identify who authorised it, precisely when it occurred, or under what authority it happened. This became one of the report's most controversial findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
-For supporters of a cover-up theory, the [missing messages]({{ 'missing-messages/' | relative_url }}) appeared highly significant because outgoing communications would have shown how Roswell officers reported events to higher headquarters. Yet GAO did not conclude that the destruction was evidence of concealment. Instead, investigators treated it as a records-management problem that created uncertainty. [Missing files]({{ 'missing-files/' | relative_url }}) meant that some potentially relevant evidence no longer existed, but the loss of records by itself did not establish what those records once contained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+For supporters of a cover-up theory, the [missing messages]({{ 'missing-messages/' | relative_url }}) appeared highly significant because outgoing communications would have shown how Roswell officers reported events to higher headquarters. Yet GAO did not conclude that the destruction was evidence of concealment. Instead, investigators treated it as a records-management problem that created uncertainty. [Missing files]({{ 'missing-files/' | relative_url }}) meant that some potentially relevant evidence no longer existed, but the loss of records by itself did not establish what those records once contained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
 This distinction is crucial. The destroyed records weakened the completeness of the historical archive, but they did not supply positive evidence for an extraterrestrial recovery.
 
@@ -345,202 +345,202 @@ This distinction is crucial. The destroyed records weakened the completeness of 
 
 Although extensive, the GAO investigation was not capable of proving a negative.
 
-First, the search depended on surviving records. If documents had been destroyed decades earlier, investigators could not examine them. Second, the inquiry focused on official government record systems. A hypothetical operation conducted entirely outside normal channels would naturally leave fewer traces in the repositories GAO reviewed. Third, records practices in the immediate post-war period were less systematic than modern electronic [recordkeeping]({{ 'recordkeeping/' | relative_url }}), increasing the possibility that some materials were lost through routine administrative processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+First, the search depended on surviving records. If documents had been destroyed decades earlier, investigators could not examine them. Second, the inquiry focused on official government record systems. A hypothetical operation conducted entirely outside normal channels would naturally leave fewer traces in the repositories GAO reviewed. Third, records practices in the immediate post-war period were less systematic than modern electronic [recordkeeping]({{ 'recordkeeping/' | relative_url }}), increasing the possibility that some materials were lost through routine administrative processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
-Even so, the breadth of the search raises the evidentiary bar for exotic-crash claims. The question is not simply whether one missing Roswell file existed. It is whether a supposedly major recovery operation could have passed through military, intelligence, archival, personnel, and command systems without leaving convincing traces in any of the collections reviewed. GAO's search did not settle every Roswell dispute, but it was designed specifically to test that proposition. Its principal finding was that a wide-ranging examination of the federal record produced very little evidence consistent with the large bureaucratic footprint that an extraordinary crash recovery would normally generate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
+Even so, the breadth of the search raises the evidentiary bar for exotic-crash claims. The question is not simply whether one missing Roswell file existed. It is whether a supposedly major recovery operation could have passed through military, intelligence, archival, personnel, and command systems without leaving convincing traces in any of the collections reviewed. GAO's search did not settle every Roswell dispute, but it was designed specifically to test that proposition. Its principal finding was that a wide-ranging examination of the federal record produced very little evidence consistent with the large bureaucratic footprint that an extraordinary crash recovery would normally generate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-3-dark.svg" | relative_url }}" alt="Search Scope illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Wide Was GAO&#x27;s Roswell Search?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Wide Was GAO&#x27;s Roswell Search?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines what investigations and records searches actually found.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines what investigations and records searches actually found.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Useful companion to discussions of records searches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful companion to discussions of records searches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official inquiries into UFO claims were conducted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official inquiries into UFO claims were conducted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Discusses documentary traces and historical reconstruction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses documentary traces and historical reconstruction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bc29f229c965eaf1b331.jpg' | relative_url }}" alt="Listing image for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell (TV) Katherine Heigl 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bc29f229c965eaf1b331.jpg' | relative_url }}" alt="Listing image for Roswell (TV) Katherine Heigl 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell (TV) Katherine Heigl 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print"><img src="{{ '/assets/images/marketplace-covers/b8cb49c5e6d7809b4a74.jpg' | relative_url }}" alt="Listing image for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell Shiri Appleby Jason Behr Cast 4x6 photo print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print"><img src="{{ '/assets/images/marketplace-covers/b8cb49c5e6d7809b4a74.jpg' | relative_url }}" alt="Listing image for Roswell Shiri Appleby Jason Behr Cast 4x6 photo print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell Shiri Appleby Jason Behr Cast 4x6 photo print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/95ea8b62670f38440edd.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/95ea8b62670f38440edd.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell photo print" data-ebay-reference="search-scope-how-wide-was-gao-s-roswell-search-roswell-ufo-ramey-memo-roswell-photo-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Even so, the breadth of the search raises the evidentiary bar for exotic-crash c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Even so, the breadth of the search raises the evidentiary bar for exotic-crash c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Even so, the breadth of the search raises the evidentiary bar for exotic-crash c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Even so, the breadth of the search raises the evidentiary bar for exotic-crash c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Even so, the breadth of the search raises the evidentiary bar for exotic-crash c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,176 +746,176 @@ Even so, the breadth of the search raises the evidentiary bar for exotic-crash c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — After nearly 50 years, speculation continues on what crashed at Roswell. Some observers b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS NSIAD 95 187  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Crash Near...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Crash Near...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.justia.com  
    Title: NSIA D-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswell Army Air Field h...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswell Army Air Field h...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The USAF conducted a systematic search of numerous archives and recor...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The USAF conducted a systematic search of numerous archives and recor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — In our search for records concerning the Roswell crash, we learned that some govern...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — In our search for records concerning the Roswell crash, we learned that some govern...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-08-742" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-08-742</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>l agencies have responsibilities for managing federal records, including e...Read more...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l agencies have responsibilities for managing federal records, including e...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/search?SearchableText=ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fbi.gov23 items matching your search termsOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that res...</p></details>
+   Link:<a href="https://vault.fbi.gov/search?SearchableText=ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fbi.gov23 items matching your search termsOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that res...</p></details>
    Published: July 8, 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fbi.gov  
    Title: ufos and the guy hottel memo  
-   Link: <a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2013 — An FBI memo in 1950 regarding an unconfirmed account of “flying saucers” still stirs interest...</p></details>
+   Link:<a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2013 — An FBI memo in 1950 regarding an unconfirmed account of “flying saucers” still stirs interest...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: govinfo.gov  
    Title: Date Issued  
-   Link: <a href="https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-95-187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO/NSIAD-95-187 - Government Records: Results of a...Government Records: Results of a Search for Records Concerning the 1947 Crash Near...</p></details>
+   Link:<a href="https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO/NSIAD-95-187 - Government Records: Results of a...Government Records: Results of a Search for Records Concerning the 1947 Crash Near...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s) in the National Archives Catalog are available here in bulk downloads.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s) in the National Archives Catalog are available here in bulk downloads.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe records include approximately 2 cubic feet of unarranged project or administrative files, 37 cubic feet of...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe records include approximately 2 cubic feet of unarranged project or administrative files, 37 cubic feet of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;In July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search for...</p></details>
    Published: July 1994  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...It was written as a result of Colonel Weaver&#x27;s and Lieutenant McAndrew&#x27;s efforts...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...It was written as a result of Colonel Weaver&#x27;s and Lieutenant McAndrew&#x27;s efforts...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufotransparency.com  
    Title: 1995 07 28 gao roswell report nsiad 95 187 gao nsiad 95 187 roswell 1995  
-   Link: <a href="https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947 Crash...28 Jul 1995 — The GAO&#x27;s 1995 audit of federal records related to the 1947 Ro...</p></details>
+   Link:<a href="https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947 Crash...28 Jul 1995 — The GAO&#x27;s 1995 audit of federal records related to the 1947 Ro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell Air Field, New Mexico, focusing on...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell Air Field, New Mexico, focusing on...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTResearch revealed that the &quot;Roswell Incident&quot; was not even considered a UFO event until the 1978-1980 time frame. Prior th...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTResearch revealed that the &quot;Roswell Incident&quot; was not even considered a UFO event until the 1978-1980 time frame. Prior th...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled alien craft momenta...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled alien craft momenta...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is a report prepared in support of a General Accounting Office (GAO) audit that is seeking to identify information concerning the “Roswel...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is a report prepared in support of a General Accounting Office (GAO) audit that is seeking to identify information concerning the “Roswel...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: The GAO Roswell Report d Congressman Schiff The release began: "Congressman  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Schiff today released the General. Accounting Office (GAO) report detailing the results of a records audit... Roswell UFO...Read...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Schiff today released the General. Accounting Office (GAO) report detailing the results of a records audit... Roswell UFO...Read...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: georgehbalazs.com  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1995-Results-of-a-search-for-records-concerning-the-1947-crash-near-Rosell-NM-GAO-Government-Records..pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1995-Results-of-a-search-for-records-concerning-the-1947-crash-near-Rosell-NM-GAO-Government-Records..pdf</a>  
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1995-Results-of-a-search-for-records-concerning-the-1947-crash-near-Rosell-NM-GAO-Government-Records..pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1995-Results-of-a-search-for-records-concerning-the-1947-crash-near-Rosell-NM-GAO-Government-Records..pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: deseret.com  
    Title: ufo documents destroyed unjustifiably lawmaker says  
-   Link: <a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — It said the Roswell base&#x27;s administrative records from March 1945 t...</p></details>
+   Link:<a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — It said the Roswell base&#x27;s administrative records from March 1945 t...</p></details>
    Published: March 1945  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/21" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/215 May 2024 — The Roswell Report: Fact versus Fiction in the New Mexi...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/21" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/215 May 2024 — The Roswell Report: Fact versus Fiction in the New Mexi...</p></details>
    Published: May 2024  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be automatically declassified due to the statute...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be automatically declassified due to the statute...</p></details>

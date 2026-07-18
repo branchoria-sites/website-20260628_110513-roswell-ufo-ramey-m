@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-memo/
 description: Focused pages that expand on Legibility.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3
 parent_title: Legibility
@@ -16,7 +16,7 @@ parent_permalink: /legibility/
 
 # Explore Topics in Legibility
 
-The following pages expand on the main **[Legibility]({{ '/legibility/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Legibility]({{ '/legibility/' | relative_url }})** page and cover its key branches in.
 
 - [Air Force Test]({{ '/air-force-test/' | relative_url }})
 - [Photo Illusions]({{ '/photo-illusions/' | relative_url }})

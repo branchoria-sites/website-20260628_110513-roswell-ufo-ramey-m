@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-stronger/
 description: Focused pages that expand on Stronger Proof.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8
 parent_title: Stronger Proof
@@ -16,7 +16,7 @@ parent_permalink: /stronger-proof/
 
 # Explore Topics in Stronger Proof
 
-The following pages expand on the main **[Stronger Proof]({{ '/stronger-proof/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Stronger Proof]({{ '/stronger-proof/' | relative_url }})** page and cover its key branches in.
 
 - [Original Memo]({{ '/original-memo/' | relative_url }})
 - [Blind Reading]({{ '/blind-reading/' | relative_url }})

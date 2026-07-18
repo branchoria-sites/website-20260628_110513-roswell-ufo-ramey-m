@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-roger/
 description: Focused pages that expand on Ramey.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e
 parent_title: Ramey
@@ -16,7 +16,7 @@ parent_permalink: /ramey/
 
 # Explore Topics in Ramey
 
-The following pages expand on the main **[Ramey]({{ '/ramey/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ramey]({{ '/ramey/' | relative_url }})** page and cover its key branches in.
 
 - [Command Weight]({{ '/command-weight/' | relative_url }})
 - [Photo Invite]({{ '/photo-invite/' | relative_url }})

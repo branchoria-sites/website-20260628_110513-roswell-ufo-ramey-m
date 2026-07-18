@@ -274,7 +274,7 @@ image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_we
 
 ## Introduction
 
-The short answer is that the military did not publicly describe the Roswell debris as part of [Project Mogul]({{ 'project-mogul/' | relative_url }}) because Project Mogul itself was secret. In 1947, the United States was entering the early Cold War, and Mogul's purpose was to help detect possible Soviet nuclear tests using specialised balloon-borne equipment. Revealing that mission would have exposed a sensitive intelligence programme. As a result, the public explanation presented in Fort Worth focused on a familiar and harmless object: a weather balloon. Later Air Force investigations acknowledged that the “weather balloon” story was a simplified cover description rather than the full reality of the classified programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
+The short answer is that the military did not publicly describe the Roswell debris as part of [Project Mogul]({{ 'project-mogul/' | relative_url }}) because Project Mogul itself was secret. In 1947, the United States was entering the early Cold War, and Mogul's purpose was to help detect possible Soviet nuclear tests using specialised balloon-borne equipment. Revealing that mission would have exposed a sensitive intelligence programme. As a result, the public explanation presented in Fort Worth focused on a familiar and harmless object: a weather balloon. Later Air Force investigations acknowledged that the “weather balloon” story was a simplified cover description rather than the full reality of the classified programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-1-dark.svg" | relative_url }}" alt="Cover Story illustration 1" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,29 +285,29 @@ Understanding this distinction is crucial to the Roswell debate and the controve
 
 ## Why Mogul Had to Stay Classified
 
-Project Mogul was not a routine meteorological operation. It was a high-priority military intelligence effort designed to detect distant Soviet atomic explosions through acoustic monitoring in the upper atmosphere. The programme's strategic purpose placed it among the sensitive national-security projects of the early Cold War. Muller Lab+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulProject MOGUL was classified Top Secret and carried a priority level of lA. (5) It is Project MOGUL that provides...</span></span></span>
+Project Mogul was not a routine meteorological operation. It was a high-priority military intelligence effort designed to detect distant Soviet atomic explosions through acoustic monitoring in the upper atmosphere. The programme's strategic purpose placed it among the sensitive national-security projects of the early Cold War. Muller Lab+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulProject MOGUL was classified Top Secret and carried a priority level of lA. (5) It is Project MOGUL that provides...</span></span></span>
 
 From the military's perspective in 1947, there were strong reasons not to discuss such work publicly:
 
 * The Soviet Union did not yet know the full extent of American efforts to monitor its nuclear activities.
 * Public disclosure could reveal technical methods being tested for long-range surveillance.
 * The project involved classified objectives even though some of its physical components resembled ordinary scientific balloon equipment.
-* Intelligence value depended partly on secrecy regarding what the United States was trying to detect and how it hoped to detect it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
+* Intelligence value depended partly on secrecy regarding what the United States was trying to detect and how it hoped to detect it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
 
-The Air Force's later investigations repeatedly stressed that the classified nature of Mogul explains why military personnel would have preferred a less revealing public description. The General Accounting Office review of the Roswell case similarly summarised the official position as involving a classified balloon project connected to monitoring Soviet nuclear developments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
+The Air Force's later investigations repeatedly stressed that the classified nature of Mogul explains why military personnel would have preferred a less revealing public description. The General Accounting Office review of the Roswell case similarly summarised the official position as involving a classified balloon project connected to monitoring Soviet nuclear developments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U23ylt1sqw" title="Military Weather Surveillance Balloon Roswell UFO Footage 84710k HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U23ylt1sqw" target="_blank" rel="noopener noreferrer">Military Weather Surveillance Balloon Roswell UFO Footage 84710k HD</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 5.3K &middot; Uploaded: September 2014 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U23ylt1sqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U23ylt1sqw">Open on YouTube</a></p></div></div></div>
 
 ## Why the Harmless Label Was Plausible
 
-A successful cover story usually contains an element of truth. In this case, the weather-balloon explanation worked because Mogul equipment actually incorporated meteorological balloons and related atmospheric-research hardware. The difference lay in the mission rather than in every individual component. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
+A successful cover story usually contains an element of truth. In this case, the weather-balloon explanation worked because Mogul equipment actually incorporated meteorological balloons and related atmospheric-research hardware. The difference lay in the mission rather than in every individual component.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
 
-To reporters and the public, a weather balloon was an ordinary object that required little further explanation. Weather balloons were already familiar features of military and scientific operations. Describing recovered debris as balloon material therefore offered a simple, credible [narrative]({{ 'narrative/' | relative_url }}) that avoided discussion of nuclear surveillance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Officers and staff in Texas determined that the objects were...</span></span></span>
+To reporters and the public, a weather balloon was an ordinary object that required little further explanation. Weather balloons were already familiar features of military and scientific operations. Describing recovered debris as balloon material therefore offered a simple, credible [narrative]({{ 'narrative/' | relative_url }}) that avoided discussion of nuclear surveillance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.unt.edu">[Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.unt.edu</span><span class="citation-popover-snippet">75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Officers and staff in Texas determined that the objects were...</span></span></span>
 
-The plausibility of the label also reflected the physical appearance of some recovered materials. According to later Air Force analyses, Mogul flights used balloon trains, [radar reflectors]({{ 'radar-reflectors/' | relative_url }}), lightweight structural elements and other components that could be presented as balloon-related equipment without inventing an entirely false category of object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
+The plausibility of the label also reflected the physical appearance of some recovered materials. According to later Air Force analyses, Mogul flights used balloon trains, [radar reflectors]({{ 'radar-reflectors/' | relative_url }}), lightweight structural elements and other components that could be presented as balloon-related equipment without inventing an entirely false category of object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
 
-This helps explain an often-misunderstood point: the later Mogul explanation did not replace the balloon explanation with something completely different. Instead, it argued that the public had been given a simplified version of a more sensitive balloon-based programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
+This helps explain an often-misunderstood point: the later Mogul explanation did not replace the balloon explanation with something completely different. Instead, it argued that the public had been given a simplified version of a more sensitive balloon-based programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-2-dark.svg" | relative_url }}" alt="Cover Story illustration 2" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,11 +315,11 @@ This helps explain an often-misunderstood point: the later Mogul explanation did
 
 One reason the Roswell controversy persists is that many people interpret the admission of a cover story as proof that an even larger secret must exist. The historical question is more complicated.
 
-When Air Force investigations in the 1990s concluded that Project Mogul was the likely source of the debris, officials effectively acknowledged that the original weather-balloon account was incomplete. The public explanation concealed the mission behind the equipment. However, the Air Force argued that the concealment was aimed at protecting classified intelligence work rather than hiding extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
+When Air Force investigations in the 1990s concluded that Project Mogul was the likely source of the debris, officials effectively acknowledged that the original weather-balloon account was incomplete. The public explanation concealed the mission behind the equipment. However, the Air Force argued that the concealment was aimed at protecting classified intelligence work rather than hiding extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
 
-This distinction matters because it changes the meaning of the word "cover-up". A cover-up does not automatically imply aliens, forged evidence or an elaborate conspiracy. Governments frequently conceal military capabilities, intelligence methods and surveillance programmes. In the Mogul interpretation, the cover-up concerns Cold War espionage and nuclear detection rather than the existence of a non-human craft. nasw.org+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">a still-secret government program from the 1940s called Project Mogul...</span></span></span>
+This distinction matters because it changes the meaning of the word "cover-up". A cover-up does not automatically imply aliens, forged evidence or an elaborate conspiracy. Governments frequently conceal military capabilities, intelligence methods and surveillance programmes. In the Mogul interpretation, the cover-up concerns Cold War espionage and nuclear detection rather than the existence of a non-human craft. nasw.org+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">a still-secret government program from the 1940s called Project Mogul...</span></span></span>
 
-Critics of the official explanation have argued that the weather-balloon story was too simplistic or that some witnesses described materials inconsistent with ordinary balloon wreckage. Supporters of the Mogul explanation counter that secrecy itself helped create confusion, because personnel could not openly discuss the programme's purpose and because the recovered equipment was more elaborate than a standard weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[Science Friday+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">Science Friday The Real Roswell Cover-Up?</span><span class="citation-popover-snippet">Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+Critics of the official explanation have argued that the weather-balloon story was too simplistic or that some witnesses described materials inconsistent with ordinary balloon wreckage. Supporters of the Mogul explanation counter that secrecy itself helped create confusion, because personnel could not openly discuss the programme's purpose and because the recovered equipment was more elaborate than a standard weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[Science Friday+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">Science Friday The Real Roswell Cover-Up?</span><span class="citation-popover-snippet">Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
@@ -328,202 +328,202 @@ Critics of the official explanation have argued that the weather-balloon story w
 
 Within the narrower question of the [Ramey]({{ 'ramey/' | relative_url }}) memo, the weather-balloon explanation occupies a crucial position. If the military was deliberately presenting a simplified account to the public, then documents and statements produced during the Fort Worth press event must be interpreted in the context of information management rather than straightforward disclosure.
 
-For researchers who support the Mogul explanation, this context helps explain why public statements emphasised weather-[balloon debris]({{ 'balloon-debris/' | relative_url }}). For researchers who doubt the official account, the same context raises questions about whether other information may also have been withheld. Either way, the acknowledged existence of classification changes how historians read the episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
+For researchers who support the Mogul explanation, this context helps explain why public statements emphasised weather-[balloon debris]({{ 'balloon-debris/' | relative_url }}). For researchers who doubt the official account, the same context raises questions about whether other information may also have been withheld. Either way, the acknowledged existence of classification changes how historians read the episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
 
-The key point is that the famous weather-balloon story was never presented by later government investigations as the complete truth. It was a public-facing description that concealed the classified purpose of a balloon-based intelligence project. Whether one accepts the Mogul explanation or not, that distinction is essential for understanding why a secret balloon programme became known to the public simply as a weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
+The key point is that the famous weather-balloon story was never presented by later government investigations as the complete truth. It was a public-facing description that concealed the classified purpose of a balloon-based intelligence project. Whether one accepts the Mogul explanation or not, that distinction is essential for understanding why a secret balloon programme became known to the public simply as a weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-3-dark.svg" | relative_url }}" alt="Cover Story illustration 3" data-theme-src-dark="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Say Weather Balloon If It Was Mogul?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Say Weather Balloon If It Was Mogul?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Discusses classified projects and the weather-balloon explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses classified projects and the weather-balloon explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how secrecy and cover stories function in national-security programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secrecy and cover stories function in national-security programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines government handling of unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government handling of unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Central source in debates over official explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central source in debates over official explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS"><img src="{{ '/assets/images/marketplace-covers/8c511e2df4e5f4cfd188.jpg' | relative_url }}" alt="Listing image for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS"><img src="{{ '/assets/images/marketplace-covers/8c511e2df4e5f4cfd188.jpg' | relative_url }}" alt="Listing image for US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">US Kaysam Meteorological Sounding Weather Balloon 1000 Gram Military Vintage NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS"><img src="{{ '/assets/images/marketplace-covers/685480d9c7ec8cd937b9.jpg' | relative_url }}" alt="Listing image for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS"><img src="{{ '/assets/images/marketplace-covers/685480d9c7ec8cd937b9.jpg' | relative_url }}" alt="Listing image for Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Balloon.Totex CR350 350grms Boxed, Foil Sealed. NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latex Weather Balloon Collection Balloons High Altitude Aerial Video"><img src="{{ '/assets/images/marketplace-covers/b48380160f2a64dde203.jpg' | relative_url }}" alt="Listing image for Latex Weather Balloon Collection Balloons High Altitude Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Latex Weather Balloon Collection Balloons High Altitude Aerial Video</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latex Weather Balloon Collection Balloons High Altitude Aerial Video"><img src="{{ '/assets/images/marketplace-covers/b48380160f2a64dde203.jpg' | relative_url }}" alt="Listing image for Latex Weather Balloon Collection Balloons High Altitude Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Latex Weather Balloon Collection Balloons High Altitude Aerial Video</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video"><img src="{{ '/assets/images/marketplace-covers/49c9b98968f01b0e3464.jpg' | relative_url }}" alt="Listing image for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Collection Balloons Wedding Latex for Meteorology Aerial Video</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video"><img src="{{ '/assets/images/marketplace-covers/49c9b98968f01b0e3464.jpg' | relative_url }}" alt="Listing image for Weather Collection Balloons Wedding Latex for Meteorology Aerial Video" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">Weather Collection Balloons Wedding Latex for Meteorology Aerial Video</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon collectible" data-ebay-reference="cover-story-why-say-weather-balloon-if-it-was-mogul-roswell-ufo-ramey-memo-weather-balloon-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The key point is that the famous weather-balloon story was never presented by la
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The key point is that the famous weather-balloon story was never presented by la
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The key point is that the famous weather-balloon story was never presented by la
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The key point is that the famous weather-balloon story was never presented by la
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The key point is that the famous weather-balloon story was never presented by la
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,131 +729,131 @@ The key point is that the famous weather-balloon story was never presented by la
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MOGUL was a then-sensitive, classified project, whose purpose was to determine the state of...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: [Case Closed](&amp;#123;&amp;#123; &#x27;case-closed/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mogul, a military...</p></details>
    Published: May 6, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulProject MOGUL was classified Top Secret and carried a priority level of lA. (5) It is Project MOGUL that provides...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulProject MOGUL was classified Top Secret and carried a priority level of lA. (5) It is Project MOGUL that provides...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blogs.library.unt.edu  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Officers and staff in Texas determined that the objects were...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Officers and staff in Texas determined that the objects were...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — It all started one morning in June 1947 when a ranch foreman named Mac Brazel came across a trail of metal and...</p></details>
    Published: June 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Typically, a Project Mogul balloon sent into high altitude stretched... classified government programs left a certain segme...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Typically, a Project Mogul balloon sent into high altitude stretched... classified government programs left a certain segme...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe initial 1994 USAF report admitted that the weather balloon explanation was a cover story...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThe initial 1994 USAF report admitted that the weather balloon explanation was a cover story...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse Marcel involved. (From now on...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryProject Mogul Balloons promptly contacted the Roswell Army Air Field and got Maj. Jesse Marcel involved. (From now on...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t really was a balloon, there was definitely a reason to keep the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t really was a balloon, there was definitely a reason to keep the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell Incident20 Oct 2016 — Declassified government documents revealed Project Mogul...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell Incident20 Oct 2016 — Declassified government documents revealed Project Mogul...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: newmexicomagazine.org  
    Title: roswell crash explained  
-   Link: <a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — Explore three leading explanations for the 1947 Roswell incident, from weather balloons to UFO cl...</p></details>
+   Link:<a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — Explore three leading explanations for the 1947 Roswell incident, from weather balloons to UFO cl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: "The Roswell Reports"  
-   Link: <a href="https://www.facebook.com/cspanhistory/videos/the-roswell-reports-1997-us-air-force-film-on-c-span3/763100660930916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/videos/the-roswell-reports-1997-us-air-force-film-on-c-span3/763100660930916/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1997 U.S. Air Force Film on C-SPAN3...This is a video companion to the Air Force reports detailing what they argue are the earth-bound s...</p></details>
+   Link:<a href="https://www.facebook.com/cspanhistory/videos/the-roswell-reports-1997-us-air-force-film-on-c-span3/763100660930916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/videos/the-roswell-reports-1997-us-air-force-film-on-c-span3/763100660930916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1997 U.S. Air Force Film on C-SPAN3...This is a video companion to the Air Force reports detailing what they argue are the earth-bound s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 —... Roswell was not a weather balloon, but a different kind of balloon, from a top secret program c...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 —... Roswell was not a weather balloon, but a different kind of balloon, from a top secret program c...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0jyvCrvVWNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jyvCrvVWNc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Crash: Hidden Truth or Government Cover-Up?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0jyvCrvVWNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jyvCrvVWNc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Crash: Hidden Truth or Government Cover-Up?...</p></details>

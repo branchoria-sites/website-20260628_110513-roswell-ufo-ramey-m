@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-houran/
 description: Focused pages that expand on Suggestion Study.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939
 parent_title: Suggestion Study
@@ -16,7 +16,7 @@ parent_permalink: /suggestion-study/
 
 # Explore Topics in Suggestion Study
 
-The following pages expand on the main **[Suggestion Study]({{ '/suggestion-study/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Suggestion Study]({{ '/suggestion-study/' | relative_url }})** page and cover its key branches in.
 
 - [Agreed Words]({{ '/agreed-words/' | relative_url }})
 - [Blind Control]({{ '/blind-control/' | relative_url }})
