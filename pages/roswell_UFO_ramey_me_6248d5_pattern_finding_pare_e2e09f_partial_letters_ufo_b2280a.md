@@ -272,6 +272,7 @@ next_link:
   short_title: Prompt Bias
   heading_title: How Roswell Prompts Change What People Read
 date: '2026-06-28 10:57:50 '
+last_modified_at: '2026-06-28 10:57:50 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_partial_letters_ufo_b2280a-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_partial_letters_ufo_b2280a-Illustration-1.webp

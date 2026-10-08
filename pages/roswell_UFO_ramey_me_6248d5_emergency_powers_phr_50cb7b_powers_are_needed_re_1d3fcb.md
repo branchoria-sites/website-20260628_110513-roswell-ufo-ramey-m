@@ -266,6 +266,7 @@ prev_link:
   short_title: Official Records
   heading_title: Do official records back emergency powers?
 date: '2026-06-28 10:58:02 '
+last_modified_at: '2026-06-28 10:58:02 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_powers_are_needed_re_1d3fcb-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_powers_are_needed_re_1d3fcb-Illustration-1.webp

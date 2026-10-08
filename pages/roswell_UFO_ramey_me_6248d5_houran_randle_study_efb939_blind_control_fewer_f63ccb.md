@@ -272,6 +272,7 @@ next_link:
   short_title: Cautious Use
   heading_title: What the experiment really proves
 date: '2026-06-28 10:56:52 '
+last_modified_at: '2026-06-28 10:56:52 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-1.webp

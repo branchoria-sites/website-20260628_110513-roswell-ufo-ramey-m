@@ -266,6 +266,7 @@ next_link:
   short_title: Cloud effect
   heading_title: Seeing Words That May Not Be There
 date: '2026-06-28 10:56:04 '
+last_modified_at: '2026-06-28 10:56:04 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_estes_9000dpi_scan_4d2c94-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_estes_9000dpi_scan_4d2c94-Illustration-1.webp

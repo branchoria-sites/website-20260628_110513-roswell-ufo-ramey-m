@@ -266,6 +266,7 @@ next_link:
   short_title: Expectation Effects
   heading_title: Why readers see a crisis in blur
 date: '2026-06-28 10:57:56 '
+last_modified_at: '2026-06-28 10:57:56 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-1.webp

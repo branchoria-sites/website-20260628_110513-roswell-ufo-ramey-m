@@ -272,6 +272,7 @@ next_link:
   short_title: Proof burden
   heading_title: Can a blur carry the whole Roswell case?
 date: '2026-06-28 10:56:28 '
+last_modified_at: '2026-06-28 10:56:28 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ordinary_words_no_bo_d34e54-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ordinary_words_no_bo_d34e54-Illustration-1.webp

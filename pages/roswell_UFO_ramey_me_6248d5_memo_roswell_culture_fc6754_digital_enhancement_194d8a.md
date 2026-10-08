@@ -266,6 +266,7 @@ next_link:
   short_title: Fort Worth Photo
   heading_title: Why This One Photo Changed Roswell
 date: '2026-06-28 10:57:47 '
+last_modified_at: '2026-06-28 10:57:47 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_digital_enhancement_194d8a-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_digital_enhancement_194d8a-Illustration-1.webp

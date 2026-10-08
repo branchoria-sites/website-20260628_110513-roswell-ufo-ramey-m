@@ -266,6 +266,7 @@ prev_link:
   short_title: Notation
   heading_title: The Transcript That Showed Its Own Doubt
 date: '2026-06-28 10:58:24 '
+last_modified_at: '2026-06-28 10:58:24 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_victims_shift_bcfba4-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_victims_shift_bcfba4-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Fort Worth
   heading_title: Was the Memo a Private Message in Public?
 date: '2026-06-28 10:56:31 '
+last_modified_at: '2026-06-28 10:56:31 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_empirical_memo_test_8d8c3c-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_empirical_memo_test_8d8c3c-Illustration-1.webp

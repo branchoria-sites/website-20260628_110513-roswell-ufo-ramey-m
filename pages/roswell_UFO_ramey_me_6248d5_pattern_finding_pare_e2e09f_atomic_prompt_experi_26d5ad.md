@@ -266,6 +266,7 @@ next_link:
   short_title: Blind Tests
   heading_title: Can Readers See UFO Text Without Hints?
 date: '2026-06-28 10:58:29 '
+last_modified_at: '2026-06-28 10:58:29 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_atomic_prompt_experi_26d5ad-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_atomic_prompt_experi_26d5ad-Illustration-1.webp

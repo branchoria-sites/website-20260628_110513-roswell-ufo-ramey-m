@@ -266,6 +266,7 @@ prev_link:
   short_title: Original Memo
   heading_title: Could the Original Memo Still Settle It?
 date: '2026-06-28 10:58:48 '
+last_modified_at: '2026-06-28 10:58:48 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_competing_transcript_aeab95-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_competing_transcript_aeab95-Illustration-1.webp

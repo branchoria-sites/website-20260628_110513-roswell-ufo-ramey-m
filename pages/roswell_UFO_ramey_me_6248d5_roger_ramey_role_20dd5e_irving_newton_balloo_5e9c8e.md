@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Invite
   heading_title: Why Show the Debris to Reporters?
 date: '2026-06-28 10:56:01 '
+last_modified_at: '2026-06-28 10:56:01 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_irving_newton_balloo_5e9c8e-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_irving_newton_balloo_5e9c8e-Illustration-1.webp

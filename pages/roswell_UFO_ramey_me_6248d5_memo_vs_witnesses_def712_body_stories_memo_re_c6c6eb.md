@@ -266,6 +266,7 @@ next_link:
   short_title: Compare Evidence
   heading_title: 'Photo Evidence or Witness Memory: Which Carries More?'
 date: '2026-06-28 10:56:21 '
+last_modified_at: '2026-06-28 10:56:21 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_body_stories_memo_re_c6c6eb-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_body_stories_memo_re_c6c6eb-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Telegram Assumption
   heading_title: Was Ramey Holding a Secret Military Message?
 date: '2026-06-28 10:58:43 '
+last_modified_at: '2026-06-28 10:58:43 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_smoking_gun_c_364fe6-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_smoking_gun_c_364fe6-Illustration-1.webp

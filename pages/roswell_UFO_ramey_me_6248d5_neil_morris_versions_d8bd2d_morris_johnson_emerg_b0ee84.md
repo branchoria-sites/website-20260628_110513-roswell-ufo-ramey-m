@@ -272,6 +272,7 @@ next_link:
   short_title: Narrative
   heading_title: How Fragments Became a Roswell Narrative
 date: '2026-06-28 10:58:23 '
+last_modified_at: '2026-06-28 10:58:23 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-1.webp

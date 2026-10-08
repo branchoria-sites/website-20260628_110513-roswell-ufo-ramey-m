@@ -266,6 +266,7 @@ prev_link:
   short_title: Memo Context
   heading_title: Why the debris shapes every memo reading
 date: '2026-06-28 10:57:39 '
+last_modified_at: '2026-06-28 10:57:39 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_air_force_photo_comp_6c5e73-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_air_force_photo_comp_6c5e73-Illustration-1.webp

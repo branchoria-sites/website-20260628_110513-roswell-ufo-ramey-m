@@ -272,6 +272,7 @@ next_link:
   short_title: Material Clues
   heading_title: Why the Small Materials Matter Most
 date: '2026-06-28 10:58:36 '
+last_modified_at: '2026-06-28 10:58:36 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fort_worth_floor_deb_a8ffe7-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fort_worth_floor_deb_a8ffe7-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Provenance
   heading_title: The Fort Worth Trail Behind the Memo
 date: '2026-06-28 10:56:12 '
+last_modified_at: '2026-06-28 10:56:12 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_official_95188b-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_official_95188b-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Convergence
   heading_title: Do Independent Readers Find the Same Words?
 date: '2026-06-28 10:57:47 '
+last_modified_at: '2026-06-28 10:57:47 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_blind_reading_tests_eb0061-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_blind_reading_tests_eb0061-Illustration-1.webp

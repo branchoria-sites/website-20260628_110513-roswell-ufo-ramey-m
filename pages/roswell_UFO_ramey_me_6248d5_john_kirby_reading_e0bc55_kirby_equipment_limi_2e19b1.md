@@ -272,6 +272,7 @@ next_link:
   short_title: Reading Table
   heading_title: The Table That Complicates 'Victims'
 date: '2026-06-28 10:57:04 '
+last_modified_at: '2026-06-28 10:57:04 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_equipment_limi_2e19b1-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_equipment_limi_2e19b1-Illustration-1.webp

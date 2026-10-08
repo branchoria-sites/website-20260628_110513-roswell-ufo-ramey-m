@@ -434,6 +434,7 @@ next_link:
   short_title: Blind Tests
   heading_title: How to Test a Mystery Photo Fairly
 date: '2026-06-28 10:55:22 '
+last_modified_at: '2026-06-28 10:55:22 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-overview.webp

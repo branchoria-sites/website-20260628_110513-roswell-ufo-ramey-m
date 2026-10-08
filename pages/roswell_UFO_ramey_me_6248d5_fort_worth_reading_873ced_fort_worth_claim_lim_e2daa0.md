@@ -272,6 +272,7 @@ next_link:
   short_title: Expectation
   heading_title: Can Knowing Fort Worth Change What You See?
 date: '2026-06-28 10:56:49 '
+last_modified_at: '2026-06-28 10:56:49 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_claim_lim_e2daa0-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_claim_lim_e2daa0-Illustration-1.webp

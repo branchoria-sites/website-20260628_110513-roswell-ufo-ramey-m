@@ -266,6 +266,7 @@ prev_link:
   short_title: Second Site
   heading_title: Why Magdalena Changes the Roswell Map
 date: '2026-06-28 10:56:19 '
+last_modified_at: '2026-06-28 10:56:19 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_western_nm_magdalena_e57604-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_western_nm_magdalena_e57604-Illustration-1.webp

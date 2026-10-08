@@ -272,6 +272,7 @@ next_link:
   short_title: Dennis Claims
   heading_title: Can the Memo Support Glenn Dennis's Story?
 date: '2026-06-28 10:56:24 '
+last_modified_at: '2026-06-28 10:56:24 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_photos_vs_witness_me_8299e3-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_photos_vs_witness_me_8299e3-Illustration-1.webp

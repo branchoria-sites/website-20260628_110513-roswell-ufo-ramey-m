@@ -272,6 +272,7 @@ next_link:
   short_title: Remains Claim
   heading_title: Does 'Remains' Mean Debris, Not Bodies?
 date: '2026-06-28 10:57:01 '
+last_modified_at: '2026-06-28 10:57:01 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_comparison_table_kir_82a7c7-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_comparison_table_kir_82a7c7-Illustration-1.webp

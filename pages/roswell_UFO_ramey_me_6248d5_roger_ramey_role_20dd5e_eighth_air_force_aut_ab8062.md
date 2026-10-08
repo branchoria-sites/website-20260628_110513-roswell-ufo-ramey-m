@@ -266,6 +266,7 @@ next_link:
   short_title: NBC Claim
   heading_title: Why Ramey's Broadcast Mattered
 date: '2026-06-28 10:55:57 '
+last_modified_at: '2026-06-28 10:55:57 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062-Illustration-1.webp

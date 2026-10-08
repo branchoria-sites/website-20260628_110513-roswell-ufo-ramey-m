@@ -440,6 +440,7 @@ next_link:
   short_title: Ramey
   heading_title: Ramey's Place in the Roswell Pivot
 date: '2026-06-28 10:55:36 '
+last_modified_at: '2026-06-28 10:55:36 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a-overview.webp

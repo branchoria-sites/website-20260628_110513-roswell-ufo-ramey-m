@@ -272,6 +272,7 @@ next_link:
   short_title: Test Images
   heading_title: Why better images still failed
 date: '2026-06-28 10:57:36 '
+last_modified_at: '2026-06-28 10:57:36 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_suggested_stories_mo_ab9621-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_suggested_stories_mo_ab9621-Illustration-1.webp

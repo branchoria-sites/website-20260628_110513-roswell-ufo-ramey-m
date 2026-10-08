@@ -266,6 +266,7 @@ next_link:
   short_title: Date Gap
   heading_title: Can a 1950 s memory explain 1947?
 date: '2026-06-28 10:56:07 '
+last_modified_at: '2026-06-28 10:56:07 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_case_closed_counter_b57ef0-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_case_closed_counter_b57ef0-Illustration-1.webp

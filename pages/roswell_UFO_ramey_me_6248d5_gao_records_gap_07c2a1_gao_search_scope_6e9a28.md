@@ -272,6 +272,7 @@ next_link:
   short_title: Two Records
   heading_title: What the Two 1947 Records Really Prove
 date: '2026-06-28 10:55:40 '
+last_modified_at: '2026-06-28 10:55:40 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-1.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Skeptic View
   heading_title: Why the Memo Falls Short as Proof
 date: '2026-06-28 10:55:36 '
+last_modified_at: '2026-06-28 10:55:36 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-overview.webp

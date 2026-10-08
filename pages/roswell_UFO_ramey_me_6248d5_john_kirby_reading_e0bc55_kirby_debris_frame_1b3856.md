@@ -266,6 +266,7 @@ next_link:
   short_title: Kirby Method
   heading_title: What Could Kirby's Equipment Really Reveal?
 date: '2026-06-28 10:55:54 '
+last_modified_at: '2026-06-28 10:55:54 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_debris_frame_1b3856-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_debris_frame_1b3856-Illustration-1.webp

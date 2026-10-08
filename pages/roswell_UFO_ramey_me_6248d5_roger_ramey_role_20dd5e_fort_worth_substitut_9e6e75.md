@@ -272,6 +272,7 @@ next_link:
   short_title: Three Officers
   heading_title: Why Three Officers in One Room Matter
 date: '2026-06-28 10:56:00 '
+last_modified_at: '2026-06-28 10:56:00 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_substitut_9e6e75-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_substitut_9e6e75-Illustration-1.webp

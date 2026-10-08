@@ -272,6 +272,7 @@ next_link:
   short_title: Flight 4
   heading_title: Was NYU Flight 4 the Roswell Debris?
 date: '2026-06-28 10:58:32 '
+last_modified_at: '2026-06-28 10:58:32 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_fbi_teletype_balloon_1dc33a-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_fbi_teletype_balloon_1dc33a-Illustration-1.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Marcel
   heading_title: Why Marcel in the Photo Matters
 date: '2026-06-28 10:55:10 '
+last_modified_at: '2026-06-28 10:55:10 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502-overview.webp

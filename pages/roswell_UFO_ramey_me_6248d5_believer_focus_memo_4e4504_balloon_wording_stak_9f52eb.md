@@ -272,6 +272,7 @@ next_link:
   short_title: Empirical Test
   heading_title: Why Believers Think the Memo Can Be Tested
 date: '2026-06-28 10:57:18 '
+last_modified_at: '2026-06-28 10:57:18 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_balloon_wording_stak_9f52eb-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_balloon_wording_stak_9f52eb-Illustration-1.webp

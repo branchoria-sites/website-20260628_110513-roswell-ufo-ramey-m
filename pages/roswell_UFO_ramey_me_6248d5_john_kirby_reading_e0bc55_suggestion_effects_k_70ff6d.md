@@ -266,6 +266,7 @@ prev_link:
   short_title: Stable Words
   heading_title: Which Memo Words Are Actually Strongest?
 date: '2026-06-28 10:57:05 '
+last_modified_at: '2026-06-28 10:57:05 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_suggestion_effects_k_70ff6d-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_suggestion_effects_k_70ff6d-Illustration-1.webp

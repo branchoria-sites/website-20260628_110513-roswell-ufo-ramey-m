@@ -272,6 +272,7 @@ next_link:
   short_title: Partial Letters
   heading_title: Why Smudges Turn Into UFO Words
 date: '2026-06-28 10:58:29 '
+last_modified_at: '2026-06-28 10:58:29 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-1.webp

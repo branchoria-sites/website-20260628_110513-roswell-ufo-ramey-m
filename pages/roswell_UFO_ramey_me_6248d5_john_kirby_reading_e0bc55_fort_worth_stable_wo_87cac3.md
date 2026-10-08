@@ -272,6 +272,7 @@ next_link:
   short_title: Suggestion Risk
   heading_title: Can Expectations Create Memo Words?
 date: '2026-06-28 10:57:01 '
+last_modified_at: '2026-06-28 10:57:01 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_fort_worth_stable_wo_87cac3-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_fort_worth_stable_wo_87cac3-Illustration-1.webp

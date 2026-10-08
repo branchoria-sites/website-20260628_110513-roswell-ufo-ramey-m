@@ -272,6 +272,7 @@ next_link:
   short_title: Proven photo
   heading_title: What provenance can and cannot prove
 date: '2026-06-28 10:56:31 '
+last_modified_at: '2026-06-28 10:56:31 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ramey_memo_proof_bur_12f8ee-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ramey_memo_proof_bur_12f8ee-Illustration-1.webp
