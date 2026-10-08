@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-skeptic/
 description: Focused pages that expand on Skeptic View.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb
 parent_title: Skeptic View
