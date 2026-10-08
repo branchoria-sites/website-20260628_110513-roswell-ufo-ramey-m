@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-russ-estes/
 description: Focused pages that expand on Estes.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a
 parent_title: Estes

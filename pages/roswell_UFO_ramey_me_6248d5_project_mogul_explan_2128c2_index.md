@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-ramey-me-6248d5-project/
 description: Focused pages that expand on Project Mogul.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2
 parent_title: Project Mogul
