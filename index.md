@@ -208,7 +208,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'believer-focus/' | relative_url }}" title="Why This Tiny Paper Became So Important | roswell UFO ramey" aria-label="Open page: Why This Tiny Paper Became So Important | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'believer-focus/' | relative_url }}" title="Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504-overview.webp' | relative_url }}" alt="Overview image for Why This Tiny Paper Became So Important | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -230,7 +230,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504-missing-1947-files-9f2d4a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-files/' | relative_url }}" title="Did Missing Records Make the Memo Bigger? | roswell UFO ramey me 6248 d5 believer focus memo" aria-label="Open page: Did Missing Records Make the Memo Bigger? | roswell UFO ramey me 6248 d5 believer focus memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-files/' | relative_url }}" title="Did Missing Records Make the Memo Bigger? | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did Missing Records Make the Memo Bigger? | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_missing_1947_files_9f2d4a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Missing Records Make the Memo Bigger? | roswell UFO ramey me 6248 d5 believer focus memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -250,7 +250,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504-fort-worth-private-m-be6acb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-8a905b/' | relative_url }}" title="Was the Memo a Private Message in Public? | roswell UFO ramey me 6248 d5 believer focus memo" aria-label="Open page: Was the Memo a Private Message in Public? | roswell UFO ramey me 6248 d5 believer focus memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-8a905b/' | relative_url }}" title="Was the Memo a Private Message in Public? | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Memo a Private Message in Public? | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_fort_worth_private_m_be6acb-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Memo a Private Message in Public? | roswell UFO ramey me 6248 d5 believer focus memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -270,7 +270,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504-contemporary-records-ad48ae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '1947-records/' | relative_url }}" title="Why 1947 Evidence Matters So Much | roswell UFO ramey me 6248 d5 believer focus memo" aria-label="Open page: Why 1947 Evidence Matters So Much | roswell UFO ramey me 6248 d5 believer focus memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '1947-records/' | relative_url }}" title="Why 1947 Evidence Matters So Much | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why 1947 Evidence Matters So Much | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_contemporary_records_ad48ae-Illustration-1.webp' | relative_url }}" alt="Overview image for Why 1947 Evidence Matters So Much | roswell UFO ramey me 6248 d5 believer focus memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -290,7 +290,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504-empirical-memo-test-8d8c3c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'empirical-test/' | relative_url }}" title="Why Believers Think the Memo Can Be Tested | roswell UFO ramey me 6248 d5 believer focus memo" aria-label="Open page: Why Believers Think the Memo Can Be Tested | roswell UFO ramey me 6248 d5 believer focus memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'empirical-test/' | relative_url }}" title="Why Believers Think the Memo Can Be Tested | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Believers Think the Memo Can Be Tested | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_empirical_memo_test_8d8c3c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Believers Think the Memo Can Be Tested | roswell UFO ramey me 6248 d5 believer focus memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -310,7 +310,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504-balloon-wording-stak-9f52eb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-clash/' | relative_url }}" title="Why One Word Could Change the Stakes | roswell UFO ramey me 6248 d5 believer focus memo" aria-label="Open page: Why One Word Could Change the Stakes | roswell UFO ramey me 6248 d5 believer focus memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-clash/' | relative_url }}" title="Why One Word Could Change the Stakes | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why One Word Could Change the Stakes | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_balloon_wording_stak_9f52eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Word Could Change the Stakes | roswell UFO ramey me 6248 d5 believer focus memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -330,7 +330,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-believer-focus-memo-4e4504-unresolved-memo-deba-510077" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-text/' | relative_url }}" title="Why the Memo Still Has Not Gone Away | roswell UFO ramey me 6248 d5 believer focus memo" aria-label="Open page: Why the Memo Still Has Not Gone Away | roswell UFO ramey me 6248 d5 believer focus memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-text/' | relative_url }}" title="Why the Memo Still Has Not Gone Away | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Memo Still Has Not Gone Away | Why This Tiny Paper Became So Important | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_unresolved_memo_deba_510077-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Memo Still Has Not Gone Away | roswell UFO ramey me 6248 d5 believer focus memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -352,7 +352,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-tests/' | relative_url }}" title="How to Test a Mystery Photo Fairly | roswell UFO ramey" aria-label="Open page: How to Test a Mystery Photo Fairly | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-tests/' | relative_url }}" title="How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061-overview.webp' | relative_url }}" alt="Overview image for How to Test a Mystery Photo Fairly | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -374,7 +374,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061-neutral-prompts-rame-b31565" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'neutral-prompts/' | relative_url }}" title="Can a Prompt Change the Memo? | roswell UFO ramey me 6248 d5 blind reading tests" aria-label="Open page: Can a Prompt Change the Memo? | roswell UFO ramey me 6248 d5 blind reading tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'neutral-prompts/' | relative_url }}" title="Can a Prompt Change the Memo? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can a Prompt Change the Memo? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_neutral_prompts_rame_b31565-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Prompt Change the Memo? | roswell UFO ramey me 6248 d5 blind reading tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -394,7 +394,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061-known-text-photo-tes-9bdcc8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'known-texts/' | relative_url }}" title="Can the Method Recover Real Words? | roswell UFO ramey me 6248 d5 blind reading tests" aria-label="Open page: Can the Method Recover Real Words? | roswell UFO ramey me 6248 d5 blind reading tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'known-texts/' | relative_url }}" title="Can the Method Recover Real Words? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can the Method Recover Real Words? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_known_text_photo_tes_9bdcc8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Method Recover Real Words? | roswell UFO ramey me 6248 d5 blind reading tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -414,7 +414,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061-ramey-word-scoring-18dc5e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'word-scoring/' | relative_url }}" title="How Should Memo Words Be Scored? | roswell UFO ramey me 6248 d5 blind reading tests" aria-label="Open page: How Should Memo Words Be Scored? | roswell UFO ramey me 6248 d5 blind reading tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'word-scoring/' | relative_url }}" title="How Should Memo Words Be Scored? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Should Memo Words Be Scored? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_ramey_word_scoring_18dc5e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Should Memo Words Be Scored? | roswell UFO ramey me 6248 d5 blind reading tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -434,7 +434,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061-houran-randle-blind-fa7b2d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-study/' | relative_url }}" title="What Did the Blind Test Find? | roswell UFO ramey me 6248 d5 blind reading tests" aria-label="Open page: What Did the Blind Test Find? | roswell UFO ramey me 6248 d5 blind reading tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-study/' | relative_url }}" title="What Did the Blind Test Find? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Did the Blind Test Find? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_houran_randle_blind_fa7b2d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Blind Test Find? | roswell UFO ramey me 6248 d5 blind reading tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -454,7 +454,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061-stable-memo-fragment-4f7c95" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stable-fragments/' | relative_url }}" title="Which Memo Fragments Actually Hold Up? | roswell UFO ramey me 6248 d5 blind reading tests" aria-label="Open page: Which Memo Fragments Actually Hold Up? | roswell UFO ramey me 6248 d5 blind reading tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stable-fragments/' | relative_url }}" title="Which Memo Fragments Actually Hold Up? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Which Memo Fragments Actually Hold Up? | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_stable_memo_fragment_4f7c95-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Memo Fragments Actually Hold Up? | roswell UFO ramey me 6248 d5 blind reading tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -474,7 +474,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-blind-reading-tests-eb0061-confidence-blurred-p-0ca9a4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-confidence/' | relative_url }}" title="Why Seeing Words Is Not Enough | roswell UFO ramey me 6248 d5 blind reading tests" aria-label="Open page: Why Seeing Words Is Not Enough | roswell UFO ramey me 6248 d5 blind reading tests">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'false-confidence/' | relative_url }}" title="Why Seeing Words Is Not Enough | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Seeing Words Is Not Enough | How to Test a Mystery Photo Fairly | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_confidence_blurred_p_0ca9a4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Seeing Words Is Not Enough | roswell UFO ramey me 6248 d5 blind reading tests" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -496,7 +496,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'case-closed/' | relative_url }}" title="The Official Answer to Body Stories | roswell UFO ramey" aria-label="Open page: The Official Answer to Body Stories | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'case-closed/' | relative_url }}" title="The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a-overview.webp' | relative_url }}" alt="Overview image for The Official Answer to Body Stories | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -518,7 +518,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a-dummy-date-gap-14a900" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'date-gap/' | relative_url }}" title="Can a 1950 s memory explain 1947? | roswell UFO ramey me 6248 d5 case closed bodies" aria-label="Open page: Can a 1950 s memory explain 1947? | roswell UFO ramey me 6248 d5 case closed bodies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'date-gap/' | relative_url }}" title="Can a 1950 s memory explain 1947? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can a 1950 s memory explain 1947? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_dummy_date_gap_14a900-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a 1950 s memory explain 1947? | roswell UFO ramey me 6248 d5 case closed bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -538,7 +538,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a-dummy-drops-body-cla-b604c6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dummy-drops/' | relative_url }}" title="Did test dummies become alien bodies? | roswell UFO ramey me 6248 d5 case closed bodies" aria-label="Open page: Did test dummies become alien bodies? | roswell UFO ramey me 6248 d5 case closed bodies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dummy-drops/' | relative_url }}" title="Did test dummies become alien bodies? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did test dummies become alien bodies? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_dummy_drops_body_cla_b604c6-Illustration-1.webp' | relative_url }}" alt="Overview image for Did test dummies become alien bodies? | roswell UFO ramey me 6248 d5 case closed bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -558,7 +558,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a-kittinger-recovery-r-e4f753" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'kittinger/' | relative_url }}" title="The recovery stories behind the dummy theory | roswell UFO ramey me 6248 d5 case closed bodies" aria-label="Open page: The recovery stories behind the dummy theory | roswell UFO ramey me 6248 d5 case closed bodies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kittinger/' | relative_url }}" title="The recovery stories behind the dummy theory | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The recovery stories behind the dummy theory | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_kittinger_recovery_r_e4f753-Illustration-1.webp' | relative_url }}" alt="Overview image for The recovery stories behind the dummy theory | roswell UFO ramey me 6248 d5 case closed bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -578,7 +578,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a-hospital-body-accide-bcfdcc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hospital-claims/' | relative_url }}" title="Were hospital body stories from later accidents? | roswell UFO ramey me 6248 d5 case closed bodies" aria-label="Open page: Were hospital body stories from later accidents? | roswell UFO ramey me 6248 d5 case closed bodies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hospital-claims/' | relative_url }}" title="Were hospital body stories from later accidents? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Were hospital body stories from later accidents? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_hospital_body_accide_bcfdcc-Illustration-1.webp' | relative_url }}" alt="Overview image for Were hospital body stories from later accidents? | roswell UFO ramey me 6248 d5 case closed bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -598,7 +598,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a-witness-dummy-matche-9b78b5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'matched-details/' | relative_url }}" title="Which body details helped the dummy theory? | roswell UFO ramey me 6248 d5 case closed bodies" aria-label="Open page: Which body details helped the dummy theory? | roswell UFO ramey me 6248 d5 case closed bodies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'matched-details/' | relative_url }}" title="Which body details helped the dummy theory? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Which body details helped the dummy theory? | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_witness_dummy_matche_9b78b5-Illustration-1.webp' | relative_url }}" alt="Overview image for Which body details helped the dummy theory? | roswell UFO ramey me 6248 d5 case closed bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -618,7 +618,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-case-closed-bodies-091a5a-case-closed-counter-b57ef0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'counter-narrative/' | relative_url }}" title="Why Case Closed changed the body debate | roswell UFO ramey me 6248 d5 case closed bodies" aria-label="Open page: Why Case Closed changed the body debate | roswell UFO ramey me 6248 d5 case closed bodies">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'counter-narrative/' | relative_url }}" title="Why Case Closed changed the body debate | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Case Closed changed the body debate | The Official Answer to Body Stories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_case_closed_counter_b57ef0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Case Closed changed the body debate | roswell UFO ramey me 6248 d5 case closed bodies" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -640,7 +640,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-story/' | relative_url }}" title="Did the Memo Mention the Story? | roswell UFO ramey" aria-label="Open page: Did the Memo Mention the Story? | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crash-story/' | relative_url }}" title="Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01-overview.webp' | relative_url }}" alt="Overview image for Did the Memo Mention the Story? | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -662,7 +662,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01-quotation-marks-risk-7567d6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'quote-marks/' | relative_url }}" title="Do the Quotation Marks Really Matter? | roswell UFO ramey me 6248 d5 crash story phrase" aria-label="Open page: Do the Quotation Marks Really Matter? | roswell UFO ramey me 6248 d5 crash story phrase">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'quote-marks/' | relative_url }}" title="Do the Quotation Marks Really Matter? | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Do the Quotation Marks Really Matter? | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_quotation_marks_risk_7567d6-Illustration-1.webp' | relative_url }}" alt="Overview image for Do the Quotation Marks Really Matter? | roswell UFO ramey me 6248 d5 crash story phrase" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -682,7 +682,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01-weather-balloons-clu-0fd37e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-clue/' | relative_url }}" title="Does &#x27;Weather Balloons&#x27; Help or Hurt? | roswell UFO ramey me 6248 d5 crash story phrase" aria-label="Open page: Does &#x27;Weather Balloons&#x27; Help or Hurt? | roswell UFO ramey me 6248 d5 crash story phrase">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-clue/' | relative_url }}" title="Does 'Weather Balloons' Help or Hurt? | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Does 'Weather Balloons' Help or Hurt? | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_weather_balloons_clu_0fd37e-Illustration-1.webp' | relative_url }}" alt="Overview image for Does &#x27;Weather Balloons&#x27; Help or Hurt? | roswell UFO ramey me 6248 d5 crash story phrase" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -702,7 +702,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01-johnson-1998-reconst-c248e2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '1998-reading/' | relative_url }}" title="The Reconstruction That Made &#x27;Crash Story&#x27; Famous | roswell UFO ramey me 6248 d5 crash story phrase" aria-label="Open page: The Reconstruction That Made &#x27;Crash Story&#x27; Famous | roswell UFO ramey me 6248 d5 crash story phrase">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '1998-reading/' | relative_url }}" title="The Reconstruction That Made 'Crash Story' Famous | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Reconstruction That Made 'Crash Story' Famous | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_johnson_1998_reconst_c248e2-Illustration-1.webp' | relative_url }}" alt="Overview image for The Reconstruction That Made &#x27;Crash Story&#x27; Famous | roswell UFO ramey me 6248 d5 crash story phrase" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -722,7 +722,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01-press-language-in-me-6f737a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'press-language/' | relative_url }}" title="Was the Memo Talking About the News? | roswell UFO ramey me 6248 d5 crash story phrase" aria-label="Open page: Was the Memo Talking About the News? | roswell UFO ramey me 6248 d5 crash story phrase">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'press-language/' | relative_url }}" title="Was the Memo Talking About the News? | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Memo Talking About the News? | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_press_language_in_me_6f737a-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Memo Talking About the News? | roswell UFO ramey me 6248 d5 crash story phrase" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -742,7 +742,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01-crash-story-proof-li-17abd0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-limits/' | relative_url }}" title="What the &#x27;Crash Story&#x27; Clue Can Prove | roswell UFO ramey me 6248 d5 crash story phrase" aria-label="Open page: What the &#x27;Crash Story&#x27; Clue Can Prove | roswell UFO ramey me 6248 d5 crash story phrase">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-limits/' | relative_url }}" title="What the 'Crash Story' Clue Can Prove | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the 'Crash Story' Clue Can Prove | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_crash_story_proof_li_17abd0-Illustration-1.webp' | relative_url }}" alt="Overview image for What the &#x27;Crash Story&#x27; Clue Can Prove | roswell UFO ramey me 6248 d5 crash story phrase" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -762,7 +762,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-crash-story-phrase-2eaf01-story-stronger-than-87d7bf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'story-clue/' | relative_url }}" title="Why &#x27;Story&#x27; Matters More Than &#x27;Crash Story&#x27; | roswell UFO ramey me 6248 d5 crash story phrase" aria-label="Open page: Why &#x27;Story&#x27; Matters More Than &#x27;Crash Story&#x27; | roswell UFO ramey me 6248 d5 crash story phrase">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'story-clue/' | relative_url }}" title="Why 'Story' Matters More Than 'Crash Story' | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why 'Story' Matters More Than 'Crash Story' | Did the Memo Mention the Story? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01_story_stronger_than_87d7bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why &#x27;Story&#x27; Matters More Than &#x27;Crash Story&#x27; | roswell UFO ramey me 6248 d5 crash story phrase" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -784,7 +784,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'emergency-powers/' | relative_url }}" title="The Dramatic Phrase Nobody Can Secure | roswell UFO ramey" aria-label="Open page: The Dramatic Phrase Nobody Can Secure | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'emergency-powers/' | relative_url }}" title="The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b-overview.webp' | relative_url }}" alt="Overview image for The Dramatic Phrase Nobody Can Secure | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -806,7 +806,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b-powers-are-needed-re-1d3fcb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'readable-words/' | relative_url }}" title="Can the memo really say powers are needed? | roswell UFO ramey me 6248 d5 emergency powers phr" aria-label="Open page: Can the memo really say powers are needed? | roswell UFO ramey me 6248 d5 emergency powers phr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'readable-words/' | relative_url }}" title="Can the memo really say powers are needed? | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can the memo really say powers are needed? | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_powers_are_needed_re_1d3fcb-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the memo really say powers are needed? | roswell UFO ramey me 6248 d5 emergency powers phr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -826,7 +826,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b-magdalena-site-claim-1effd3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'magdalena-site/' | relative_url }}" title="Did the phrase point to a second site? | roswell UFO ramey me 6248 d5 emergency powers phr" aria-label="Open page: Did the phrase point to a second site? | roswell UFO ramey me 6248 d5 emergency powers phr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'magdalena-site/' | relative_url }}" title="Did the phrase point to a second site? | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did the phrase point to a second site? | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the phrase point to a second site? | roswell UFO ramey me 6248 d5 emergency powers phr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -846,7 +846,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b-official-records-eme-863799" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-records/' | relative_url }}" title="Do official records back emergency powers? | roswell UFO ramey me 6248 d5 emergency powers phr" aria-label="Open page: Do official records back emergency powers? | roswell UFO ramey me 6248 d5 emergency powers phr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-records/' | relative_url }}" title="Do official records back emergency powers? | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Do official records back emergency powers? | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_official_records_eme_863799-Illustration-1.webp' | relative_url }}" alt="Overview image for Do official records back emergency powers? | roswell UFO ramey me 6248 d5 emergency powers phr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -866,7 +866,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b-crisis-wording-stake-272c57" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crisis-stakes/' | relative_url }}" title="What emergency powers would actually change | roswell UFO ramey me 6248 d5 emergency powers phr" aria-label="Open page: What emergency powers would actually change | roswell UFO ramey me 6248 d5 emergency powers phr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crisis-stakes/' | relative_url }}" title="What emergency powers would actually change | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What emergency powers would actually change | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_crisis_wording_stake_272c57-Illustration-1.webp' | relative_url }}" alt="Overview image for What emergency powers would actually change | roswell UFO ramey me 6248 d5 emergency powers phr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -886,7 +886,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b-expectation-effects-0f8df1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation-effects-c5e1e3/' | relative_url }}" title="Why readers see a crisis in blur | roswell UFO ramey me 6248 d5 emergency powers phr" aria-label="Open page: Why readers see a crisis in blur | roswell UFO ramey me 6248 d5 emergency powers phr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation-effects-c5e1e3/' | relative_url }}" title="Why readers see a crisis in blur | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why readers see a crisis in blur | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_expectation_effects_0f8df1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why readers see a crisis in blur | roswell UFO ramey me 6248 d5 emergency powers phr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -906,7 +906,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-emergency-powers-phr-50cb7b-emergency-word-dispu-a37d4b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-emergency/' | relative_url }}" title="Why the word emergency is the weak link | roswell UFO ramey me 6248 d5 emergency powers phr" aria-label="Open page: Why the word emergency is the weak link | roswell UFO ramey me 6248 d5 emergency powers phr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-emergency/' | relative_url }}" title="Why the word emergency is the weak link | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the word emergency is the weak link | The Dramatic Phrase Nobody Can Secure | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_emergency_word_dispu_a37d4b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the word emergency is the weak link | roswell UFO ramey me 6248 d5 emergency powers phr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -928,7 +928,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'estes/' | relative_url }}" title="When Better Scans Still Failed | roswell UFO ramey" aria-label="Open page: When Better Scans Still Failed | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'estes/' | relative_url }}" title="When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a-overview.webp' | relative_url }}" alt="Overview image for When Better Scans Still Failed | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -950,7 +950,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a-faces-clouds-warning-d52387" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-effect/' | relative_url }}" title="Seeing Words That May Not Be There | roswell UFO ramey me 6248 d5 russ estes imaging" aria-label="Open page: Seeing Words That May Not Be There | roswell UFO ramey me 6248 d5 russ estes imaging">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cloud-effect/' | relative_url }}" title="Seeing Words That May Not Be There | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Seeing Words That May Not Be There | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_faces_clouds_warning_d52387-Illustration-1.webp' | relative_url }}" alt="Overview image for Seeing Words That May Not Be There | roswell UFO ramey me 6248 d5 russ estes imaging" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -970,7 +970,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a-fort-work-tex-readin-62f3ae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-work-tex/' | relative_url }}" title="The Best Reading Was Still Unsteady | roswell UFO ramey me 6248 d5 russ estes imaging" aria-label="Open page: The Best Reading Was Still Unsteady | roswell UFO ramey me 6248 d5 russ estes imaging">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-work-tex/' | relative_url }}" title="The Best Reading Was Still Unsteady | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Best Reading Was Still Unsteady | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_fort_work_tex_readin_62f3ae-Illustration-1.webp' | relative_url }}" alt="Overview image for The Best Reading Was Still Unsteady | roswell UFO ramey me 6248 d5 russ estes imaging" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -990,7 +990,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a-macro-camera-bottlen-7c25c4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'macro-setup/' | relative_url }}" title="When Better Gear Meets a Bad Source | roswell UFO ramey me 6248 d5 russ estes imaging" aria-label="Open page: When Better Gear Meets a Bad Source | roswell UFO ramey me 6248 d5 russ estes imaging">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'macro-setup/' | relative_url }}" title="When Better Gear Meets a Bad Source | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Better Gear Meets a Bad Source | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_macro_camera_bottlen_7c25c4-Illustration-1.webp' | relative_url }}" alt="Overview image for When Better Gear Meets a Bad Source | roswell UFO ramey me 6248 d5 russ estes imaging" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1010,7 +1010,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a-ela-meaningless-mark-c9e0a9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ela-marks/' | relative_url }}" title="When Letter Shapes Do Not Become Words | roswell UFO ramey me 6248 d5 russ estes imaging" aria-label="Open page: When Letter Shapes Do Not Become Words | roswell UFO ramey me 6248 d5 russ estes imaging">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ela-marks/' | relative_url }}" title="When Letter Shapes Do Not Become Words | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Letter Shapes Do Not Become Words | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_ela_meaningless_mark_c9e0a9-Illustration-1.webp' | relative_url }}" alt="Overview image for When Letter Shapes Do Not Become Words | roswell UFO ramey me 6248 d5 russ estes imaging" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1030,7 +1030,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a-estes-9000dpi-scan-4d2c94" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '9000-dpi-scan/' | relative_url }}" title="Why a Huge Scan Still Could Not Read It | roswell UFO ramey me 6248 d5 russ estes imaging" aria-label="Open page: Why a Huge Scan Still Could Not Read It | roswell UFO ramey me 6248 d5 russ estes imaging">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '9000-dpi-scan/' | relative_url }}" title="Why a Huge Scan Still Could Not Read It | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why a Huge Scan Still Could Not Read It | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_estes_9000dpi_scan_4d2c94-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Huge Scan Still Could Not Read It | roswell UFO ramey me 6248 d5 russ estes imaging" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1050,7 +1050,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-russ-estes-imaging-6c817a-transcriber-split-es-a52497" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reader-split/' | relative_url }}" title="Why the Transcripts Split Instead of Converging | roswell UFO ramey me 6248 d5 russ estes imaging" aria-label="Open page: Why the Transcripts Split Instead of Converging | roswell UFO ramey me 6248 d5 russ estes imaging">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reader-split/' | relative_url }}" title="Why the Transcripts Split Instead of Converging | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Transcripts Split Instead of Converging | When Better Scans Still Failed | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_transcriber_split_es_a52497-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Transcripts Split Instead of Converging | roswell UFO ramey me 6248 d5 russ estes imaging" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1072,7 +1072,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype/' | relative_url }}" title="The 1947 Document We Can Actually Read | roswell UFO ramey" aria-label="Open page: The 1947 Document We Can Actually Read | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype/' | relative_url }}" title="The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3-overview.webp' | relative_url }}" alt="Overview image for The 1947 Document We Can Actually Read | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1094,7 +1094,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3-teletype-victims-cla-ee7ab9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-claim-5b670a/' | relative_url }}" title="Can &#x27;Victims&#x27; Beat a Clear Teletype? | roswell UFO ramey me 6248 d5 fbi teletype record" aria-label="Open page: Can &#x27;Victims&#x27; Beat a Clear Teletype? | roswell UFO ramey me 6248 d5 fbi teletype record">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-claim-5b670a/' | relative_url }}" title="Can 'Victims' Beat a Clear Teletype? | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can 'Victims' Beat a Clear Teletype? | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_teletype_victims_cla_ee7ab9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can &#x27;Victims&#x27; Beat a Clear Teletype? | roswell UFO ramey me 6248 d5 fbi teletype record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1114,7 +1114,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3-hexagonal-disc-radar-2b1a17" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hexagonal-disc/' | relative_url }}" title="Was the Disc Really Balloon Equipment? | roswell UFO ramey me 6248 d5 fbi teletype record" aria-label="Open page: Was the Disc Really Balloon Equipment? | roswell UFO ramey me 6248 d5 fbi teletype record">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hexagonal-disc/' | relative_url }}" title="Was the Disc Really Balloon Equipment? | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Disc Really Balloon Equipment? | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_hexagonal_disc_radar_2b1a17-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Disc Really Balloon Equipment? | roswell UFO ramey me 6248 d5 fbi teletype record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1134,7 +1134,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3-gao-two-1947-records-aac38e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'gao-records/' | relative_url }}" title="What the GAO Found in the Paper Trail | roswell UFO ramey me 6248 d5 fbi teletype record" aria-label="Open page: What the GAO Found in the Paper Trail | roswell UFO ramey me 6248 d5 fbi teletype record">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'gao-records/' | relative_url }}" title="What the GAO Found in the Paper Trail | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the GAO Found in the Paper Trail | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_gao_two_1947_records_aac38e-Illustration-1.webp' | relative_url }}" alt="Overview image for What the GAO Found in the Paper Trail | roswell UFO ramey me 6248 d5 fbi teletype record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1154,7 +1154,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3-readable-teletype-vs-49be86" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'readable-record/' | relative_url }}" title="Why a Readable Teletype Matters More | roswell UFO ramey me 6248 d5 fbi teletype record" aria-label="Open page: Why a Readable Teletype Matters More | roswell UFO ramey me 6248 d5 fbi teletype record">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'readable-record/' | relative_url }}" title="Why a Readable Teletype Matters More | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why a Readable Teletype Matters More | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_readable_teletype_vs_49be86-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Readable Teletype Matters More | roswell UFO ramey me 6248 d5 fbi teletype record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1174,7 +1174,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3-no-fbi-followup-3f02eb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-follow-up/' | relative_url }}" title="Why the FBI Stopped Looking | roswell UFO ramey me 6248 d5 fbi teletype record" aria-label="Open page: Why the FBI Stopped Looking | roswell UFO ramey me 6248 d5 fbi teletype record">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-follow-up/' | relative_url }}" title="Why the FBI Stopped Looking | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the FBI Stopped Looking | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_no_fbi_followup_3f02eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the FBI Stopped Looking | roswell UFO ramey me 6248 d5 fbi teletype record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1194,7 +1194,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fbi-teletype-record-f2a8c3-wright-field-provisi-eaf501" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wright-field/' | relative_url }}" title="Why Wright Field Kept the Question Open | roswell UFO ramey me 6248 d5 fbi teletype record" aria-label="Open page: Why Wright Field Kept the Question Open | roswell UFO ramey me 6248 d5 fbi teletype record">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wright-field/' | relative_url }}" title="Why Wright Field Kept the Question Open | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Wright Field Kept the Question Open | The 1947 Document We Can Actually Read | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_wright_field_provisi_eaf501-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Wright Field Kept the Question Open | roswell UFO ramey me 6248 d5 fbi teletype record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1216,7 +1216,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth/' | relative_url }}" title="The Word Almost Everyone Can See | roswell UFO ramey" aria-label="Open page: The Word Almost Everyone Can See | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth/' | relative_url }}" title="The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced-overview.webp' | relative_url }}" alt="Overview image for The Word Almost Everyone Can See | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1238,7 +1238,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced-expectation-fort-wor-0e3925" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation-6843f7/' | relative_url }}" title="Can Knowing Fort Worth Change What You See? | roswell UFO ramey me 6248 d5 fort worth reading" aria-label="Open page: Can Knowing Fort Worth Change What You See? | roswell UFO ramey me 6248 d5 fort worth reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation-6843f7/' | relative_url }}" title="Can Knowing Fort Worth Change What You See? | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can Knowing Fort Worth Change What You See? | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_expectation_fort_wor_0e3925-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Knowing Fort Worth Change What You See? | roswell UFO ramey me 6248 d5 fort worth reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1258,7 +1258,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced-fort-worth-official-95188b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-view/' | relative_url }}" title="Does Fort Worth Challenge the Balloon Explanation? | roswell UFO ramey me 6248 d5 fort worth reading" aria-label="Open page: Does Fort Worth Challenge the Balloon Explanation? | roswell UFO ramey me 6248 d5 fort worth reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-view/' | relative_url }}" title="Does Fort Worth Challenge the Balloon Explanation? | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Does Fort Worth Challenge the Balloon Explanation? | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_official_95188b-Illustration-1.webp' | relative_url }}" alt="Overview image for Does Fort Worth Challenge the Balloon Explanation? | roswell UFO ramey me 6248 d5 fort worth reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1278,7 +1278,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced-fort-worth-provenanc-6a4837" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'provenance/' | relative_url }}" title="The Fort Worth Trail Behind the Memo | roswell UFO ramey me 6248 d5 fort worth reading" aria-label="Open page: The Fort Worth Trail Behind the Memo | roswell UFO ramey me 6248 d5 fort worth reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'provenance/' | relative_url }}" title="The Fort Worth Trail Behind the Memo | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Fort Worth Trail Behind the Memo | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_provenanc_6a4837-Illustration-1.webp' | relative_url }}" alt="Overview image for The Fort Worth Trail Behind the Memo | roswell UFO ramey me 6248 d5 fort worth reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1298,7 +1298,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced-fort-worth-claim-lim-e2daa0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-limits/' | relative_url }}" title="What Fort Worth Can and Cannot Prove | roswell UFO ramey me 6248 d5 fort worth reading" aria-label="Open page: What Fort Worth Can and Cannot Prove | roswell UFO ramey me 6248 d5 fort worth reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-limits/' | relative_url }}" title="What Fort Worth Can and Cannot Prove | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Fort Worth Can and Cannot Prove | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_claim_lim_e2daa0-Illustration-1.webp' | relative_url }}" alt="Overview image for What Fort Worth Can and Cannot Prove | roswell UFO ramey me 6248 d5 fort worth reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1318,7 +1318,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced-fort-worth-calibrati-8c3769" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'calibration/' | relative_url }}" title="Why One Place Name Matters So Much | roswell UFO ramey me 6248 d5 fort worth reading" aria-label="Open page: Why One Place Name Matters So Much | roswell UFO ramey me 6248 d5 fort worth reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'calibration/' | relative_url }}" title="Why One Place Name Matters So Much | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why One Place Name Matters So Much | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_fort_worth_calibrati_8c3769-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Place Name Matters So Much | roswell UFO ramey me 6248 d5 fort worth reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1338,7 +1338,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-reading-873ced-competing-fort-worth-75bae9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'readings/' | relative_url }}" title="Why Transcribers Agree on Fort Worth | roswell UFO ramey me 6248 d5 fort worth reading" aria-label="Open page: Why Transcribers Agree on Fort Worth | roswell UFO ramey me 6248 d5 fort worth reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'readings/' | relative_url }}" title="Why Transcribers Agree on Fort Worth | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Transcribers Agree on Fort Worth | The Word Almost Everyone Can See | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_competing_fort_worth_75bae9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Transcribers Agree on Fort Worth | roswell UFO ramey me 6248 d5 fort worth reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1360,7 +1360,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'gao-search/' | relative_url }}" title="Why So Few Roswell Records Remain | roswell UFO ramey" aria-label="Open page: Why So Few Roswell Records Remain | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'gao-search/' | relative_url }}" title="Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1-overview.webp' | relative_url }}" alt="Overview image for Why So Few Roswell Records Remain | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1382,7 +1382,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1-project-mogul-record-348d24" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-context/' | relative_url }}" title="How Project Mogul Framed the Records | roswell UFO ramey me 6248 d5 gao records gap" aria-label="Open page: How Project Mogul Framed the Records | roswell UFO ramey me 6248 d5 gao records gap">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-context/' | relative_url }}" title="How Project Mogul Framed the Records | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Project Mogul Framed the Records | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_project_mogul_record_348d24-Illustration-1.webp' | relative_url }}" alt="Overview image for How Project Mogul Framed the Records | roswell UFO ramey me 6248 d5 gao records gap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1402,7 +1402,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1-gao-search-scope-6e9a28" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-scope/' | relative_url }}" title="How Wide Was GAO&#x27;s Roswell Search? | roswell UFO ramey me 6248 d5 gao records gap" aria-label="Open page: How Wide Was GAO&#x27;s Roswell Search? | roswell UFO ramey me 6248 d5 gao records gap">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'search-scope/' | relative_url }}" title="How Wide Was GAO's Roswell Search? | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Wide Was GAO's Roswell Search? | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_search_scope_6e9a28-Illustration-1.webp' | relative_url }}" alt="Overview image for How Wide Was GAO&#x27;s Roswell Search? | roswell UFO ramey me 6248 d5 gao records gap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1422,7 +1422,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1-raaf-missing-message-6d2790" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-messages/' | relative_url }}" title="The Missing Messages That Could Have Helped | roswell UFO ramey me 6248 d5 gao records gap" aria-label="Open page: The Missing Messages That Could Have Helped | roswell UFO ramey me 6248 d5 gao records gap">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-messages/' | relative_url }}" title="The Missing Messages That Could Have Helped | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Missing Messages That Could Have Helped | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_raaf_missing_message_6d2790-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Messages That Could Have Helped | roswell UFO ramey me 6248 d5 gao records gap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1442,7 +1442,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1-air-force-recordkeep-d82858" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'recordkeeping/' | relative_url }}" title="Was Bad Recordkeeping Mistaken for a Cover Up? | roswell UFO ramey me 6248 d5 gao records gap" aria-label="Open page: Was Bad Recordkeeping Mistaken for a Cover Up? | roswell UFO ramey me 6248 d5 gao records gap">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'recordkeeping/' | relative_url }}" title="Was Bad Recordkeeping Mistaken for a Cover Up? | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was Bad Recordkeeping Mistaken for a Cover Up? | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_air_force_recordkeep_d82858-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Bad Recordkeeping Mistaken for a Cover Up? | roswell UFO ramey me 6248 d5 gao records gap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1462,7 +1462,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1-gao-two-1947-records-aac38e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-records/' | relative_url }}" title="What the Two 1947 Records Really Prove | roswell UFO ramey me 6248 d5 gao records gap" aria-label="Open page: What the Two 1947 Records Really Prove | roswell UFO ramey me 6248 d5 gao records gap">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-records/' | relative_url }}" title="What the Two 1947 Records Really Prove | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the Two 1947 Records Really Prove | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_gao_two_1947_records_aac38e-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Two 1947 Records Really Prove | roswell UFO ramey me 6248 d5 gao records gap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1482,7 +1482,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-gao-records-gap-07c2a1-schiff-roswell-audit-738960" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'schiff-audit/' | relative_url }}" title="Why Congress Pushed GAO Into Roswell | roswell UFO ramey me 6248 d5 gao records gap" aria-label="Open page: Why Congress Pushed GAO Into Roswell | roswell UFO ramey me 6248 d5 gao records gap">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'schiff-audit/' | relative_url }}" title="Why Congress Pushed GAO Into Roswell | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Congress Pushed GAO Into Roswell | Why So Few Roswell Records Remain | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_gao_records_gap_07c2a1_schiff_roswell_audit_738960-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Congress Pushed GAO Into Roswell | roswell UFO ramey me 6248 d5 gao records gap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1504,7 +1504,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson/' | relative_url }}" title="The Photographer Behind the Memo | roswell UFO ramey" aria-label="Open page: The Photographer Behind the Memo | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson/' | relative_url }}" title="The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41-overview.webp' | relative_url }}" alt="Overview image for The Photographer Behind the Memo | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1526,7 +1526,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41-news-wire-flash-clai-6989b5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'wire-flash/' | relative_url }}" title="Did Johnson Hand Ramey a News Wire Flash? | roswell UFO ramey me 6248 d5 jbond johnson role" aria-label="Open page: Did Johnson Hand Ramey a News Wire Flash? | roswell UFO ramey me 6248 d5 jbond johnson role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'wire-flash/' | relative_url }}" title="Did Johnson Hand Ramey a News Wire Flash? | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did Johnson Hand Ramey a News Wire Flash? | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_news_wire_flash_clai_6989b5-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Johnson Hand Ramey a News Wire Flash? | roswell UFO ramey me 6248 d5 jbond johnson role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1546,7 +1546,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41-ramey-desk-prop-stor-282433" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'desk-prop/' | relative_url }}" title="Was the Memo Just a Photo Prop? | roswell UFO ramey me 6248 d5 jbond johnson role" aria-label="Open page: Was the Memo Just a Photo Prop? | roswell UFO ramey me 6248 d5 jbond johnson role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'desk-prop/' | relative_url }}" title="Was the Memo Just a Photo Prop? | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Memo Just a Photo Prop? | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_ramey_desk_prop_stor_282433-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Memo Just a Photo Prop? | roswell UFO ramey me 6248 d5 jbond johnson role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1566,7 +1566,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41-accidental-memo-fram-e6f38f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'accidental-frame/' | relative_url }}" title="Was the Ramey Memo an Accidental Leak? | roswell UFO ramey me 6248 d5 jbond johnson role" aria-label="Open page: Was the Ramey Memo an Accidental Leak? | roswell UFO ramey me 6248 d5 jbond johnson role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'accidental-frame/' | relative_url }}" title="Was the Ramey Memo an Accidental Leak? | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Ramey Memo an Accidental Leak? | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_accidental_memo_fram_e6f38f-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Ramey Memo an Accidental Leak? | roswell UFO ramey me 6248 d5 jbond johnson role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1586,7 +1586,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41-johnson-photo-sequen-c78a4b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-sequence/' | relative_url }}" title="What Johnson&#x27;s Photo Sequence Can Still Tell US | roswell UFO ramey me 6248 d5 jbond johnson role" aria-label="Open page: What Johnson&#x27;s Photo Sequence Can Still Tell US | roswell UFO ramey me 6248 d5 jbond johnson role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-sequence/' | relative_url }}" title="What Johnson's Photo Sequence Can Still Tell US | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Johnson's Photo Sequence Can Still Tell US | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_johnson_photo_sequen_c78a4b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Johnson&#x27;s Photo Sequence Can Still Tell US | roswell UFO ramey me 6248 d5 jbond johnson role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1606,7 +1606,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41-johnson-shifting-rec-e71436" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory-shift/' | relative_url }}" title="When the Photographer Becomes a Witness | roswell UFO ramey me 6248 d5 jbond johnson role" aria-label="Open page: When the Photographer Becomes a Witness | roswell UFO ramey me 6248 d5 jbond johnson role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory-shift/' | relative_url }}" title="When the Photographer Becomes a Witness | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When the Photographer Becomes a Witness | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_johnson_shifting_rec_e71436-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Photographer Becomes a Witness | roswell UFO ramey me 6248 d5 jbond johnson role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1626,7 +1626,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jbond-johnson-role-147f41-johnson-victims-read-cc2278" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-reading/' | relative_url }}" title="Why Johnson&#x27;s &#x27;Victims&#x27; Reading Remains Disputed | roswell UFO ramey me 6248 d5 jbond johnson role" aria-label="Open page: Why Johnson&#x27;s &#x27;Victims&#x27; Reading Remains Disputed | roswell UFO ramey me 6248 d5 jbond johnson role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-reading/' | relative_url }}" title="Why Johnson's 'Victims' Reading Remains Disputed | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Johnson's 'Victims' Reading Remains Disputed | The Photographer Behind the Memo | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jbond_johnson_role_147f41_johnson_victims_read_cc2278-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Johnson&#x27;s &#x27;Victims&#x27; Reading Remains Disputed | roswell UFO ramey me 6248 d5 jbond johnson role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1648,7 +1648,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'kirby/' | relative_url }}" title="The Reading That Points Back to Debris | roswell UFO ramey" aria-label="Open page: The Reading That Points Back to Debris | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kirby/' | relative_url }}" title="The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55-overview.webp' | relative_url }}" alt="Overview image for The Reading That Points Back to Debris | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1670,7 +1670,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55-suggestion-effects-k-70ff6d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'suggestion-risk/' | relative_url }}" title="Can Expectations Create Memo Words? | roswell UFO ramey me 6248 d5 john kirby reading" aria-label="Open page: Can Expectations Create Memo Words? | roswell UFO ramey me 6248 d5 john kirby reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'suggestion-risk/' | relative_url }}" title="Can Expectations Create Memo Words? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can Expectations Create Memo Words? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_suggestion_effects_k_70ff6d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Expectations Create Memo Words? | roswell UFO ramey me 6248 d5 john kirby reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1690,7 +1690,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55-remains-not-bodies-4566e8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'remains-claim/' | relative_url }}" title="Does &#x27;Remains&#x27; Mean Debris, Not Bodies? | roswell UFO ramey me 6248 d5 john kirby reading" aria-label="Open page: Does &#x27;Remains&#x27; Mean Debris, Not Bodies? | roswell UFO ramey me 6248 d5 john kirby reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'remains-claim/' | relative_url }}" title="Does 'Remains' Mean Debris, Not Bodies? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Does 'Remains' Mean Debris, Not Bodies? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_remains_not_bodies_4566e8-Illustration-1.webp' | relative_url }}" alt="Overview image for Does &#x27;Remains&#x27; Mean Debris, Not Bodies? | roswell UFO ramey me 6248 d5 john kirby reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1710,7 +1710,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55-comparison-table-kir-82a7c7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reading-table/' | relative_url }}" title="The Table That Complicates &#x27;Victims&#x27; | roswell UFO ramey me 6248 d5 john kirby reading" aria-label="Open page: The Table That Complicates &#x27;Victims&#x27; | roswell UFO ramey me 6248 d5 john kirby reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reading-table/' | relative_url }}" title="The Table That Complicates 'Victims' | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Table That Complicates 'Victims' | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_comparison_table_kir_82a7c7-Illustration-1.webp' | relative_url }}" alt="Overview image for The Table That Complicates &#x27;Victims&#x27; | roswell UFO ramey me 6248 d5 john kirby reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1730,7 +1730,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55-kirby-equipment-limi-2e19b1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'kirby-method/' | relative_url }}" title="What Could Kirby&#x27;s Equipment Really Reveal? | roswell UFO ramey me 6248 d5 john kirby reading" aria-label="Open page: What Could Kirby&#x27;s Equipment Really Reveal? | roswell UFO ramey me 6248 d5 john kirby reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kirby-method/' | relative_url }}" title="What Could Kirby's Equipment Really Reveal? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Could Kirby's Equipment Really Reveal? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_equipment_limi_2e19b1-Illustration-1.webp' | relative_url }}" alt="Overview image for What Could Kirby&#x27;s Equipment Really Reveal? | roswell UFO ramey me 6248 d5 john kirby reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1750,7 +1750,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55-fort-worth-stable-wo-87cac3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stable-words/' | relative_url }}" title="Which Memo Words Are Actually Strongest? | roswell UFO ramey me 6248 d5 john kirby reading" aria-label="Open page: Which Memo Words Are Actually Strongest? | roswell UFO ramey me 6248 d5 john kirby reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stable-words/' | relative_url }}" title="Which Memo Words Are Actually Strongest? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Which Memo Words Are Actually Strongest? | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_fort_worth_stable_wo_87cac3-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Memo Words Are Actually Strongest? | roswell UFO ramey me 6248 d5 john kirby reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1770,7 +1770,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-john-kirby-reading-e0bc55-kirby-debris-frame-1b3856" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-frame/' | relative_url }}" title="Why Kirby Fits the Debris Story | roswell UFO ramey me 6248 d5 john kirby reading" aria-label="Open page: Why Kirby Fits the Debris Story | roswell UFO ramey me 6248 d5 john kirby reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-frame/' | relative_url }}" title="Why Kirby Fits the Debris Story | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Kirby Fits the Debris Story | The Reading That Points Back to Debris | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_john_kirby_reading_e0bc55_kirby_debris_frame_1b3856-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Kirby Fits the Debris Story | roswell UFO ramey me 6248 d5 john kirby reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1792,7 +1792,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'legibility/' | relative_url }}" title="Can This Memo Be Read? | roswell UFO ramey" aria-label="Open page: Can This Memo Be Read? | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'legibility/' | relative_url }}" title="Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3-overview.webp' | relative_url }}" alt="Overview image for Can This Memo Be Read? | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1814,7 +1814,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3-victims-wreck-phrase-4ffde9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-phrase/' | relative_url }}" title="Can &#x27;Victims of the Wreck&#x27; Be Trusted? | roswell UFO ramey me 6248 d5 memo legibility limi" aria-label="Open page: Can &#x27;Victims of the Wreck&#x27; Be Trusted? | roswell UFO ramey me 6248 d5 memo legibility limi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-phrase/' | relative_url }}" title="Can 'Victims of the Wreck' Be Trusted? | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can 'Victims of the Wreck' Be Trusted? | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_victims_wreck_phrase_4ffde9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can &#x27;Victims of the Wreck&#x27; Be Trusted? | roswell UFO ramey me 6248 d5 memo legibility limi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1834,7 +1834,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3-ramey-claim-check-b0661d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-check/' | relative_url }}" title="How to Spot an Overconfident Memo Reading | roswell UFO ramey me 6248 d5 memo legibility limi" aria-label="Open page: How to Spot an Overconfident Memo Reading | roswell UFO ramey me 6248 d5 memo legibility limi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-check/' | relative_url }}" title="How to Spot an Overconfident Memo Reading | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How to Spot an Overconfident Memo Reading | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_ramey_claim_check_b0661d-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Spot an Overconfident Memo Reading | roswell UFO ramey me 6248 d5 memo legibility limi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1854,7 +1854,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3-fort-worth-fragment-46f118" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-038658/' | relative_url }}" title="What the Memo May Actually Let US Read | roswell UFO ramey me 6248 d5 memo legibility limi" aria-label="Open page: What the Memo May Actually Let US Read | roswell UFO ramey me 6248 d5 memo legibility limi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-038658/' | relative_url }}" title="What the Memo May Actually Let US Read | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the Memo May Actually Let US Read | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_fort_worth_fragment_46f118-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Memo May Actually Let US Read | roswell UFO ramey me 6248 d5 memo legibility limi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1874,7 +1874,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3-air-force-photo-test-b88d69" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'air-force-test/' | relative_url }}" title="When Official Analysts Tried to Read It | roswell UFO ramey me 6248 d5 memo legibility limi" aria-label="Open page: When Official Analysts Tried to Read It | roswell UFO ramey me 6248 d5 memo legibility limi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'air-force-test/' | relative_url }}" title="When Official Analysts Tried to Read It | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Official Analysts Tried to Read It | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_air_force_photo_test_b88d69-Illustration-1.webp' | relative_url }}" alt="Overview image for When Official Analysts Tried to Read It | roswell UFO ramey me 6248 d5 memo legibility limi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1894,7 +1894,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3-blurry-marks-words-baff6d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-illusions/' | relative_url }}" title="Why Blurry Marks Start Looking Like Words | roswell UFO ramey me 6248 d5 memo legibility limi" aria-label="Open page: Why Blurry Marks Start Looking Like Words | roswell UFO ramey me 6248 d5 memo legibility limi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-illusions/' | relative_url }}" title="Why Blurry Marks Start Looking Like Words | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Blurry Marks Start Looking Like Words | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_blurry_marks_words_baff6d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blurry Marks Start Looking Like Words | roswell UFO ramey me 6248 d5 memo legibility limi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1914,7 +1914,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-legibility-limi-cfebd3-competing-transcript-aeab95" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reading-disputes/' | relative_url }}" title="Why the Transcriptions Do Not Match | roswell UFO ramey me 6248 d5 memo legibility limi" aria-label="Open page: Why the Transcriptions Do Not Match | roswell UFO ramey me 6248 d5 memo legibility limi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reading-disputes/' | relative_url }}" title="Why the Transcriptions Do Not Match | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Transcriptions Do Not Match | Can This Memo Be Read? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_legibility_limi_cfebd3_competing_transcript_aeab95-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Transcriptions Do Not Match | roswell UFO ramey me 6248 d5 memo legibility limi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1936,7 +1936,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'magdalena/' | relative_url }}" title="The Place Name That Changes the Story | roswell UFO ramey" aria-label="Open page: The Place Name That Changes the Story | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'magdalena/' | relative_url }}" title="The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502-overview.webp' | relative_url }}" alt="Overview image for The Place Name That Changes the Story | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1958,7 +1958,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502-magdalena-letter-fit-8baf94" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'letter-fit/' | relative_url }}" title="Did Magdalena Even Fit the Line? | roswell UFO ramey me 6248 d5 magdalena reading" aria-label="Open page: Did Magdalena Even Fit the Line? | roswell UFO ramey me 6248 d5 magdalena reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'letter-fit/' | relative_url }}" title="Did Magdalena Even Fit the Line? | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did Magdalena Even Fit the Line? | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_magdalena_letter_fit_8baf94-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Magdalena Even Fit the Line? | roswell UFO ramey me 6248 d5 magdalena reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1978,7 +1978,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502-johnson-magdalena-re-a23474" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson-reading/' | relative_url }}" title="How Magdalena Entered the Ramey Debate | roswell UFO ramey me 6248 d5 magdalena reading" aria-label="Open page: How Magdalena Entered the Ramey Debate | roswell UFO ramey me 6248 d5 magdalena reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson-reading/' | relative_url }}" title="How Magdalena Entered the Ramey Debate | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Magdalena Entered the Ramey Debate | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_johnson_magdalena_re_a23474-Illustration-1.webp' | relative_url }}" alt="Overview image for How Magdalena Entered the Ramey Debate | roswell UFO ramey me 6248 d5 magdalena reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1998,7 +1998,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502-magdalena-second-sit-fbeaca" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'second-site/' | relative_url }}" title="Why Magdalena Changes the Roswell Map | roswell UFO ramey me 6248 d5 magdalena reading" aria-label="Open page: Why Magdalena Changes the Roswell Map | roswell UFO ramey me 6248 d5 magdalena reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'second-site/' | relative_url }}" title="Why Magdalena Changes the Roswell Map | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Magdalena Changes the Roswell Map | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_magdalena_second_sit_fbeaca-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Magdalena Changes the Roswell Map | roswell UFO ramey me 6248 d5 magdalena reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2018,7 +2018,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502-official-records-mag-0c4000" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-trail/' | relative_url }}" title="Why Official Records Push Back | roswell UFO ramey me 6248 d5 magdalena reading" aria-label="Open page: Why Official Records Push Back | roswell UFO ramey me 6248 d5 magdalena reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-trail/' | relative_url }}" title="Why Official Records Push Back | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Official Records Push Back | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_official_records_mag_0c4000-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Official Records Push Back | roswell UFO ramey me 6248 d5 magdalena reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2038,7 +2038,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502-expectation-magdalen-2c0edb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation/' | relative_url }}" title="Why Readers Start Seeing Magdalena | roswell UFO ramey me 6248 d5 magdalena reading" aria-label="Open page: Why Readers Start Seeing Magdalena | roswell UFO ramey me 6248 d5 magdalena reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation/' | relative_url }}" title="Why Readers Start Seeing Magdalena | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Readers Start Seeing Magdalena | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_expectation_magdalen_2c0edb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Readers Start Seeing Magdalena | roswell UFO ramey me 6248 d5 magdalena reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2058,7 +2058,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-magdalena-reading-661502-western-nm-magdalena-e57604" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'western-nm/' | relative_url }}" title="Why Western New Mexico Mattered | roswell UFO ramey me 6248 d5 magdalena reading" aria-label="Open page: Why Western New Mexico Mattered | roswell UFO ramey me 6248 d5 magdalena reading">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'western-nm/' | relative_url }}" title="Why Western New Mexico Mattered | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Western New Mexico Mattered | The Place Name That Changes the Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_magdalena_reading_661502_western_nm_magdalena_e57604-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Western New Mexico Mattered | roswell UFO ramey me 6248 d5 magdalena reading" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2080,7 +2080,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'marcel/' | relative_url }}" title="Why Marcel in the Photo Matters | roswell UFO ramey" aria-label="Open page: Why Marcel in the Photo Matters | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'marcel/' | relative_url }}" title="Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e-overview.webp' | relative_url }}" alt="Overview image for Why Marcel in the Photo Matters | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2102,7 +2102,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e-fort-worth-ranch-deb-c99392" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-match-700d0b/' | relative_url }}" title="Does the Fort Worth debris match the ranch find? | roswell UFO ramey me 6248 d5 jesse marcel debris" aria-label="Open page: Does the Fort Worth debris match the ranch find? | roswell UFO ramey me 6248 d5 jesse marcel debris">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-match-700d0b/' | relative_url }}" title="Does the Fort Worth debris match the ranch find? | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Does the Fort Worth debris match the ranch find? | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_fort_worth_ranch_deb_c99392-Illustration-1.webp' | relative_url }}" alt="Overview image for Does the Fort Worth debris match the ranch find? | roswell UFO ramey me 6248 d5 jesse marcel debris" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2122,7 +2122,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e-air-force-photo-comp-6c5e73" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-test/' | relative_url }}" title="The photo test that narrowed the debris switch theory | roswell UFO ramey me 6248 d5 jesse marcel debris" aria-label="Open page: The photo test that narrowed the debris switch theory | roswell UFO ramey me 6248 d5 jesse marcel debris">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-test/' | relative_url }}" title="The photo test that narrowed the debris switch theory | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The photo test that narrowed the debris switch theory | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_air_force_photo_comp_6c5e73-Illustration-1.webp' | relative_url }}" alt="Overview image for The photo test that narrowed the debris switch theory | roswell UFO ramey me 6248 d5 jesse marcel debris" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2142,7 +2142,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e-marcel-real-or-stage-f50721" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'marcel-display/' | relative_url }}" title="Was Marcel shown the real Roswell debris? | roswell UFO ramey me 6248 d5 jesse marcel debris" aria-label="Open page: Was Marcel shown the real Roswell debris? | roswell UFO ramey me 6248 d5 jesse marcel debris">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'marcel-display/' | relative_url }}" title="Was Marcel shown the real Roswell debris? | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was Marcel shown the real Roswell debris? | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_marcel_real_or_stage_f50721-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Marcel shown the real Roswell debris? | roswell UFO ramey me 6248 d5 jesse marcel debris" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2162,7 +2162,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e-marcel-memory-1947-r-4ad8f3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'later-memory/' | relative_url }}" title="Why Marcel&#x27;s later story is hard to weigh | roswell UFO ramey me 6248 d5 jesse marcel debris" aria-label="Open page: Why Marcel&#x27;s later story is hard to weigh | roswell UFO ramey me 6248 d5 jesse marcel debris">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'later-memory/' | relative_url }}" title="Why Marcel's later story is hard to weigh | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Marcel's later story is hard to weigh | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_marcel_memory_1947_r_4ad8f3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Marcel&#x27;s later story is hard to weigh | roswell UFO ramey me 6248 d5 jesse marcel debris" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2182,7 +2182,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e-balloon-radar-target-c9d70f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-debris/' | relative_url }}" title="Why the debris looked like balloon equipment | roswell UFO ramey me 6248 d5 jesse marcel debris" aria-label="Open page: Why the debris looked like balloon equipment | roswell UFO ramey me 6248 d5 jesse marcel debris">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-debris/' | relative_url }}" title="Why the debris looked like balloon equipment | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the debris looked like balloon equipment | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_balloon_radar_target_c9d70f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the debris looked like balloon equipment | roswell UFO ramey me 6248 d5 jesse marcel debris" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2202,7 +2202,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-jesse-marcel-debris-1c331e-debris-context-memo-ffcd7c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'memo-context/' | relative_url }}" title="Why the debris shapes every memo reading | roswell UFO ramey me 6248 d5 jesse marcel debris" aria-label="Open page: Why the debris shapes every memo reading | roswell UFO ramey me 6248 d5 jesse marcel debris">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'memo-context/' | relative_url }}" title="Why the debris shapes every memo reading | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the debris shapes every memo reading | Why Marcel in the Photo Matters | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_debris_context_memo_ffcd7c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the debris shapes every memo reading | roswell UFO ramey me 6248 d5 jesse marcel debris" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2224,7 +2224,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'memo-vs-witnesses/' | relative_url }}" title="Photo Evidence Versus Later Memories | roswell UFO ramey" aria-label="Open page: Photo Evidence Versus Later Memories | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'memo-vs-witnesses/' | relative_url }}" title="Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712-overview.webp' | relative_url }}" alt="Overview image for Photo Evidence Versus Later Memories | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2246,7 +2246,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712-dennis-memo-corrobor-35a090" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dennis-claims/' | relative_url }}" title="Can the Memo Support Glenn Dennis&#x27;s Story? | roswell UFO ramey me 6248 d5 memo vs witnesses" aria-label="Open page: Can the Memo Support Glenn Dennis&#x27;s Story? | roswell UFO ramey me 6248 d5 memo vs witnesses">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dennis-claims/' | relative_url }}" title="Can the Memo Support Glenn Dennis's Story? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can the Memo Support Glenn Dennis's Story? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Memo Support Glenn Dennis&#x27;s Story? | roswell UFO ramey me 6248 d5 memo vs witnesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2266,7 +2266,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712-body-stories-memo-re-c6c6eb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'body-stories/' | relative_url }}" title="Did Body Stories Change How People Read the Memo? | roswell UFO ramey me 6248 d5 memo vs witnesses" aria-label="Open page: Did Body Stories Change How People Read the Memo? | roswell UFO ramey me 6248 d5 memo vs witnesses">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'body-stories/' | relative_url }}" title="Did Body Stories Change How People Read the Memo? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did Body Stories Change How People Read the Memo? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_body_stories_memo_re_c6c6eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Body Stories Change How People Read the Memo? | roswell UFO ramey me 6248 d5 memo vs witnesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2286,7 +2286,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712-gao-gaps-witness-rel-0dd4f0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'record-gaps/' | relative_url }}" title="Do Missing Files Make Witnesses More Believable? | roswell UFO ramey me 6248 d5 memo vs witnesses" aria-label="Open page: Do Missing Files Make Witnesses More Believable? | roswell UFO ramey me 6248 d5 memo vs witnesses">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'record-gaps/' | relative_url }}" title="Do Missing Files Make Witnesses More Believable? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Do Missing Files Make Witnesses More Believable? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_gao_gaps_witness_rel_0dd4f0-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Missing Files Make Witnesses More Believable? | roswell UFO ramey me 6248 d5 memo vs witnesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2306,7 +2306,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712-photos-vs-witness-me-8299e3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'compare-evidence/' | relative_url }}" title="Photo Evidence or Witness Memory: Which Carries More? | roswell UFO ramey me 6248 d5 memo vs witnesses" aria-label="Open page: Photo Evidence or Witness Memory: Which Carries More? | roswell UFO ramey me 6248 d5 memo vs witnesses">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'compare-evidence/' | relative_url }}" title="Photo Evidence or Witness Memory: Which Carries More? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Photo Evidence or Witness Memory: Which Carries More? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_photos_vs_witness_me_8299e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Photo Evidence or Witness Memory: Which Carries More? | roswell UFO ramey me 6248 d5 memo vs witnesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2326,7 +2326,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712-haut-changing-memory-34f3cf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'haut-shift/' | relative_url }}" title="Why Did Walter Haut&#x27;s Story Grow Later? | roswell UFO ramey me 6248 d5 memo vs witnesses" aria-label="Open page: Why Did Walter Haut&#x27;s Story Grow Later? | roswell UFO ramey me 6248 d5 memo vs witnesses">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'haut-shift/' | relative_url }}" title="Why Did Walter Haut's Story Grow Later? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Did Walter Haut's Story Grow Later? | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_haut_changing_memory_34f3cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Walter Haut&#x27;s Story Grow Later? | roswell UFO ramey me 6248 d5 memo vs witnesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2346,7 +2346,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-vs-witnesses-def712-post-1978-testimony-2be425" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'late-testimony/' | relative_url }}" title="Why Timing Matters in Roswell Testimony | roswell UFO ramey me 6248 d5 memo vs witnesses" aria-label="Open page: Why Timing Matters in Roswell Testimony | roswell UFO ramey me 6248 d5 memo vs witnesses">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'late-testimony/' | relative_url }}" title="Why Timing Matters in Roswell Testimony | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Timing Matters in Roswell Testimony | Photo Evidence Versus Later Memories | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_post_1978_testimony_2be425-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Timing Matters in Roswell Testimony | roswell UFO ramey me 6248 d5 memo vs witnesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2368,7 +2368,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'morris/' | relative_url }}" title="Why Transcript Versions Keep Shifting | roswell UFO ramey" aria-label="Open page: Why Transcript Versions Keep Shifting | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'morris/' | relative_url }}" title="Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d-overview.webp' | relative_url }}" alt="Overview image for Why Transcript Versions Keep Shifting | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2390,7 +2390,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d-morris-advisory-narr-34a467" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'narrative/' | relative_url }}" title="How Fragments Became a Roswell Narrative | roswell UFO ramey me 6248 d5 neil morris versions" aria-label="Open page: How Fragments Became a Roswell Narrative | roswell UFO ramey me 6248 d5 neil morris versions">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'narrative/' | relative_url }}" title="How Fragments Became a Roswell Narrative | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Fragments Became a Roswell Narrative | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_advisory_narr_34a467-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fragments Became a Roswell Narrative | roswell UFO ramey me 6248 d5 neil morris versions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2410,7 +2410,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d-morris-notation-unce-63ced0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'notation/' | relative_url }}" title="The Transcript That Showed Its Own Doubt | roswell UFO ramey me 6248 d5 neil morris versions" aria-label="Open page: The Transcript That Showed Its Own Doubt | roswell UFO ramey me 6248 d5 neil morris versions">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'notation/' | relative_url }}" title="The Transcript That Showed Its Own Doubt | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Transcript That Showed Its Own Doubt | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_notation_unce_63ced0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Transcript That Showed Its Own Doubt | roswell UFO ramey me 6248 d5 neil morris versions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2430,7 +2430,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d-april-2000-compariso-358691" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'compared/' | relative_url }}" title="Three Readers, One Photo, Different Messages | roswell UFO ramey me 6248 d5 neil morris versions" aria-label="Open page: Three Readers, One Photo, Different Messages | roswell UFO ramey me 6248 d5 neil morris versions">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'compared/' | relative_url }}" title="Three Readers, One Photo, Different Messages | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Three Readers, One Photo, Different Messages | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_april_2000_compariso_358691-Illustration-1.webp' | relative_url }}" alt="Overview image for Three Readers, One Photo, Different Messages | roswell UFO ramey me 6248 d5 neil morris versions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2450,7 +2450,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d-morris-johnson-emerg-b0ee84" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson-split/' | relative_url }}" title="When Two Transcripts Told Different Stories | roswell UFO ramey me 6248 d5 neil morris versions" aria-label="Open page: When Two Transcripts Told Different Stories | roswell UFO ramey me 6248 d5 neil morris versions">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson-split/' | relative_url }}" title="When Two Transcripts Told Different Stories | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Two Transcripts Told Different Stories | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_johnson_emerg_b0ee84-Illustration-1.webp' | relative_url }}" alt="Overview image for When Two Transcripts Told Different Stories | roswell UFO ramey me 6248 d5 neil morris versions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2470,7 +2470,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d-fort-worth-morris-li-1e9306" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-ff3843/' | relative_url }}" title="Why Fort Worth Became the Safer Reading | roswell UFO ramey me 6248 d5 neil morris versions" aria-label="Open page: Why Fort Worth Became the Safer Reading | roswell UFO ramey me 6248 d5 neil morris versions">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-ff3843/' | relative_url }}" title="Why Fort Worth Became the Safer Reading | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Fort Worth Became the Safer Reading | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_fort_worth_morris_li_1e9306-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fort Worth Became the Safer Reading | roswell UFO ramey me 6248 d5 neil morris versions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2490,7 +2490,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-neil-morris-versions-d8bd2d-morris-victims-shift-bcfba4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-shift/' | relative_url }}" title="Why One Word Survived a Shifting Transcript | roswell UFO ramey me 6248 d5 neil morris versions" aria-label="Open page: Why One Word Survived a Shifting Transcript | roswell UFO ramey me 6248 d5 neil morris versions">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-shift/' | relative_url }}" title="Why One Word Survived a Shifting Transcript | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why One Word Survived a Shifting Transcript | Why Transcript Versions Keep Shifting | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_morris_victims_shift_bcfba4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Word Survived a Shifting Transcript | roswell UFO ramey me 6248 d5 neil morris versions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2512,7 +2512,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'negatives/' | relative_url }}" title="Why the Negatives Matter | roswell UFO ramey" aria-label="Open page: Why the Negatives Matter | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'negatives/' | relative_url }}" title="Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6-overview.webp' | relative_url }}" alt="Overview image for Why the Negatives Matter | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2534,7 +2534,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6-hi-res-scan-limits-1dbeb3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hi-res-scans/' | relative_url }}" title="Can High Resolution Scans Solve It? | roswell UFO ramey me 6248 d5 original negatives" aria-label="Open page: Can High Resolution Scans Solve It? | roswell UFO ramey me 6248 d5 original negatives">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hi-res-scans/' | relative_url }}" title="Can High Resolution Scans Solve It? | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can High Resolution Scans Solve It? | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_hi_res_scan_limits_1dbeb3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can High Resolution Scans Solve It? | roswell UFO ramey me 6248 d5 original negatives" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2554,7 +2554,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6-july-8-press-event-fffa48" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'july-8-event/' | relative_url }}" title="The Day the Photo Became Evidence | roswell UFO ramey me 6248 d5 original negatives" aria-label="Open page: The Day the Photo Became Evidence | roswell UFO ramey me 6248 d5 original negatives">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'july-8-event/' | relative_url }}" title="The Day the Photo Became Evidence | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Day the Photo Became Evidence | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_july_8_press_event_fffa48-Illustration-1.webp' | relative_url }}" alt="Overview image for The Day the Photo Became Evidence | roswell UFO ramey me 6248 d5 original negatives" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2574,7 +2574,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6-wire-catalog-authent-410adc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'catalog-clues/' | relative_url }}" title="The Paper Trail Around the Photo | roswell UFO ramey me 6248 d5 original negatives" aria-label="Open page: The Paper Trail Around the Photo | roswell UFO ramey me 6248 d5 original negatives">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'catalog-clues/' | relative_url }}" title="The Paper Trail Around the Photo | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Paper Trail Around the Photo | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_wire_catalog_authent_410adc-Illustration-1.webp' | relative_url }}" alt="Overview image for The Paper Trail Around the Photo | roswell UFO ramey me 6248 d5 original negatives" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2594,7 +2594,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6-negative-legibility-a052e5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unreadable-words/' | relative_url }}" title="Why Better Copies May Still Fail | roswell UFO ramey me 6248 d5 original negatives" aria-label="Open page: Why Better Copies May Still Fail | roswell UFO ramey me 6248 d5 original negatives">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unreadable-words/' | relative_url }}" title="Why Better Copies May Still Fail | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Better Copies May Still Fail | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_negative_legibility_a052e5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Better Copies May Still Fail | roswell UFO ramey me 6248 d5 original negatives" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2614,7 +2614,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6-johnson-press-eviden-faa788" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson-role/' | relative_url }}" title="Why Johnson&#x27;s Photo Carries Weight | roswell UFO ramey me 6248 d5 original negatives" aria-label="Open page: Why Johnson&#x27;s Photo Carries Weight | roswell UFO ramey me 6248 d5 original negatives">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'johnson-role/' | relative_url }}" title="Why Johnson's Photo Carries Weight | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Johnson's Photo Carries Weight | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_johnson_press_eviden_faa788-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Johnson&#x27;s Photo Carries Weight | roswell UFO ramey me 6248 d5 original negatives" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2634,7 +2634,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-original-negatives-p-26e0a6-uta-negatives-source-6fa38a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'uta-negatives/' | relative_url }}" title="Why the UTA Negatives Matter | roswell UFO ramey me 6248 d5 original negatives" aria-label="Open page: Why the UTA Negatives Matter | roswell UFO ramey me 6248 d5 original negatives">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'uta-negatives/' | relative_url }}" title="Why the UTA Negatives Matter | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the UTA Negatives Matter | Why the Negatives Matter | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_original_negatives_p_26e0a6_uta_negatives_source_6fa38a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the UTA Negatives Matter | roswell UFO ramey me 6248 d5 original negatives" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2656,7 +2656,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pattern-finding/' | relative_url }}" title="Why Ambiguous Marks Become Words | roswell UFO ramey" aria-label="Open page: Why Ambiguous Marks Become Words | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pattern-finding/' | relative_url }}" title="Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f-overview.webp' | relative_url }}" alt="Overview image for Why Ambiguous Marks Become Words | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2678,7 +2678,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f-blind-reading-tests-eb0061" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-tests-8e4d44/' | relative_url }}" title="Can Readers See UFO Text Without Hints? | roswell UFO ramey me 6248 d5 pattern finding pare" aria-label="Open page: Can Readers See UFO Text Without Hints? | roswell UFO ramey me 6248 d5 pattern finding pare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-tests-8e4d44/' | relative_url }}" title="Can Readers See UFO Text Without Hints? | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can Readers See UFO Text Without Hints? | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_blind_reading_tests_eb0061-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Readers See UFO Text Without Hints? | roswell UFO ramey me 6248 d5 pattern finding pare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2698,7 +2698,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f-reader-convergence-t-7ff145" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'convergence-e6b0d4/' | relative_url }}" title="Do Independent Readers Find the Same Words? | roswell UFO ramey me 6248 d5 pattern finding pare" aria-label="Open page: Do Independent Readers Find the Same Words? | roswell UFO ramey me 6248 d5 pattern finding pare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'convergence-e6b0d4/' | relative_url }}" title="Do Independent Readers Find the Same Words? | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Do Independent Readers Find the Same Words? | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_reader_convergence_t_7ff145-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Independent Readers Find the Same Words? | roswell UFO ramey me 6248 d5 pattern finding pare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2718,7 +2718,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f-roswell-prompt-bias-ef823a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'prompt-bias/' | relative_url }}" title="How Roswell Prompts Change What People Read | roswell UFO ramey me 6248 d5 pattern finding pare" aria-label="Open page: How Roswell Prompts Change What People Read | roswell UFO ramey me 6248 d5 pattern finding pare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'prompt-bias/' | relative_url }}" title="How Roswell Prompts Change What People Read | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Roswell Prompts Change What People Read | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_roswell_prompt_bias_ef823a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Roswell Prompts Change What People Read | roswell UFO ramey me 6248 d5 pattern finding pare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2738,7 +2738,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f-atomic-prompt-experi-26d5ad" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'atomic-prompt/' | relative_url }}" title="The Control Prompt That Changed the Memo | roswell UFO ramey me 6248 d5 pattern finding pare" aria-label="Open page: The Control Prompt That Changed the Memo | roswell UFO ramey me 6248 d5 pattern finding pare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'atomic-prompt/' | relative_url }}" title="The Control Prompt That Changed the Memo | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Control Prompt That Changed the Memo | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_atomic_prompt_experi_26d5ad-Illustration-1.webp' | relative_url }}" alt="Overview image for The Control Prompt That Changed the Memo | roswell UFO ramey me 6248 d5 pattern finding pare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2758,7 +2758,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f-face-on-mars-analogy-d82fc5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mars-analogy/' | relative_url }}" title="What Mars Teaches About the Ramey Memo | roswell UFO ramey me 6248 d5 pattern finding pare" aria-label="Open page: What Mars Teaches About the Ramey Memo | roswell UFO ramey me 6248 d5 pattern finding pare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mars-analogy/' | relative_url }}" title="What Mars Teaches About the Ramey Memo | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Mars Teaches About the Ramey Memo | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_face_on_mars_analogy_d82fc5-Illustration-1.webp' | relative_url }}" alt="Overview image for What Mars Teaches About the Ramey Memo | roswell UFO ramey me 6248 d5 pattern finding pare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2778,7 +2778,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-pattern-finding-pare-e2e09f-partial-letters-ufo-b2280a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'partial-letters/' | relative_url }}" title="Why Smudges Turn Into UFO Words | roswell UFO ramey me 6248 d5 pattern finding pare" aria-label="Open page: Why Smudges Turn Into UFO Words | roswell UFO ramey me 6248 d5 pattern finding pare">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'partial-letters/' | relative_url }}" title="Why Smudges Turn Into UFO Words | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Smudges Turn Into UFO Words | Why Ambiguous Marks Become Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_partial_letters_ufo_b2280a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Smudges Turn Into UFO Words | roswell UFO ramey me 6248 d5 pattern finding pare" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2800,7 +2800,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-session/' | relative_url }}" title="The Photo That Changed Roswell | roswell UFO ramey" aria-label="Open page: The Photo That Changed Roswell | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-session/' | relative_url }}" title="The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd-overview.webp' | relative_url }}" alt="Overview image for The Photo That Changed Roswell | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2822,7 +2822,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd-ramey-office-display-06852a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'office-display/' | relative_url }}" title="How One Office Changed the Roswell Story | roswell UFO ramey me 6248 d5 fort worth photo tur" aria-label="Open page: How One Office Changed the Roswell Story | roswell UFO ramey me 6248 d5 fort worth photo tur">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'office-display/' | relative_url }}" title="How One Office Changed the Roswell Story | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How One Office Changed the Roswell Story | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_office_display_06852a-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Office Changed the Roswell Story | roswell UFO ramey me 6248 d5 fort worth photo tur" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2842,7 +2842,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd-same-day-news-pivot-dcbafe" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'news-pivot/' | relative_url }}" title="How Roswell&#x27;s Headline Was Rewritten Overnight | roswell UFO ramey me 6248 d5 fort worth photo tur" aria-label="Open page: How Roswell&#x27;s Headline Was Rewritten Overnight | roswell UFO ramey me 6248 d5 fort worth photo tur">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'news-pivot/' | relative_url }}" title="How Roswell's Headline Was Rewritten Overnight | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Roswell's Headline Was Rewritten Overnight | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_same_day_news_pivot_dcbafe-Illustration-1.webp' | relative_url }}" alt="Overview image for How Roswell&#x27;s Headline Was Rewritten Overnight | roswell UFO ramey me 6248 d5 fort worth photo tur" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2862,7 +2862,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd-fbi-teletype-balloon-6f0923" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype-72689e/' | relative_url }}" title="What the FBI File Adds to Fort Worth | roswell UFO ramey me 6248 d5 fort worth photo tur" aria-label="Open page: What the FBI File Adds to Fort Worth | roswell UFO ramey me 6248 d5 fort worth photo tur">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype-72689e/' | relative_url }}" title="What the FBI File Adds to Fort Worth | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the FBI File Adds to Fort Worth | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_fbi_teletype_balloon_6f0923-Illustration-1.webp' | relative_url }}" alt="Overview image for What the FBI File Adds to Fort Worth | roswell UFO ramey me 6248 d5 fort worth photo tur" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2882,7 +2882,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd-ramey-memo-photo-dis-33b8c2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ramey-memo/' | relative_url }}" title="Why a Small Paper Became a Big Roswell Fight | roswell UFO ramey me 6248 d5 fort worth photo tur" aria-label="Open page: Why a Small Paper Became a Big Roswell Fight | roswell UFO ramey me 6248 d5 fort worth photo tur">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ramey-memo/' | relative_url }}" title="Why a Small Paper Became a Big Roswell Fight | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why a Small Paper Became a Big Roswell Fight | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_ramey_memo_photo_dis_33b8c2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Small Paper Became a Big Roswell Fight | roswell UFO ramey me 6248 d5 fort worth photo tur" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2902,7 +2902,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd-jesse-marcel-role-af3c3f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'marcel-f35fa3/' | relative_url }}" title="Why Jesse Marcel&#x27;s Photo Role Became So Contested | roswell UFO ramey me 6248 d5 fort worth photo tur" aria-label="Open page: Why Jesse Marcel&#x27;s Photo Role Became So Contested | roswell UFO ramey me 6248 d5 fort worth photo tur">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'marcel-f35fa3/' | relative_url }}" title="Why Jesse Marcel's Photo Role Became So Contested | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Jesse Marcel's Photo Role Became So Contested | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_jesse_marcel_role_af3c3f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Jesse Marcel&#x27;s Photo Role Became So Contested | roswell UFO ramey me 6248 d5 fort worth photo tur" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2922,7 +2922,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-fort-worth-photo-tur-9406fd-johnson-negatives-e426bc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-trail/' | relative_url }}" title="Why the Fort Worth Negatives Still Matter | roswell UFO ramey me 6248 d5 fort worth photo tur" aria-label="Open page: Why the Fort Worth Negatives Still Matter | roswell UFO ramey me 6248 d5 fort worth photo tur">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-trail/' | relative_url }}" title="Why the Fort Worth Negatives Still Matter | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Fort Worth Negatives Still Matter | The Photo That Changed Roswell | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_photo_tur_9406fd_johnson_negatives_e426bc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Fort Worth Negatives Still Matter | roswell UFO ramey me 6248 d5 fort worth photo tur" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2944,7 +2944,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'project-mogul/' | relative_url }}" title="The Balloon Program Behind the Official Story | roswell UFO ramey" aria-label="Open page: The Balloon Program Behind the Official Story | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'project-mogul/' | relative_url }}" title="The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2-overview.webp' | relative_url }}" alt="Overview image for The Balloon Program Behind the Official Story | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2966,7 +2966,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2-nyu-flight-4-66699f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-4/' | relative_url }}" title="Was NYU Flight 4 the Roswell Debris? | roswell UFO ramey me 6248 d5 project mogul explan" aria-label="Open page: Was NYU Flight 4 the Roswell Debris? | roswell UFO ramey me 6248 d5 project mogul explan">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'flight-4/' | relative_url }}" title="Was NYU Flight 4 the Roswell Debris? | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was NYU Flight 4 the Roswell Debris? | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_nyu_flight_4_66699f-Illustration-1.webp' | relative_url }}" alt="Overview image for Was NYU Flight 4 the Roswell Debris? | roswell UFO ramey me 6248 d5 project mogul explan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2986,7 +2986,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2-fbi-teletype-balloon-1dc33a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype-c010a1/' | relative_url }}" title="What the FBI Teletype Really Supports | roswell UFO ramey me 6248 d5 project mogul explan" aria-label="Open page: What the FBI Teletype Really Supports | roswell UFO ramey me 6248 d5 project mogul explan">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype-c010a1/' | relative_url }}" title="What the FBI Teletype Really Supports | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the FBI Teletype Really Supports | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_fbi_teletype_balloon_1dc33a-Illustration-1.webp' | relative_url }}" alt="Overview image for What the FBI Teletype Really Supports | roswell UFO ramey me 6248 d5 project mogul explan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3006,7 +3006,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2-mogul-explanation-li-4ea44f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-spots/' | relative_url }}" title="Where the Mogul Explanation Runs Out | roswell UFO ramey me 6248 d5 project mogul explan" aria-label="Open page: Where the Mogul Explanation Runs Out | roswell UFO ramey me 6248 d5 project mogul explan">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-spots/' | relative_url }}" title="Where the Mogul Explanation Runs Out | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Where the Mogul Explanation Runs Out | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_explanation_li_4ea44f-Illustration-1.webp' | relative_url }}" alt="Overview image for Where the Mogul Explanation Runs Out | roswell UFO ramey me 6248 d5 project mogul explan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3026,7 +3026,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2-mogul-debris-match-69c834" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-match/' | relative_url }}" title="Why Mogul Debris Looked Stranger Than Weather Gear | roswell UFO ramey me 6248 d5 project mogul explan" aria-label="Open page: Why Mogul Debris Looked Stranger Than Weather Gear | roswell UFO ramey me 6248 d5 project mogul explan">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'debris-match/' | relative_url }}" title="Why Mogul Debris Looked Stranger Than Weather Gear | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Mogul Debris Looked Stranger Than Weather Gear | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_mogul_debris_match_69c834-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Mogul Debris Looked Stranger Than Weather Gear | roswell UFO ramey me 6248 d5 project mogul explan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3046,7 +3046,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2-new-mexico-mogul-set-b877b3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'test-range/' | relative_url }}" title="Why New Mexico Fit the Mogul Story | roswell UFO ramey me 6248 d5 project mogul explan" aria-label="Open page: Why New Mexico Fit the Mogul Story | roswell UFO ramey me 6248 d5 project mogul explan">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'test-range/' | relative_url }}" title="Why New Mexico Fit the Mogul Story | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why New Mexico Fit the Mogul Story | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_new_mexico_mogul_set_b877b3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why New Mexico Fit the Mogul Story | roswell UFO ramey me 6248 d5 project mogul explan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3066,7 +3066,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-project-mogul-explan-2128c2-weather-balloon-cove-fec8c2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-story/' | relative_url }}" title="Why Say Weather Balloon If It Was Mogul? | roswell UFO ramey me 6248 d5 project mogul explan" aria-label="Open page: Why Say Weather Balloon If It Was Mogul? | roswell UFO ramey me 6248 d5 project mogul explan">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-story/' | relative_url }}" title="Why Say Weather Balloon If It Was Mogul? | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Say Weather Balloon If It Was Mogul? | The Balloon Program Behind the Official Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_weather_balloon_cove_fec8c2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Say Weather Balloon If It Was Mogul? | roswell UFO ramey me 6248 d5 project mogul explan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3088,7 +3088,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-reflectors/' | relative_url }}" title="The Debris That Fits the Paper Trail | roswell UFO ramey" aria-label="Open page: The Debris That Fits the Paper Trail | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'radar-reflectors/' | relative_url }}" title="The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a-overview.webp' | relative_url }}" alt="Overview image for The Debris That Fits the Paper Trail | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3110,7 +3110,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a-fort-worth-floor-deb-a8ffe7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'floor-debris/' | relative_url }}" title="Did the Floor Debris Fit a Radar Target? | roswell UFO ramey me 6248 d5 radar reflector debr" aria-label="Open page: Did the Floor Debris Fit a Radar Target? | roswell UFO ramey me 6248 d5 radar reflector debr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'floor-debris/' | relative_url }}" title="Did the Floor Debris Fit a Radar Target? | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did the Floor Debris Fit a Radar Target? | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fort_worth_floor_deb_a8ffe7-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Floor Debris Fit a Radar Target? | roswell UFO ramey me 6248 d5 radar reflector debr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3130,7 +3130,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a-reflector-disc-shape-71ad7a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'disc-shape/' | relative_url }}" title="How Could a Reflector Look Like a Disc? | roswell UFO ramey me 6248 d5 radar reflector debr" aria-label="Open page: How Could a Reflector Look Like a Disc? | roswell UFO ramey me 6248 d5 radar reflector debr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'disc-shape/' | relative_url }}" title="How Could a Reflector Look Like a Disc? | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Could a Reflector Look Like a Disc? | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_reflector_disc_shape_71ad7a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Could a Reflector Look Like a Disc? | roswell UFO ramey me 6248 d5 radar reflector debr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3150,7 +3150,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a-fbi-teletype-debris-3578c5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype-1613a2/' | relative_url }}" title="The Same Day Document Behind the Debris | roswell UFO ramey me 6248 d5 radar reflector debr" aria-label="Open page: The Same Day Document Behind the Debris | roswell UFO ramey me 6248 d5 radar reflector debr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fbi-teletype-1613a2/' | relative_url }}" title="The Same Day Document Behind the Debris | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Same Day Document Behind the Debris | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fbi_teletype_debris_3578c5-Illustration-1.webp' | relative_url }}" alt="Overview image for The Same Day Document Behind the Debris | roswell UFO ramey me 6248 d5 radar reflector debr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3170,7 +3170,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a-fort-worth-substitut-87ce62" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'substitution-claim/' | relative_url }}" title="Was the Wreckage Swapped Before the Photos? | roswell UFO ramey me 6248 d5 radar reflector debr" aria-label="Open page: Was the Wreckage Swapped Before the Photos? | roswell UFO ramey me 6248 d5 radar reflector debr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'substitution-claim/' | relative_url }}" title="Was the Wreckage Swapped Before the Photos? | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Wreckage Swapped Before the Photos? | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_fort_worth_substitut_87ce62-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Wreckage Swapped Before the Photos? | roswell UFO ramey me 6248 d5 radar reflector debr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3190,7 +3190,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a-mogul-reflectors-wea-905cf3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-targets/' | relative_url }}" title="Why Mogul Was More Than a Weather Balloon | roswell UFO ramey me 6248 d5 radar reflector debr" aria-label="Open page: Why Mogul Was More Than a Weather Balloon | roswell UFO ramey me 6248 d5 radar reflector debr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-targets/' | relative_url }}" title="Why Mogul Was More Than a Weather Balloon | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Mogul Was More Than a Weather Balloon | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_mogul_reflectors_wea_905cf3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Mogul Was More Than a Weather Balloon | roswell UFO ramey me 6248 d5 radar reflector debr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3210,7 +3210,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-radar-reflector-debr-47b94a-roswell-material-clu-059786" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'material-clues/' | relative_url }}" title="Why the Small Materials Matter Most | roswell UFO ramey me 6248 d5 radar reflector debr" aria-label="Open page: Why the Small Materials Matter Most | roswell UFO ramey me 6248 d5 radar reflector debr">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'material-clues/' | relative_url }}" title="Why the Small Materials Matter Most | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Small Materials Matter Most | The Debris That Fits the Paper Trail | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_roswell_material_clu_059786-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Small Materials Matter Most | roswell UFO ramey me 6248 d5 radar reflector debr" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3232,7 +3232,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ramey/' | relative_url }}" title="Ramey&#x27;s Place in the Roswell Pivot | roswell UFO ramey" aria-label="Open page: Ramey&#x27;s Place in the Roswell Pivot | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ramey/' | relative_url }}" title="Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e-overview.webp' | relative_url }}" alt="Overview image for Ramey&#x27;s Place in the Roswell Pivot | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3254,7 +3254,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e-fort-worth-substitut-9e6e75" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'substitution/' | relative_url }}" title="Was the Fort Worth Debris the Same? | roswell UFO ramey me 6248 d5 roger ramey role" aria-label="Open page: Was the Fort Worth Debris the Same? | roswell UFO ramey me 6248 d5 roger ramey role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'substitution/' | relative_url }}" title="Was the Fort Worth Debris the Same? | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Fort Worth Debris the Same? | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_substitut_9e6e75-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Fort Worth Debris the Same? | roswell UFO ramey me 6248 d5 roger ramey role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3274,7 +3274,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e-irving-newton-balloo-5e9c8e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'newton-id/' | relative_url }}" title="Who Identified the Debris as a Balloon? | roswell UFO ramey me 6248 d5 roger ramey role" aria-label="Open page: Who Identified the Debris as a Balloon? | roswell UFO ramey me 6248 d5 roger ramey role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'newton-id/' | relative_url }}" title="Who Identified the Debris as a Balloon? | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Who Identified the Debris as a Balloon? | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_irving_newton_balloo_5e9c8e-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Identified the Debris as a Balloon? | roswell UFO ramey me 6248 d5 roger ramey role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3294,7 +3294,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e-ramey-nbc-normal-gad-430901" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'nbc-claim/' | relative_url }}" title="Why Ramey&#x27;s Broadcast Mattered | roswell UFO ramey me 6248 d5 roger ramey role" aria-label="Open page: Why Ramey&#x27;s Broadcast Mattered | roswell UFO ramey me 6248 d5 roger ramey role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'nbc-claim/' | relative_url }}" title="Why Ramey's Broadcast Mattered | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Ramey's Broadcast Mattered | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_nbc_normal_gad_430901-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ramey&#x27;s Broadcast Mattered | roswell UFO ramey me 6248 d5 roger ramey role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3314,7 +3314,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e-eighth-air-force-aut-ab8062" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'command-weight/' | relative_url }}" title="Why Ramey&#x27;s Rank Changed the Story | roswell UFO ramey me 6248 d5 roger ramey role" aria-label="Open page: Why Ramey&#x27;s Rank Changed the Story | roswell UFO ramey me 6248 d5 roger ramey role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'command-weight/' | relative_url }}" title="Why Ramey's Rank Changed the Story | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Ramey's Rank Changed the Story | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_eighth_air_force_aut_ab8062-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ramey&#x27;s Rank Changed the Story | roswell UFO ramey me 6248 d5 roger ramey role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3334,7 +3334,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e-fort-worth-photo-inv-5f68d4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-invite/' | relative_url }}" title="Why Show the Debris to Reporters? | roswell UFO ramey me 6248 d5 roger ramey role" aria-label="Open page: Why Show the Debris to Reporters? | roswell UFO ramey me 6248 d5 roger ramey role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-invite/' | relative_url }}" title="Why Show the Debris to Reporters? | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Show the Debris to Reporters? | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Show the Debris to Reporters? | roswell UFO ramey me 6248 d5 roger ramey role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3354,7 +3354,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-roger-ramey-role-20dd5e-ramey-marcel-dubose-86ece4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'three-officers/' | relative_url }}" title="Why Three Officers in One Room Matter | roswell UFO ramey me 6248 d5 roger ramey role" aria-label="Open page: Why Three Officers in One Room Matter | roswell UFO ramey me 6248 d5 roger ramey role">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'three-officers/' | relative_url }}" title="Why Three Officers in One Room Matter | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Three Officers in One Room Matter | Ramey's Place in the Roswell Pivot | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_ramey_marcel_dubose_86ece4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Three Officers in One Room Matter | roswell UFO ramey me 6248 d5 roger ramey role" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3376,7 +3376,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reader-agreement/' | relative_url }}" title="Why Agreement Matters More Than Confidence | roswell UFO ramey" aria-label="Open page: Why Agreement Matters More Than Confidence | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reader-agreement/' | relative_url }}" title="Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309-overview.webp' | relative_url }}" alt="Overview image for Why Agreement Matters More Than Confidence | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3398,7 +3398,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309-suggestion-effects-m-1f39c5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'priming/' | relative_url }}" title="Can Expectations Make Words Appear? | roswell UFO ramey me 6248 d5 inter rater reliabil" aria-label="Open page: Can Expectations Make Words Appear? | roswell UFO ramey me 6248 d5 inter rater reliabil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'priming/' | relative_url }}" title="Can Expectations Make Words Appear? | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can Expectations Make Words Appear? | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_suggestion_effects_m_1f39c5-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Expectations Make Words Appear? | roswell UFO ramey me 6248 d5 inter rater reliabil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3418,7 +3418,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309-houran-randle-reader-862555" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reader-test/' | relative_url }}" title="What the Reader Test Really Showed | roswell UFO ramey me 6248 d5 inter rater reliabil" aria-label="Open page: What the Reader Test Really Showed | roswell UFO ramey me 6248 d5 inter rater reliabil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reader-test/' | relative_url }}" title="What the Reader Test Really Showed | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the Reader Test Really Showed | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_houran_randle_reader_862555-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Reader Test Really Showed | roswell UFO ramey me 6248 d5 inter rater reliabil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3438,7 +3438,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309-memo-claim-threshold-d2afa9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-bar/' | relative_url }}" title="What Would Make a Memo Reading Strong? | roswell UFO ramey me 6248 d5 inter rater reliabil" aria-label="Open page: What Would Make a Memo Reading Strong? | roswell UFO ramey me 6248 d5 inter rater reliabil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-bar/' | relative_url }}" title="What Would Make a Memo Reading Strong? | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Would Make a Memo Reading Strong? | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_memo_claim_threshold_d2afa9-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Make a Memo Reading Strong? | roswell UFO ramey me 6248 d5 inter rater reliabil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3458,7 +3458,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309-russ-estes-imaging-l-bed7a5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'estes-case/' | relative_url }}" title="When Better Imaging Still Falls Short | roswell UFO ramey me 6248 d5 inter rater reliabil" aria-label="Open page: When Better Imaging Still Falls Short | roswell UFO ramey me 6248 d5 inter rater reliabil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'estes-case/' | relative_url }}" title="When Better Imaging Still Falls Short | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Better Imaging Still Falls Short | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_russ_estes_imaging_l_bed7a5-Illustration-1.webp' | relative_url }}" alt="Overview image for When Better Imaging Still Falls Short | roswell UFO ramey me 6248 d5 inter rater reliabil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3478,7 +3478,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309-shared-word-clusters-ed69a6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-words/' | relative_url }}" title="Which Memo Words Readers Actually Share | roswell UFO ramey me 6248 d5 inter rater reliabil" aria-label="Open page: Which Memo Words Readers Actually Share | roswell UFO ramey me 6248 d5 inter rater reliabil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-words/' | relative_url }}" title="Which Memo Words Readers Actually Share | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Which Memo Words Readers Actually Share | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_shared_word_clusters_ed69a6-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Memo Words Readers Actually Share | roswell UFO ramey me 6248 d5 inter rater reliabil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3498,7 +3498,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-inter-rater-reliabil-b4a309-expert-transcription-4438b2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-split/' | relative_url }}" title="Why Experts Still Read It Differently | roswell UFO ramey me 6248 d5 inter rater reliabil" aria-label="Open page: Why Experts Still Read It Differently | roswell UFO ramey me 6248 d5 inter rater reliabil">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-split/' | relative_url }}" title="Why Experts Still Read It Differently | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Experts Still Read It Differently | Why Agreement Matters More Than Confidence | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_inter_rater_reliabil_b4a309_expert_transcription_4438b2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Experts Still Read It Differently | roswell UFO ramey me 6248 d5 inter rater reliabil" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3520,7 +3520,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-culture/' | relative_url }}" title="The Memo as Roswell&#x27;s Perfect Mystery | roswell UFO ramey" aria-label="Open page: The Memo as Roswell&#x27;s Perfect Mystery | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'roswell-culture/' | relative_url }}" title="The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754-overview.webp' | relative_url }}" alt="Overview image for The Memo as Roswell&#x27;s Perfect Mystery | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3542,7 +3542,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754-suggestion-experimen-9cbcbd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'suggestion-test/' | relative_url }}" title="Do We Read What We Expect? | roswell UFO ramey me 6248 d5 memo roswell culture" aria-label="Open page: Do We Read What We Expect? | roswell UFO ramey me 6248 d5 memo roswell culture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'suggestion-test/' | relative_url }}" title="Do We Read What We Expect? | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Do We Read What We Expect? | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_suggestion_experimen_9cbcbd-Illustration-1.webp' | relative_url }}" alt="Overview image for Do We Read What We Expect? | roswell UFO ramey me 6248 d5 memo roswell culture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3562,7 +3562,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754-digital-enhancement-194d8a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'digital-sleuthing/' | relative_url }}" title="How Screens Made the Memo Famous | roswell UFO ramey me 6248 d5 memo roswell culture" aria-label="Open page: How Screens Made the Memo Famous | roswell UFO ramey me 6248 d5 memo roswell culture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'digital-sleuthing/' | relative_url }}" title="How Screens Made the Memo Famous | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Screens Made the Memo Famous | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_digital_enhancement_194d8a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Screens Made the Memo Famous | roswell UFO ramey me 6248 d5 memo roswell culture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3582,7 +3582,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754-mogul-explanation-te-3dc4ed" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-tension/' | relative_url }}" title="Where the Memo Meets the Balloon Story | roswell UFO ramey me 6248 d5 memo roswell culture" aria-label="Open page: Where the Memo Meets the Balloon Story | roswell UFO ramey me 6248 d5 memo roswell culture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mogul-tension/' | relative_url }}" title="Where the Memo Meets the Balloon Story | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Where the Memo Meets the Balloon Story | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_mogul_explanation_te_3dc4ed-Illustration-1.webp' | relative_url }}" alt="Overview image for Where the Memo Meets the Balloon Story | roswell UFO ramey me 6248 d5 memo roswell culture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3602,7 +3602,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754-phrase-readings-disp-140152" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'phrase-claims/' | relative_url }}" title="Why Four Blurred Words Still Matter | roswell UFO ramey me 6248 d5 memo roswell culture" aria-label="Open page: Why Four Blurred Words Still Matter | roswell UFO ramey me 6248 d5 memo roswell culture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'phrase-claims/' | relative_url }}" title="Why Four Blurred Words Still Matter | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Four Blurred Words Still Matter | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_phrase_readings_disp_140152-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Four Blurred Words Still Matter | roswell UFO ramey me 6248 d5 memo roswell culture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3622,7 +3622,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754-memo-ambiguity-myste-2bdf80" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'useful-ambiguity/' | relative_url }}" title="Why the Memo Never Quite Ends | roswell UFO ramey me 6248 d5 memo roswell culture" aria-label="Open page: Why the Memo Never Quite Ends | roswell UFO ramey me 6248 d5 memo roswell culture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'useful-ambiguity/' | relative_url }}" title="Why the Memo Never Quite Ends | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Memo Never Quite Ends | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_memo_ambiguity_myste_2bdf80-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Memo Never Quite Ends | roswell UFO ramey me 6248 d5 memo roswell culture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3642,7 +3642,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-memo-roswell-culture-fc6754-fort-worth-photo-pow-04f34f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-photo/' | relative_url }}" title="Why This One Photo Changed Roswell | roswell UFO ramey me 6248 d5 memo roswell culture" aria-label="Open page: Why This One Photo Changed Roswell | roswell UFO ramey me 6248 d5 memo roswell culture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fort-worth-photo/' | relative_url }}" title="Why This One Photo Changed Roswell | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why This One Photo Changed Roswell | The Memo as Roswell's Perfect Mystery | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_fort_worth_photo_pow_04f34f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why This One Photo Changed Roswell | roswell UFO ramey me 6248 d5 memo roswell culture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3664,7 +3664,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rudiak/' | relative_url }}" title="The Most Famous Crash Reading | roswell UFO ramey" aria-label="Open page: The Most Famous Crash Reading | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rudiak/' | relative_url }}" title="The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662-overview.webp' | relative_url }}" alt="Overview image for The Most Famous Crash Reading | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3686,7 +3686,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662-rudiak-balloon-cover-a64394" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-story/' | relative_url }}" title="Cover Story or Plain Balloon Memo? | roswell UFO ramey me 6248 d5 rudiak roswell proof" aria-label="Open page: Cover Story or Plain Balloon Memo? | roswell UFO ramey me 6248 d5 rudiak roswell proof">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'balloon-story/' | relative_url }}" title="Cover Story or Plain Balloon Memo? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Cover Story or Plain Balloon Memo? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_balloon_cover_a64394-Illustration-1.webp' | relative_url }}" alt="Overview image for Cover Story or Plain Balloon Memo? | roswell UFO ramey me 6248 d5 rudiak roswell proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3706,7 +3706,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662-rudiak-disk-word-8c1b06" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'disk-claim/' | relative_url }}" title="Did the Memo Really Say Disk? | roswell UFO ramey me 6248 d5 rudiak roswell proof" aria-label="Open page: Did the Memo Really Say Disk? | roswell UFO ramey me 6248 d5 rudiak roswell proof">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'disk-claim/' | relative_url }}" title="Did the Memo Really Say Disk? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did the Memo Really Say Disk? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_disk_word_8c1b06-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Memo Really Say Disk? | roswell UFO ramey me 6248 d5 rudiak roswell proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3726,7 +3726,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662-rudiak-line-by-line-52a921" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reading-method/' | relative_url }}" title="How Blurred Strokes Become Rudiak&#x27;s Sentences | roswell UFO ramey me 6248 d5 rudiak roswell proof" aria-label="Open page: How Blurred Strokes Become Rudiak&#x27;s Sentences | roswell UFO ramey me 6248 d5 rudiak roswell proof">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reading-method/' | relative_url }}" title="How Blurred Strokes Become Rudiak's Sentences | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: How Blurred Strokes Become Rudiak's Sentences | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_line_by_line_52a921-Illustration-1.webp' | relative_url }}" alt="Overview image for How Blurred Strokes Become Rudiak&#x27;s Sentences | roswell UFO ramey me 6248 d5 rudiak roswell proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3746,7 +3746,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662-rudiak-telegram-assu-ce4f78" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'telegram-assumption/' | relative_url }}" title="Was Ramey Holding a Secret Military Message? | roswell UFO ramey me 6248 d5 rudiak roswell proof" aria-label="Open page: Was Ramey Holding a Secret Military Message? | roswell UFO ramey me 6248 d5 rudiak roswell proof">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'telegram-assumption/' | relative_url }}" title="Was Ramey Holding a Secret Military Message? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was Ramey Holding a Secret Military Message? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_telegram_assu_ce4f78-Illustration-1.webp' | relative_url }}" alt="Overview image for Was Ramey Holding a Secret Military Message? | roswell UFO ramey me 6248 d5 rudiak roswell proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3766,7 +3766,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662-rudiak-fort-worth-fo-2d83e3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'forwarding/' | relative_url }}" title="Was the Memo Tracking Roswell Material? | roswell UFO ramey me 6248 d5 rudiak roswell proof" aria-label="Open page: Was the Memo Tracking Roswell Material? | roswell UFO ramey me 6248 d5 rudiak roswell proof">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'forwarding/' | relative_url }}" title="Was the Memo Tracking Roswell Material? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the Memo Tracking Roswell Material? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_fort_worth_fo_2d83e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Memo Tracking Roswell Material? | roswell UFO ramey me 6248 d5 rudiak roswell proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3786,7 +3786,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-rudiak-roswell-proof-908662-rudiak-smoking-gun-c-364fe6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'smoking-gun/' | relative_url }}" title="What Would Make Rudiak&#x27;s Reading a Smoking Gun? | roswell UFO ramey me 6248 d5 rudiak roswell proof" aria-label="Open page: What Would Make Rudiak&#x27;s Reading a Smoking Gun? | roswell UFO ramey me 6248 d5 rudiak roswell proof">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'smoking-gun/' | relative_url }}" title="What Would Make Rudiak's Reading a Smoking Gun? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Would Make Rudiak's Reading a Smoking Gun? | The Most Famous Crash Reading | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_smoking_gun_c_364fe6-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Make Rudiak&#x27;s Reading a Smoking Gun? | roswell UFO ramey me 6248 d5 rudiak roswell proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3808,7 +3808,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'skeptic-view/' | relative_url }}" title="Why the Memo Falls Short as Proof | roswell UFO ramey" aria-label="Open page: Why the Memo Falls Short as Proof | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'skeptic-view/' | relative_url }}" title="Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb-overview.webp' | relative_url }}" alt="Overview image for Why the Memo Falls Short as Proof | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3830,7 +3830,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb-ramey-memo-proof-bur-12f8ee" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-burden/' | relative_url }}" title="Can a blur carry the whole Roswell case? | roswell UFO ramey me 6248 d5 skeptic case memo" aria-label="Open page: Can a blur carry the whole Roswell case? | roswell UFO ramey me 6248 d5 skeptic case memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-burden/' | relative_url }}" title="Can a blur carry the whole Roswell case? | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can a blur carry the whole Roswell case? | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ramey_memo_proof_bur_12f8ee-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a blur carry the whole Roswell case? | roswell UFO ramey me 6248 d5 skeptic case memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3850,7 +3850,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb-newswire-genre-uncer-a29cb9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'newswire/' | relative_url }}" title="Was the memo even a military secret? | roswell UFO ramey me 6248 d5 skeptic case memo" aria-label="Open page: Was the memo even a military secret? | roswell UFO ramey me 6248 d5 skeptic case memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'newswire/' | relative_url }}" title="Was the memo even a military secret? | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Was the memo even a military secret? | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_newswire_genre_uncer_a29cb9-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the memo even a military secret? | roswell UFO ramey me 6248 d5 skeptic case memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3870,7 +3870,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb-proven-photo-unprove-3dca19" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'proven-photo/' | relative_url }}" title="What provenance can and cannot prove | roswell UFO ramey me 6248 d5 skeptic case memo" aria-label="Open page: What provenance can and cannot prove | roswell UFO ramey me 6248 d5 skeptic case memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'proven-photo/' | relative_url }}" title="What provenance can and cannot prove | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What provenance can and cannot prove | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_proven_photo_unprove_3dca19-Illustration-1.webp' | relative_url }}" alt="Overview image for What provenance can and cannot prove | roswell UFO ramey me 6248 d5 skeptic case memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3890,7 +3890,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb-ordinary-words-no-bo-d34e54" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ordinary-words/' | relative_url }}" title="When Roswell words prove less than they seem | roswell UFO ramey me 6248 d5 skeptic case memo" aria-label="Open page: When Roswell words prove less than they seem | roswell UFO ramey me 6248 d5 skeptic case memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ordinary-words/' | relative_url }}" title="When Roswell words prove less than they seem | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Roswell words prove less than they seem | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_ordinary_words_no_bo_d34e54-Illustration-1.webp' | relative_url }}" alt="Overview image for When Roswell words prove less than they seem | roswell UFO ramey me 6248 d5 skeptic case memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3910,7 +3910,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb-lab-enhancement-limi-cae217" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-limits/' | relative_url }}" title="Why better tools did not settle the memo | roswell UFO ramey me 6248 d5 skeptic case memo" aria-label="Open page: Why better tools did not settle the memo | roswell UFO ramey me 6248 d5 skeptic case memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-limits/' | relative_url }}" title="Why better tools did not settle the memo | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why better tools did not settle the memo | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-1.webp' | relative_url }}" alt="Overview image for Why better tools did not settle the memo | roswell UFO ramey me 6248 d5 skeptic case memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3930,7 +3930,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-skeptic-case-memo-2408eb-reader-convergence-t-7ff145" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'convergence/' | relative_url }}" title="Why readers still do not agree | roswell UFO ramey me 6248 d5 skeptic case memo" aria-label="Open page: Why readers still do not agree | roswell UFO ramey me 6248 d5 skeptic case memo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'convergence/' | relative_url }}" title="Why readers still do not agree | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why readers still do not agree | Why the Memo Falls Short as Proof | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_reader_convergence_t_7ff145-Illustration-1.webp' | relative_url }}" alt="Overview image for Why readers still do not agree | roswell UFO ramey me 6248 d5 skeptic case memo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3952,7 +3952,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'stronger-proof/' | relative_url }}" title="What Would Actually Settle the Memo? | roswell UFO ramey" aria-label="Open page: What Would Actually Settle the Memo? | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'stronger-proof/' | relative_url }}" title="What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8-overview.webp' | relative_url }}" alt="Overview image for What Would Actually Settle the Memo? | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3974,7 +3974,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8-official-records-con-ef5a85" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '1947-records-6e0a6b/' | relative_url }}" title="Can the Memo Beat the 1947 Record? | roswell UFO ramey me 6248 d5 stronger memo eviden" aria-label="Open page: Can the Memo Beat the 1947 Record? | roswell UFO ramey me 6248 d5 stronger memo eviden">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '1947-records-6e0a6b/' | relative_url }}" title="Can the Memo Beat the 1947 Record? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can the Memo Beat the 1947 Record? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_official_records_con_ef5a85-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Memo Beat the 1947 Record? | roswell UFO ramey me 6248 d5 stronger memo eviden" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3994,7 +3994,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8-actual-memo-discover-ebe7c5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'original-memo/' | relative_url }}" title="Could the Original Memo Still Settle It? | roswell UFO ramey me 6248 d5 stronger memo eviden" aria-label="Open page: Could the Original Memo Still Settle It? | roswell UFO ramey me 6248 d5 stronger memo eviden">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'original-memo/' | relative_url }}" title="Could the Original Memo Still Settle It? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Could the Original Memo Still Settle It? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_actual_memo_discover_ebe7c5-Illustration-1.webp' | relative_url }}" alt="Overview image for Could the Original Memo Still Settle It? | roswell UFO ramey me 6248 d5 stronger memo eviden" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4014,7 +4014,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8-preservation-grade-s-4ae30f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'better-scans/' | relative_url }}" title="What Better Ramey Scans Would Need | roswell UFO ramey me 6248 d5 stronger memo eviden" aria-label="Open page: What Better Ramey Scans Would Need | roswell UFO ramey me 6248 d5 stronger memo eviden">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'better-scans/' | relative_url }}" title="What Better Ramey Scans Would Need | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Better Ramey Scans Would Need | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Better Ramey Scans Would Need | roswell UFO ramey me 6248 d5 stronger memo eviden" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4034,7 +4034,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8-marks-vs-words-eab99f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mark-maps/' | relative_url }}" title="Where Do Marks Become Words? | roswell UFO ramey me 6248 d5 stronger memo eviden" aria-label="Open page: Where Do Marks Become Words? | roswell UFO ramey me 6248 d5 stronger memo eviden">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mark-maps/' | relative_url }}" title="Where Do Marks Become Words? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Where Do Marks Become Words? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_marks_vs_words_eab99f-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Do Marks Become Words? | roswell UFO ramey me 6248 d5 stronger memo eviden" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4054,7 +4054,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8-competing-transcript-aeab95" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rival-readings/' | relative_url }}" title="Why Ramey Memo Readings Keep Splitting | roswell UFO ramey me 6248 d5 stronger memo eviden" aria-label="Open page: Why Ramey Memo Readings Keep Splitting | roswell UFO ramey me 6248 d5 stronger memo eviden">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rival-readings/' | relative_url }}" title="Why Ramey Memo Readings Keep Splitting | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Ramey Memo Readings Keep Splitting | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_competing_transcript_aeab95-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ramey Memo Readings Keep Splitting | roswell UFO ramey me 6248 d5 stronger memo eviden" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4074,7 +4074,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-stronger-memo-eviden-3be9a8-blind-reader-agreeme-adc999" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-reading/' | relative_url }}" title="Would Blind Readers See the Same Words? | roswell UFO ramey me 6248 d5 stronger memo eviden" aria-label="Open page: Would Blind Readers See the Same Words? | roswell UFO ramey me 6248 d5 stronger memo eviden">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-reading/' | relative_url }}" title="Would Blind Readers See the Same Words? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Would Blind Readers See the Same Words? | What Would Actually Settle the Memo? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_blind_reader_agreeme_adc999-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Blind Readers See the Same Words? | roswell UFO ramey me 6248 d5 stronger memo eviden" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4096,7 +4096,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'suggestion-study/' | relative_url }}" title="When Context Creates Words | roswell UFO ramey" aria-label="Open page: When Context Creates Words | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'suggestion-study/' | relative_url }}" title="When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939-overview.webp' | relative_url }}" alt="Overview image for When Context Creates Words | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4118,7 +4118,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939-victims-phrase-sugge-cb65ad" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-test/' | relative_url }}" title="Can suggestion explain the victims reading? | roswell UFO ramey me 6248 d5 houran randle study" aria-label="Open page: Can suggestion explain the victims reading? | roswell UFO ramey me 6248 d5 houran randle study">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-test/' | relative_url }}" title="Can suggestion explain the victims reading? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Can suggestion explain the victims reading? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_victims_phrase_sugge_cb65ad-Illustration-1.webp' | relative_url }}" alt="Overview image for Can suggestion explain the victims reading? | roswell UFO ramey me 6248 d5 houran randle study" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4138,7 +4138,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939-suggested-stories-mo-ab9621" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'story-framing/' | relative_url }}" title="Did the story frame create extra words? | roswell UFO ramey me 6248 d5 houran randle study" aria-label="Open page: Did the story frame create extra words? | roswell UFO ramey me 6248 d5 houran randle study">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'story-framing/' | relative_url }}" title="Did the story frame create extra words? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did the story frame create extra words? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_suggested_stories_mo_ab9621-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the story frame create extra words? | roswell UFO ramey me 6248 d5 houran randle study" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4158,7 +4158,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939-blind-control-fewer-f63ccb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-control/' | relative_url }}" title="What changed when the story disappeared? | roswell UFO ramey me 6248 d5 houran randle study" aria-label="Open page: What changed when the story disappeared? | roswell UFO ramey me 6248 d5 houran randle study">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-control/' | relative_url }}" title="What changed when the story disappeared? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What changed when the story disappeared? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_blind_control_fewer_f63ccb-Illustration-1.webp' | relative_url }}" alt="Overview image for What changed when the story disappeared? | roswell UFO ramey me 6248 d5 houran randle study" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4178,7 +4178,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939-using-houran-randle-8fef45" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cautious-use/' | relative_url }}" title="What the experiment really proves | roswell UFO ramey me 6248 d5 houran randle study" aria-label="Open page: What the experiment really proves | roswell UFO ramey me 6248 d5 houran randle study">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cautious-use/' | relative_url }}" title="What the experiment really proves | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What the experiment really proves | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_using_houran_randle_8fef45-Illustration-1.webp' | relative_url }}" alt="Overview image for What the experiment really proves | roswell UFO ramey me 6248 d5 houran randle study" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4198,7 +4198,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939-agreed-words-memo-bl-92b559" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'agreed-words/' | relative_url }}" title="Which words survived the blur? | roswell UFO ramey me 6248 d5 houran randle study" aria-label="Open page: Which words survived the blur? | roswell UFO ramey me 6248 d5 houran randle study">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'agreed-words/' | relative_url }}" title="Which words survived the blur? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Which words survived the blur? | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_agreed_words_memo_bl_92b559-Illustration-1.webp' | relative_url }}" alt="Overview image for Which words survived the blur? | roswell UFO ramey me 6248 d5 houran randle study" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4218,7 +4218,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-houran-randle-study-efb939-test-materials-image-761924" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'test-images/' | relative_url }}" title="Why better images still failed | roswell UFO ramey me 6248 d5 houran randle study" aria-label="Open page: Why better images still failed | roswell UFO ramey me 6248 d5 houran randle study">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'test-images/' | relative_url }}" title="Why better images still failed | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why better images still failed | When Context Creates Words | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_test_materials_image_761924-Illustration-1.webp' | relative_url }}" alt="Overview image for Why better images still failed | roswell UFO ramey me 6248 d5 houran randle study" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4240,7 +4240,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-claim/' | relative_url }}" title="Did It Say Victims? | roswell UFO ramey" aria-label="Open page: Did It Say Victims? | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-claim/' | relative_url }}" title="Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949-overview.webp' | relative_url }}" alt="Overview image for Did It Say Victims? | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4262,7 +4262,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949-victims-remains-disp-cfb76b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-vs-remains/' | relative_url }}" title="Did the Line Say Victims or Remains? | roswell UFO ramey me 6248 d5 victims wreck claim" aria-label="Open page: Did the Line Say Victims or Remains? | roswell UFO ramey me 6248 d5 victims wreck claim">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-vs-remains/' | relative_url }}" title="Did the Line Say Victims or Remains? | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did the Line Say Victims or Remains? | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_victims_remains_disp_cfb76b-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Line Say Victims or Remains? | roswell UFO ramey me 6248 d5 victims wreck claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4282,7 +4282,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949-victims-proof-standa-584c01" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-standard/' | relative_url }}" title="What Would Make &#x27;Victims&#x27; Convincing? | roswell UFO ramey me 6248 d5 victims wreck claim" aria-label="Open page: What Would Make &#x27;Victims&#x27; Convincing? | roswell UFO ramey me 6248 d5 victims wreck claim">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'proof-standard/' | relative_url }}" title="What Would Make 'Victims' Convincing? | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: What Would Make 'Victims' Convincing? | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_victims_proof_standa_584c01-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Make &#x27;Victims&#x27; Convincing? | roswell UFO ramey me 6248 d5 victims wreck claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4302,7 +4302,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949-expectation-effects-9e6957" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation-effects/' | relative_url }}" title="Why Blurred Words Invite Certainty | roswell UFO ramey me 6248 d5 victims wreck claim" aria-label="Open page: Why Blurred Words Invite Certainty | roswell UFO ramey me 6248 d5 victims wreck claim">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'expectation-effects/' | relative_url }}" title="Why Blurred Words Invite Certainty | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Blurred Words Invite Certainty | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_expectation_effects_9e6957-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blurred Words Invite Certainty | roswell UFO ramey me 6248 d5 victims wreck claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4322,7 +4322,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949-official-records-fra-6c6232" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-frame/' | relative_url }}" title="Why Official Records Raise the Bar | roswell UFO ramey me 6248 d5 victims wreck claim" aria-label="Open page: Why Official Records Raise the Bar | roswell UFO ramey me 6248 d5 victims wreck claim">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'official-frame/' | relative_url }}" title="Why Official Records Raise the Bar | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Official Records Raise the Bar | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_official_records_fra_6c6232-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Official Records Raise the Bar | roswell UFO ramey me 6248 d5 victims wreck claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4342,7 +4342,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949-victims-word-stakes-534c06" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-stakes/' | relative_url }}" title="Why One Word Would Change the Case | roswell UFO ramey me 6248 d5 victims wreck claim" aria-label="Open page: Why One Word Would Change the Case | roswell UFO ramey me 6248 d5 victims wreck claim">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'victims-stakes/' | relative_url }}" title="Why One Word Would Change the Case | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why One Word Would Change the Case | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_victims_word_stakes_534c06-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Word Would Change the Case | roswell UFO ramey me 6248 d5 victims wreck claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4362,7 +4362,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-victims-wreck-claim-c67949-folded-memo-problem-bd0ce9" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'folded-memo/' | relative_url }}" title="Why the Photo Makes the Word So Hard | roswell UFO ramey me 6248 d5 victims wreck claim" aria-label="Open page: Why the Photo Makes the Word So Hard | roswell UFO ramey me 6248 d5 victims wreck claim">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'folded-memo/' | relative_url }}" title="Why the Photo Makes the Word So Hard | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why the Photo Makes the Word So Hard | Did It Say Victims? | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_victims_wreck_claim_c67949_folded_memo_problem_bd0ce9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Photo Makes the Word So Hard | roswell UFO ramey me 6248 d5 victims wreck claim" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4384,7 +4384,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'weather-words/' | relative_url }}" title="The Words That Fit the Balloon Story | roswell UFO ramey" aria-label="Open page: The Words That Fit the Balloon Story | roswell UFO ramey">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'weather-words/' | relative_url }}" title="The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d-overview.webp' | relative_url }}" alt="Overview image for The Words That Fit the Balloon Story | roswell UFO ramey" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4406,7 +4406,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d-ramey-2002-perceptio-92e9bc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '2002-study/' | relative_url }}" title="Did Readers Really See &#x27;Weather Balloons&#x27;? | roswell UFO ramey me 6248 d5 weather balloons wor" aria-label="Open page: Did Readers Really See &#x27;Weather Balloons&#x27;? | roswell UFO ramey me 6248 d5 weather balloons wor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '2002-study/' | relative_url }}" title="Did Readers Really See 'Weather Balloons'? | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Did Readers Really See 'Weather Balloons'? | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_ramey_2002_perceptio_92e9bc-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Readers Really See &#x27;Weather Balloons&#x27;? | roswell UFO ramey me 6248 d5 weather balloons wor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4426,7 +4426,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d-of-weather-balloons-123540" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'of-balloons/' | relative_url }}" title="Does &#x27;Of Weather Balloons&#x27; Matter? | roswell UFO ramey me 6248 d5 weather balloons wor" aria-label="Open page: Does &#x27;Of Weather Balloons&#x27; Matter? | roswell UFO ramey me 6248 d5 weather balloons wor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'of-balloons/' | relative_url }}" title="Does 'Of Weather Balloons' Matter? | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Does 'Of Weather Balloons' Matter? | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_of_weather_balloons_123540-Illustration-1.webp' | relative_url }}" alt="Overview image for Does &#x27;Of Weather Balloons&#x27; Matter? | roswell UFO ramey me 6248 d5 weather balloons wor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4446,7 +4446,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d-weather-balloons-wou-a0a9c0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'would-work/' | relative_url }}" title="The Risk in Longer Balloon Readings | roswell UFO ramey me 6248 d5 weather balloons wor" aria-label="Open page: The Risk in Longer Balloon Readings | roswell UFO ramey me 6248 d5 weather balloons wor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'would-work/' | relative_url }}" title="The Risk in Longer Balloon Readings | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: The Risk in Longer Balloon Readings | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_weather_balloons_wou_a0a9c0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Risk in Longer Balloon Readings | roswell UFO ramey me 6248 d5 weather balloons wor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4466,7 +4466,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d-weather-balloons-sha-fec79d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-phrase/' | relative_url }}" title="Why &#x27;Weather Balloons&#x27; Stands Out | roswell UFO ramey me 6248 d5 weather balloons wor" aria-label="Open page: Why &#x27;Weather Balloons&#x27; Stands Out | roswell UFO ramey me 6248 d5 weather balloons wor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-phrase/' | relative_url }}" title="Why 'Weather Balloons' Stands Out | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why 'Weather Balloons' Stands Out | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_weather_balloons_sha_fec79d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why &#x27;Weather Balloons&#x27; Stands Out | roswell UFO ramey me 6248 d5 weather balloons wor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4486,7 +4486,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d-balloon-wording-pres-b62260" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'press-pivot/' | relative_url }}" title="Why Balloons Fit the July 8 Pivot | roswell UFO ramey me 6248 d5 weather balloons wor" aria-label="Open page: Why Balloons Fit the July 8 Pivot | roswell UFO ramey me 6248 d5 weather balloons wor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'press-pivot/' | relative_url }}" title="Why Balloons Fit the July 8 Pivot | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Balloons Fit the July 8 Pivot | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_balloon_wording_pres_b62260-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Balloons Fit the July 8 Pivot | roswell UFO ramey me 6248 d5 weather balloons wor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4506,7 +4506,7 @@ site_image_description: A Fort Worth military office scene with a uniformed gene
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-roswell-ufo-ramey-me-6248d5-weather-balloons-wor-d75e6d-skeptics-weather-bal-080f4c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'skeptic-use/' | relative_url }}" title="Why Skeptics Point to &#x27;Weather Balloons&#x27; | roswell UFO ramey me 6248 d5 weather balloons wor" aria-label="Open page: Why Skeptics Point to &#x27;Weather Balloons&#x27; | roswell UFO ramey me 6248 d5 weather balloons wor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'skeptic-use/' | relative_url }}" title="Why Skeptics Point to 'Weather Balloons' | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?" aria-label="Open page: Why Skeptics Point to 'Weather Balloons' | The Words That Fit the Balloon Story | Can Roswell's Tiny Memo Be Trusted?">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/roswell_UFO_ramey_me_6248d5_weather_balloons_wor_d75e6d_skeptics_weather_bal_080f4c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Skeptics Point to &#x27;Weather Balloons&#x27; | roswell UFO ramey me 6248 d5 weather balloons wor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
