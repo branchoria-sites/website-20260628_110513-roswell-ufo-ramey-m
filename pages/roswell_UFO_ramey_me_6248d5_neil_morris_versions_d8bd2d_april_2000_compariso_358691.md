@@ -266,6 +266,7 @@ next_link:
   short_title: Fort Worth
   heading_title: Why Fort Worth Became the Safer Reading
 date: '2026-06-28 10:58:20 '
+last_modified_at: '2026-06-28 10:58:20 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_april_2000_compariso_358691-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_neil_morris_versions_d8bd2d_april_2000_compariso_358691-Illustration-1.webp

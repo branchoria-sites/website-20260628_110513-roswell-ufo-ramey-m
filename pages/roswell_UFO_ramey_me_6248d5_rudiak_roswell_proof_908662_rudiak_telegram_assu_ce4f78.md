@@ -266,6 +266,7 @@ prev_link:
   short_title: Smoking Gun
   heading_title: What Would Make Rudiak's Reading a Smoking Gun?
 date: '2026-06-28 10:58:45 '
+last_modified_at: '2026-06-28 10:58:45 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_telegram_assu_ce4f78-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_telegram_assu_ce4f78-Illustration-1.webp

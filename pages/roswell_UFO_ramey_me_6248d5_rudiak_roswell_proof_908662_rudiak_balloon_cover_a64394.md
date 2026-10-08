@@ -266,6 +266,7 @@ next_link:
   short_title: Disk Claim
   heading_title: Did the Memo Really Say Disk?
 date: '2026-06-28 10:58:42 '
+last_modified_at: '2026-06-28 10:58:42 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_balloon_cover_a64394-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_rudiak_roswell_proof_908662_rudiak_balloon_cover_a64394-Illustration-1.webp

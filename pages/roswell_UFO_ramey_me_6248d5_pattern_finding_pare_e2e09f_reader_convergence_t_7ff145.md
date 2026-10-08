@@ -272,6 +272,7 @@ next_link:
   short_title: Mars Analogy
   heading_title: What Mars Teaches About the Ramey Memo
 date: '2026-06-28 10:58:30 '
+last_modified_at: '2026-06-28 10:58:30 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_reader_convergence_t_7ff145-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f_reader_convergence_t_7ff145-Illustration-1.webp

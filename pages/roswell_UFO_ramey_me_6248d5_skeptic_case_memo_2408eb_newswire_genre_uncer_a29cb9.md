@@ -272,6 +272,7 @@ next_link:
   short_title: Ordinary words
   heading_title: When Roswell words prove less than they seem
 date: '2026-06-28 10:56:27 '
+last_modified_at: '2026-06-28 10:56:27 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_newswire_genre_uncer_a29cb9-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_newswire_genre_uncer_a29cb9-Illustration-1.webp

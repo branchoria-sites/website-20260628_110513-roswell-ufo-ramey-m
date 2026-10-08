@@ -272,6 +272,7 @@ next_link:
   short_title: Hexagonal Disc
   heading_title: Was the Disc Really Balloon Equipment?
 date: '2026-06-28 10:57:28 '
+last_modified_at: '2026-06-28 10:57:28 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_gao_two_1947_records_aac38e-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_gao_two_1947_records_aac38e-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Newswire
   heading_title: Was the memo even a military secret?
 date: '2026-06-28 10:56:25 '
+last_modified_at: '2026-06-28 10:56:25 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_lab_enhancement_limi_cae217-Illustration-1.webp

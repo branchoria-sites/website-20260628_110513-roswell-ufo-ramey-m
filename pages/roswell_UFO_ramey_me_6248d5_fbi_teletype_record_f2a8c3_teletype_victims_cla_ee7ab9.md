@@ -272,6 +272,7 @@ next_link:
   short_title: Wright Field
   heading_title: Why Wright Field Kept the Question Open
 date: '2026-06-28 10:57:31 '
+last_modified_at: '2026-06-28 10:57:31 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_teletype_victims_cla_ee7ab9-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_fbi_teletype_record_f2a8c3_teletype_victims_cla_ee7ab9-Illustration-1.webp

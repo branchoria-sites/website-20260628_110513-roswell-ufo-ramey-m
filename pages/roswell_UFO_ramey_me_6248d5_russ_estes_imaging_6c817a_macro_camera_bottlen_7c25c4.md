@@ -272,6 +272,7 @@ next_link:
   short_title: Reader split
   heading_title: Why the Transcripts Split Instead of Converging
 date: '2026-06-28 10:57:15 '
+last_modified_at: '2026-06-28 10:57:15 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_macro_camera_bottlen_7c25c4-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_macro_camera_bottlen_7c25c4-Illustration-1.webp

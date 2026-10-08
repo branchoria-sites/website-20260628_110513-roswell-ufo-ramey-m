@@ -272,6 +272,7 @@ next_link:
   short_title: Later Memory
   heading_title: Why Marcel's later story is hard to weigh
 date: '2026-06-28 10:57:40 '
+last_modified_at: '2026-06-28 10:57:40 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_fort_worth_ranch_deb_c99392-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_fort_worth_ranch_deb_c99392-Illustration-1.webp

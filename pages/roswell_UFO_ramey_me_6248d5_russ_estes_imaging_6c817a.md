@@ -440,6 +440,7 @@ next_link:
   short_title: FBI Teletype
   heading_title: The 1947 Document We Can Actually Read
 date: '2026-06-28 10:55:19 '
+last_modified_at: '2026-06-28 10:55:19 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a-overview.webp

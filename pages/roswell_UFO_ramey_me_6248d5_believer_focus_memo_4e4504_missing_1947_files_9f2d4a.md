@@ -272,6 +272,7 @@ next_link:
   short_title: Unresolved Text
   heading_title: Why the Memo Still Has Not Gone Away
 date: '2026-06-28 10:56:04 '
+last_modified_at: '2026-06-28 10:56:04 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_missing_1947_files_9f2d4a-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_believer_focus_memo_4e4504_missing_1947_files_9f2d4a-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Lab limits
   heading_title: Why better tools did not settle the memo
 date: '2026-06-28 10:56:31 '
+last_modified_at: '2026-06-28 10:56:31 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_reader_convergence_t_7ff145-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_skeptic_case_memo_2408eb_reader_convergence_t_7ff145-Illustration-1.webp

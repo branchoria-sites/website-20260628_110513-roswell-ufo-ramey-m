@@ -266,6 +266,7 @@ next_link:
   short_title: FBI Teletype
   heading_title: The Same Day Document Behind the Debris
 date: '2026-06-28 10:58:39 '
+last_modified_at: '2026-06-28 10:58:39 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_reflector_disc_shape_71ad7a-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_reflector_disc_shape_71ad7a-Illustration-1.webp

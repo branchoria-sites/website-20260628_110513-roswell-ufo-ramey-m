@@ -266,6 +266,7 @@ prev_link:
   short_title: Stable Fragments
   heading_title: Which Memo Fragments Actually Hold Up?
 date: '2026-06-28 10:56:07 '
+last_modified_at: '2026-06-28 10:56:07 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_ramey_word_scoring_18dc5e-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_blind_reading_tests_eb0061_ramey_word_scoring_18dc5e-Illustration-1.webp

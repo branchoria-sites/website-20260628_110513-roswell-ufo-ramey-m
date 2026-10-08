@@ -272,6 +272,7 @@ next_link:
   short_title: Haut Shift
   heading_title: Why Did Walter Haut's Story Grow Later?
 date: '2026-06-28 10:56:21 '
+last_modified_at: '2026-06-28 10:56:21 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_vs_witnesses_def712_dennis_memo_corrobor_35a090-Illustration-1.webp

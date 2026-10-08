@@ -272,6 +272,7 @@ next_link:
   short_title: Fort Work Tex
   heading_title: The Best Reading Was Still Unsteady
 date: '2026-06-28 10:57:11 '
+last_modified_at: '2026-06-28 10:57:11 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_ela_meaningless_mark_c9e0a9-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_ela_meaningless_mark_c9e0a9-Illustration-1.webp

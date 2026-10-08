@@ -272,6 +272,7 @@ next_link:
   short_title: Mogul Tension
   heading_title: Where the Memo Meets the Balloon Story
 date: '2026-06-28 10:58:14 '
+last_modified_at: '2026-06-28 10:58:14 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_fort_worth_photo_pow_04f34f-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_fort_worth_photo_pow_04f34f-Illustration-1.webp

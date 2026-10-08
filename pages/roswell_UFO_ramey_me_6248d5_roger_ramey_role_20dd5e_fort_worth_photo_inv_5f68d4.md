@@ -272,6 +272,7 @@ next_link:
   short_title: Substitution
   heading_title: Was the Fort Worth Debris the Same?
 date: '2026-06-28 10:55:58 '
+last_modified_at: '2026-06-28 10:55:58 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_roger_ramey_role_20dd5e_fort_worth_photo_inv_5f68d4-Illustration-1.webp

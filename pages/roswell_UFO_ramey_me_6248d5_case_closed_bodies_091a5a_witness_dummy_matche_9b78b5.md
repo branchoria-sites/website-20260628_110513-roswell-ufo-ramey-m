@@ -266,6 +266,7 @@ prev_link:
   short_title: Kittinger
   heading_title: The recovery stories behind the dummy theory
 date: '2026-06-28 10:56:38 '
+last_modified_at: '2026-06-28 10:56:38 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_witness_dummy_matche_9b78b5-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_case_closed_bodies_091a5a_witness_dummy_matche_9b78b5-Illustration-1.webp

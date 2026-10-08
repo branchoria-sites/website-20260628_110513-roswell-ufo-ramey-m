@@ -272,6 +272,7 @@ next_link:
   short_title: Missing Emergency
   heading_title: Why the word emergency is the weak link
 date: '2026-06-28 10:57:59 '
+last_modified_at: '2026-06-28 10:57:59 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_magdalena_site_claim_1effd3-Illustration-1.webp

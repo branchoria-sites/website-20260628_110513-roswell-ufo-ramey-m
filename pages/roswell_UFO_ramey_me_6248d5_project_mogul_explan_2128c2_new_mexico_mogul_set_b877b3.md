@@ -272,6 +272,7 @@ next_link:
   short_title: Weak Spots
   heading_title: Where the Mogul Explanation Runs Out
 date: '2026-06-28 10:58:33 '
+last_modified_at: '2026-06-28 10:58:33 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_new_mexico_mogul_set_b877b3-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_new_mexico_mogul_set_b877b3-Illustration-1.webp

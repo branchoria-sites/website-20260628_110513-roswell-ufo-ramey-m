@@ -272,6 +272,7 @@ next_link:
   short_title: Test Range
   heading_title: Why New Mexico Fit the Mogul Story
 date: '2026-06-28 10:55:43 '
+last_modified_at: '2026-06-28 10:55:43 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_nyu_flight_4_66699f-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_project_mogul_explan_2128c2_nyu_flight_4_66699f-Illustration-1.webp

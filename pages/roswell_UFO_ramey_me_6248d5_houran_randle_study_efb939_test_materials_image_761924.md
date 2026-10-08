@@ -272,6 +272,7 @@ next_link:
   short_title: Victims Test
   heading_title: Can suggestion explain the victims reading?
 date: '2026-06-28 10:57:37 '
+last_modified_at: '2026-06-28 10:57:37 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_test_materials_image_761924-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_houran_randle_study_efb939_test_materials_image_761924-Illustration-1.webp

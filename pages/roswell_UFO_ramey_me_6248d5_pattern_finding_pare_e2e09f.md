@@ -440,6 +440,7 @@ next_link:
   short_title: Photo Session
   heading_title: The Photo That Changed Roswell
 date: '2026-06-28 10:55:33 '
+last_modified_at: '2026-06-28 10:55:33 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_pattern_finding_pare_e2e09f-overview.webp

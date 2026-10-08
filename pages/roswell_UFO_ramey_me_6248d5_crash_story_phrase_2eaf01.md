@@ -440,6 +440,7 @@ next_link:
   short_title: Emergency Powers
   heading_title: The Dramatic Phrase Nobody Can Secure
 date: '2026-06-28 10:55:16 '
+last_modified_at: '2026-06-28 10:55:16 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01-overview-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_crash_story_phrase_2eaf01-overview.webp

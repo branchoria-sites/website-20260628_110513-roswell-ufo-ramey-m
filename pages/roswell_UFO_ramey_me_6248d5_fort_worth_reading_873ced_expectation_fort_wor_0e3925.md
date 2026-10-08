@@ -272,6 +272,7 @@ next_link:
   short_title: Official View
   heading_title: Does Fort Worth Challenge the Balloon Explanation?
 date: '2026-06-28 10:56:48 '
+last_modified_at: '2026-06-28 10:56:48 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_expectation_fort_wor_0e3925-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_fort_worth_reading_873ced_expectation_fort_wor_0e3925-Illustration-1.webp

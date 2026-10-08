@@ -272,6 +272,7 @@ next_link:
   short_title: Substitution Claim
   heading_title: Was the Wreckage Swapped Before the Photos?
 date: '2026-06-28 10:58:38 '
+last_modified_at: '2026-06-28 10:58:38 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_mogul_reflectors_wea_905cf3-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_radar_reflector_debr_47b94a_mogul_reflectors_wea_905cf3-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Blind Reading
   heading_title: Would Blind Readers See the Same Words?
 date: '2026-06-28 10:58:49 '
+last_modified_at: '2026-06-28 10:58:49 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_stronger_memo_eviden_3be9a8_preservation_grade_s_4ae30f-Illustration-1.webp

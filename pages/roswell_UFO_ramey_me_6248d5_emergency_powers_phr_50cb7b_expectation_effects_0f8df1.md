@@ -272,6 +272,7 @@ next_link:
   short_title: Magdalena Site
   heading_title: Did the phrase point to a second site?
 date: '2026-06-28 10:57:27 '
+last_modified_at: '2026-06-28 10:57:27 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_expectation_effects_0f8df1-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_emergency_powers_phr_50cb7b_expectation_effects_0f8df1-Illustration-1.webp

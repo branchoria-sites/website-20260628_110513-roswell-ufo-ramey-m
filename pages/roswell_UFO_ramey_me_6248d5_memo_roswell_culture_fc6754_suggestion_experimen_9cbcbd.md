@@ -272,6 +272,7 @@ next_link:
   short_title: Useful Ambiguity
   heading_title: Why the Memo Never Quite Ends
 date: '2026-06-28 10:58:18 '
+last_modified_at: '2026-06-28 10:58:18 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_suggestion_experimen_9cbcbd-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_memo_roswell_culture_fc6754_suggestion_experimen_9cbcbd-Illustration-1.webp

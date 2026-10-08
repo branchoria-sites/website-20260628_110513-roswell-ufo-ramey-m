@@ -272,6 +272,7 @@ next_link:
   short_title: Macro setup
   heading_title: When Better Gear Meets a Bad Source
 date: '2026-06-28 10:57:12 '
+last_modified_at: '2026-06-28 10:57:12 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_fort_work_tex_readin_62f3ae-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_russ_estes_imaging_6c817a_fort_work_tex_readin_62f3ae-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Marcel Display
   heading_title: Was Marcel shown the real Roswell debris?
 date: '2026-06-28 10:57:44 '
+last_modified_at: '2026-06-28 10:57:44 '
 header:
   og_image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_marcel_memory_1947_r_4ad8f3-Illustration-1-social.jpg
   preview_image: /assets/images/roswell_UFO_ramey_me_6248d5_jesse_marcel_debris_1c331e_marcel_memory_1947_r_4ad8f3-Illustration-1.webp
