@@ -4,7 +4,7 @@ title_full: Photo Session Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /roswell-ufo-ramey-me-6248d5-fort-worth/
+permalink: /roswell-ufo-ramey-me-6248d5-fort-worth-photo-session/
 description: Focused pages that expand on Photo Session.
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
